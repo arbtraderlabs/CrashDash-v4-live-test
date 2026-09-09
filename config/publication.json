@@ -1,0 +1,57 @@
+{
+  "repo_owner": "arbtraderlabs",
+  "repo_name": "CrashDash-v4-live-test",
+  "branch": "main",
+  "pages_source_path": "docs",
+  "default_source_mode": "fixture",
+  "static_shell_files": [
+    "index.html",
+    "browser.js",
+    "shell.js",
+    "shell_views.js",
+    "shell_data.js",
+    "shell_state.js",
+    "real_contract.js"
+  ],
+  "required_data_files": [
+    "dashboard.json",
+    "beginner.json",
+    "pro.json",
+    "history.json"
+  ],
+  "intelligence_bounds": {
+    "rns_initial_max": 5,
+    "rns_detail_max": 20,
+    "sharechat_initial_max": 10,
+    "sharechat_detail_max": 50
+  },
+  "beginner_severity_map": {
+    "ULTRA CRASH BOTTOM": "EXTREME CAUTION",
+    "EXTREME CRASH BOTTOM": "HIGH",
+    "DEEP CRASH BOTTOM": "ELEVATED",
+    "CRASH ZONE BOTTOM": "CLOSE WATCH"
+  },
+  "public_safety_patterns": [
+    "/home/",
+    "localhost",
+    "127.0.0.1",
+    "API_KEY",
+    "SECRET",
+    "TOKEN",
+    "PASSWORD",
+    "BEGIN PRIVATE",
+    "ssh-",
+    ".env"
+  ],
+  "public_safety_allowlist_substrings": [
+    "TOKEN_HISTORICAL",
+    "watch_severity"
+  ],
+  "smoke_required_tickers": [
+    "PREM.L",
+    "BCG.L",
+    "80M.L"
+  ],
+  "smoke_random_historical_sample_size": 5,
+  "pipeline_version": "1.0.0"
+}

@@ -1,0 +1,82 @@
+{
+  "data": {
+    "beginner": {},
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Test Fixture Two PLC",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Engineering",
+        "market": "MAIN",
+        "sector": "Industrials",
+        "ticker": "TEST2.L"
+      },
+      "company_summary": {
+        "current_state": "NONE",
+        "status": "READY",
+        "what_they_do": "Fixture company for publication vertical tests.",
+        "why_it_matters": "Deterministic test data only, not a real instrument."
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-05-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.4,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": "2025-05-10",
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.4,
+          "severity": "RED",
+          "signal_id": "TEST2.L:2025-05-10",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Test Fixture Two PLC",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Engineering",
+        "market": "MAIN",
+        "sector": "Industrials",
+        "ticker": "TEST2.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "fixture",
+        "price": "fixture",
+        "rns": "fixture",
+        "sharechat": "fixture",
+        "signals": "fixture"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": "fixture",
+        "status": "NOT_AVAILABLE"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_AVAILABLE"
+      }
+    },
+    "pro": {}
+  },
+  "schema_version": "V1"
+}

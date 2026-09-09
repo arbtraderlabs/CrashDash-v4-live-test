@@ -1,0 +1,13 @@
+# Generated candidate/build artifacts (never the source of truth).
+/build/
+
+# Reports are diagnostic and not necessarily safe/needed for the published site.
+/reports/*.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor/OS noise
+.DS_Store

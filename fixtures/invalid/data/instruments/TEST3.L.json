@@ -1,0 +1,132 @@
+{
+  "data": {
+    "beginner": {},
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Test Fixture Three PLC",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Biotech",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "TEST3.L"
+      },
+      "company_summary": {
+        "current_state": "EXTREME CRASH BOTTOM",
+        "status": "READY",
+        "what_they_do": "Fixture company for publication vertical tests.",
+        "why_it_matters": "Deterministic test data only, not a real instrument."
+      },
+      "current_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-09-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.9,
+            "severity": "RED",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.55,
+            "date": "2026-09-02",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.9,
+          "severity": "RED",
+          "signal_id": "TEST3.L:2026-09-02",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        }
+      ],
+      "historical_alerts": [],
+      "identity": {
+        "company_name": "Test Fixture Three PLC",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Biotech",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "TEST3.L"
+      },
+      "price_series": [
+        {
+          "close": 2.01,
+          "date": "2026-09-01",
+          "high": 2.05,
+          "low": 1.95,
+          "open": 2.0
+        },
+        {
+          "close": 1.55,
+          "date": "2026-09-02",
+          "high": 2.02,
+          "low": 1.5,
+          "open": 2.01,
+          "volume": 300000
+        }
+      ],
+      "provenance": {
+        "master": "fixture",
+        "price": "fixture",
+        "rns": "fixture",
+        "sharechat": "fixture",
+        "signals": "fixture"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": "fixture",
+        "status": "NOT_AVAILABLE"
+      },
+      "rns": [
+        {
+          "date": "2026-08-20",
+          "headline": "Fixture RNS headline 1",
+          "id": "TEST3-RNS-1"
+        },
+        {
+          "date": "2026-08-21",
+          "headline": "Fixture RNS headline 2",
+          "id": "TEST3-RNS-2"
+        }
+      ],
+      "rns_initial": [
+        {
+          "date": "2026-08-20",
+          "headline": "Fixture RNS headline 1",
+          "id": "TEST3-RNS-1"
+        },
+        {
+          "date": "2026-08-21",
+          "headline": "Fixture RNS headline 2",
+          "id": "TEST3-RNS-2"
+        }
+      ],
+      "rns_records_emitted": 2,
+      "rns_total_available": 2,
+      "sharechat": [
+        {
+          "body": "Fixture ShareChat post 1",
+          "date": "2026-08-20",
+          "id": "TEST3-SC-1"
+        }
+      ],
+      "sharechat_initial": [
+        {
+          "body": "Fixture ShareChat post 1",
+          "date": "2026-08-20",
+          "id": "TEST3-SC-1"
+        }
+      ],
+      "sharechat_records_emitted": 1,
+      "sharechat_total_available": 1,
+      "trends": {
+        "records": [],
+        "status": "NOT_AVAILABLE"
+      }
+    },
+    "pro": {}
+  },
+  "schema_version": "V1"
+}

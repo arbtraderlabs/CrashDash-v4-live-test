@@ -1,0 +1,44 @@
+{
+  "data": {
+    "as_of": "2026-09-03",
+    "details": {
+      "TEST1.L": {
+        "detail_path": "data/instruments/TEST1.L.json",
+        "ticker": "TEST1.L"
+      },
+      "TEST2.L": {
+        "detail_path": "data/instruments/TEST2.L.json",
+        "ticker": "TEST2.L"
+      },
+      "TEST3.L": {
+        "detail_path": "data/instruments/TEST3.L.json",
+        "ticker": "TEST3.L"
+      }
+    },
+    "records": [
+      {
+        "accumulation_state": "UNKNOWN",
+        "company_name": "Test Fixture One PLC",
+        "data_quality": "READY",
+        "instrument_id": "TEST1.L",
+        "market": "AIM",
+        "relative_activity": 2.08,
+        "signal_date": "2026-09-03",
+        "ticker": "TEST1.L",
+        "watch_severity": "CLOSE WATCH"
+      },
+      {
+        "accumulation_state": "UNKNOWN",
+        "company_name": "Test Fixture Three PLC",
+        "data_quality": "READY",
+        "instrument_id": "TEST3.L",
+        "market": "AIM",
+        "relative_activity": 3.9,
+        "signal_date": "2026-09-02",
+        "ticker": "TEST3.L",
+        "watch_severity": "HIGH"
+      }
+    ]
+  },
+  "schema_version": "V1"
+}

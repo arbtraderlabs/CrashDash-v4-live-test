@@ -1,0 +1,38 @@
+{
+  "data": {
+    "records": [
+      {
+        "accumulation_state": "UNKNOWN",
+        "company_name": "Test Fixture One PLC",
+        "data_quality": "READY",
+        "instrument_id": "TEST1.L",
+        "market": "AIM",
+        "price_at_signal": 1.02,
+        "raw_signal_color": "AMBER",
+        "relative_activity": 1.55,
+        "signal_date": "2026-09-01",
+        "signal_id": "TEST1.L:2026-09-01",
+        "signal_type": "DEEP CRASH BOTTOM",
+        "ticker": "TEST1.L",
+        "watch_severity": "ELEVATED"
+      },
+      {
+        "accumulation_state": "UNKNOWN",
+        "company_name": "Test Fixture Two PLC",
+        "data_quality": "READY",
+        "instrument_id": "TEST2.L",
+        "market": "MAIN",
+        "price_at_signal": null,
+        "raw_signal_color": "RED",
+        "relative_activity": 3.4,
+        "signal_date": "2025-05-10",
+        "signal_id": "TEST2.L:2025-05-10",
+        "signal_type": "ULTRA CRASH BOTTOM",
+        "ticker": "TEST2.L",
+        "watch_severity": "EXTREME CAUTION"
+      }
+    ],
+    "total": 2
+  },
+  "schema_version": "V1"
+}

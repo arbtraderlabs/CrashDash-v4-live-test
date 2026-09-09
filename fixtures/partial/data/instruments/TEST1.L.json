@@ -1,0 +1,281 @@
+{
+  "data": {
+    "beginner": {},
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Test Fixture One PLC",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Software",
+        "market": "AIM",
+        "sector": "Technology",
+        "ticker": "TEST1.L"
+      },
+      "company_summary": {
+        "current_state": "CRASH ZONE BOTTOM",
+        "status": "READY",
+        "what_they_do": "Fixture company for publication vertical tests.",
+        "why_it_matters": "Deterministic test data only, not a real instrument."
+      },
+      "current_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-09-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.08,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.92,
+            "date": "2026-09-03",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.08,
+          "severity": "YELLOW",
+          "signal_id": "TEST1.L:2026-09-03",
+          "signal_type": "CRASH ZONE BOTTOM"
+        }
+      ],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-09-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.55,
+            "severity": "AMBER",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.02,
+            "date": "2026-09-01",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.55,
+          "severity": "AMBER",
+          "signal_id": "TEST1.L:2026-09-01",
+          "signal_type": "DEEP CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Test Fixture One PLC",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Software",
+        "market": "AIM",
+        "sector": "Technology",
+        "ticker": "TEST1.L"
+      },
+      "price_series": [
+        {
+          "close": 1.02,
+          "date": "2026-09-01",
+          "high": 1.05,
+          "low": 0.98,
+          "open": 1.0,
+          "volume": 100000
+        },
+        {
+          "close": 1.08,
+          "date": "2026-09-02",
+          "high": 1.1,
+          "low": 1.0,
+          "open": 1.02,
+          "volume": 120000
+        },
+        {
+          "close": 0.92,
+          "date": "2026-09-03",
+          "high": 1.09,
+          "low": 0.9,
+          "open": 1.08,
+          "volume": 250000
+        }
+      ],
+      "provenance": {
+        "master": "fixture",
+        "price": "fixture",
+        "rns": "fixture",
+        "sharechat": "fixture",
+        "signals": "fixture"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": "fixture",
+        "status": "NOT_AVAILABLE"
+      },
+      "rns": [
+        {
+          "date": "2026-08-21",
+          "headline": "Fixture RNS headline 1",
+          "id": "TEST1-RNS-1"
+        },
+        {
+          "date": "2026-08-22",
+          "headline": "Fixture RNS headline 2",
+          "id": "TEST1-RNS-2"
+        },
+        {
+          "date": "2026-08-23",
+          "headline": "Fixture RNS headline 3",
+          "id": "TEST1-RNS-3"
+        },
+        {
+          "date": "2026-08-24",
+          "headline": "Fixture RNS headline 4",
+          "id": "TEST1-RNS-4"
+        },
+        {
+          "date": "2026-08-25",
+          "headline": "Fixture RNS headline 5",
+          "id": "TEST1-RNS-5"
+        }
+      ],
+      "rns_initial": [
+        {
+          "date": "2026-08-21",
+          "headline": "Fixture RNS headline 1",
+          "id": "TEST1-RNS-1"
+        },
+        {
+          "date": "2026-08-22",
+          "headline": "Fixture RNS headline 2",
+          "id": "TEST1-RNS-2"
+        },
+        {
+          "date": "2026-08-23",
+          "headline": "Fixture RNS headline 3",
+          "id": "TEST1-RNS-3"
+        },
+        {
+          "date": "2026-08-24",
+          "headline": "Fixture RNS headline 4",
+          "id": "TEST1-RNS-4"
+        },
+        {
+          "date": "2026-08-25",
+          "headline": "Fixture RNS headline 5",
+          "id": "TEST1-RNS-5"
+        }
+      ],
+      "rns_records_emitted": 5,
+      "rns_total_available": 7,
+      "sharechat": [
+        {
+          "body": "Fixture ShareChat post 1",
+          "date": "2026-08-22",
+          "id": "TEST1-SC-1"
+        },
+        {
+          "body": "Fixture ShareChat post 2",
+          "date": "2026-08-23",
+          "id": "TEST1-SC-2"
+        },
+        {
+          "body": "Fixture ShareChat post 3",
+          "date": "2026-08-24",
+          "id": "TEST1-SC-3"
+        },
+        {
+          "body": "Fixture ShareChat post 4",
+          "date": "2026-08-25",
+          "id": "TEST1-SC-4"
+        },
+        {
+          "body": "Fixture ShareChat post 5",
+          "date": "2026-08-26",
+          "id": "TEST1-SC-5"
+        },
+        {
+          "body": "Fixture ShareChat post 6",
+          "date": "2026-08-27",
+          "id": "TEST1-SC-6"
+        },
+        {
+          "body": "Fixture ShareChat post 7",
+          "date": "2026-08-28",
+          "id": "TEST1-SC-7"
+        },
+        {
+          "body": "Fixture ShareChat post 8",
+          "date": "2026-08-29",
+          "id": "TEST1-SC-8"
+        },
+        {
+          "body": "Fixture ShareChat post 9",
+          "date": "2026-08-21",
+          "id": "TEST1-SC-9"
+        },
+        {
+          "body": "Fixture ShareChat post 10",
+          "date": "2026-08-22",
+          "id": "TEST1-SC-10"
+        }
+      ],
+      "sharechat_initial": [
+        {
+          "body": "Fixture ShareChat post 1",
+          "date": "2026-08-22",
+          "id": "TEST1-SC-1"
+        },
+        {
+          "body": "Fixture ShareChat post 2",
+          "date": "2026-08-23",
+          "id": "TEST1-SC-2"
+        },
+        {
+          "body": "Fixture ShareChat post 3",
+          "date": "2026-08-24",
+          "id": "TEST1-SC-3"
+        },
+        {
+          "body": "Fixture ShareChat post 4",
+          "date": "2026-08-25",
+          "id": "TEST1-SC-4"
+        },
+        {
+          "body": "Fixture ShareChat post 5",
+          "date": "2026-08-26",
+          "id": "TEST1-SC-5"
+        },
+        {
+          "body": "Fixture ShareChat post 6",
+          "date": "2026-08-27",
+          "id": "TEST1-SC-6"
+        },
+        {
+          "body": "Fixture ShareChat post 7",
+          "date": "2026-08-28",
+          "id": "TEST1-SC-7"
+        },
+        {
+          "body": "Fixture ShareChat post 8",
+          "date": "2026-08-29",
+          "id": "TEST1-SC-8"
+        },
+        {
+          "body": "Fixture ShareChat post 9",
+          "date": "2026-08-21",
+          "id": "TEST1-SC-9"
+        },
+        {
+          "body": "Fixture ShareChat post 10",
+          "date": "2026-08-22",
+          "id": "TEST1-SC-10"
+        }
+      ],
+      "sharechat_records_emitted": 10,
+      "sharechat_total_available": 12,
+      "trends": {
+        "records": [],
+        "status": "NOT_AVAILABLE"
+      }
+    },
+    "pro": {}
+  },
+  "schema_version": "V1"
+}
