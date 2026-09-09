@@ -546,9 +546,12 @@ function renderChartMarkers(points, markers, className, label, scale) {
     const severityClass = marker.severity ? ` severity-marker-${severityClassName(marker.severity)}` : "";
     const title = `${label}: ${marker.date}${marker.severity ? ` - ${marker.severity}` : ""}${marker.signal_type ? ` - ${marker.signal_type}` : ""}${marker.relative_activity ? ` - ${marker.relative_activity}x activity` : ""}${marker.accumulation ? " - Accumulation Detected" : ""}`;
     const markerState = marker.current ? " current" : " historical";
+    const eventType = marker.event_type || marker.marker_type || (className === "chart-rns-marker" ? "RNS" : "CRASHDASH_SIGNAL");
     const shape = className === "chart-rns-marker"
-      ? `<rect class="${className}" x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" transform="rotate(45 ${x.toFixed(1)} ${y.toFixed(1)})" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></rect>`
-      : `<circle class="${className}${severityClass}${markerState}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : "5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`;
+      ? `<rect class="${className}" data-event-type="${eventType}" x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" transform="rotate(45 ${x.toFixed(1)} ${y.toFixed(1)})" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></rect>`
+      : marker.current
+        ? `<circle class="${className}${severityClass}${markerState}" data-event-type="${eventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : "6.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`
+        : `<polygon class="${className}${severityClass}${markerState}" data-event-type="${eventType}" points="${x.toFixed(1)},${(y - 6).toFixed(1)} ${(x + 6).toFixed(1)},${y.toFixed(1)} ${x.toFixed(1)},${(y + 6).toFixed(1)} ${(x - 6).toFixed(1)},${y.toFixed(1)}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></polygon>`;
     return marker.chart_id ? `<a href="#${escapeHtml(marker.chart_id)}" aria-label="${escapeHtml(title)}">${shape}</a>` : shape;
   }).join("");
 }
