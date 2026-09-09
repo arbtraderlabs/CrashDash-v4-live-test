@@ -154,6 +154,30 @@ def test_intelligence_bounds_rejects_total_available_lower_than_emitted(complete
     assert not _check(report, "intelligence_bounds").passed
 
 
+def test_intelligence_bounds_accepts_compact_sharechat_snapshot(complete_candidate):
+    path = complete_candidate / "data" / "instruments" / "TEST1.L.json"
+    payload = json.loads(path.read_text())
+    payload["data"]["instrument_detail"]["sharechat_snapshot"] = {
+        "ticker": "TEST1.L", "captured_at": "2026-09-09T22:30:00+01:00", "total_posts": 5235,
+        "sample_size": 12, "sentiment": None, "summary": None, "analysis_status": "ANALYSIS_PENDING",
+    }
+    path.write_text(json.dumps(payload), encoding="utf-8")
+    report = validate_site(complete_candidate)
+    assert _check(report, "intelligence_bounds").passed
+
+
+def test_intelligence_bounds_rejects_fabricated_sentiment_without_available_status(complete_candidate):
+    path = complete_candidate / "data" / "instruments" / "TEST1.L.json"
+    payload = json.loads(path.read_text())
+    payload["data"]["instrument_detail"]["sharechat_snapshot"] = {
+        "ticker": "TEST1.L", "captured_at": "2026-09-09T22:30:00+01:00", "total_posts": 5235,
+        "sample_size": 12, "sentiment": "BULLISH", "summary": "looks fabricated", "analysis_status": "ANALYSIS_PENDING",
+    }
+    path.write_text(json.dumps(payload), encoding="utf-8")
+    report = validate_site(complete_candidate)
+    assert not _check(report, "intelligence_bounds").passed
+
+
 def test_public_safety_scan_rejects_leaked_home_path(complete_candidate):
     (complete_candidate / "data" / "leak.json").write_text(
         json.dumps({"note": "debug dump from /home/ali/LSE_scanner/data"}), encoding="utf-8",

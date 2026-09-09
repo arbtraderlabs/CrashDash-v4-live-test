@@ -302,6 +302,21 @@ def check_intelligence_bounds(candidate_root: Path, config: PublicationConfig) -
             errors.append(f"{path.name}: sharechat detail has {len(sc_detail)} > max {bounds['sharechat_detail_max']}")
         if sc_total < len(sc_detail):
             errors.append(f"{path.name}: sharechat_total_available ({sc_total}) < emitted sharechat count ({len(sc_detail)})")
+
+        # Current backend contract: ShareChat is a compact dated snapshot,
+        # never a bulk post list (see the V4 control-plane's
+        # tickets/APEX-015-sharechat-historical-sentiment-trend-dataset.md).
+        # A bulk "sharechat"/"sharechat_initial" list reappearing alongside
+        # a snapshot would itself be a contract regression worth failing on.
+        snapshot = instrument.get("sharechat_snapshot")
+        if isinstance(snapshot, dict):
+            sample_size = snapshot.get("sample_size", 0)
+            if isinstance(sample_size, (int, float)) and sample_size > bounds.get("sharechat_snapshot_sample_max", 15):
+                errors.append(f"{path.name}: sharechat_snapshot sample_size {sample_size} exceeds bounded AI-context sample size")
+            if snapshot.get("analysis_status") not in {"AVAILABLE", "ANALYSIS_PENDING", "NOT_AVAILABLE", None}:
+                errors.append(f"{path.name}: sharechat_snapshot has unexpected analysis_status {snapshot.get('analysis_status')!r}")
+            if snapshot.get("analysis_status") != "AVAILABLE" and snapshot.get("sentiment") is not None:
+                errors.append(f"{path.name}: sharechat_snapshot has a sentiment value without an AVAILABLE analysis_status (looks fabricated)")
     return CheckResult("intelligence_bounds", not errors, {"errors": errors})
 
 
