@@ -1,0 +1,513 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "DEVO.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2023-08-08",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "DEVO.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Devolver Digital Inc.",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Electronic Gaming & Multimedia",
+        "market": "AIM",
+        "sector": "Communication Services",
+        "ticker": "DEVO.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-01-23",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.89,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.89,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-01-23",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.49,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.49,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-02-01",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.04,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.04,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-02-02",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 7.03,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 7.03,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-02-03",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.01,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.01,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-02-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.66,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.66,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-02-07",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 7.46,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 7.46,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-02-09",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.59,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.59,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-02-10",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2023-03-03",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 6.92,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.92,
+          "severity": "PURPLE",
+          "signal_id": "DEVO.L:2023-03-03",
+          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-03-31",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.42,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.42,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-03-31",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-04-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.24,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.24,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-04-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-04-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 19.65,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 19.65,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-04-11",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-04-18",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 15.25,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 15.25,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-04-18",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-04-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.83,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.83,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-04-19",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.32,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.32,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-06-07",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 16.43,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 16.43,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-06-09",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-08-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 10.81,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 10.81,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-08-03",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-08-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 16.38,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 16.38,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-08-04",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-08-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.39,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.39,
+          "severity": "YELLOW",
+          "signal_id": "DEVO.L:2023-08-08",
+          "signal_type": "CRASH ZONE BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Devolver Digital Inc.",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Electronic Gaming & Multimedia",
+        "market": "AIM",
+        "sector": "Communication Services",
+        "ticker": "DEVO.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 2.39,
+        "legacy_signal_color": "YELLOW",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "DEVO.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2023-08-08",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "DEVO.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

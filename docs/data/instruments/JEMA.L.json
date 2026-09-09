@@ -1,0 +1,532 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "JEMA.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "MAIN",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-06-21",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "JEMA.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "JPMorgan Emerging Europe Middle East & Africa Securities Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Asset Management",
+        "market": "MAIN",
+        "sector": "Financial Services",
+        "ticker": "JEMA.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.92,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.92,
+          "severity": "YELLOW",
+          "signal_id": "JEMA.L:2022-03-02",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.33,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.33,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-03-03",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.98,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.98,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-03-04",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.89,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.89,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-03-07",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.48,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.48,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-03-08",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.13,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.13,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-03-09",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.47,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.47,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-03-10",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.33,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.33,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-03-16",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-03-17",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 1.43,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.43,
+          "severity": "PURPLE",
+          "signal_id": "JEMA.L:2022-03-17",
+          "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.69,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.69,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-05-09",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.22,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.22,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-05-11",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.91,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.91,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-05-16",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-17",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.87,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.87,
+          "severity": "YELLOW",
+          "signal_id": "JEMA.L:2022-05-17",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-20",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.09,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.09,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-05-20",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-25",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.53,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.53,
+          "severity": "YELLOW",
+          "signal_id": "JEMA.L:2022-05-25",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-06-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.35,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.35,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-06-13",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-06-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.25,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.25,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-06-15",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-06-17",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.77,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.77,
+          "severity": "ORANGE",
+          "signal_id": "JEMA.L:2022-06-17",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-06-20",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.58,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.58,
+          "severity": "ORANGE",
+          "signal_id": "JEMA.L:2022-06-20",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-06-21",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.39,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.39,
+          "severity": "GREEN",
+          "signal_id": "JEMA.L:2022-06-21",
+          "signal_type": "DEEP CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "JPMorgan Emerging Europe Middle East & Africa Securities Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Asset Management",
+        "market": "MAIN",
+        "sector": "Financial Services",
+        "ticker": "JEMA.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 1.39,
+        "legacy_signal_color": "GREEN",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "JEMA.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "MAIN",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-06-21",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "JEMA.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

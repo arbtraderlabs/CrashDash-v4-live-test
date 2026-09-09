@@ -1,0 +1,703 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "REVB.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2025-11-26",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "REVB.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Revolution Beauty Group plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Household & Personal Products",
+        "market": "AIM",
+        "sector": "Consumer Defensive",
+        "ticker": "REVB.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 12.06,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 12.06,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2022-08-02",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 7.71,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 7.71,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2022-08-03",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 7.63,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 7.63,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2022-08-04",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.27,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.27,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2022-08-05",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.99,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.99,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2022-08-08",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.3,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.3,
+          "severity": "ORANGE",
+          "signal_id": "REVB.L:2022-08-09",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.67,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.67,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2022-08-10",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 9.22,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 9.22,
+          "severity": "ORANGE",
+          "signal_id": "REVB.L:2022-08-11",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.48,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.48,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2022-08-12",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.7,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.7,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2022-08-15",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.61,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.61,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2022-08-19",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-12-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 20.0,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 20.0,
+          "severity": "ORANGE",
+          "signal_id": "REVB.L:2022-12-15",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-05-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 13.75,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 13.75,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-05-13",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-05-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.81,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.81,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-05-14",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-05-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.41,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.41,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-05-15",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-06-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.71,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.71,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-06-19",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-06-20",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.26,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.26,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-06-20",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-07-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.32,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.32,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-07-22",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-07-23",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.63,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.63,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-07-23",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-07-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.51,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.51,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-07-28",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-07-29",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.13,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.13,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2025-07-29",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-07-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.41,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.41,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-07-30",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-08-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.75,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.75,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-08-01",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-08-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.62,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.62,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2025-08-04",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-08-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.76,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.76,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-08-05",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-09-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.38,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.38,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2025-09-12",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-09-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.65,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.65,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2025-09-15",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-10-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.1,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.1,
+          "severity": "GREEN",
+          "signal_id": "REVB.L:2025-10-02",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-11-26",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.17,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.17,
+          "severity": "YELLOW",
+          "signal_id": "REVB.L:2025-11-26",
+          "signal_type": "CRASH ZONE BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Revolution Beauty Group plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Household & Personal Products",
+        "market": "AIM",
+        "sector": "Consumer Defensive",
+        "ticker": "REVB.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 3.17,
+        "legacy_signal_color": "YELLOW",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "REVB.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2025-11-26",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "REVB.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

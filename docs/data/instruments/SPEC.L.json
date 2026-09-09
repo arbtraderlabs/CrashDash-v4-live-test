@@ -1,0 +1,304 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "SPEC.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-12-15",
+      "signal_state": "EXTREME CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "SPEC.L",
+      "watch_severity": "HIGH",
+      "why_crashdash_noticed": [
+        "EXTREME CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "INSPECS Group plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Medical Instruments & Supplies",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "SPEC.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 14.01,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 14.01,
+          "severity": "GREEN",
+          "signal_id": "SPEC.L:2022-10-27",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 8.83,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 8.83,
+          "severity": "GREEN",
+          "signal_id": "SPEC.L:2022-10-28",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-31",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.57,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.57,
+          "severity": "GREEN",
+          "signal_id": "SPEC.L:2022-10-31",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-11-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.07,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.07,
+          "severity": "GREEN",
+          "signal_id": "SPEC.L:2022-11-04",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-11-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.17,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.17,
+          "severity": "GREEN",
+          "signal_id": "SPEC.L:2022-11-08",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-11-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.05,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.05,
+          "severity": "GREEN",
+          "signal_id": "SPEC.L:2022-11-09",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-12-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.91,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.91,
+          "severity": "GREEN",
+          "signal_id": "SPEC.L:2022-12-09",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-12-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.91,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.91,
+          "severity": "ORANGE",
+          "signal_id": "SPEC.L:2022-12-15",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "INSPECS Group plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Medical Instruments & Supplies",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "SPEC.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 3.91,
+        "legacy_signal_color": "ORANGE",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "SPEC.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-12-15",
+      "signal_state": "EXTREME CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "SPEC.L",
+      "watch_severity": "HIGH",
+      "why_crashdash_noticed": [
+        "EXTREME CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

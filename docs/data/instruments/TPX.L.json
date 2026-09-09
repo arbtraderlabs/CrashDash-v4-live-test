@@ -1,0 +1,437 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "TPX.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2023-03-24",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "TPX.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "TPXimpact Holdings plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Information Technology Services",
+        "market": "AIM",
+        "sector": "Technology",
+        "ticker": "TPX.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 16.28,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 16.28,
+          "severity": "GREEN",
+          "signal_id": "TPX.L:2022-09-30",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 11.23,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 11.23,
+          "severity": "GREEN",
+          "signal_id": "TPX.L:2022-10-03",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.63,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.63,
+          "severity": "GREEN",
+          "signal_id": "TPX.L:2022-10-04",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.9,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.9,
+          "severity": "GREEN",
+          "signal_id": "TPX.L:2022-10-05",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.33,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.33,
+          "severity": "GREEN",
+          "signal_id": "TPX.L:2022-10-06",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.88,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.88,
+          "severity": "YELLOW",
+          "signal_id": "TPX.L:2022-10-07",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-01-18",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.8,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.8,
+          "severity": "YELLOW",
+          "signal_id": "TPX.L:2023-01-18",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-01-20",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.27,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.27,
+          "severity": "YELLOW",
+          "signal_id": "TPX.L:2023-01-20",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-01-25",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.59,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.59,
+          "severity": "YELLOW",
+          "signal_id": "TPX.L:2023-01-25",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-01-31",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 14.25,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 14.25,
+          "severity": "GREEN",
+          "signal_id": "TPX.L:2023-01-31",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 12.06,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 12.06,
+          "severity": "ORANGE",
+          "signal_id": "TPX.L:2023-02-01",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.59,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.59,
+          "severity": "ORANGE",
+          "signal_id": "TPX.L:2023-02-02",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.28,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.28,
+          "severity": "GREEN",
+          "signal_id": "TPX.L:2023-02-03",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-02-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.55,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.55,
+          "severity": "ORANGE",
+          "signal_id": "TPX.L:2023-02-09",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-03-24",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.29,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.29,
+          "severity": "YELLOW",
+          "signal_id": "TPX.L:2023-03-24",
+          "signal_type": "CRASH ZONE BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "TPXimpact Holdings plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Information Technology Services",
+        "market": "AIM",
+        "sector": "Technology",
+        "ticker": "TPX.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 3.29,
+        "legacy_signal_color": "YELLOW",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "TPX.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2023-03-24",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "TPX.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

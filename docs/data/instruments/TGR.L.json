@@ -1,0 +1,551 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "TGR.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "MAIN",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-07-29",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "TGR.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Tirupati Graphite plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Other Industrial Metals & Mining",
+        "market": "MAIN",
+        "sector": "Basic Materials",
+        "ticker": "TGR.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-07-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.88,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.88,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2022-07-11",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-07-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.36,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.36,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2022-07-13",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2024-02-27",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 3.69,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.69,
+          "severity": "PURPLE",
+          "signal_id": "TGR.L:2024-02-27",
+          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-29",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.37,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.37,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2024-02-29",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.52,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.52,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2024-03-01",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 7.24,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 7.24,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2024-03-07",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-18",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.68,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.68,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2024-03-18",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.35,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.35,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2024-03-19",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-05-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 9.81,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 9.81,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2024-05-10",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-05-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.12,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.12,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2024-05-13",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-05-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.88,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.88,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2024-05-14",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-05-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.91,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.91,
+          "severity": "ORANGE",
+          "signal_id": "TGR.L:2024-05-15",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-05-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.57,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.57,
+          "severity": "ORANGE",
+          "signal_id": "TGR.L:2024-05-16",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-06-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.25,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.25,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2026-06-04",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.71,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.71,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2026-07-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.56,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.56,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2026-07-15",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.62,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.62,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2026-07-16",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-17",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 9.97,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 9.97,
+          "severity": "GREEN",
+          "signal_id": "TGR.L:2026-07-17",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-21",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.41,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.41,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2026-07-21",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.31,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.31,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2026-07-22",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-29",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.45,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.45,
+          "severity": "YELLOW",
+          "signal_id": "TGR.L:2026-07-29",
+          "signal_type": "CRASH ZONE BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Tirupati Graphite plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Other Industrial Metals & Mining",
+        "market": "MAIN",
+        "sector": "Basic Materials",
+        "ticker": "TGR.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 1.45,
+        "legacy_signal_color": "YELLOW",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "TGR.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "MAIN",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-07-29",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "TGR.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

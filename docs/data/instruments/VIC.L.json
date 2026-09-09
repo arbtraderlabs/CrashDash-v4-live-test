@@ -1,0 +1,285 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "VIC.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-10-03",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "VIC.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Victorian Plumbing Group plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Home Improvement Retail",
+        "market": "AIM",
+        "sector": "Consumer Cyclical",
+        "ticker": "VIC.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.34,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.34,
+          "severity": "YELLOW",
+          "signal_id": "VIC.L:2022-08-05",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.97,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.97,
+          "severity": "YELLOW",
+          "signal_id": "VIC.L:2022-08-19",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.68,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.68,
+          "severity": "YELLOW",
+          "signal_id": "VIC.L:2022-08-22",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.65,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.65,
+          "severity": "YELLOW",
+          "signal_id": "VIC.L:2022-09-09",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.39,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.39,
+          "severity": "YELLOW",
+          "signal_id": "VIC.L:2022-09-13",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.06,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.06,
+          "severity": "YELLOW",
+          "signal_id": "VIC.L:2022-09-16",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.64,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.64,
+          "severity": "GREEN",
+          "signal_id": "VIC.L:2022-10-03",
+          "signal_type": "DEEP CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Victorian Plumbing Group plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Home Improvement Retail",
+        "market": "AIM",
+        "sector": "Consumer Cyclical",
+        "ticker": "VIC.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 1.64,
+        "legacy_signal_color": "GREEN",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "VIC.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-10-03",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "VIC.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

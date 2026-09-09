@@ -1,0 +1,570 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "TOM.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2024-04-15",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "TOM.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "TomCo Energy Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Oil & Gas E&P",
+        "market": "AIM",
+        "sector": "Energy",
+        "ticker": "TOM.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.01,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.01,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2023-06-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.49,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.49,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-06-07",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.38,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.38,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2023-06-08",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.4,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.4,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-06-14",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.31,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.31,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-06-15",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.23,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.23,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-06-16",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-23",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.72,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.72,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-06-23",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-26",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.0,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.0,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-06-26",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.66,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.66,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-06-27",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-06-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.57,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.57,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2023-06-28",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-08-25",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.57,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.57,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-08-25",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-08-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.48,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.48,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2023-08-30",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-09-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.24,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.24,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2023-09-06",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.96,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.96,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2024-02-01",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.03,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.03,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2024-02-02",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.05,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.05,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2024-02-05",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.63,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.63,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2024-02-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.4,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.4,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2024-02-14",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-21",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.01,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.01,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2024-02-21",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-21",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.58,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.58,
+          "severity": "YELLOW",
+          "signal_id": "TOM.L:2024-03-21",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.2,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.2,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2024-04-12",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.22,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.22,
+          "severity": "GREEN",
+          "signal_id": "TOM.L:2024-04-15",
+          "signal_type": "DEEP CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "TomCo Energy Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Oil & Gas E&P",
+        "market": "AIM",
+        "sector": "Energy",
+        "ticker": "TOM.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 5.22,
+        "legacy_signal_color": "GREEN",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "TOM.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2024-04-15",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "TOM.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

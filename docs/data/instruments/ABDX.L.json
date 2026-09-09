@@ -1,0 +1,475 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "ABDX.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-12-16",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "ABDX.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Abingdon Health Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Diagnostics & Research",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "ABDX.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-01-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.21,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.21,
+          "severity": "YELLOW",
+          "signal_id": "ABDX.L:2022-01-10",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-02-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.94,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.94,
+          "severity": "YELLOW",
+          "signal_id": "ABDX.L:2022-02-09",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-02-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.45,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.45,
+          "severity": "YELLOW",
+          "signal_id": "ABDX.L:2022-02-11",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-02-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.94,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.94,
+          "severity": "GREEN",
+          "signal_id": "ABDX.L:2022-02-14",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-02-21",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.09,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.09,
+          "severity": "GREEN",
+          "signal_id": "ABDX.L:2022-02-21",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.89,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.89,
+          "severity": "GREEN",
+          "signal_id": "ABDX.L:2022-03-02",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-03-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.75,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.75,
+          "severity": "YELLOW",
+          "signal_id": "ABDX.L:2022-03-03",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-08-04",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 1.57,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.57,
+          "severity": "PURPLE",
+          "signal_id": "ABDX.L:2022-08-04",
+          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-08-05",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 4.37,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.37,
+          "severity": "PURPLE",
+          "signal_id": "ABDX.L:2022-08-05",
+          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 8.85,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 8.85,
+          "severity": "ORANGE",
+          "signal_id": "ABDX.L:2022-08-15",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.22,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.22,
+          "severity": "GREEN",
+          "signal_id": "ABDX.L:2022-08-16",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-24",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.2,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.2,
+          "severity": "GREEN",
+          "signal_id": "ABDX.L:2022-08-24",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-25",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.6,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.6,
+          "severity": "ORANGE",
+          "signal_id": "ABDX.L:2022-08-25",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.76,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.76,
+          "severity": "GREEN",
+          "signal_id": "ABDX.L:2022-08-30",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-11-24",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.1,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.1,
+          "severity": "YELLOW",
+          "signal_id": "ABDX.L:2022-11-24",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-11-29",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.86,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.86,
+          "severity": "GREEN",
+          "signal_id": "ABDX.L:2022-11-29",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-12-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.41,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.41,
+          "severity": "YELLOW",
+          "signal_id": "ABDX.L:2022-12-16",
+          "signal_type": "CRASH ZONE BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Abingdon Health Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Diagnostics & Research",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "ABDX.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 1.41,
+        "legacy_signal_color": "YELLOW",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "ABDX.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2022-12-16",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "ABDX.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

@@ -1,0 +1,2113 @@
+{
+  "data": {
+    "accumulation_state": "UNKNOWN",
+    "ai_analysis": null,
+    "ai_status": "ANALYSIS_PENDING",
+    "data_quality": "READY",
+    "evidence_refs": [],
+    "freshness": "UNKNOWN",
+    "instrument_id": "BCG.L",
+    "limitations": [],
+    "local_enrichment": {
+      "convergence": {
+        "alert_markers": [],
+        "price_points": [],
+        "rns_markers": [
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-07-09",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-lcgvatku0z0thxh.html",
+            "entities": [],
+            "event_id": "rns-7ef238083ca6dc100df93133",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-lcgvatku0z0thxh.html",
+            "key_metrics": [
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 428,252,283 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "428252"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-lcgvatku0z0thxh.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "9th Jul 2026",
+            "raw_time": "10:55 am",
+            "rns_number": "RNS Number : 7093L",
+            "scraped_at": "2026-09-04T22:00:35.630675",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-lcgvatku0z0thxh.html",
+            "ticker": "BCG",
+            "time": "10:55 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-lcgvatku0z0thxh.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-04-09",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nqmmxi6j8rt5xr6.html",
+            "entities": [],
+            "event_id": "rns-989a1d36f4f5d73fd4cb67d6",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nqmmxi6j8rt5xr6.html",
+            "key_metrics": [
+              {
+                "label": "PLC announces that during the period from",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 2 April 2026 to 8 April 2026 it purchased through Merrill Lynch International in aggregate 843,887 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 2 April 2026 to 8 April 2026 it purchased through Merrill Lynch International in aggregate 843,887 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 2 April 2026 to 8 April 2026 it purchased through Merrill Lynch International in aggregate 843,887 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "8"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 2 April 2026 to 8 April 2026 it purchased through Merrill Lynch International in aggregate 843,887 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 2 April 2026 to 8 April 2026 it purchased through Merrill Lynch International in aggregate 843,887 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "843887"
+              },
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 453,598,657 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "453598"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nqmmxi6j8rt5xr6.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "9th Apr 2026",
+            "raw_time": "8:46 am",
+            "rns_number": "RNS Number : 7919Z",
+            "scraped_at": "2026-09-04T22:00:35.635985",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nqmmxi6j8rt5xr6.html",
+            "ticker": "BCG",
+            "time": "8:46 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nqmmxi6j8rt5xr6.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-05-07",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-gl2vxsg54p0nw8z.html",
+            "entities": [],
+            "event_id": "rns-2668c9b51a8810d89d1e8a33",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-gl2vxsg54p0nw8z.html",
+            "key_metrics": [
+              {
+                "label": "PLC announces that during the period from",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 30 April 2026 to 6 May 2026 it purchased through Merrill Lynch International in aggregate 1,484,511 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "30"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 30 April 2026 to 6 May 2026 it purchased through Merrill Lynch International in aggregate 1,484,511 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 30 April 2026 to 6 May 2026 it purchased through Merrill Lynch International in aggregate 1,484,511 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": "M",
+                "value": "6"
+              },
+              {
+                "label": "ay",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 30 April 2026 to 6 May 2026 it purchased through Merrill Lynch International in aggregate 1,484,511 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 30 April 2026 to 6 May 2026 it purchased through Merrill Lynch International in aggregate 1,484,511 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "1484"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-gl2vxsg54p0nw8z.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "7th May 2026",
+            "raw_time": "10:03 am",
+            "rns_number": "RNS Number : 4117D",
+            "scraped_at": "2026-09-04T22:00:35.634167",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-gl2vxsg54p0nw8z.html",
+            "ticker": "BCG",
+            "time": "10:03 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-gl2vxsg54p0nw8z.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-08-06",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-4km64giq9skfzqg.html",
+            "entities": [],
+            "event_id": "rns-bd69865185c2a9c7060bb4ca",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-4km64giq9skfzqg.html",
+            "key_metrics": [
+              {
+                "label": "July",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "July 2026 to 5 August 2026 it purchased through Merrill Lynch International in aggregate 1,246,893 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "July 2026 to 5 August 2026 it purchased through Merrill Lynch International in aggregate 1,246,893 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "5"
+              },
+              {
+                "label": "August",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "July 2026 to 5 August 2026 it purchased through Merrill Lynch International in aggregate 1,246,893 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "July 2026 to 5 August 2026 it purchased through Merrill Lynch International in aggregate 1,246,893 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "1246"
+              },
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 421,735,585 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "421735"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-4km64giq9skfzqg.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "6th Aug 2026",
+            "raw_time": "10:18 am",
+            "rns_number": "RNS Number : 5894P",
+            "scraped_at": "2026-09-04T22:00:35.628897",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-4km64giq9skfzqg.html",
+            "ticker": "BCG",
+            "time": "10:18 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-4km64giq9skfzqg.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-06-04",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9yrnxt71hbzhuzd.html",
+            "entities": [],
+            "event_id": "rns-62fb6633362730ed7708e9ea",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9yrnxt71hbzhuzd.html",
+            "key_metrics": [
+              {
+                "label": "PLC announces that during the period from",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 28 May 2026 to 3 June 2026 it purchased through Merrill Lynch International in aggregate 2,815,600 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": "M",
+                "value": "28"
+              },
+              {
+                "label": "ay",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 28 May 2026 to 3 June 2026 it purchased through Merrill Lynch International in aggregate 2,815,600 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 28 May 2026 to 3 June 2026 it purchased through Merrill Lynch International in aggregate 2,815,600 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "3"
+              },
+              {
+                "label": "June",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 28 May 2026 to 3 June 2026 it purchased through Merrill Lynch International in aggregate 2,815,600 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 28 May 2026 to 3 June 2026 it purchased through Merrill Lynch International in aggregate 2,815,600 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2815"
+              },
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 437,900,108 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "437900"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9yrnxt71hbzhuzd.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "4th Jun 2026",
+            "raw_time": "9:40 am",
+            "rns_number": "RNS Number : 0059H",
+            "scraped_at": "2026-09-04T22:00:35.632348",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9yrnxt71hbzhuzd.html",
+            "ticker": "BCG",
+            "time": "9:40 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9yrnxt71hbzhuzd.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-08-04",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/holdings-in-company-hpty4zcq6a3fkll.html",
+            "entities": [],
+            "event_id": "rns-0d84e3e4fc7a2ac22ba90d57",
+            "headline": "Holding(s) in Company",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/holdings-in-company-hpty4zcq6a3fkll.html",
+            "key_metrics": [
+              {
+                "label": "TR",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "TR-1: Standard form for notification of major holdings",
+                "unit": null,
+                "value": "1"
+              },
+              {
+                "label": "total of",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "% of voting rights attached to shares (total of 8.A)",
+                "unit": null,
+                "value": "8"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/holdings-in-company-hpty4zcq6a3fkll.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "4th Aug 2026",
+            "raw_time": "1:26 pm",
+            "rns_number": "RNS Number : 2525P",
+            "scraped_at": "2026-09-04T22:00:35.629083",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/holdings-in-company-hpty4zcq6a3fkll.html",
+            "ticker": "BCG",
+            "time": "1:26 pm",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/holdings-in-company-hpty4zcq6a3fkll.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-08-04",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-csif7quppnro04o.html",
+            "entities": [],
+            "event_id": "rns-af7684d4150e5330c6b6f938",
+            "headline": "Director/PDMR Shareholding",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-csif7quppnro04o.html",
+            "key_metrics": [],
+            "key_points": [
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "The Company announces the following exercise of nominal value cost options by Executive Directors and PDMR/Development Director, granted in 2023 under the Baltic Classifieds Group PLC Performance Share Plan (the \"",
+                "text": "The Company announces the following exercise of nominal value cost options by Executive Directors and PDMR/Development Director, granted in 2023 under the Baltic Classifieds Group PLC Performance Share Plan (the \""
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "\u016bras Mizeras (PDMR/Development Director)",
+                "text": "\u016bras Mizeras (PDMR/Development Director)"
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "\u016bras Mizeras (PDMR/Development Director)",
+                "text": "\u016bras Mizeras (PDMR/Development Director)"
+              }
+            ],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-csif7quppnro04o.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "4th Aug 2026",
+            "raw_time": "11:34 am",
+            "rns_number": "RNS Number : 2144P",
+            "scraped_at": "2026-09-04T22:00:35.629268",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-csif7quppnro04o.html",
+            "ticker": "BCG",
+            "time": "11:34 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-csif7quppnro04o.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-08-03",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-y153abr8yk1gvnv.html",
+            "entities": [],
+            "event_id": "rns-e99d69eb293f4ea05a4351b1",
+            "headline": "Total Voting Rights",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/total-voting-rights-y153abr8yk1gvnv.html",
+            "key_metrics": [
+              {
+                "label": "confirms that at the close of business on",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company confirms that at the close of business on 31 July 2026 its issued share capital consisted of 422,586,734 ordinary shares of \u00a30.01 each (the \"",
+                "unit": null,
+                "value": "31"
+              },
+              {
+                "label": "July",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company confirms that at the close of business on 31 July 2026 its issued share capital consisted of 422,586,734 ordinary shares of \u00a30.01 each (the \"",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "its issued share capital consisted of",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company confirms that at the close of business on 31 July 2026 its issued share capital consisted of 422,586,734 ordinary shares of \u00a30.01 each (the \"",
+                "unit": null,
+                "value": "422586"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-y153abr8yk1gvnv.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "3rd Aug 2026",
+            "raw_time": "7:00 am",
+            "rns_number": "RNS Number : 8754O",
+            "scraped_at": "2026-09-04T22:00:35.629449",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-y153abr8yk1gvnv.html",
+            "ticker": "BCG",
+            "time": "7:00 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-y153abr8yk1gvnv.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-07-31",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-q2hyb0x2vlgwu3t.html",
+            "entities": [],
+            "event_id": "rns-cc5f14a789faa8ff21dc11be",
+            "headline": "Director/PDMR Shareholding",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-q2hyb0x2vlgwu3t.html",
+            "key_metrics": [
+              {
+                "label": "On",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "On 30 July 2026, the Company's 2 Executive Directors and PDMR/Development Director were granted awards over ordinary shares in the Company under the Baltic Classifieds Group PLC Performance Share Plan (the \"",
+                "unit": null,
+                "value": "30"
+              },
+              {
+                "label": "July",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "On 30 July 2026, the Company's 2 Executive Directors and PDMR/Development Director were granted awards over ordinary shares in the Company under the Baltic Classifieds Group PLC Performance Share Plan (the \"",
+                "unit": null,
+                "value": "2026"
+              }
+            ],
+            "key_points": [
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "On 30 July 2026, the Company's 2 Executive Directors and PDMR/Development Director were granted awards over ordinary shares in the Company under the Baltic Classifieds Group PLC Performance Share Plan (the \"",
+                "text": "On 30 July 2026, the Company's 2 Executive Directors and PDMR/Development Director were granted awards over ordinary shares in the Company under the Baltic Classifieds Group PLC Performance Share Plan (the \""
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Art\u016bras Mizeras (PDMR/Development Director)",
+                "text": "Art\u016bras Mizeras (PDMR/Development Director)"
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Details of the performance conditions are included in the Company's Directors' Remuneration Report for the year ended 30 April 2026.",
+                "text": "Details of the performance conditions are included in the Company's Directors' Remuneration Report for the year ended 30 April 2026."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Shares acquired by the Executive Directors pursuant to their awards (other than any sold to cover tax liabilities) will ordinarily be subject to a further two-year holding period following vesting.",
+                "text": "Shares acquired by the Executive Directors pursuant to their awards (other than any sold to cover tax liabilities) will ordinarily be subject to a further two-year holding period following vesting."
+              }
+            ],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-q2hyb0x2vlgwu3t.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "31st Jul 2026",
+            "raw_time": "1:35 pm",
+            "rns_number": "RNS Number : 7648O",
+            "scraped_at": "2026-09-04T22:00:35.629633",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-q2hyb0x2vlgwu3t.html",
+            "ticker": "BCG",
+            "time": "1:35 pm",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-q2hyb0x2vlgwu3t.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-07-30",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9s6j4gu5wv2m5bl.html",
+            "entities": [],
+            "event_id": "rns-f725c293a2b4ffe48f1c5b11",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9s6j4gu5wv2m5bl.html",
+            "key_metrics": [
+              {
+                "label": "PLC announces that during the period from",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 July 2026 to 28 July 2026 it purchased through Merrill Lynch International in aggregate 1,248,497 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "23"
+              },
+              {
+                "label": "July",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 July 2026 to 28 July 2026 it purchased through Merrill Lynch International in aggregate 1,248,497 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 July 2026 to 28 July 2026 it purchased through Merrill Lynch International in aggregate 1,248,497 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "28"
+              },
+              {
+                "label": "July",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 July 2026 to 28 July 2026 it purchased through Merrill Lynch International in aggregate 1,248,497 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 July 2026 to 28 July 2026 it purchased through Merrill Lynch International in aggregate 1,248,497 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "1248"
+              },
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 422,982,478 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "422982"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9s6j4gu5wv2m5bl.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "30th Jul 2026",
+            "raw_time": "10:15 am",
+            "rns_number": "RNS Number : 5553O",
+            "scraped_at": "2026-09-04T22:00:35.629825",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9s6j4gu5wv2m5bl.html",
+            "ticker": "BCG",
+            "time": "10:15 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-9s6j4gu5wv2m5bl.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-04-30",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nf002so8c1nr613.html",
+            "entities": [],
+            "event_id": "rns-89e8292d4b6e5669870414f4",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nf002so8c1nr613.html",
+            "key_metrics": [
+              {
+                "label": "PLC announces that during the period from",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 April 2026 to 29 April 2026 it purchased through Merrill Lynch International in aggregate 2,237,980 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "23"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 April 2026 to 29 April 2026 it purchased through Merrill Lynch International in aggregate 2,237,980 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 April 2026 to 29 April 2026 it purchased through Merrill Lynch International in aggregate 2,237,980 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "29"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 April 2026 to 29 April 2026 it purchased through Merrill Lynch International in aggregate 2,237,980 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 23 April 2026 to 29 April 2026 it purchased through Merrill Lynch International in aggregate 2,237,980 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2237"
+              },
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 447,997,514 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "447997"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nf002so8c1nr613.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "30th Apr 2026",
+            "raw_time": "7:00 am",
+            "rns_number": "RNS Number : 4697C",
+            "scraped_at": "2026-09-04T22:00:35.634524",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nf002so8c1nr613.html",
+            "ticker": "BCG",
+            "time": "7:00 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-nf002so8c1nr613.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-07-02",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-53qym7zu7nbkwcx.html",
+            "entities": [],
+            "event_id": "rns-263cea9205bdad663cd5446c",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-53qym7zu7nbkwcx.html",
+            "key_metrics": [
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 430,190,598 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "430190"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-53qym7zu7nbkwcx.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "2nd Jul 2026",
+            "raw_time": "1:28 pm",
+            "rns_number": "RNS Number : 8368K",
+            "scraped_at": "2026-09-04T22:00:35.630880",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-53qym7zu7nbkwcx.html",
+            "ticker": "BCG",
+            "time": "1:28 pm",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-53qym7zu7nbkwcx.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-07-02",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-ojflezdu6yvav7s.html",
+            "entities": [],
+            "event_id": "rns-194e3e08736a4bed07a44c97",
+            "headline": "Total Voting Rights",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/total-voting-rights-ojflezdu6yvav7s.html",
+            "key_metrics": [
+              {
+                "label": "confirms that at the close of business on",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company confirms that at the close of business on 30 June 2026 its issued share capital consisted of 430,454,801 ordinary shares of \u00a30.01 each (the \"",
+                "unit": null,
+                "value": "30"
+              },
+              {
+                "label": "June",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company confirms that at the close of business on 30 June 2026 its issued share capital consisted of 430,454,801 ordinary shares of \u00a30.01 each (the \"",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "its issued share capital consisted of",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company confirms that at the close of business on 30 June 2026 its issued share capital consisted of 430,454,801 ordinary shares of \u00a30.01 each (the \"",
+                "unit": null,
+                "value": "430454"
+              },
+              {
+                "label": "includes",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The total number of voting rights above (430,454,801) includes 3,380,277 shares purchased for cancellation between 18 and 30 June 2026, which are pending cancellation.",
+                "unit": null,
+                "value": "3380"
+              },
+              {
+                "label": "shares purchased for cancellation between",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The total number of voting rights above (430,454,801) includes 3,380,277 shares purchased for cancellation between 18 and 30 June 2026, which are pending cancellation.",
+                "unit": null,
+                "value": "18"
+              },
+              {
+                "label": "and",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The total number of voting rights above (430,454,801) includes 3,380,277 shares purchased for cancellation between 18 and 30 June 2026, which are pending cancellation.",
+                "unit": null,
+                "value": "30"
+              },
+              {
+                "label": "June",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The total number of voting rights above (430,454,801) includes 3,380,277 shares purchased for cancellation between 18 and 30 June 2026, which are pending cancellation.",
+                "unit": null,
+                "value": "2026"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-ojflezdu6yvav7s.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "2nd Jul 2026",
+            "raw_time": "7:00 am",
+            "rns_number": "RNS Number : 6999K",
+            "scraped_at": "2026-09-04T22:00:35.631431",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-ojflezdu6yvav7s.html",
+            "ticker": "BCG",
+            "time": "7:00 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/total-voting-rights-ojflezdu6yvav7s.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-07-02",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/director-role-changes-u5fdh9n601hu5n6.html",
+            "entities": [],
+            "event_id": "rns-6ef188879b1374dd62a1aae1",
+            "headline": "Director role changes",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/director-role-changes-u5fdh9n601hu5n6.html",
+            "key_metrics": [],
+            "key_points": [
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "In accordance with UKLR 6.4.6R (3), the Company announces the following changes to the roles and responsibilities of its directors, with effect from 2 July 2026.",
+                "text": "In accordance with UKLR 6.4.6R (3), the Company announces the following changes to the roles and responsibilities of its directors, with effect from 2 July 2026."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "R\u016bta Armon\u0117 has been appointed Chair of the Remuneration Committee.",
+                "text": "R\u016bta Armon\u0117 has been appointed Chair of the Remuneration Committee."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "R\u016bta is an existing Independent Non-Executive Director of the Company and member of the Remuneration Committee.",
+                "text": "R\u016bta is an existing Independent Non-Executive Director of the Company and member of the Remuneration Committee."
+              }
+            ],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/director-role-changes-u5fdh9n601hu5n6.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "2nd Jul 2026",
+            "raw_time": "1:27 pm",
+            "rns_number": "RNS Number : 8024K",
+            "scraped_at": "2026-09-04T22:00:35.631069",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/director-role-changes-u5fdh9n601hu5n6.html",
+            "ticker": "BCG",
+            "time": "1:27 pm",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/director-role-changes-u5fdh9n601hu5n6.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "fundraise-context-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-07-02",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/final-results-37l2d802e2da8jx.html",
+            "entities": [],
+            "event_id": "rns-eb63aa3542eb36c54a03a95c",
+            "headline": "Final Results",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/final-results-37l2d802e2da8jx.html",
+            "key_metrics": [
+              {
+                "label": "Revenue grew",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Revenue grew 7% to \u20ac88.5 million (2025: \u20ac82.8 million).",
+                "unit": "%",
+                "value": "7"
+              },
+              {
+                "label": "Core classifieds revenue streams B",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Core classifieds revenue streams B2C and C2C together comprise 91% of total revenue.",
+                "unit": null,
+                "value": "2"
+              },
+              {
+                "label": "C and C",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Core classifieds revenue streams B2C and C2C together comprise 91% of total revenue.",
+                "unit": null,
+                "value": "2"
+              },
+              {
+                "label": "C together comprise",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Core classifieds revenue streams B2C and C2C together comprise 91% of total revenue.",
+                "unit": "%",
+                "value": "91"
+              },
+              {
+                "label": "C revenue grew",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "B2C revenue grew 13% and C2C revenue grew 1%.",
+                "unit": "%",
+                "value": "13"
+              },
+              {
+                "label": "and C",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "B2C revenue grew 13% and C2C revenue grew 1%.",
+                "unit": null,
+                "value": "2"
+              },
+              {
+                "label": "C revenue grew",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "B2C revenue grew 13% and C2C revenue grew 1%.",
+                "unit": "%",
+                "value": "1"
+              },
+              {
+                "label": "growing",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Real Estate and Jobs & Services were the strongest-performing categories during the year, growing 17% and 9% respectively, and together contributing approximately half of Group revenue.",
+                "unit": "%",
+                "value": "17"
+              },
+              {
+                "label": "and",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Real Estate and Jobs & Services were the strongest-performing categories during the year, growing 17% and 9% respectively, and together contributing approximately half of Group revenue.",
+                "unit": "%",
+                "value": "9"
+              },
+              {
+                "label": "generated from operating activities grew",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Cash generated from operating activities grew 5% to \u20ac69.9 million (2025: \u20ac66.8 million).",
+                "unit": "%",
+                "value": "5"
+              },
+              {
+                "label": "accounting for",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": "%",
+                "value": "90"
+              },
+              {
+                "label": "lt at",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "5"
+              },
+              {
+                "label": "x in",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "2025"
+              },
+              {
+                "label": "Auto",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "24"
+              },
+              {
+                "label": "ee at",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "28"
+              },
+              {
+                "label": "x in",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "2025"
+              },
+              {
+                "label": "lt at",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "62"
+              },
+              {
+                "label": "x in",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "2025"
+              },
+              {
+                "label": "ee plus City",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "24"
+              },
+              {
+                "label": "ee at",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "position over nearest competitors across all of our major websites (accounting for 90% of Group revenue): Autoplius.lt at 5x (6x in 2025), Auto24.ee at 28x (36x in 2025), Aruodas.lt at 62x (27x in 2025), KV.ee plus City24.ee at 16x (13x in 2025), CVBankas.lt at 5x (5x in 2025) and Skelbiu.lt at 24x (21x in 2025).",
+                "unit": null,
+                "value": "16"
+              }
+            ],
+            "key_points": [
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "FULL YEAR RESULTS FOR THE YEAR ENDED 30 APRIL 2026",
+                "text": "FULL YEAR RESULTS FOR THE YEAR ENDED 30 APRIL 2026"
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": ", announces full year results for the year ended 30 April 2026",
+                "text": ", announces full year results for the year ended 30 April 2026"
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "We delivered solid financial results, with both revenue and EBITDA growing by 7%.",
+                "text": "We delivered solid financial results, with both revenue and EBITDA growing by 7%."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Despite these headwinds, the Group again delivered strong results, reflecting both the resilience of our model and the strength and focus of our execution which continues to set us apart.",
+                "text": "Despite these headwinds, the Group again delivered strong results, reflecting both the resilience of our model and the strength and focus of our execution which continues to set us apart."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "The depth of industry experience among their Non-Executive Directors sets the BCG apart from many of its peers, and this is a key driver in enabling the Board to add tangible value to the organisation, but Directors are also refreshingly disciplined about where they intervene, giving management space to deliver\".",
+                "text": "The depth of industry experience among their Non-Executive Directors sets the BCG apart from many of its peers, and this is a key driver in enabling the Board to add tangible value to the organisation, but Directors are also refreshingly disciplined about where they intervene, giving management space to deliver\"."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "As part of a planned and orderly transition, Art\u016bras Mizeras was appointed to succeed Simonas as Chief Operating Officer.",
+                "text": "As part of a planned and orderly transition, Art\u016bras Mizeras was appointed to succeed Simonas as Chief Operating Officer."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "We delivered solid financial results, with both revenue and EBITDA growing by 7%.",
+                "text": "We delivered solid financial results, with both revenue and EBITDA growing by 7%."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "\u25cf The number of Real Estate brokers continued to grow, increasing by 3% this year, driven primarily by small brokers transitioning to B2C subscriptions rather than placing advertisements as C2C customers.",
+                "text": "\u25cf The number of Real Estate brokers continued to grow, increasing by 3% this year, driven primarily by small brokers transitioning to B2C subscriptions rather than placing advertisements as C2C customers."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Directors use these APMs alongside IFRS measures when budgeting and planning, and when reviewing business performance.",
+                "text": "Directors use these APMs alongside IFRS measures when budgeting and planning, and when reviewing business performance."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Disruptions to the operations of the Group's customers and suppliers in their day-to-day business may affect the Group's ability to achieve desired results",
+                "text": "Disruptions to the operations of the Group's customers and suppliers in their day-to-day business may affect the Group's ability to achieve desired results"
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "The first proceeding was initiated in February 2022 against AllePal O\u00dc, the operator of the Group's real estate classifieds portal in Estonia, following a complaint by Reales O\u00dc alleging unfair refusal to provide services after the termination of a service agreement.",
+                "text": "The first proceeding was initiated in February 2022 against AllePal O\u00dc, the operator of the Group's real estate classifieds portal in Estonia, following a complaint by Reales O\u00dc alleging unfair refusal to provide services after the termination of a service agreement."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "AllePal O\u00dc maintains that the agreement was terminated because Reales O\u00dc was using the service for advertisement aggregation and brokerage activities outside the intended use of the portal.",
+                "text": "AllePal O\u00dc maintains that the agreement was terminated because Reales O\u00dc was using the service for advertisement aggregation and brokerage activities outside the intended use of the portal."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Certain Statements made in this results announcement are Forward-looking Statements.",
+                "text": "Certain Statements made in this results announcement are Forward-looking Statements."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Such Statements are based on current expectations, forecasts and assumptions and are subject to a number of risks and uncertainties that could cause actual events or results to differ materially from any expected future events or results expressed or implied in these Forward-looking Statements.",
+                "text": "Such Statements are based on current expectations, forecasts and assumptions and are subject to a number of risks and uncertainties that could cause actual events or results to differ materially from any expected future events or results expressed or implied in these Forward-looking Statements."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "They appear in a number of places throughout this results announcement and include Statements regarding the intentions, beliefs or current expectations of the Directors concerning, amongst other things, the Group's results of operations, financial condition, liquidity, prospects, growth, objectives, strategies and the business.",
+                "text": "They appear in a number of places throughout this results announcement and include Statements regarding the intentions, beliefs or current expectations of the Directors concerning, amongst other things, the Group's results of operations, financial condition, liquidity, prospects, growth, objectives, strategies and the business."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Nothing in this results announcement should be construed as a profit forecast.",
+                "text": "Nothing in this results announcement should be construed as a profit forecast."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "All Forward-looking Statements in this results announcement are made by the Directors in good faith based on the information and knowledge available to them as at the time of their approval of this results announcement.",
+                "text": "All Forward-looking Statements in this results announcement are made by the Directors in good faith based on the information and knowledge available to them as at the time of their approval of this results announcement."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "All Intellectual Property Rights in the content and materials in this results announcement vests in and are owned absolutely by Baltic Classifieds Group PLC unless otherwise indicated, including in respect of or in connection with but not limited to all trademarks and the results announcement's design, text, graphics, its selection and arrangement.",
+                "text": "All Intellectual Property Rights in the content and materials in this results announcement vests in and are owned absolutely by Baltic Classifieds Group PLC unless otherwise indicated, including in respect of or in connection with but not limited to all trademarks and the results announcement's design, text, graphics, its selection and arrangement."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "These consolidated financial statements for the year ended 30 April 2026 have been approved by the Board of Directors of Baltic Classifieds Group PLC.",
+                "text": "These consolidated financial statements for the year ended 30 April 2026 have been approved by the Board of Directors of Baltic Classifieds Group PLC."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Actual results may differ from these estimates.",
+                "text": "Actual results may differ from these estimates."
+              }
+            ],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/final-results-37l2d802e2da8jx.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "2nd Jul 2026",
+            "raw_time": "7:00 am",
+            "rns_number": "RNS Number : 6994K",
+            "scraped_at": "2026-09-04T22:00:35.631250",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/final-results-37l2d802e2da8jx.html",
+            "ticker": "BCG",
+            "time": "7:00 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/final-results-37l2d802e2da8jx.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-05-28",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-and-clarification-xytf42r7xvfyxoc.html",
+            "entities": [],
+            "event_id": "rns-1015bdc9dbec93a4432b3772",
+            "headline": "Transaction in Own Shares and Clarification",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-and-clarification-xytf42r7xvfyxoc.html",
+            "key_metrics": [
+              {
+                "label": "PLC announces that during the period from",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 21 May 2026 to 27 May 2026 it purchased through Merrill Lynch International in aggregate 2,045,755 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": "M",
+                "value": "21"
+              },
+              {
+                "label": "ay",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 21 May 2026 to 27 May 2026 it purchased through Merrill Lynch International in aggregate 2,045,755 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 21 May 2026 to 27 May 2026 it purchased through Merrill Lynch International in aggregate 2,045,755 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": "M",
+                "value": "27"
+              },
+              {
+                "label": "ay",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 21 May 2026 to 27 May 2026 it purchased through Merrill Lynch International in aggregate 2,045,755 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Baltic Classifieds Group PLC announces that during the period from 21 May 2026 to 27 May 2026 it purchased through Merrill Lynch International in aggregate 2,045,755 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2045"
+              },
+              {
+                "label": "he schedules to the announcements made on",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company also announces a correction due to an administrative error to the schedules to the announcements made on 14 May 2026, 7 May 2026, 30 April 2026 and 16 April 2026 relating to transactions in its own shares.",
+                "unit": "M",
+                "value": "14"
+              },
+              {
+                "label": "ay",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company also announces a correction due to an administrative error to the schedules to the announcements made on 14 May 2026, 7 May 2026, 30 April 2026 and 16 April 2026 relating to transactions in its own shares.",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "May",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company also announces a correction due to an administrative error to the schedules to the announcements made on 14 May 2026, 7 May 2026, 30 April 2026 and 16 April 2026 relating to transactions in its own shares.",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company also announces a correction due to an administrative error to the schedules to the announcements made on 14 May 2026, 7 May 2026, 30 April 2026 and 16 April 2026 relating to transactions in its own shares.",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "and",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company also announces a correction due to an administrative error to the schedules to the announcements made on 14 May 2026, 7 May 2026, 30 April 2026 and 16 April 2026 relating to transactions in its own shares.",
+                "unit": null,
+                "value": "16"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company also announces a correction due to an administrative error to the schedules to the announcements made on 14 May 2026, 7 May 2026, 30 April 2026 and 16 April 2026 relating to transactions in its own shares.",
+                "unit": null,
+                "value": "2026"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-and-clarification-xytf42r7xvfyxoc.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "28th May 2026",
+            "raw_time": "1:25 pm",
+            "rns_number": "RNS Number : 0803G",
+            "scraped_at": "2026-09-04T22:00:35.633078",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-and-clarification-xytf42r7xvfyxoc.html",
+            "ticker": "BCG",
+            "time": "1:25 pm",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-and-clarification-xytf42r7xvfyxoc.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-08-28",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/change-in-trading-currency-clarification-onsdj1wojkfgn1g.html",
+            "entities": [],
+            "event_id": "rns-aa06f89d139fccafdc5572c2",
+            "headline": "Change in trading currency - clarification",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/change-in-trading-currency-clarification-onsdj1wojkfgn1g.html",
+            "key_metrics": [
+              {
+                "label": "Further to the announcements on",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Further to the announcements on 12 August 2026 and 26 August 2026 regarding the change in the trading currency of its ordinary shares on the London Stock Exchange, Baltic Classifieds Group PLC (LSE: BCG), the leading online classifieds group in the Baltics, wishes to clarify that the trading currency of its ordinary shares will change from pence sterling to euro, rather than euro cents.",
+                "unit": null,
+                "value": "12"
+              },
+              {
+                "label": "August",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Further to the announcements on 12 August 2026 and 26 August 2026 regarding the change in the trading currency of its ordinary shares on the London Stock Exchange, Baltic Classifieds Group PLC (LSE: BCG), the leading online classifieds group in the Baltics, wishes to clarify that the trading currency of its ordinary shares will change from pence sterling to euro, rather than euro cents.",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "and",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Further to the announcements on 12 August 2026 and 26 August 2026 regarding the change in the trading currency of its ordinary shares on the London Stock Exchange, Baltic Classifieds Group PLC (LSE: BCG), the leading online classifieds group in the Baltics, wishes to clarify that the trading currency of its ordinary shares will change from pence sterling to euro, rather than euro cents.",
+                "unit": null,
+                "value": "26"
+              },
+              {
+                "label": "August",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Further to the announcements on 12 August 2026 and 26 August 2026 regarding the change in the trading currency of its ordinary shares on the London Stock Exchange, Baltic Classifieds Group PLC (LSE: BCG), the leading online classifieds group in the Baltics, wishes to clarify that the trading currency of its ordinary shares will change from pence sterling to euro, rather than euro cents.",
+                "unit": null,
+                "value": "2026"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/change-in-trading-currency-clarification-onsdj1wojkfgn1g.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "28th Aug 2026",
+            "raw_time": "1:59 pm",
+            "rns_number": "RNS Number : 6591S",
+            "scraped_at": "2026-09-04T22:00:35.627701",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/change-in-trading-currency-clarification-onsdj1wojkfgn1g.html",
+            "ticker": "BCG",
+            "time": "1:59 pm",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/change-in-trading-currency-clarification-onsdj1wojkfgn1g.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-04-28",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-1pi1scokt1gpuak.html",
+            "entities": [],
+            "event_id": "rns-6b977938e08ace5822f03eab",
+            "headline": "Director/PDMR Shareholding",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-1pi1scokt1gpuak.html",
+            "key_metrics": [
+              {
+                "label": "has bought",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company announces that it has been notified that Ed Williams, Non-Executive Director of the Company, jointly with Joanna Barkwill, a Person Closely Associated with Ed Williams, has bought 90,515 ordinary shares of 1 pence each of the Company (\"Ordinary Shares\") on 27 April 2026.",
+                "unit": null,
+                "value": "90515"
+              },
+              {
+                "label": "ordinary shares of",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company announces that it has been notified that Ed Williams, Non-Executive Director of the Company, jointly with Joanna Barkwill, a Person Closely Associated with Ed Williams, has bought 90,515 ordinary shares of 1 pence each of the Company (\"Ordinary Shares\") on 27 April 2026.",
+                "unit": "pence",
+                "value": "1"
+              },
+              {
+                "label": "on",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company announces that it has been notified that Ed Williams, Non-Executive Director of the Company, jointly with Joanna Barkwill, a Person Closely Associated with Ed Williams, has bought 90,515 ordinary shares of 1 pence each of the Company (\"Ordinary Shares\") on 27 April 2026.",
+                "unit": null,
+                "value": "27"
+              },
+              {
+                "label": "April",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The Company announces that it has been notified that Ed Williams, Non-Executive Director of the Company, jointly with Joanna Barkwill, a Person Closely Associated with Ed Williams, has bought 90,515 ordinary shares of 1 pence each of the Company (\"Ordinary Shares\") on 27 April 2026.",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "holds",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the transaction, Ed Williams, together with his Persons Closely Associated, holds 3,355,354 Ordinary Shares, representing 0.75% of the issued ordinary share capital of the Company.",
+                "unit": null,
+                "value": "3355"
+              },
+              {
+                "label": "representing",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the transaction, Ed Williams, together with his Persons Closely Associated, holds 3,355,354 Ordinary Shares, representing 0.75% of the issued ordinary share capital of the Company.",
+                "unit": "%",
+                "value": "0.75"
+              }
+            ],
+            "key_points": [
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "The Company announces that it has been notified that Ed Williams, Non-Executive Director of the Company, jointly with Joanna Barkwill, a Person Closely Associated with Ed Williams, has bought 90,515 ordinary shares of 1 pence each of the Company (\"Ordinary Shares\") on 27 April 2026.",
+                "text": "The Company announces that it has been notified that Ed Williams, Non-Executive Director of the Company, jointly with Joanna Barkwill, a Person Closely Associated with Ed Williams, has bought 90,515 ordinary shares of 1 pence each of the Company (\"Ordinary Shares\") on 27 April 2026."
+              },
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Non-Executive Director and Person Closely Associated",
+                "text": "Non-Executive Director and Person Closely Associated"
+              }
+            ],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-1pi1scokt1gpuak.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "28th Apr 2026",
+            "raw_time": "11:21 am",
+            "rns_number": "RNS Number : 2051C",
+            "scraped_at": "2026-09-04T22:00:35.634702",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-1pi1scokt1gpuak.html",
+            "ticker": "BCG",
+            "time": "11:21 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/directorpdmr-shareholding-1pi1scokt1gpuak.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-05-27",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/result-of-general-meeting-b0ee81a1hfjfbqt.html",
+            "entities": [],
+            "event_id": "rns-46243a0797588684c131166d",
+            "headline": "Result of General Meeting",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/result-of-general-meeting-b0ee81a1hfjfbqt.html",
+            "key_metrics": [
+              {
+                "label": "The total number of shares in issue on",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The total number of shares in issue on 22 May 2026, the deadline for casting votes by proxy in advance of the GM, was 444,522,620 shares.",
+                "unit": "M",
+                "value": "22"
+              },
+              {
+                "label": "ay",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The total number of shares in issue on 22 May 2026, the deadline for casting votes by proxy in advance of the GM, was 444,522,620 shares.",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "was",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "The total number of shares in issue on 22 May 2026, the deadline for casting votes by proxy in advance of the GM, was 444,522,620 shares.",
+                "unit": null,
+                "value": "444522"
+              }
+            ],
+            "key_points": [
+              {
+                "category": "announcement_detail",
+                "rule_id": "contextual-point-v2",
+                "source_sentence": "Baltic Classifieds Group PLC (LSE: BCG), the leading online classifieds group in the Baltics, announces the results of the Company's General Meeting (\"GM\") held on 27 May 2026.",
+                "text": "Baltic Classifieds Group PLC (LSE: BCG), the leading online classifieds group in the Baltics, announces the results of the Company's General Meeting (\"GM\") held on 27 May 2026."
+              }
+            ],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/result-of-general-meeting-b0ee81a1hfjfbqt.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "27th May 2026",
+            "raw_time": "12:51 pm",
+            "rns_number": "RNS Number : 9136F",
+            "scraped_at": "2026-09-04T22:00:35.633257",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/result-of-general-meeting-b0ee81a1hfjfbqt.html",
+            "ticker": "BCG",
+            "time": "12:51 pm",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/result-of-general-meeting-b0ee81a1hfjfbqt.html"
+          },
+          {
+            "announcement_class": "NEUTRAL",
+            "classification_method": "deterministic_rules",
+            "classification_rule_id": "neutral-fallback-v1",
+            "classification_rule_version": "RNS_RULES_V1",
+            "contract_version": "RNS_CANONICAL_EVIDENCE_V1",
+            "date": "2026-08-27",
+            "detail_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-1q9e57uthflkbp0.html",
+            "entities": [],
+            "event_id": "rns-07ab6f096c5435c9607e61ab",
+            "headline": "Transaction in Own Shares",
+            "identity_key": "url:https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-1q9e57uthflkbp0.html",
+            "key_metrics": [
+              {
+                "label": "August",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "August 2026 to 24 August 2026 it purchased through Merrill Lynch International in aggregate 439,022 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "to",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "August 2026 to 24 August 2026 it purchased through Merrill Lynch International in aggregate 439,022 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "24"
+              },
+              {
+                "label": "August",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "August 2026 to 24 August 2026 it purchased through Merrill Lynch International in aggregate 439,022 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "2026"
+              },
+              {
+                "label": "Merrill Lynch International in aggregate",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "August 2026 to 24 August 2026 it purchased through Merrill Lynch International in aggregate 439,022 ordinary shares of nominal value of \u00a30.01 each in the capital of the Company for cancellation, as further detailed below:",
+                "unit": null,
+                "value": "439022"
+              },
+              {
+                "label": "the Company has",
+                "quality": "CONTEXTUAL",
+                "rule_id": "metric-context-v2",
+                "source_sentence": "Following the above transactions, the Company has 418,602,420 ordinary shares in issue and does not hold any ordinary shares in treasury.",
+                "unit": null,
+                "value": "418602"
+              }
+            ],
+            "key_points": [],
+            "provenance": {
+              "body_normalization_version": "RNS_BODY_NORMALIZATION_V1",
+              "extraction_version": "RNS_DETERMINISTIC_EXTRACTION_V2",
+              "import_kind": "legacy_snapshot",
+              "matched_sources": [
+                "persistent",
+                "history"
+              ],
+              "source_system": "redpill-local-rns-cache",
+              "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-1q9e57uthflkbp0.html"
+            },
+            "published_at": null,
+            "quality": {
+              "body_available": true,
+              "caveats": [],
+              "extraction_valid": true,
+              "publication_time_valid": false,
+              "warnings": [
+                "invalid_or_missing_publication_time"
+              ]
+            },
+            "raw_date": "27th Aug 2026",
+            "raw_time": "8:49 am",
+            "rns_number": "RNS Number : 4137S",
+            "scraped_at": "2026-09-04T22:00:35.627923",
+            "source": "RNS",
+            "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-1q9e57uthflkbp0.html",
+            "ticker": "BCG",
+            "time": "8:49 am",
+            "timezone": "Europe/London",
+            "url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-1q9e57uthflkbp0.html"
+          }
+        ]
+      },
+      "metadata": {
+        "company_name": null,
+        "current_close": null,
+        "market": "MAIN",
+        "quote_unit_status": "UNAVAILABLE"
+      },
+      "price_history": [],
+      "source_as_of": null
+    },
+    "price_at_signal": null,
+    "rns_records_emitted": 20,
+    "rns_total_available": 50,
+    "sharechat_records_emitted": 9,
+    "sharechat_total_available": 9,
+    "signal_date": "2026-09-08",
+    "signal_state": "DEEP CRASH BOTTOM",
+    "social_records": [
+      {
+        "duplicate_of": null,
+        "message": "This is at bottom price.  Good figures,  well run. Steady climb ahead. Up to  \u00a32. +, over next 10 weeks.",
+        "post_id": "social-fb046b9be18337d2800ac75e",
+        "posted_at": "2026-07-14T16:55:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "14 Jul 2026 16:55",
+        "scraped_at": "2026-09-04T22:04:20.651707",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=22046911-D9F9-4802-B917-A82CB698FD8A",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": ".wealthoracle.co.uk/company-results Baltic Classifieds delivered a workmanlike full year to 30 April 2026, with revenue up 7% to \u20ac88.5m and adjusted basic EPS rising 9% to 12.3 euro cent, while statutory basic EPS jumped 16% to 10.8 euro cent as amortisation of acquired intangibles rolled off. The EBITDA margin held steady at an enviable 78%, and cash conversion remained at 99%, underscoring the durability of the Baltic classifieds franchise even as the Estonian vehicle tax and an unusually severe winter suppressed C2C auto listing volumes by 26%. Real Estate was the standout, growing 17% on the back of 20% B2C and 12% C2C gains, while Jobs & Services accelerated into the second half to finish up 9%; Auto was flat but resilient given the headwinds. The more striking story is capital allocation: BCG returned \u20ac101.1m to shareholders via buybacks and dividends, repurchasing 10% of issued share capital and drawing \u20ac73m of a new \u20ac125m SEB facility, with leverage stepping up from 0.1x to 0.7x \u2014 a deliberate signal that the Board views the share price as undervaluing the model amid market anxiety over AI disruption. A final ordinary dividend of 2.8 euro cent plus a 0.3 euro cent special takes total dividends to 4.4 euro cent, up 16%. Management guides FY27 revenue growth of around 10%, second-half weighted, with margins staying in the mid-70s \u2014 a credible reacceleration underpinned by C2C repricing already implemented in March. .wealthoracle.co.uk/company-results",
+        "post_id": "social-7a4877975e42a961b42165e3",
+        "posted_at": "2026-07-02T08:14:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "2 Jul 2026 08:14",
+        "scraped_at": "2026-09-04T22:04:20.652194",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=D9AF9F2E-4BA4-40DA-AEA1-04060AF42589",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": "It looks like Mr & Mrs Williams are doing some IHT planning ahead of the Budget.",
+        "post_id": "social-bcaadf950c531531243497bf",
+        "posted_at": "2025-10-01T18:49:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "1 Oct 2025 18:49",
+        "scraped_at": "2026-09-04T22:04:20.652638",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=1E18A805-5FFE-434B-83FF-49EE7D672042",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": "New all time high, close today. Weekly price bar of 19/8/24, is an outside bar, where the high is greater than the previous high and the low is less than the previous low. The weekly outside bar range x 2 gives a target price of 330. Volatility, is increasing, which often signifies, a rapid sp movement. The low of 274, may be a suitable stop loss area. A 2 day consecutive close above the breakout point, is often insurance against a return below resistance. DYOR.",
+        "post_id": "social-5ae993c5e2a85e6e670a9851",
+        "posted_at": "2024-08-30T00:50:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "30 Aug 2024 00:50",
+        "scraped_at": "2026-09-04T22:04:20.653111",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=70FCB502-D39F-46F7-A054-383A4CCF6B63",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": "Shareprice looks good today everyone",
+        "post_id": "social-715069fc416ad90debc408a1",
+        "posted_at": "2024-08-13T12:08:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "13 Aug 2024 12:08",
+        "scraped_at": "2026-09-04T22:04:20.653548",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=BEAC1DA3-E228-4F83-8D9C-4BB1FC66238F",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": "Sp, now sandwiched between two price pivots , upper at 236, and the lower pivot it crossed today at 231.5.",
+        "post_id": "social-325af0b1fbdf6901353b1baf",
+        "posted_at": "2024-02-16T13:59:00+00:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "16 Feb 2024 13:59",
+        "scraped_at": "2026-09-04T22:04:20.653997",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=C7A4912E-90B9-4FC5-BB0F-EC113A9C7FE3",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": "Heading self explanatory, PE, is 409 and the directors sold substantial amounts between Jan-March. However impressive up trendline, from January 23, and last chart formation, seemed to be a bullish triangle, with flat top and rising trendline. The maximum chart encompasses 2 years, so this must be a relatively new company, and probably worth a punt on the new all time high.",
+        "post_id": "social-6e90c4b270cec47d1c09635f",
+        "posted_at": "2023-06-13T11:37:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "13 Jun 2023 11:37",
+        "scraped_at": "2026-09-04T22:04:20.654429",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=BEAC1DA3-E228-4F83-8D9C-4BB1FC66238F",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": "https://www.proactiveinvestors.co.uk/companies/news/991417/baltic-classifieds-group-presents-one-of-the-best-business-models-in-the-world-991417.html",
+        "post_id": "social-196ebc9fa506a5350d5c57d2",
+        "posted_at": "2022-08-31T10:25:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "31 Aug 2022 10:25",
+        "scraped_at": "2026-09-04T22:04:20.654869",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=93FB0066-6645-4672-844F-242451C6CDB8",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      },
+      {
+        "duplicate_of": null,
+        "message": "Good to see the market recognising the potential of this business. The company provides great websites for searching for property, cars and jobs in the Baltics. I have only used the property search sites but friends use the cars/job sites. I dipped my toes in with an investment but view this as one to watch as the technology can be transferred to other countries while the sector could also consolidate.",
+        "post_id": "social-21786c7aeb47efc5a6d8268d",
+        "posted_at": "2021-08-06T09:36:00+01:00",
+        "provenance": {
+          "import_kind": "legacy_snapshot"
+        },
+        "raw_timestamp": "6 Aug 2021 09:36",
+        "scraped_at": "2026-09-04T22:04:20.655302",
+        "thread_url": "https://www.lse.co.uk/ShareChat.html?ShareTicker=BCG&thread=06EB0AC5-E3DF-47E8-9B0D-2DE9942C99FA",
+        "ticker": "BCG",
+        "timestamp_valid": true,
+        "timestamp_warnings": []
+      }
+    ],
+    "social_status": "READY",
+    "ticker": "BCG.L",
+    "watch_severity": "ELEVATED",
+    "why_crashdash_noticed": [
+      "DEEP CRASH BOTTOM"
+    ]
+  },
+  "schema_version": "V1"
+}

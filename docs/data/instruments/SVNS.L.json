@@ -1,0 +1,950 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "SVNS.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "MAIN",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2025-03-10",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "SVNS.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Solvonis Therapeutics plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Specialty Industrial Machinery",
+        "market": "MAIN",
+        "sector": "Industrials",
+        "ticker": "SVNS.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 19.37,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 19.37,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-03",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.45,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.45,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-04",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.73,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.73,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-05",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.78,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.78,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.93,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.93,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-07-11",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.37,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.37,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-07-12",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 12.61,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 12.61,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-07-13",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.75,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.75,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-14",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-09-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.72,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.72,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-09-27",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-09-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.67,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.67,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-09-28",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.09,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.09,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-11-01",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.58,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.58,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-11-15",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 8.79,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 8.79,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-11-16",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-17",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.59,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.59,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-11-17",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.7,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.7,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-11-22",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-23",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 13.13,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 13.13,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-11-23",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-24",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.32,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.32,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-11-24",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-29",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.25,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.25,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-11-29",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.75,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.75,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-11-30",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-12-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.33,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.33,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-12-12",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-12-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 13.99,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 13.99,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-12-22",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-12-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.93,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.93,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-12-28",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-12-29",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.99,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.99,
+          "severity": "RED",
+          "signal_id": "SVNS.L:2023-12-29",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-01-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.74,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.74,
+          "severity": "RED",
+          "signal_id": "SVNS.L:2024-01-02",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-01-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.31,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.31,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2024-01-03",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-02-23",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.07,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.07,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2024-02-23",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.04,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.04,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-03-04",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.38,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.38,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-03-06",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.3,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.3,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-03-08",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 19.04,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 19.04,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2024-03-15",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-03-18",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.67,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.67,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2024-03-18",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.63,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.63,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-04-08",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.3,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.3,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-04-09",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-07-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.57,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.57,
+          "severity": "RED",
+          "signal_id": "SVNS.L:2024-07-03",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-07-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.41,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.41,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-07-04",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-07-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.48,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.48,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-07-05",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-07-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 10.42,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 10.42,
+          "severity": "RED",
+          "signal_id": "SVNS.L:2024-07-09",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-07-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.77,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.77,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2024-07-10",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-07-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 10.35,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 10.35,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2024-07-11",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-07-18",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.11,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.11,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2024-07-18",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-09-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.37,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.37,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2024-09-05",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2025-03-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.03,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.03,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2025-03-10",
+          "signal_type": "DEEP CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Solvonis Therapeutics plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Specialty Industrial Machinery",
+        "market": "MAIN",
+        "sector": "Industrials",
+        "ticker": "SVNS.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 2.03,
+        "legacy_signal_color": "GREEN",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "SVNS.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "MAIN",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2025-03-10",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "SVNS.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

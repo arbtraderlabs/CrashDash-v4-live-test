@@ -1,0 +1,475 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "CRTA.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2024-04-12",
+      "signal_state": "EXTREME CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "CRTA.L",
+      "watch_severity": "HIGH",
+      "why_crashdash_noticed": [
+        "EXTREME CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Cirata plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Software - Application",
+        "market": "AIM",
+        "sector": "Technology",
+        "ticker": "CRTA.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-25",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 20.0,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 20.0,
+          "severity": "RED",
+          "signal_id": "CRTA.L:2023-07-25",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-26",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 9.72,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 9.72,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2023-07-26",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 8.13,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 8.13,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2023-07-27",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.62,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.62,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2023-07-28",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-07-31",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.35,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.35,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2023-07-31",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-08-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.36,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.36,
+          "severity": "GREEN",
+          "signal_id": "CRTA.L:2023-08-01",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-08-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.28,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.28,
+          "severity": "YELLOW",
+          "signal_id": "CRTA.L:2023-08-02",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-09-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.88,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.88,
+          "severity": "GREEN",
+          "signal_id": "CRTA.L:2023-09-05",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-09-11",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.25,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.25,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2023-09-11",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-09-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.17,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.17,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2023-09-12",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-09-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.43,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.43,
+          "severity": "GREEN",
+          "signal_id": "CRTA.L:2023-09-13",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-10-18",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.37,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.37,
+          "severity": "GREEN",
+          "signal_id": "CRTA.L:2023-10-18",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-10-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.93,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.93,
+          "severity": "YELLOW",
+          "signal_id": "CRTA.L:2023-10-19",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.24,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.24,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2024-04-03",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 8.72,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 8.72,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2024-04-04",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.99,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.99,
+          "severity": "GREEN",
+          "signal_id": "CRTA.L:2024-04-05",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.77,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.77,
+          "severity": "ORANGE",
+          "signal_id": "CRTA.L:2024-04-12",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Cirata plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Software - Application",
+        "market": "AIM",
+        "sector": "Technology",
+        "ticker": "CRTA.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 1.77,
+        "legacy_signal_color": "ORANGE",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "CRTA.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2024-04-12",
+      "signal_state": "EXTREME CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "CRTA.L",
+      "watch_severity": "HIGH",
+      "why_crashdash_noticed": [
+        "EXTREME CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

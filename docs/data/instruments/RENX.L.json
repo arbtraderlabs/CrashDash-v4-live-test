@@ -1,0 +1,1387 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "DETECTED",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "freshness": "UNKNOWN",
+      "instrument_id": "RENX.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-04-23",
+      "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "RENX.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "ENHANCED DEEP CRASH-ACCUM COMBO"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Renalytix Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Health Information Services",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "RENX.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.62,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.62,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-12",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.11,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.11,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2022-05-13",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.46,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.46,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-16",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-17",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.75,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.75,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-17",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.25,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.25,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-19",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-24",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.12,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.12,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-24",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-26",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.6,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.6,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2022-05-26",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.54,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.54,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-27",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.22,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.22,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-30",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-05-31",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.87,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.87,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-05-31",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-06-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.11,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.11,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-06-30",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-07-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.33,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.33,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-07-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-07-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.99,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.99,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2022-07-08",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-08-31",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.0,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.0,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2022-08-31",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.21,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.21,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2022-09-01",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.25,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.25,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-09-02",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.14,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.14,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-09-05",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.25,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.25,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-09-07",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-12",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.11,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.11,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-09-12",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.67,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.67,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-09-14",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.12,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.12,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-09-15",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-09-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.71,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.71,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2022-09-16",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2022-10-05",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.71,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.71,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2022-10-05",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-10-06",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 4.1,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED EXTREME CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.1,
+          "severity": "PURPLE",
+          "signal_id": "RENX.L:2022-10-06",
+          "signal_type": "ENHANCED EXTREME CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-10-10",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 2.19,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED EXTREME CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.19,
+          "severity": "PURPLE",
+          "signal_id": "RENX.L:2022-10-10",
+          "signal_type": "ENHANCED EXTREME CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-10-14",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 5.07,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED EXTREME CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.07,
+          "severity": "PURPLE",
+          "signal_id": "RENX.L:2022-10-14",
+          "signal_type": "ENHANCED EXTREME CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-10-17",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 11.15,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 11.15,
+          "severity": "PURPLE",
+          "signal_id": "RENX.L:2022-10-17",
+          "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-10-18",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 2.85,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.85,
+          "severity": "PURPLE",
+          "signal_id": "RENX.L:2022-10-18",
+          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2022-10-19",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 7.46,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 7.46,
+          "severity": "PURPLE",
+          "signal_id": "RENX.L:2022-10-19",
+          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 6.93,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 6.93,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2023-11-14",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-11-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.11,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.11,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2023-11-15",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-12-13",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.75,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.75,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2023-12-13",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2023-12-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.85,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.85,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2023-12-22",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-01-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.31,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.31,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-01-10",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-01-19",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.58,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.58,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-01-19",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-04-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.35,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.35,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-04-30",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-05-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.48,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.48,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-05-01",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-05-31",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.76,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.76,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-05-31",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-03",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.68,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.68,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-06-03",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-06",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.16,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.16,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-06-06",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-25",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.48,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.48,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-06-25",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-26",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.9,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.9,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-06-26",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.52,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.52,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-06-27",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.79,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.79,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-06-28",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-08-20",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.98,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.98,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-08-20",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-08-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.83,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.83,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-08-22",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-08-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.11,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.11,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-08-27",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-08-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.74,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.74,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-08-30",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-09-30",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 5.44,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 5.44,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2024-09-30",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-01",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 9.9,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 9.9,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-10-01",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-04",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.77,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.77,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-10-04",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.45,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.45,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-10-07",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-09",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.44,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.44,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-10-09",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.25,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.25,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-10-10",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.65,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.65,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2024-10-15",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-17",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.26,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.26,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-10-17",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-10-21",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.54,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.54,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2024-10-21",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-11-28",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.11,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.11,
+          "severity": "ORANGE",
+          "signal_id": "RENX.L:2024-11-28",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-03-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.4,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.4,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2026-03-16",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-03-18",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 3.42,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.42,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2026-03-18",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-03-25",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.51,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.51,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2026-03-25",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-03-26",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.49,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.49,
+          "severity": "YELLOW",
+          "signal_id": "RENX.L:2026-03-26",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-04-02",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.77,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.77,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2026-04-02",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-04-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 8.15,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 8.15,
+          "severity": "GREEN",
+          "signal_id": "RENX.L:2026-04-22",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2026-04-23",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 3.6,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 3.6,
+          "severity": "PURPLE",
+          "signal_id": "RENX.L:2026-04-23",
+          "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
+        }
+      ],
+      "identity": {
+        "company_name": "Renalytix Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Health Information Services",
+        "market": "AIM",
+        "sector": "Healthcare",
+        "ticker": "RENX.L"
+      },
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat": [],
+      "sharechat_initial": [],
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "DETECTED",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 3.6,
+        "legacy_signal_color": "PURPLE",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "freshness": "UNKNOWN",
+      "instrument_id": "RENX.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [],
+          "price_points": [],
+          "rns_markers": []
+        },
+        "metadata": {
+          "company_name": null,
+          "current_close": null,
+          "market": "AIM",
+          "quote_unit_status": "UNAVAILABLE"
+        },
+        "price_history": [],
+        "source_as_of": null
+      },
+      "price_at_signal": null,
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-04-23",
+      "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "RENX.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "ENHANCED DEEP CRASH-ACCUM COMBO"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}
