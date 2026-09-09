@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.649999976158142,
+            "date": "2026-06-03",
+            "status": "EXACT"
           },
           "relative_activity": 5.02,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.4500000476837158,
+            "date": "2026-07-09",
+            "status": "EXACT"
           },
           "relative_activity": 4.12,
           "severity": "PURPLE",
@@ -107,9 +107,9 @@
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.399999976158142,
+            "date": "2026-07-14",
+            "status": "EXACT"
           },
           "relative_activity": 2.23,
           "severity": "PURPLE",
@@ -145,10 +145,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "BTC.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

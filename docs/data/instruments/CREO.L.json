@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 27.5049991607666,
+            "date": "2022-12-16",
+            "status": "EXACT"
           },
           "relative_activity": 6.6,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 24.368499755859375,
+            "date": "2022-12-20",
+            "status": "EXACT"
           },
           "relative_activity": 6.02,
           "severity": "GREEN",
@@ -107,9 +107,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 24.368499755859375,
+            "date": "2022-12-21",
+            "status": "EXACT"
           },
           "relative_activity": 2.44,
           "severity": "GREEN",
@@ -126,9 +126,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 24.127199172973633,
+            "date": "2023-01-11",
+            "status": "EXACT"
           },
           "relative_activity": 3.36,
           "severity": "GREEN",
@@ -145,9 +145,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 20.315099716186523,
+            "date": "2023-01-16",
+            "status": "EXACT"
           },
           "relative_activity": 2.84,
           "severity": "GREEN",
@@ -164,9 +164,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 19.301799774169922,
+            "date": "2023-01-17",
+            "status": "EXACT"
           },
           "relative_activity": 2.04,
           "severity": "GREEN",
@@ -183,9 +183,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 19.784299850463867,
+            "date": "2023-01-18",
+            "status": "EXACT"
           },
           "relative_activity": 3.97,
           "severity": "GREEN",
@@ -202,9 +202,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 19.301799774169922,
+            "date": "2023-01-24",
+            "status": "EXACT"
           },
           "relative_activity": 1.36,
           "severity": "YELLOW",
@@ -221,9 +221,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 19.301799774169922,
+            "date": "2023-01-26",
+            "status": "EXACT"
           },
           "relative_activity": 1.6,
           "severity": "GREEN",
@@ -240,9 +240,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 19.06049919128418,
+            "date": "2023-01-27",
+            "status": "EXACT"
           },
           "relative_activity": 3.08,
           "severity": "GREEN",
@@ -259,9 +259,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 18.939800262451172,
+            "date": "2023-02-07",
+            "status": "EXACT"
           },
           "relative_activity": 1.65,
           "severity": "GREEN",
@@ -278,9 +278,9 @@
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 18.577899932861328,
+            "date": "2023-02-13",
+            "status": "EXACT"
           },
           "relative_activity": 2.77,
           "severity": "PURPLE",
@@ -297,9 +297,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 22.75,
+            "date": "2023-03-09",
+            "status": "EXACT"
           },
           "relative_activity": 5.09,
           "severity": "YELLOW",
@@ -335,10 +335,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "CREO.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

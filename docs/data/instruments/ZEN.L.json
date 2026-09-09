@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 3.1500000953674316,
+            "date": "2025-10-16",
+            "status": "EXACT"
           },
           "relative_activity": 1.27,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 3.200000047683716,
+            "date": "2025-10-22",
+            "status": "EXACT"
           },
           "relative_activity": 2.2,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 3.0999999046325684,
+            "date": "2025-10-29",
+            "status": "EXACT"
           },
           "relative_activity": 2.24,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 3,
+            "date": "2025-10-30",
+            "status": "EXACT"
           },
           "relative_activity": 4.65,
           "severity": "YELLOW",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 2.700000047683716,
+            "date": "2025-11-04",
+            "status": "EXACT"
           },
           "relative_activity": 2.87,
           "severity": "YELLOW",
@@ -164,9 +164,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 2.4000000953674316,
+            "date": "2025-11-05",
+            "status": "EXACT"
           },
           "relative_activity": 3.64,
           "severity": "GREEN",
@@ -183,9 +183,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 2.549999952316284,
+            "date": "2025-11-07",
+            "status": "EXACT"
           },
           "relative_activity": 2.22,
           "severity": "YELLOW",
@@ -221,10 +221,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "ZEN.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

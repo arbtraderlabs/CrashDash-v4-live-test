@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 9,
+            "date": "2022-02-22",
+            "status": "EXACT"
           },
           "relative_activity": 2.36,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8,
+            "date": "2022-03-29",
+            "status": "EXACT"
           },
           "relative_activity": 1.34,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8,
+            "date": "2022-03-30",
+            "status": "EXACT"
           },
           "relative_activity": 3.05,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.599999904632568,
+            "date": "2022-06-27",
+            "status": "EXACT"
           },
           "relative_activity": 1.41,
           "severity": "YELLOW",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.5,
+            "date": "2022-06-30",
+            "status": "EXACT"
           },
           "relative_activity": 3.04,
           "severity": "YELLOW",
@@ -164,9 +164,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.25,
+            "date": "2022-07-01",
+            "status": "EXACT"
           },
           "relative_activity": 3.4,
           "severity": "YELLOW",
@@ -183,9 +183,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.25,
+            "date": "2022-07-05",
+            "status": "EXACT"
           },
           "relative_activity": 2.78,
           "severity": "YELLOW",
@@ -202,9 +202,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6,
+            "date": "2022-07-06",
+            "status": "EXACT"
           },
           "relative_activity": 2.56,
           "severity": "YELLOW",
@@ -221,9 +221,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 5.5,
+            "date": "2022-07-07",
+            "status": "EXACT"
           },
           "relative_activity": 2.67,
           "severity": "YELLOW",
@@ -259,10 +259,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "MBO.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

@@ -69,9 +69,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 120.72374725341797,
+            "date": "2022-07-21",
+            "status": "EXACT"
           },
           "relative_activity": 11.01,
           "severity": "GREEN",
@@ -88,9 +88,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 123.42203521728516,
+            "date": "2022-07-22",
+            "status": "EXACT"
           },
           "relative_activity": 3.76,
           "severity": "GREEN",
@@ -107,9 +107,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 118.5251235961914,
+            "date": "2022-07-25",
+            "status": "EXACT"
           },
           "relative_activity": 1.88,
           "severity": "GREEN",
@@ -126,9 +126,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 112.62884521484375,
+            "date": "2022-07-26",
+            "status": "EXACT"
           },
           "relative_activity": 2.4,
           "severity": "GREEN",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 48.469383239746094,
+            "date": "2023-11-28",
+            "status": "EXACT"
           },
           "relative_activity": 1.31,
           "severity": "YELLOW",
@@ -164,9 +164,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 41.51377868652344,
+            "date": "2024-01-18",
+            "status": "EXACT"
           },
           "relative_activity": 1.4,
           "severity": "YELLOW",
@@ -183,9 +183,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 37.076576232910156,
+            "date": "2024-01-22",
+            "status": "EXACT"
           },
           "relative_activity": 3.15,
           "severity": "GREEN",
@@ -202,9 +202,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 39.63496398925781,
+            "date": "2024-01-23",
+            "status": "EXACT"
           },
           "relative_activity": 2.77,
           "severity": "YELLOW",
@@ -221,9 +221,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 39.874813079833984,
+            "date": "2024-01-24",
+            "status": "EXACT"
           },
           "relative_activity": 2.09,
           "severity": "YELLOW",
@@ -259,10 +259,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "SFOR.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

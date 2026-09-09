@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 209.14495849609375,
+            "date": "2023-10-16",
+            "status": "EXACT"
           },
           "relative_activity": 1.46,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 198.3380126953125,
+            "date": "2023-10-20",
+            "status": "EXACT"
           },
           "relative_activity": 1.31,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 207.2378387451172,
+            "date": "2023-10-24",
+            "status": "EXACT"
           },
           "relative_activity": 1.21,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 178.75856018066406,
+            "date": "2023-12-01",
+            "status": "EXACT"
           },
           "relative_activity": 1.23,
           "severity": "YELLOW",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 177.7414093017578,
+            "date": "2023-12-08",
+            "status": "EXACT"
           },
           "relative_activity": 3.59,
           "severity": "YELLOW",
@@ -164,9 +164,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 179.2670440673828,
+            "date": "2024-01-25",
+            "status": "EXACT"
           },
           "relative_activity": 1.28,
           "severity": "YELLOW",
@@ -183,9 +183,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 175.4529266357422,
+            "date": "2024-02-02",
+            "status": "EXACT"
           },
           "relative_activity": 3.15,
           "severity": "YELLOW",
@@ -202,9 +202,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 173.16436767578125,
+            "date": "2024-02-05",
+            "status": "EXACT"
           },
           "relative_activity": 2.5,
           "severity": "YELLOW",
@@ -221,9 +221,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 161.4674835205078,
+            "date": "2024-02-07",
+            "status": "EXACT"
           },
           "relative_activity": 4.52,
           "severity": "YELLOW",
@@ -259,10 +259,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "CNE.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.05249999836087227,
+            "date": "2024-12-24",
+            "status": "EXACT"
           },
           "relative_activity": 20.0,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.05249999836087227,
+            "date": "2024-12-31",
+            "status": "EXACT"
           },
           "relative_activity": 5.49,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.02500000037252903,
+            "date": "2025-11-05",
+            "status": "EXACT"
           },
           "relative_activity": 20.0,
           "severity": "ORANGE",
@@ -126,9 +126,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.02500000037252903,
+            "date": "2025-11-06",
+            "status": "EXACT"
           },
           "relative_activity": 2.37,
           "severity": "ORANGE",
@@ -145,9 +145,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.02500000037252903,
+            "date": "2025-11-07",
+            "status": "EXACT"
           },
           "relative_activity": 10.6,
           "severity": "ORANGE",
@@ -164,9 +164,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.009999999776482582,
+            "date": "2026-04-02",
+            "status": "EXACT"
           },
           "relative_activity": 3.31,
           "severity": "YELLOW",
@@ -183,9 +183,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.009999999776482582,
+            "date": "2026-04-10",
+            "status": "EXACT"
           },
           "relative_activity": 2.46,
           "severity": "YELLOW",
@@ -221,10 +221,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "INC.AQ",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

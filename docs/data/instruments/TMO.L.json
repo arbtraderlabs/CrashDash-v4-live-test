@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8.75,
+            "date": "2025-12-18",
+            "status": "EXACT"
           },
           "relative_activity": 7.66,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8.850000381469727,
+            "date": "2025-12-19",
+            "status": "EXACT"
           },
           "relative_activity": 6.34,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8.850000381469727,
+            "date": "2025-12-22",
+            "status": "EXACT"
           },
           "relative_activity": 6.93,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8.850000381469727,
+            "date": "2026-01-02",
+            "status": "EXACT"
           },
           "relative_activity": 1.51,
           "severity": "YELLOW",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8.550000190734863,
+            "date": "2026-02-18",
+            "status": "EXACT"
           },
           "relative_activity": 4.85,
           "severity": "YELLOW",
@@ -183,10 +183,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "TMO.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

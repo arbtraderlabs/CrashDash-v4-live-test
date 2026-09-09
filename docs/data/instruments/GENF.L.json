@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.649999976158142,
+            "date": "2023-03-23",
+            "status": "EXACT"
           },
           "relative_activity": 1.46,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.6749999523162842,
+            "date": "2023-03-24",
+            "status": "EXACT"
           },
           "relative_activity": 4.34,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.625,
+            "date": "2023-03-27",
+            "status": "EXACT"
           },
           "relative_activity": 4.69,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.5750000476837158,
+            "date": "2023-03-28",
+            "status": "EXACT"
           },
           "relative_activity": 2.11,
           "severity": "YELLOW",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.649999976158142,
+            "date": "2023-03-31",
+            "status": "EXACT"
           },
           "relative_activity": 2.31,
           "severity": "YELLOW",
@@ -183,10 +183,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "GENF.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

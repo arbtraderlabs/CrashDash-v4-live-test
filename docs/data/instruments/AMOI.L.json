@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 2,
+            "date": "2022-04-01",
+            "status": "EXACT"
           },
           "relative_activity": 4.96,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.8999999761581421,
+            "date": "2025-08-18",
+            "status": "EXACT"
           },
           "relative_activity": 3.8,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 0.824999988079071,
+            "date": "2025-09-17",
+            "status": "EXACT"
           },
           "relative_activity": 7.11,
           "severity": "PURPLE",
@@ -145,10 +145,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "AMOI.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

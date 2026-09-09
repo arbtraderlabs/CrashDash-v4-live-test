@@ -69,9 +69,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.5,
+            "date": "2026-07-22",
+            "status": "EXACT"
           },
           "relative_activity": 2.68,
           "severity": "GREEN",
@@ -88,9 +88,9 @@
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.524999976158142,
+            "date": "2026-07-23",
+            "status": "EXACT"
           },
           "relative_activity": 1.63,
           "severity": "PURPLE",
@@ -107,9 +107,9 @@
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.4900000095367432,
+            "date": "2026-07-24",
+            "status": "EXACT"
           },
           "relative_activity": 1.72,
           "severity": "PURPLE",
@@ -126,9 +126,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.3250000476837158,
+            "date": "2026-08-25",
+            "status": "EXACT"
           },
           "relative_activity": 2.05,
           "severity": "GREEN",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 1.350000023841858,
+            "date": "2026-08-28",
+            "status": "EXACT"
           },
           "relative_activity": 2.45,
           "severity": "YELLOW",
@@ -183,10 +183,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "CPH2.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

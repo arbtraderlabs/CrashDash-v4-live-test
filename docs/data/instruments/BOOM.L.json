@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 410,
+            "date": "2022-12-16",
+            "status": "EXACT"
           },
           "relative_activity": 5.3,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 442.5,
+            "date": "2022-12-19",
+            "status": "EXACT"
           },
           "relative_activity": 5.55,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 415,
+            "date": "2022-12-20",
+            "status": "EXACT"
           },
           "relative_activity": 2.18,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 372.5,
+            "date": "2023-01-27",
+            "status": "EXACT"
           },
           "relative_activity": 2.42,
           "severity": "YELLOW",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 369,
+            "date": "2023-01-30",
+            "status": "EXACT"
           },
           "relative_activity": 2.38,
           "severity": "YELLOW",
@@ -164,9 +164,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 360,
+            "date": "2023-04-19",
+            "status": "EXACT"
           },
           "relative_activity": 4.55,
           "severity": "YELLOW",
@@ -183,9 +183,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 350,
+            "date": "2023-04-20",
+            "status": "EXACT"
           },
           "relative_activity": 1.97,
           "severity": "YELLOW",
@@ -202,9 +202,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 330,
+            "date": "2023-04-21",
+            "status": "EXACT"
           },
           "relative_activity": 2.63,
           "severity": "YELLOW",
@@ -221,9 +221,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 220,
+            "date": "2023-06-23",
+            "status": "EXACT"
           },
           "relative_activity": 6.19,
           "severity": "YELLOW",
@@ -240,9 +240,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 217.5,
+            "date": "2023-06-26",
+            "status": "EXACT"
           },
           "relative_activity": 1.94,
           "severity": "YELLOW",
@@ -259,9 +259,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 187.5,
+            "date": "2023-06-29",
+            "status": "EXACT"
           },
           "relative_activity": 1.21,
           "severity": "YELLOW",
@@ -278,9 +278,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 132.5,
+            "date": "2023-10-05",
+            "status": "EXACT"
           },
           "relative_activity": 1.62,
           "severity": "YELLOW",
@@ -297,9 +297,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 132.5,
+            "date": "2023-11-01",
+            "status": "EXACT"
           },
           "relative_activity": 2.23,
           "severity": "YELLOW",
@@ -335,10 +335,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "BOOM.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

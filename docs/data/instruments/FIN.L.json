@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8.5,
+            "date": "2022-06-30",
+            "status": "EXACT"
           },
           "relative_activity": 14.29,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 7.25,
+            "date": "2022-07-04",
+            "status": "EXACT"
           },
           "relative_activity": 1.46,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8.149999618530273,
+            "date": "2022-09-14",
+            "status": "EXACT"
           },
           "relative_activity": 2.07,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 7.75,
+            "date": "2022-09-16",
+            "status": "EXACT"
           },
           "relative_activity": 2.14,
           "severity": "PURPLE",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 7.125,
+            "date": "2022-09-20",
+            "status": "EXACT"
           },
           "relative_activity": 2.93,
           "severity": "YELLOW",
@@ -164,9 +164,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.25,
+            "date": "2022-12-06",
+            "status": "EXACT"
           },
           "relative_activity": 4.56,
           "severity": "GREEN",
@@ -183,9 +183,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.25,
+            "date": "2022-12-12",
+            "status": "EXACT"
           },
           "relative_activity": 5.17,
           "severity": "YELLOW",
@@ -202,9 +202,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6,
+            "date": "2022-12-16",
+            "status": "EXACT"
           },
           "relative_activity": 2.88,
           "severity": "GREEN",
@@ -221,9 +221,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6,
+            "date": "2022-12-19",
+            "status": "EXACT"
           },
           "relative_activity": 1.62,
           "severity": "YELLOW",
@@ -240,9 +240,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 5.875,
+            "date": "2022-12-23",
+            "status": "EXACT"
           },
           "relative_activity": 5.06,
           "severity": "YELLOW",
@@ -278,10 +278,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "FIN.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

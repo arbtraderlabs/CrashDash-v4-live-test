@@ -69,9 +69,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 95.75,
+            "date": "2022-05-31",
+            "status": "EXACT"
           },
           "relative_activity": 2.98,
           "severity": "YELLOW",
@@ -88,9 +88,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 87.0999984741211,
+            "date": "2022-06-10",
+            "status": "EXACT"
           },
           "relative_activity": 3.35,
           "severity": "YELLOW",
@@ -107,9 +107,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 81.25,
+            "date": "2022-06-13",
+            "status": "EXACT"
           },
           "relative_activity": 1.28,
           "severity": "YELLOW",
@@ -126,9 +126,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 83.5,
+            "date": "2022-06-16",
+            "status": "EXACT"
           },
           "relative_activity": 2.15,
           "severity": "YELLOW",
@@ -145,9 +145,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 73.25,
+            "date": "2022-07-14",
+            "status": "EXACT"
           },
           "relative_activity": 3.0,
           "severity": "YELLOW",
@@ -164,9 +164,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 70.44999694824219,
+            "date": "2022-07-15",
+            "status": "EXACT"
           },
           "relative_activity": 1.31,
           "severity": "GREEN",
@@ -183,9 +183,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 74.05000305175781,
+            "date": "2022-07-18",
+            "status": "EXACT"
           },
           "relative_activity": 5.81,
           "severity": "YELLOW",
@@ -202,9 +202,9 @@
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 64,
+            "date": "2022-08-31",
+            "status": "EXACT"
           },
           "relative_activity": 2.62,
           "severity": "YELLOW",
@@ -221,9 +221,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 60.20000076293945,
+            "date": "2022-09-01",
+            "status": "EXACT"
           },
           "relative_activity": 3.0,
           "severity": "GREEN",
@@ -240,9 +240,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 61.5,
+            "date": "2022-09-02",
+            "status": "EXACT"
           },
           "relative_activity": 4.96,
           "severity": "GREEN",
@@ -259,9 +259,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 56.5,
+            "date": "2022-09-08",
+            "status": "EXACT"
           },
           "relative_activity": 3.75,
           "severity": "GREEN",
@@ -297,10 +297,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "TRST.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"

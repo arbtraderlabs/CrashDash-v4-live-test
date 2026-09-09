@@ -69,9 +69,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 13.199999809265137,
+            "date": "2026-07-14",
+            "status": "EXACT"
           },
           "relative_activity": 3.71,
           "severity": "GREEN",
@@ -88,9 +88,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 12.600000381469727,
+            "date": "2026-07-15",
+            "status": "EXACT"
           },
           "relative_activity": 1.63,
           "severity": "GREEN",
@@ -107,9 +107,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 8,
+            "date": "2026-07-17",
+            "status": "EXACT"
           },
           "relative_activity": 3.73,
           "severity": "ORANGE",
@@ -126,9 +126,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 5,
+            "date": "2026-07-20",
+            "status": "EXACT"
           },
           "relative_activity": 5.36,
           "severity": "ORANGE",
@@ -145,9 +145,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 5.199999809265137,
+            "date": "2026-07-21",
+            "status": "EXACT"
           },
           "relative_activity": 13.35,
           "severity": "ORANGE",
@@ -164,9 +164,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 5.21999979019165,
+            "date": "2026-07-22",
+            "status": "EXACT"
           },
           "relative_activity": 4.88,
           "severity": "ORANGE",
@@ -183,9 +183,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.039999961853027,
+            "date": "2026-07-23",
+            "status": "EXACT"
           },
           "relative_activity": 2.07,
           "severity": "ORANGE",
@@ -202,9 +202,9 @@
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 6.679999828338623,
+            "date": "2026-07-24",
+            "status": "EXACT"
           },
           "relative_activity": 2.72,
           "severity": "ORANGE",
@@ -221,9 +221,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 5.800000190734863,
+            "date": "2026-07-27",
+            "status": "EXACT"
           },
           "relative_activity": 1.26,
           "severity": "GREEN",
@@ -240,9 +240,9 @@
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
-            "close": null,
-            "date": null,
-            "status": "NOT_AVAILABLE"
+            "close": 5.239999771118164,
+            "date": "2026-07-28",
+            "status": "EXACT"
           },
           "relative_activity": 1.81,
           "severity": "GREEN",
@@ -278,10 +278,15 @@
       "rns_initial": [],
       "rns_records_emitted": 0,
       "rns_total_available": 0,
-      "sharechat": [],
-      "sharechat_initial": [],
-      "sharechat_records_emitted": 0,
-      "sharechat_total_available": 0,
+      "sharechat_snapshot": {
+        "analysis_status": "NOT_AVAILABLE",
+        "captured_at": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "summary": null,
+        "ticker": "HEAD.L",
+        "total_posts": 0
+      },
       "trends": {
         "records": [],
         "status": "NOT_IMPLEMENTED"
