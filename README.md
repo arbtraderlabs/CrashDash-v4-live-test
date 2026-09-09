@@ -5,6 +5,8 @@ to prove out the CrashDash V4 static-publication architecture end to end,
 independently of the private production backend. It is **not** the real
 CrashDash production website (`arbtraderlabs/CrashDash`).
 
+https://arbtraderlabs.github.io/CrashDash-v4-live-test/
+
 ## What this proves
 
 ```
