@@ -122,7 +122,12 @@ def stage_publish(runner: StageRunner, *, dry_run: bool, allow_dirty_outside_doc
 
 def stage_smoke(runner: StageRunner, *, base_url: str) -> None:
     with runner.stage("smoke", input={"base_url": base_url}) as stage:
-        report = run_smoke(base_url)
+        config = load_config()
+        report = run_smoke(
+            base_url,
+            required_tickers=config.smoke_required_tickers,
+            random_sample_size=config.smoke_random_historical_sample_size,
+        )
         stage.output = report
         stage.counts = {"checks_run": len(report["checks"]), "checks_passed": sum(1 for c in report["checks"] if c["passed"])}
         if not report["passed"]:
