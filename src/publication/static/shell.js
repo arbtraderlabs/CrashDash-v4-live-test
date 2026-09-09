@@ -63,6 +63,20 @@ let company30sIndex = 0;
 
 const currentFilters = { severity: "ALL", accumulationOnly: false, sort: "severity", exchange: "ALL" };
 const historyFilters = { severity: "ALL", accumulationOnly: false, year: "ALL", search: "", view: "all", pageSize: PAGE_SIZE_OPTIONS[0], page: 1 };
+const SIGNAL_SEVERITIES = Object.freeze({
+  "CRASH ZONE BOTTOM": "CLOSE WATCH",
+  "DEEP CRASH BOTTOM": "ELEVATED",
+  "EXTREME CRASH BOTTOM": "HIGH",
+  "ULTRA CRASH BOTTOM": "EXTREME CAUTION",
+});
+
+function productSeverity(alert) {
+  const signalType = String(alert.signal_type || alert.signal_state || "").trim();
+  const supplied = String(alert.severity || alert.watch_severity || "").trim().toUpperCase();
+  return Object.prototype.hasOwnProperty.call(SIGNAL_SEVERITIES, signalType)
+    ? SIGNAL_SEVERITIES[signalType]
+    : (["CLOSE WATCH", "ELEVATED", "HIGH", "EXTREME CAUTION"].includes(supplied) ? supplied : "UNAVAILABLE");
+}
 
 function prefersReducedMotion() {
   return window.matchMedia?.("(prefers-reduced-motion: reduce)").matches ?? false;
@@ -173,7 +187,9 @@ async function loadInstrumentBundle(instrumentId) {
       ...(Array.isArray(instrument.historical_alerts) ? instrument.historical_alerts : []).map((alert) => ({ ...alert, current: false })),
     ].map((alert) => ({
       ...alert,
-      severity: alert.severity || alert.watch_severity,
+      event_type: alert.event_type || alert.marker_type || "CRASHDASH_SIGNAL",
+      marker_type: alert.marker_type || alert.event_type || "CRASHDASH_SIGNAL",
+      severity: productSeverity(alert),
       signal_type: alert.signal_type || alert.signal_state,
       accumulation: alert.accumulation === "DETECTED" || alert.accumulation === true,
     }));
