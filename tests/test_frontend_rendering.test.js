@@ -35,11 +35,13 @@ const model = {
 
 test("live shell renders typed CrashDash and RNS markers separately", () => {
   const markup = renderBeginner(model, { chartRange: "FULL" });
-  assert.match(markup, /<polygon class="chart-signal-marker severity-marker-high historical"/);
-  assert.match(markup, /<polygon class="chart-signal-marker severity-marker-extreme-caution historical"/);
+  assert.match(markup, /<circle class="chart-signal-marker severity-marker-high historical"/);
+  assert.match(markup, /<circle class="chart-signal-marker severity-marker-extreme-caution historical"/);
   assert.match(markup, /class="chart-signal-marker severity-marker-elevated current"/);
   assert.match(markup, /class="chart-rns-marker"[^>]*data-event-type="RNS"/);
   assert.match(markup, /ShareChat posts observed\. Community analysis is pending/);
+  assert.doesNotMatch(markup, /Showing the latest 0 of 12/);
   assert.match(markup, /stock_split \(1\/10\) on 2025-10-14/);
+  assert.doesNotMatch(markup, /<polygon class="chart-signal-marker/);
   assert.doesNotMatch(markup, /GREEN|ORANGE|RED|YELLOW/);
 });
