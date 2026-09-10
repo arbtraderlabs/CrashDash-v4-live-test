@@ -1,40 +1,50 @@
 {
   "data": {
-    "accumulation_state": "NOT_DETECTED",
+    "accumulation_state": "UNKNOWN",
     "ai_analysis": null,
     "ai_status": "ANALYSIS_PENDING",
     "data_quality": "READY",
     "evidence_refs": [],
     "freshness": "UNKNOWN",
-    "instrument_id": "AMG.L",
-    "limitations": [
-      "RNS context is not currently available."
-    ],
+    "instrument_id": "GDR.L",
+    "limitations": [],
     "local_enrichment": {
       "convergence": {
         "alert_markers": [],
         "price_points": [],
-        "rns_markers": []
+        "rns_markers": [
+          {
+            "headline": "Canonical shadow RNS fixture",
+            "source": "RNS",
+            "ticker": "GDR.L"
+          }
+        ]
       },
       "metadata": {
-        "company_name": "Atlas Metals Group plc",
+        "company_name": "GDR.L",
         "current_close": null,
-        "market": "LSE_MAIN",
+        "market": "AIM",
         "quote_unit_status": "UNAVAILABLE"
       },
       "price_history": [],
-      "source_as_of": null
+      "source_as_of": "2026-01-26 14:33:21"
     },
-    "price_at_signal": 4.75,
-    "rns_records_emitted": 0,
-    "rns_total_available": 0,
-    "sharechat_records_emitted": 0,
-    "sharechat_total_available": 0,
-    "signal_date": "2026-08-21",
+    "price_at_signal": null,
+    "rns_records_emitted": 1,
+    "rns_total_available": 1,
+    "sharechat_records_emitted": 1,
+    "sharechat_total_available": 1,
+    "signal_date": "2021-01-08",
     "signal_state": "CRASH ZONE BOTTOM",
-    "social_records": [],
-    "social_status": "NO_DATA",
-    "ticker": "AMG.L",
+    "social_records": [
+      {
+        "source": "ShareChat",
+        "text": "Canonical shadow ShareChat fixture",
+        "ticker": "GDR.L"
+      }
+    ],
+    "social_status": "READY",
+    "ticker": "GDR.L",
     "watch_severity": "CLOSE WATCH",
     "why_crashdash_noticed": [
       "CRASH ZONE BOTTOM"
