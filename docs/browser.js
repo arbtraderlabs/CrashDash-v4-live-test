@@ -473,7 +473,7 @@ function renderInspectionPanel(points, byIndexEvents, quoteUnit) {
   const context = renderPointEventContext(point, byIndexEvents[lastIndex], quoteUnit);
   return `<div class="chart-inspection" data-chart-inspection>
     <p class="inspection-date" data-chart-inspection-date>${escapeHtml(humanDate(point.date) || point.date)}</p>
-    <p class="inspection-price" data-chart-inspection-price>${price !== null ? escapeHtml(price) : "Price unavailable"}</p>
+    <p class="inspection-price" data-chart-inspection-price>${price !== null ? escapeHtml(price) : "Exact alert-date price unavailable"}</p>
     <div class="inspection-context" data-chart-inspection-context>${context}</div>
   </div>`;
 }
@@ -549,9 +549,7 @@ function renderChartMarkers(points, markers, className, label, scale) {
     const eventType = marker.event_type || marker.marker_type || (className === "chart-rns-marker" ? "RNS" : "CRASHDASH_SIGNAL");
     const shape = className === "chart-rns-marker"
       ? `<rect class="${className}" data-event-type="${eventType}" x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" transform="rotate(45 ${x.toFixed(1)} ${y.toFixed(1)})" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></rect>`
-      : marker.current
-        ? `<circle class="${className}${severityClass}${markerState}" data-event-type="${eventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : "6.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`
-        : `<polygon class="${className}${severityClass}${markerState}" data-event-type="${eventType}" points="${x.toFixed(1)},${(y - 6).toFixed(1)} ${(x + 6).toFixed(1)},${y.toFixed(1)} ${x.toFixed(1)},${(y + 6).toFixed(1)} ${(x - 6).toFixed(1)},${y.toFixed(1)}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></polygon>`;
+      : `<circle class="${className}${severityClass}${markerState}" data-event-type="${eventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : marker.current ? "6.5" : "4.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`;
     return marker.chart_id ? `<a href="#${escapeHtml(marker.chart_id)}" aria-label="${escapeHtml(title)}">${shape}</a>` : shape;
   }).join("");
 }
@@ -686,7 +684,10 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
         ? "Stored analysis is not currently available."
         : "No stored analysis is available.";
   const aiTimestamp = ai && typeof ai === "object" ? (ai.completed_at || ai.updated_at || ai.source_timestamp) : null;
-  const rnsAvailable = Number.isFinite(Number(model.rns_total_available)) ? Number(model.rns_total_available) : rnsMarkers.length;
+  const rnsAvailable = Math.max(
+    rnsMarkers.length,
+    Number.isFinite(Number(model.rns_total_available)) ? Number(model.rns_total_available) : 0,
+  );
   const rnsVisible = rnsMarkers.slice().reverse();
   const rnsInitial = rnsVisible.slice(0, 5);
   const rnsRemaining = rnsVisible.slice(5);
@@ -727,7 +728,7 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
       <div class="section-heading"><div><p class="eyebrow">AI-enhanced research</p><h2 id="research-intelligence-heading">Research intelligence</h2></div><span class="state-chip placeholder">Evidence-led summary</span></div>
       <article class="research-card"><h3>CrashDash intelligence</h3><p>CrashDash noticed this instrument because the evidence listed above aligned with a ${escapeHtml(model.watch_severity || "current")} signal.</p></article>
       <article class="research-card"><h3>Official RNS evidence</h3><p>${rnsAvailable ? `${rnsAvailable} announcements available. Showing the latest ${Math.min(5, rnsInitial.length)} first.` : "RNS headers are not currently available."}</p>${rnsInitial.map(renderRns).join("")}${rnsRemaining.length ? `<details class="evidence-more"><summary>Show more RNS announcements</summary>${rnsRemaining.map(renderRns).join("")}</details>` : ""}</article>
-      <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : ""}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></details>` : ""}</article>
+      <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${socialSnapshot ? "" : (socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : "")}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></details>` : ""}</article>
       ${corporateActions ? `<article class="research-card"><h3>Corporate actions</h3><p>${escapeHtml(corporateActionText)}</p></article>` : ""}
       <article class="research-card"><h3>Stored AI analysis</h3><p>${escapeHtml(aiText)}</p>${aiTimestamp ? `<p class="research-source">Source timestamp: ${escapeHtml(String(aiTimestamp))}</p>` : ""}</article>
       <article class="research-card"><h3>Risk flags</h3><p>Review the data-quality note and unavailable evidence before drawing conclusions.</p></article>

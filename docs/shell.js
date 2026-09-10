@@ -463,7 +463,7 @@ function wireChartInspection(scopeRoot) {
     const price = formatQuotePrice(point.close, quoteUnit);
     selectedChartDate = point.date;
     if (dateEl) dateEl.textContent = humanDate(point.date) || point.date;
-    if (priceEl) priceEl.textContent = price !== null ? price : "Price unavailable";
+    if (priceEl) priceEl.textContent = price !== null ? price : "Exact alert-date price unavailable";
     if (contextEl) contextEl.innerHTML = renderPointEventContext(point, eventsFromHit(hit), quoteUnit);
     if (crosshairLine) {
       crosshairLine.setAttribute("x1", hit.getAttribute("cx"));
