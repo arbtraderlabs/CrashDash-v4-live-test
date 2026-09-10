@@ -35,14 +35,14 @@ const model = {
 
 test("live shell renders typed CrashDash and RNS markers separately", () => {
   const markup = renderBeginner(model, { chartRange: "FULL" });
-  assert.match(markup, /<circle class="chart-signal-marker severity-marker-high historical"/);
-  assert.match(markup, /<circle class="chart-signal-marker severity-marker-extreme-caution historical"/);
+  assert.match(markup, /<polygon class="chart-signal-marker severity-marker-high historical"/);
+  assert.match(markup, /<polygon class="chart-signal-marker severity-marker-extreme-caution historical"/);
   assert.match(markup, /class="chart-signal-marker severity-marker-elevated current"/);
   assert.match(markup, /class="chart-rns-marker"[^>]*data-event-type="RNS"/);
   assert.match(markup, /ShareChat posts observed\. Community analysis is pending/);
   assert.doesNotMatch(markup, /Showing the latest 0 of 12/);
   assert.match(markup, /stock_split \(1\/10\) on 2025-10-14/);
-  assert.doesNotMatch(markup, /<polygon class="chart-signal-marker/);
+  assert.match(markup, /<polygon class="chart-signal-marker/);
   assert.doesNotMatch(markup, /GREEN|ORANGE|RED|YELLOW/);
 });
 
@@ -72,4 +72,26 @@ test("price series renders a real chart independently of exact alert-date price"
   const markup = renderBeginner(model, { chartRange: "FULL" });
   assert.match(markup, /class="chart-area"/);
   assert.match(markup, /Source price history shown for context only/);
+});
+
+test("public profile RNS records render newest five and expand to twenty", () => {
+  const records = Array.from({ length: 22 }, (_, index) => ({
+    date: `${index + 1}th Sep 2026`,
+    headline: `Profile announcement ${index + 1}`,
+    category: index === 21 ? "BULLISH" : "NEUTRAL",
+  }));
+  const markup = renderBeginner({
+    ...model,
+    profile: {
+      rns: { records, total_available: 87 },
+      sharechat_snapshot: { total_posts: 12, analysis_status: "ANALYSIS_PENDING" },
+    },
+    local_enrichment: { metadata: model.local_enrichment.metadata, price_history: model.local_enrichment.convergence.price_points },
+  }, { chartRange: "FULL" });
+  assert.match(markup, /87 announcements found · showing latest 5/);
+  assert.ok(markup.lastIndexOf("Profile announcement 22") < markup.lastIndexOf("Profile announcement 21"));
+  assert.match(markup, /Showing latest 20 of 87 · Show less/);
+  assert.match(markup, /Rating: BULLISH/);
+  assert.match(markup, /12 ShareChat posts observed\. Community analysis is pending\./);
+  assert.doesNotMatch(markup, /Showing the latest 0 of 12/);
 });

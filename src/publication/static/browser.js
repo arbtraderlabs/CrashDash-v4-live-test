@@ -549,7 +549,9 @@ function renderChartMarkers(points, markers, className, label, scale) {
     const eventType = marker.event_type || marker.marker_type || (className === "chart-rns-marker" ? "RNS" : "CRASHDASH_SIGNAL");
     const shape = className === "chart-rns-marker"
       ? `<rect class="${className}" data-event-type="${eventType}" x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" transform="rotate(45 ${x.toFixed(1)} ${y.toFixed(1)})" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></rect>`
-      : `<circle class="${className}${severityClass}${markerState}" data-event-type="${eventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : marker.current ? "6.5" : "4.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`;
+      : marker.current
+        ? `<circle class="${className}${severityClass}${markerState}" data-event-type="${eventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : "6.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`
+        : `<polygon class="${className}${severityClass}${markerState}" data-event-type="${eventType}" points="${x.toFixed(1)},${(y - 6).toFixed(1)} ${(x + 6).toFixed(1)},${y.toFixed(1)} ${x.toFixed(1)},${(y + 6).toFixed(1)} ${(x - 6).toFixed(1)},${y.toFixed(1)}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></polygon>`;
     return marker.chart_id ? `<a href="#${escapeHtml(marker.chart_id)}" aria-label="${escapeHtml(title)}">${shape}</a>` : shape;
   }).join("");
 }
@@ -619,12 +621,19 @@ function eventDateValue(item) {
 }
 
 function compareNewestFirst(left, right) {
-  return String(eventDateValue(right)).localeCompare(String(eventDateValue(left)));
+  const normalize = (value) => String(value || "").replace(/^(\d{1,2})(st|nd|rd|th)\b/i, "$1");
+  const rightValue = normalize(eventDateValue(right));
+  const leftValue = normalize(eventDateValue(left));
+  const difference = Date.parse(rightValue) - Date.parse(leftValue);
+  return Number.isNaN(difference) || difference === 0
+    ? rightValue.localeCompare(leftValue)
+    : difference;
 }
 
 function renderResearchSections(model, chartRange = "1Y", primaryContext = "", filters = {}) {
   const accumulation = model.accumulation_state === "DETECTED";
   const local = enrichment(model);
+  const profile = model.profile && typeof model.profile === "object" ? model.profile : {};
   const metadata = local.metadata || {};
   const convergence = local.convergence || {};
   const chartData = chartDataForRange(convergence, chartRange);
@@ -636,8 +645,10 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
   const alertMarkers = chartData.alerts
     .filter((marker) => filterState.severities[marker.severity])
     .map((marker) => ({ ...marker, accumulation: filterState.accumulation && marker.accumulation }));
+  const profileRns = Array.isArray(profile.rns?.records) ? profile.rns.records : [];
+  const rnsRecords = profileRns.length ? profileRns : chartData.rns;
   const rnsMarkers = filterState.rns
-    ? chartData.rns.map((item, index) => ({ ...item, chart_id: `rns-${index}` }))
+    ? rnsRecords.map((item, index) => ({ ...item, chart_id: `rns-${index}` }))
     : [];
   const byIndexEvents = buildPointEvents(points, alertMarkers, rnsMarkers);
   if (filterState.accumulation) {
@@ -667,8 +678,9 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
   const rangeControls = CHART_RANGES.map(([key]) => `<button type="button" class="chart-range${chartRange === key ? " active" : ""}" data-chart-range="${key}" aria-pressed="${chartRange === key}">${key === "FULL" ? "ALL" : key}</button>`).join("");
   const earlierNote = chartData.earlierAlerts ? `<p class="chart-note">${chartData.earlierAlerts} earlier Research Alert(s) exist outside this range.</p>` : "";
   const socialRecords = Array.isArray(model.social_records) ? model.social_records : [];
-  const socialSnapshot = model.sharechat_snapshot && typeof model.sharechat_snapshot === "object"
-    ? model.sharechat_snapshot : null;
+  const socialSnapshot = (model.sharechat_snapshot || profile.sharechat_snapshot) &&
+    typeof (model.sharechat_snapshot || profile.sharechat_snapshot) === "object"
+    ? (model.sharechat_snapshot || profile.sharechat_snapshot) : null;
   const socialStatus = model.social_status || "NO_DATA";
   const socialText = socialSnapshot?.analysis_status === "AVAILABLE"
     ? `${socialSnapshot.total_posts || 0} ShareChat posts observed. ${socialSnapshot.sentiment ? `Sentiment: ${socialSnapshot.sentiment}.` : ""} ${socialSnapshot.summary || "No stored community summary is available."}`
@@ -683,7 +695,9 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
       : socialStatus === "UNAVAILABLE"
         ? "ShareChat discussion data is not currently available."
         : "No recorded discussion is available for this view.";
-  const ai = model.ai_analysis;
+  const storedResearch = profile.research && typeof profile.research === "object"
+    ? profile.research : null;
+  const ai = model.ai_analysis || storedResearch?.data;
   const aiText = ai && typeof ai === "object"
     ? (ai.summary || ai.text || ai.analysis || "Stored analysis is available.")
     : model.ai_status === "ANALYSIS_PENDING"
@@ -695,7 +709,9 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
   const rnsVisible = rnsMarkers.slice().sort(compareNewestFirst).slice(0, 20);
   const rnsAvailable = Math.max(
     rnsVisible.length,
-    Number.isFinite(Number(model.rns_total_available)) ? Number(model.rns_total_available) : 0,
+    Number.isFinite(Number(profile.rns?.total_available))
+      ? Number(profile.rns.total_available)
+      : Number.isFinite(Number(model.rns_total_available)) ? Number(model.rns_total_available) : 0,
   );
   const rnsInitial = rnsVisible.slice(0, 5);
   const rnsRemaining = rnsVisible.slice(5);

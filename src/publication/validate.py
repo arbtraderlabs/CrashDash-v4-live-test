@@ -102,12 +102,37 @@ def check_historical_coverage(candidate_root: Path) -> CheckResult:
             missing.append(ticker)
     instruments_dir = candidate_root / "data" / "instruments"
     generated = len(list(instruments_dir.glob("*.json"))) if instruments_dir.is_dir() else 0
+    signal_tickers = {
+        str(record.get("ticker") or record.get("instrument_id"))
+        for record in data.get("records", [])
+        if isinstance(record, dict) and (record.get("ticker") or record.get("instrument_id"))
+    }
+    history_path = candidate_root / "data" / "history.json"
+    if history_path.is_file():
+        history_payload, history_error = _load_json_text(history_path)
+        if history_error:
+            return CheckResult("historical_coverage", False, {"error": history_error})
+        history_data = _unwrap(history_payload)
+        if isinstance(history_data, dict):
+            signal_tickers.update(
+                str(record.get("ticker") or record.get("instrument_id"))
+                for record in history_data.get("records", [])
+                if isinstance(record, dict) and (record.get("ticker") or record.get("instrument_id"))
+            )
+    profile_tickers = {str(ticker) for ticker in details if ticker}
+    count_contract_ok = signal_tickers == profile_tickers == {
+        path.stem for path in instruments_dir.glob("*.json")
+    }
     return CheckResult(
         "historical_coverage",
-        not missing,
+        not missing and count_contract_ok,
         {
             "required_detail_files": len(required),
             "generated_detail_files": generated,
+            "unique_signal_tickers": len(signal_tickers),
+            "generated_profile_count": len(profile_tickers),
+            "public_instrument_count": generated,
+            "count_contract": count_contract_ok,
             "missing_detail_files": missing,
         },
     )
