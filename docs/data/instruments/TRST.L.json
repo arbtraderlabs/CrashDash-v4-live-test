@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Trustpilot Group plc",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-05-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.98,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-06-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.35,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58,10 +58,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-06-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.28,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -77,10 +77,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-06-16",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.15,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -96,10 +96,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-07-14",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -115,10 +115,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-07-15",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.31,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -134,10 +134,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-07-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.81,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -153,10 +153,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-08-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.62,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -172,10 +172,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-09-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.0,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -191,10 +191,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-09-02",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.96,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -210,10 +210,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-09-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.75,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -22321,7 +22321,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 56.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -22338,10 +22338,11 @@
           "ticker": "TRST.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 2.98,
           "severity": "YELLOW",
           "signal_date": "2022-05-31",
+          "signal_id": "TRST.L:2022-05-31",
           "ticker": "TRST.L"
         },
         "market_cap": null,
@@ -22557,10 +22558,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-05-31",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.98,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22576,10 +22577,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-06-10",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.35,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22595,10 +22596,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-06-13",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.28,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22614,10 +22615,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-06-16",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.15,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22633,10 +22634,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-07-14",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.0,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22652,10 +22653,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-07-15",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.31,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -22671,10 +22672,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-07-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 5.81,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22690,10 +22691,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-08-31",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.62,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22709,10 +22710,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-09-01",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.0,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -22728,10 +22729,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-09-02",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 4.96,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -22747,10 +22748,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-09-08",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.75,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -34022,7 +34023,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Trustpilot Group plc",
@@ -34047,10 +34048,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-05-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.98,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -34066,10 +34067,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-06-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.35,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -34085,10 +34086,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-06-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.28,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -34104,10 +34105,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-06-16",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.15,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -34123,10 +34124,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-07-14",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -34142,10 +34143,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-07-15",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.31,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -34161,10 +34162,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-07-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.81,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -34180,10 +34181,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-08-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.62,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -34199,10 +34200,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-09-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.0,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -34218,10 +34219,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-09-02",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.96,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -34237,10 +34238,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-09-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.75,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -56348,7 +56349,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 56.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -56365,10 +56366,11 @@
           "ticker": "TRST.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 2.98,
           "severity": "YELLOW",
           "signal_date": "2022-05-31",
+          "signal_id": "TRST.L:2022-05-31",
           "ticker": "TRST.L"
         },
         "market_cap": null,

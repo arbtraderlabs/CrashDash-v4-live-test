@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Narf Industries Plc",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-02-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.42,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-04-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.16,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -22326,7 +22326,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.325,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -22343,10 +22343,11 @@
           "ticker": "NARF.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 6.42,
           "severity": "YELLOW",
           "signal_date": "2025-02-24",
+          "signal_id": "NARF.L:2025-02-24",
           "ticker": "NARF.L"
         },
         "market_cap": null,
@@ -22561,10 +22562,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-02-24",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 6.42,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -22580,10 +22581,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-04-03",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.16,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -33943,7 +33944,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Narf Industries Plc",
@@ -33968,10 +33969,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-02-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.42,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -33987,10 +33988,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-04-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.16,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -56274,7 +56275,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.325,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -56291,10 +56292,11 @@
           "ticker": "NARF.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 6.42,
           "severity": "YELLOW",
           "signal_date": "2025-02-24",
+          "signal_id": "NARF.L:2025-02-24",
           "ticker": "NARF.L"
         },
         "market_cap": null,

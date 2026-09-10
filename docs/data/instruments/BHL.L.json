@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Bradda Head Lithium Limited",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.49,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -20851,7 +20851,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 1.6,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -20868,10 +20868,11 @@
           "ticker": "BHL.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 1.49,
           "severity": "YELLOW",
           "signal_date": "2023-12-27",
+          "signal_id": "BHL.L:2023-12-27",
           "ticker": "BHL.L"
         },
         "market_cap": null,
@@ -21086,10 +21087,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-12-27",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.49,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -31721,7 +31722,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Bradda Head Lithium Limited",
@@ -31746,10 +31747,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.49,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -52577,7 +52578,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 1.6,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -52594,10 +52595,11 @@
           "ticker": "BHL.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 1.49,
           "severity": "YELLOW",
           "signal_date": "2023-12-27",
+          "signal_id": "BHL.L:2023-12-27",
           "ticker": "BHL.L"
         },
         "market_cap": null,

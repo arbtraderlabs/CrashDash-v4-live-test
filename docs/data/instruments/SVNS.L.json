@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Solvonis Therapeutics plc",
@@ -20,10 +20,162 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-03",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 19.37,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.9000000953674316,
+                "date": "2023-07-03",
+                "status": "EXACT"
+              },
+              "relative_activity": 19.37,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-03",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-04",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.45,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.9000000953674316,
+                "date": "2023-07-04",
+                "status": "EXACT"
+              },
+              "relative_activity": 5.45,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-04",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-05",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.73,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.799999952316284,
+                "date": "2023-07-05",
+                "status": "EXACT"
+              },
+              "relative_activity": 6.73,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-05",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-06",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.78,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 3,
+                "date": "2023-07-06",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.78,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-06",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-11",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.93,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.600000023841858,
+                "date": "2023-07-11",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.93,
+              "severity": "ORANGE",
+              "signal_id": "SVNS.L:2023-07-11",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-12",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.37,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.5499999523162842,
+                "date": "2023-07-12",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.37,
+              "severity": "ORANGE",
+              "signal_id": "SVNS.L:2023-07-12",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-13",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 12.61,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.899999976158142,
+                "date": "2023-07-13",
+                "status": "EXACT"
+              },
+              "relative_activity": 12.61,
+              "severity": "GREEN",
+              "signal_id": "SVNS.L:2023-07-13",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-14",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.75,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.049999952316284,
+                "date": "2023-07-14",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.75,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-14",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2023-09-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.72,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -39,10 +191,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-09-28",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.67,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -58,30 +210,106 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-01",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.09,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.5499999523162842,
+                "date": "2023-11-01",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.09,
+              "severity": "GREEN",
+              "signal_id": "SVNS.L:2023-11-01",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-15",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.58,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.399999976158142,
+                "date": "2023-11-15",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.58,
+              "severity": "ORANGE",
+              "signal_id": "SVNS.L:2023-11-15",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-16",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.23,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 8.79,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 1.399999976158142,
                 "date": "2023-11-16",
                 "status": "EXACT"
               },
-              "relative_activity": 2.23,
-              "severity": "YELLOW",
+              "relative_activity": 8.79,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-16",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-17",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.59,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.399999976158142,
+                "date": "2023-11-17",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.59,
+              "severity": "GREEN",
+              "signal_id": "SVNS.L:2023-11-17",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-22",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.7,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 1.399999976158142,
+                "date": "2023-11-22",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.7,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-11-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-23",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.19,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 13.13,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -90,36 +318,36 @@
                 "date": "2023-11-23",
                 "status": "EXACT"
               },
-              "relative_activity": 8.19,
+              "relative_activity": 13.13,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-23",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.98,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.32,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 1.25,
                 "date": "2023-11-24",
                 "status": "EXACT"
               },
-              "relative_activity": 2.98,
-              "severity": "GREEN",
+              "relative_activity": 4.32,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-24",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-29",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.21,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.25,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -128,17 +356,17 @@
                 "date": "2023-11-29",
                 "status": "EXACT"
               },
-              "relative_activity": 3.21,
+              "relative_activity": 4.25,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-29",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.35,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.75,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -147,16 +375,16 @@
                 "date": "2023-11-30",
                 "status": "EXACT"
               },
-              "relative_activity": 1.35,
+              "relative_activity": 1.75,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-30",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-12",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.33,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -172,32 +400,13 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2023-12-19",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.56,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1,
-                "date": "2023-12-19",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.56,
-              "severity": "YELLOW",
-              "signal_id": "SVNS.L:2023-12-19",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-22",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 13.99,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.7250000238418579,
@@ -205,15 +414,15 @@
                 "status": "EXACT"
               },
               "relative_activity": 13.99,
-              "severity": "RED",
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-12-22",
-              "signal_type": "ULTRA CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-28",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.93,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -229,10 +438,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-29",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.99,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -248,10 +457,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-01-02",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.74,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -267,10 +476,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-01-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.31,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -286,68 +495,68 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2024-02-23",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.07,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.675000011920929,
+                "date": "2024-02-23",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.07,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2024-02-23",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-04",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.55,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.04,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.6499999761581421,
                 "date": "2024-03-04",
                 "status": "EXACT"
               },
-              "relative_activity": 2.55,
-              "severity": "RED",
+              "relative_activity": 6.04,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2024-03-04",
-              "signal_type": "ULTRA CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "DETECTED",
-              "date": "2024-03-05",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 7.23,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.6499999761581421,
-                "date": "2024-03-05",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.23,
-              "severity": "PURPLE",
-              "signal_id": "SVNS.L:2024-03-05",
-              "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-06",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.87,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.38,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.5249999761581421,
                 "date": "2024-03-06",
                 "status": "EXACT"
               },
-              "relative_activity": 1.87,
-              "severity": "GREEN",
+              "relative_activity": 2.38,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2024-03-06",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.13,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.3,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -356,16 +565,16 @@
                 "date": "2024-03-08",
                 "status": "EXACT"
               },
-              "relative_activity": 6.13,
+              "relative_activity": 6.3,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2024-03-08",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-15",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 19.04,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -381,10 +590,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.67,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -400,10 +609,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-04-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.63,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -419,10 +628,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-04-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.3,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -438,10 +647,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.57,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -457,10 +666,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-04",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.41,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -476,10 +685,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.48,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -495,10 +704,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.42,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -514,10 +723,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.77,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -533,10 +742,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-11",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.35,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -552,10 +761,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.11,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -571,10 +780,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-09-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.37,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -590,10 +799,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-03-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.03,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -19517,7 +19726,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.155,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -19534,10 +19743,11 @@
           "ticker": "SVNS.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 6.72,
-          "severity": "GREEN",
-          "signal_date": "2023-09-27",
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 19.37,
+          "severity": "YELLOW",
+          "signal_date": "2023-07-03",
+          "signal_id": "SVNS.L:2023-07-03",
           "ticker": "SVNS.L"
         },
         "market_cap": null,
@@ -19704,14 +19914,13 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 6,
-            "DEEP CRASH BOTTOM": 8,
-            "ENHANCED DEEP CRASH-ACCUM COMBO": 1,
-            "EXTREME CRASH BOTTOM": 10,
-            "ULTRA CRASH BOTTOM": 6
+            "CRASH ZONE BOTTOM": 11,
+            "DEEP CRASH BOTTOM": 9,
+            "EXTREME CRASH BOTTOM": 18,
+            "ULTRA CRASH BOTTOM": 4
           },
           "current_signal_count": 0,
-          "historical_signal_count": 31
+          "historical_signal_count": 42
         },
         "trends": {
           "records": [],
@@ -19756,10 +19965,162 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-03",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 19.37,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 2.9000000953674316,
+            "date": "2023-07-03",
+            "status": "EXACT"
+          },
+          "relative_activity": 19.37,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-03",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-04",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 5.45,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 2.9000000953674316,
+            "date": "2023-07-04",
+            "status": "EXACT"
+          },
+          "relative_activity": 5.45,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-04",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-05",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 6.73,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 2.799999952316284,
+            "date": "2023-07-05",
+            "status": "EXACT"
+          },
+          "relative_activity": 6.73,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-05",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-06",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.78,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 3,
+            "date": "2023-07-06",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.78,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-11",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.93,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.600000023841858,
+            "date": "2023-07-11",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.93,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-07-11",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-12",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.37,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.5499999523162842,
+            "date": "2023-07-12",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.37,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-07-12",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-13",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 12.61,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.899999976158142,
+            "date": "2023-07-13",
+            "status": "EXACT"
+          },
+          "relative_activity": 12.61,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-07-13",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-07-14",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.75,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 2.049999952316284,
+            "date": "2023-07-14",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.75,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-07-14",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
           "date": "2023-09-27",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 6.72,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -19775,10 +20136,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-09-28",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.67,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -19794,30 +20155,106 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-11-01",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.09,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.5499999523162842,
+            "date": "2023-11-01",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.09,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-11-01",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-11-15",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.58,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.399999976158142,
+            "date": "2023-11-15",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.58,
+          "severity": "ORANGE",
+          "signal_id": "SVNS.L:2023-11-15",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
           "date": "2023-11-16",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.23,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 8.79,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
             "close": 1.399999976158142,
             "date": "2023-11-16",
             "status": "EXACT"
           },
-          "relative_activity": 2.23,
-          "severity": "YELLOW",
+          "relative_activity": 8.79,
+          "severity": "ORANGE",
           "signal_id": "SVNS.L:2023-11-16",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-11-17",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.59,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 1.399999976158142,
+            "date": "2023-11-17",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.59,
+          "severity": "GREEN",
+          "signal_id": "SVNS.L:2023-11-17",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2023-11-22",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.7,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 1.399999976158142,
+            "date": "2023-11-22",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.7,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2023-11-22",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-11-23",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 8.19,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 13.13,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
@@ -19826,36 +20263,36 @@
             "date": "2023-11-23",
             "status": "EXACT"
           },
-          "relative_activity": 8.19,
+          "relative_activity": 13.13,
           "severity": "ORANGE",
           "signal_id": "SVNS.L:2023-11-23",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-11-24",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.98,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 4.32,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
             "close": 1.25,
             "date": "2023-11-24",
             "status": "EXACT"
           },
-          "relative_activity": 2.98,
-          "severity": "GREEN",
+          "relative_activity": 4.32,
+          "severity": "ORANGE",
           "signal_id": "SVNS.L:2023-11-24",
-          "signal_type": "DEEP CRASH BOTTOM"
+          "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-11-29",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 3.21,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 4.25,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
@@ -19864,17 +20301,17 @@
             "date": "2023-11-29",
             "status": "EXACT"
           },
-          "relative_activity": 3.21,
+          "relative_activity": 4.25,
           "severity": "ORANGE",
           "signal_id": "SVNS.L:2023-11-29",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-11-30",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.35,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.75,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
@@ -19883,16 +20320,16 @@
             "date": "2023-11-30",
             "status": "EXACT"
           },
-          "relative_activity": 1.35,
+          "relative_activity": 1.75,
           "severity": "ORANGE",
           "signal_id": "SVNS.L:2023-11-30",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-12-12",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.33,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -19908,32 +20345,13 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2023-12-19",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.56,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 1,
-            "date": "2023-12-19",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.56,
-          "severity": "YELLOW",
-          "signal_id": "SVNS.L:2023-12-19",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-12-22",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 13.99,
-            "severity": "RED",
-            "signal_state": "ULTRA CRASH BOTTOM"
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
             "close": 0.7250000238418579,
@@ -19941,15 +20359,15 @@
             "status": "EXACT"
           },
           "relative_activity": 13.99,
-          "severity": "RED",
+          "severity": "ORANGE",
           "signal_id": "SVNS.L:2023-12-22",
-          "signal_type": "ULTRA CRASH BOTTOM"
+          "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-12-28",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.93,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
@@ -19965,10 +20383,10 @@
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-12-29",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 5.99,
             "severity": "RED",
             "signal_state": "ULTRA CRASH BOTTOM"
@@ -19984,10 +20402,10 @@
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-01-02",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.74,
             "severity": "RED",
             "signal_state": "ULTRA CRASH BOTTOM"
@@ -20003,10 +20421,10 @@
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-01-03",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 4.31,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -20022,68 +20440,68 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
+          "date": "2024-02-23",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.07,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.675000011920929,
+            "date": "2024-02-23",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.07,
+          "severity": "YELLOW",
+          "signal_id": "SVNS.L:2024-02-23",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
           "date": "2024-03-04",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.55,
-            "severity": "RED",
-            "signal_state": "ULTRA CRASH BOTTOM"
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 6.04,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
             "close": 0.6499999761581421,
             "date": "2024-03-04",
             "status": "EXACT"
           },
-          "relative_activity": 2.55,
-          "severity": "RED",
+          "relative_activity": 6.04,
+          "severity": "ORANGE",
           "signal_id": "SVNS.L:2024-03-04",
-          "signal_type": "ULTRA CRASH BOTTOM"
+          "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "DETECTED",
-          "date": "2024-03-05",
-          "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 7.23,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
-          },
-          "price_context": {
-            "close": 0.6499999761581421,
-            "date": "2024-03-05",
-            "status": "EXACT"
-          },
-          "relative_activity": 7.23,
-          "severity": "PURPLE",
-          "signal_id": "SVNS.L:2024-03-05",
-          "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
-        },
-        {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-03-06",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.87,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.38,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
             "close": 0.5249999761581421,
             "date": "2024-03-06",
             "status": "EXACT"
           },
-          "relative_activity": 1.87,
-          "severity": "GREEN",
+          "relative_activity": 2.38,
+          "severity": "ORANGE",
           "signal_id": "SVNS.L:2024-03-06",
-          "signal_type": "DEEP CRASH BOTTOM"
+          "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-03-08",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 6.13,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 6.3,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
@@ -20092,16 +20510,16 @@
             "date": "2024-03-08",
             "status": "EXACT"
           },
-          "relative_activity": 6.13,
+          "relative_activity": 6.3,
           "severity": "ORANGE",
           "signal_id": "SVNS.L:2024-03-08",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-03-15",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 19.04,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -20117,10 +20535,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-03-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.67,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -20136,10 +20554,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-04-08",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.63,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
@@ -20155,10 +20573,10 @@
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-04-09",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.3,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
@@ -20174,10 +20592,10 @@
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-03",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 4.57,
             "severity": "RED",
             "signal_state": "ULTRA CRASH BOTTOM"
@@ -20193,10 +20611,10 @@
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-04",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.41,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
@@ -20212,10 +20630,10 @@
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-05",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.48,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
@@ -20231,10 +20649,10 @@
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-09",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 10.42,
             "severity": "RED",
             "signal_state": "ULTRA CRASH BOTTOM"
@@ -20250,10 +20668,10 @@
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-10",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 5.77,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
@@ -20269,10 +20687,10 @@
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-11",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 10.35,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -20288,10 +20706,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.11,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -20307,10 +20725,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-09-05",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.37,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -20326,10 +20744,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-03-10",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.03,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -30009,7 +30427,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Solvonis Therapeutics plc",
@@ -30034,10 +30452,162 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-03",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 19.37,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.9000000953674316,
+                "date": "2023-07-03",
+                "status": "EXACT"
+              },
+              "relative_activity": 19.37,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-03",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-04",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.45,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.9000000953674316,
+                "date": "2023-07-04",
+                "status": "EXACT"
+              },
+              "relative_activity": 5.45,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-04",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-05",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.73,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.799999952316284,
+                "date": "2023-07-05",
+                "status": "EXACT"
+              },
+              "relative_activity": 6.73,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-05",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-06",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.78,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 3,
+                "date": "2023-07-06",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.78,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-06",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-11",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.93,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.600000023841858,
+                "date": "2023-07-11",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.93,
+              "severity": "ORANGE",
+              "signal_id": "SVNS.L:2023-07-11",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-12",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.37,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.5499999523162842,
+                "date": "2023-07-12",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.37,
+              "severity": "ORANGE",
+              "signal_id": "SVNS.L:2023-07-12",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-13",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 12.61,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.899999976158142,
+                "date": "2023-07-13",
+                "status": "EXACT"
+              },
+              "relative_activity": 12.61,
+              "severity": "GREEN",
+              "signal_id": "SVNS.L:2023-07-13",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-07-14",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.75,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 2.049999952316284,
+                "date": "2023-07-14",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.75,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-07-14",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2023-09-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.72,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -30053,10 +30623,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-09-28",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.67,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -30072,30 +30642,106 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-01",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.09,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.5499999523162842,
+                "date": "2023-11-01",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.09,
+              "severity": "GREEN",
+              "signal_id": "SVNS.L:2023-11-01",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-15",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.58,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.399999976158142,
+                "date": "2023-11-15",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.58,
+              "severity": "ORANGE",
+              "signal_id": "SVNS.L:2023-11-15",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-16",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.23,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 8.79,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 1.399999976158142,
                 "date": "2023-11-16",
                 "status": "EXACT"
               },
-              "relative_activity": 2.23,
-              "severity": "YELLOW",
+              "relative_activity": 8.79,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-16",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-17",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.59,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 1.399999976158142,
+                "date": "2023-11-17",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.59,
+              "severity": "GREEN",
+              "signal_id": "SVNS.L:2023-11-17",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2023-11-22",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.7,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 1.399999976158142,
+                "date": "2023-11-22",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.7,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2023-11-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-23",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.19,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 13.13,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -30104,36 +30750,36 @@
                 "date": "2023-11-23",
                 "status": "EXACT"
               },
-              "relative_activity": 8.19,
+              "relative_activity": 13.13,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-23",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.98,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.32,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 1.25,
                 "date": "2023-11-24",
                 "status": "EXACT"
               },
-              "relative_activity": 2.98,
-              "severity": "GREEN",
+              "relative_activity": 4.32,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-24",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-29",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.21,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.25,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -30142,17 +30788,17 @@
                 "date": "2023-11-29",
                 "status": "EXACT"
               },
-              "relative_activity": 3.21,
+              "relative_activity": 4.25,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-29",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-11-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.35,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.75,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -30161,16 +30807,16 @@
                 "date": "2023-11-30",
                 "status": "EXACT"
               },
-              "relative_activity": 1.35,
+              "relative_activity": 1.75,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-11-30",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-12",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.33,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -30186,32 +30832,13 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2023-12-19",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.56,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1,
-                "date": "2023-12-19",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.56,
-              "severity": "YELLOW",
-              "signal_id": "SVNS.L:2023-12-19",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-22",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 13.99,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.7250000238418579,
@@ -30219,15 +30846,15 @@
                 "status": "EXACT"
               },
               "relative_activity": 13.99,
-              "severity": "RED",
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2023-12-22",
-              "signal_type": "ULTRA CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-28",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.93,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -30243,10 +30870,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-12-29",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.99,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -30262,10 +30889,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-01-02",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.74,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -30281,10 +30908,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-01-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.31,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -30300,68 +30927,68 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2024-02-23",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.07,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.675000011920929,
+                "date": "2024-02-23",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.07,
+              "severity": "YELLOW",
+              "signal_id": "SVNS.L:2024-02-23",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-04",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.55,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.04,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.6499999761581421,
                 "date": "2024-03-04",
                 "status": "EXACT"
               },
-              "relative_activity": 2.55,
-              "severity": "RED",
+              "relative_activity": 6.04,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2024-03-04",
-              "signal_type": "ULTRA CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "DETECTED",
-              "date": "2024-03-05",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 7.23,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.6499999761581421,
-                "date": "2024-03-05",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.23,
-              "severity": "PURPLE",
-              "signal_id": "SVNS.L:2024-03-05",
-              "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-06",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.87,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.38,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.5249999761581421,
                 "date": "2024-03-06",
                 "status": "EXACT"
               },
-              "relative_activity": 1.87,
-              "severity": "GREEN",
+              "relative_activity": 2.38,
+              "severity": "ORANGE",
               "signal_id": "SVNS.L:2024-03-06",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.13,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.3,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
@@ -30370,16 +30997,16 @@
                 "date": "2024-03-08",
                 "status": "EXACT"
               },
-              "relative_activity": 6.13,
+              "relative_activity": 6.3,
               "severity": "ORANGE",
               "signal_id": "SVNS.L:2024-03-08",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-15",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 19.04,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -30395,10 +31022,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-03-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.67,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -30414,10 +31041,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-04-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.63,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -30433,10 +31060,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-04-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.3,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -30452,10 +31079,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.57,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -30471,10 +31098,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-04",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.41,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -30490,10 +31117,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.48,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -30509,10 +31136,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.42,
                 "severity": "RED",
                 "signal_state": "ULTRA CRASH BOTTOM"
@@ -30528,10 +31155,10 @@
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.77,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
@@ -30547,10 +31174,10 @@
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-11",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.35,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -30566,10 +31193,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.11,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -30585,10 +31212,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-09-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.37,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -30604,10 +31231,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-03-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.03,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -49531,7 +50158,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.155,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -49548,10 +50175,11 @@
           "ticker": "SVNS.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 6.72,
-          "severity": "GREEN",
-          "signal_date": "2023-09-27",
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 19.37,
+          "severity": "YELLOW",
+          "signal_date": "2023-07-03",
+          "signal_id": "SVNS.L:2023-07-03",
           "ticker": "SVNS.L"
         },
         "market_cap": null,
@@ -49718,14 +50346,13 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 6,
-            "DEEP CRASH BOTTOM": 8,
-            "ENHANCED DEEP CRASH-ACCUM COMBO": 1,
-            "EXTREME CRASH BOTTOM": 10,
-            "ULTRA CRASH BOTTOM": 6
+            "CRASH ZONE BOTTOM": 11,
+            "DEEP CRASH BOTTOM": 9,
+            "EXTREME CRASH BOTTOM": 18,
+            "ULTRA CRASH BOTTOM": 4
           },
           "current_signal_count": 0,
-          "historical_signal_count": 31
+          "historical_signal_count": 42
         },
         "trends": {
           "records": [],

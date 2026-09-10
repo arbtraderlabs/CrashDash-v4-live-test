@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Dianomi plc",
@@ -20,29 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2023-01-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.67,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 87.5,
-                "date": "2023-01-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.67,
-              "severity": "YELLOW",
-              "signal_id": "DNM.L:2023-01-03",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.73,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-26",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.69,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -77,10 +58,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 13.29,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -96,10 +77,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.29,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -115,10 +96,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-02-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.88,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -21570,7 +21551,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 67.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -21587,10 +21568,11 @@
           "ticker": "DNM.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.67,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 1.73,
           "severity": "YELLOW",
-          "signal_date": "2023-01-03",
+          "signal_date": "2023-01-20",
+          "signal_id": "DNM.L:2023-01-20",
           "ticker": "DNM.L"
         },
         "market_cap": null,
@@ -21757,10 +21739,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 6
+            "CRASH ZONE BOTTOM": 5
           },
           "current_signal_count": 0,
-          "historical_signal_count": 6
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],
@@ -21805,29 +21787,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
-          "date": "2023-01-03",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.67,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 87.5,
-            "date": "2023-01-03",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.67,
-          "severity": "YELLOW",
-          "signal_id": "DNM.L:2023-01-03",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-01-20",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.73,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -21843,10 +21806,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-01-26",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.69,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -21862,10 +21825,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-01-27",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 13.29,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -21881,10 +21844,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-01-31",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.29,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -21900,10 +21863,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-02-01",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 6.88,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -32847,7 +32810,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Dianomi plc",
@@ -32872,29 +32835,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2023-01-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.67,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 87.5,
-                "date": "2023-01-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.67,
-              "severity": "YELLOW",
-              "signal_id": "DNM.L:2023-01-03",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.73,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -32910,10 +32854,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-26",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.69,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -32929,10 +32873,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 13.29,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -32948,10 +32892,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.29,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -32967,10 +32911,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-02-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.88,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -54422,7 +54366,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 67.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -54439,10 +54383,11 @@
           "ticker": "DNM.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.67,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 1.73,
           "severity": "YELLOW",
-          "signal_date": "2023-01-03",
+          "signal_date": "2023-01-20",
+          "signal_id": "DNM.L:2023-01-20",
           "ticker": "DNM.L"
         },
         "market_cap": null,
@@ -54609,10 +54554,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 6
+            "CRASH ZONE BOTTOM": 5
           },
           "current_signal_count": 0,
-          "historical_signal_count": 6
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],

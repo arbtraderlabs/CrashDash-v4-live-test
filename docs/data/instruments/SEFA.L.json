@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Shefa Gems Ltd",
@@ -20,10 +20,86 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-05",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.71,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.00774999987334013,
+                "date": "2021-07-05",
+                "status": "EXACT"
+              },
+              "relative_activity": 5.71,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-05",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-06",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.33,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.006500000134110451,
+                "date": "2021-07-06",
+                "status": "EXACT"
+              },
+              "relative_activity": 6.33,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-06",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-07",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.39,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.006500000134110451,
+                "date": "2021-07-07",
+                "status": "EXACT"
+              },
+              "relative_activity": 5.39,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-07",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-08",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.05,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.006500000134110451,
+                "date": "2021-07-08",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.05,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-08",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2021-09-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 11.57,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,11 +115,30 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-10-11",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.49,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.007300000172108412,
+                "date": "2021-10-11",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.49,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-10-11",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2021-10-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 19.27,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 19.55,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
@@ -52,19 +147,19 @@
                 "date": "2021-10-13",
                 "status": "EXACT"
               },
-              "relative_activity": 19.27,
+              "relative_activity": 19.55,
               "severity": "GREEN",
               "signal_id": "SEFA.L:2021-10-13",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-10-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 7.08,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.005499999970197678,
@@ -72,18 +167,18 @@
                 "status": "EXACT"
               },
               "relative_activity": 7.08,
-              "severity": "GREEN",
+              "severity": "YELLOW",
               "signal_id": "SEFA.L:2021-10-18",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-10-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.33,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.004749999847263098,
@@ -91,218 +186,85 @@
                 "status": "EXACT"
               },
               "relative_activity": 5.33,
-              "severity": "GREEN",
+              "severity": "YELLOW",
               "signal_id": "SEFA.L:2021-10-20",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-01-24",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-03-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.97,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.004000000189989805,
-                "date": "2022-01-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.97,
-              "severity": "GREEN",
-              "signal_id": "SEFA.L:2022-01-24",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-03-11",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 5.67,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0037499999161809683,
-                "date": "2022-03-11",
-                "status": "EXACT"
-              },
-              "relative_activity": 5.67,
-              "severity": "GREEN",
-              "signal_id": "SEFA.L:2022-03-11",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-03-15",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.14,
-                "severity": "ORANGE",
-                "signal_state": "EXTREME CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0032500000670552254,
-                "date": "2022-03-15",
-                "status": "EXACT"
-              },
-              "relative_activity": 4.14,
-              "severity": "ORANGE",
-              "signal_id": "SEFA.L:2022-03-15",
-              "signal_type": "EXTREME CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-05-27",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.05,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.68,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.0022499999031424522,
-                "date": "2022-05-27",
+                "date": "2022-03-30",
                 "status": "EXACT"
               },
-              "relative_activity": 2.05,
+              "relative_activity": 1.68,
               "severity": "ORANGE",
-              "signal_id": "SEFA.L:2022-05-27",
+              "signal_id": "SEFA.L:2022-03-30",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-06-30",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-04-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.51,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.38,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.0022499999031424522,
+                "date": "2022-04-05",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.38,
+              "severity": "GREEN",
+              "signal_id": "SEFA.L:2022-04-05",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-06-29",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.07,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.002749999985098839,
+                "date": "2022-06-29",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.07,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2022-06-29",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-06-30",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 10.69,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.0017500000540167093,
                 "date": "2022-06-30",
                 "status": "EXACT"
               },
-              "relative_activity": 2.51,
-              "severity": "YELLOW",
-              "signal_id": "SEFA.L:2022-06-30",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-09-29",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.26,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0017500000540167093,
-                "date": "2022-09-29",
-                "status": "EXACT"
-              },
-              "relative_activity": 8.26,
+              "relative_activity": 10.69,
               "severity": "GREEN",
-              "signal_id": "SEFA.L:2022-09-29",
+              "signal_id": "SEFA.L:2022-06-30",
               "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2022-09-30",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 10.02,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.0017500000540167093,
-                "date": "2022-09-30",
-                "status": "EXACT"
-              },
-              "relative_activity": 10.02,
-              "severity": "PURPLE",
-              "signal_id": "SEFA.L:2022-09-30",
-              "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2023-02-09",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 8.23,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.0017500000540167093,
-                "date": "2023-02-09",
-                "status": "EXACT"
-              },
-              "relative_activity": 8.23,
-              "severity": "PURPLE",
-              "signal_id": "SEFA.L:2023-02-09",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-02-28",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.85,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0012499999720603228,
-                "date": "2023-02-28",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.85,
-              "severity": "RED",
-              "signal_id": "SEFA.L:2023-02-28",
-              "signal_type": "ULTRA CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-02",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.46,
-                "severity": "ORANGE",
-                "signal_state": "EXTREME CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0012499999720603228,
-                "date": "2023-03-02",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.46,
-              "severity": "ORANGE",
-              "signal_id": "SEFA.L:2023-03-02",
-              "signal_type": "EXTREME CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-04-26",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.0,
-                "severity": "ORANGE",
-                "signal_state": "EXTREME CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0012499999720603228,
-                "date": "2023-04-26",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.0,
-              "severity": "ORANGE",
-              "signal_id": "SEFA.L:2023-04-26",
-              "signal_type": "EXTREME CRASH BOTTOM"
             }
           ],
           "price_points": [
@@ -27325,7 +27287,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.0018,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27342,10 +27304,11 @@
           "ticker": "SEFA.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 11.57,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 5.71,
           "severity": "YELLOW",
-          "signal_date": "2021-09-30",
+          "signal_date": "2021-07-05",
+          "signal_id": "SEFA.L:2021-07-05",
           "ticker": "SEFA.L"
         },
         "market_cap": null,
@@ -27512,15 +27475,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 2,
-            "DEEP CRASH BOTTOM": 6,
-            "ENHANCED CRASH CRASH-ACCUM COMBO": 1,
-            "ENHANCED DEEP CRASH-ACCUM COMBO": 1,
-            "EXTREME CRASH BOTTOM": 4,
-            "ULTRA CRASH BOTTOM": 1
+            "CRASH ZONE BOTTOM": 9,
+            "DEEP CRASH BOTTOM": 3,
+            "EXTREME CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 15
+          "historical_signal_count": 13
         },
         "trends": {
           "records": [],
@@ -27532,14 +27492,14 @@
       "sector": "Basic Materials",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2023-04-26",
-      "signal_state": "EXTREME CRASH BOTTOM",
+      "signal_date": "2022-06-30",
+      "signal_state": "DEEP CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "ticker": "SEFA.L",
-      "watch_severity": "HIGH",
+      "watch_severity": "ELEVATED",
       "why_crashdash_noticed": [
-        "EXTREME CRASH BOTTOM"
+        "DEEP CRASH BOTTOM"
       ]
     },
     "instrument_detail": {
@@ -27565,10 +27525,86 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
+          "date": "2021-07-05",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 5.71,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.00774999987334013,
+            "date": "2021-07-05",
+            "status": "EXACT"
+          },
+          "relative_activity": 5.71,
+          "severity": "YELLOW",
+          "signal_id": "SEFA.L:2021-07-05",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2021-07-06",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 6.33,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.006500000134110451,
+            "date": "2021-07-06",
+            "status": "EXACT"
+          },
+          "relative_activity": 6.33,
+          "severity": "YELLOW",
+          "signal_id": "SEFA.L:2021-07-06",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2021-07-07",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 5.39,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.006500000134110451,
+            "date": "2021-07-07",
+            "status": "EXACT"
+          },
+          "relative_activity": 5.39,
+          "severity": "YELLOW",
+          "signal_id": "SEFA.L:2021-07-07",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2021-07-08",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.05,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.006500000134110451,
+            "date": "2021-07-08",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.05,
+          "severity": "YELLOW",
+          "signal_id": "SEFA.L:2021-07-08",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
           "date": "2021-09-30",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 11.57,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27584,11 +27620,30 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
+          "date": "2021-10-11",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.49,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.007300000172108412,
+            "date": "2021-10-11",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.49,
+          "severity": "YELLOW",
+          "signal_id": "SEFA.L:2021-10-11",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
           "date": "2021-10-13",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 19.27,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 19.55,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
           },
@@ -27597,19 +27652,19 @@
             "date": "2021-10-13",
             "status": "EXACT"
           },
-          "relative_activity": 19.27,
+          "relative_activity": 19.55,
           "severity": "GREEN",
           "signal_id": "SEFA.L:2021-10-13",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2021-10-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 7.08,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
             "close": 0.005499999970197678,
@@ -27617,18 +27672,18 @@
             "status": "EXACT"
           },
           "relative_activity": 7.08,
-          "severity": "GREEN",
+          "severity": "YELLOW",
           "signal_id": "SEFA.L:2021-10-18",
-          "signal_type": "DEEP CRASH BOTTOM"
+          "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2021-10-20",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 5.33,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
             "close": 0.004749999847263098,
@@ -27636,218 +27691,85 @@
             "status": "EXACT"
           },
           "relative_activity": 5.33,
-          "severity": "GREEN",
+          "severity": "YELLOW",
           "signal_id": "SEFA.L:2021-10-20",
-          "signal_type": "DEEP CRASH BOTTOM"
+          "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-01-24",
+          "accumulation": "NOT_DETECTED",
+          "date": "2022-03-30",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 6.97,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.004000000189989805,
-            "date": "2022-01-24",
-            "status": "EXACT"
-          },
-          "relative_activity": 6.97,
-          "severity": "GREEN",
-          "signal_id": "SEFA.L:2022-01-24",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-03-11",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 5.67,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.0037499999161809683,
-            "date": "2022-03-11",
-            "status": "EXACT"
-          },
-          "relative_activity": 5.67,
-          "severity": "GREEN",
-          "signal_id": "SEFA.L:2022-03-11",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-03-15",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 4.14,
-            "severity": "ORANGE",
-            "signal_state": "EXTREME CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.0032500000670552254,
-            "date": "2022-03-15",
-            "status": "EXACT"
-          },
-          "relative_activity": 4.14,
-          "severity": "ORANGE",
-          "signal_id": "SEFA.L:2022-03-15",
-          "signal_type": "EXTREME CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-05-27",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.05,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.68,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
           "price_context": {
             "close": 0.0022499999031424522,
-            "date": "2022-05-27",
+            "date": "2022-03-30",
             "status": "EXACT"
           },
-          "relative_activity": 2.05,
+          "relative_activity": 1.68,
           "severity": "ORANGE",
-          "signal_id": "SEFA.L:2022-05-27",
+          "signal_id": "SEFA.L:2022-03-30",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-06-30",
+          "accumulation": "NOT_DETECTED",
+          "date": "2022-04-05",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.51,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.38,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 0.0022499999031424522,
+            "date": "2022-04-05",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.38,
+          "severity": "GREEN",
+          "signal_id": "SEFA.L:2022-04-05",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2022-06-29",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.07,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.002749999985098839,
+            "date": "2022-06-29",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.07,
+          "severity": "YELLOW",
+          "signal_id": "SEFA.L:2022-06-29",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2022-06-30",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 10.69,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
             "close": 0.0017500000540167093,
             "date": "2022-06-30",
             "status": "EXACT"
           },
-          "relative_activity": 2.51,
-          "severity": "YELLOW",
-          "signal_id": "SEFA.L:2022-06-30",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-09-29",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 8.26,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.0017500000540167093,
-            "date": "2022-09-29",
-            "status": "EXACT"
-          },
-          "relative_activity": 8.26,
+          "relative_activity": 10.69,
           "severity": "GREEN",
-          "signal_id": "SEFA.L:2022-09-29",
+          "signal_id": "SEFA.L:2022-06-30",
           "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "DETECTED",
-          "date": "2022-09-30",
-          "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 10.02,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
-          },
-          "price_context": {
-            "close": 0.0017500000540167093,
-            "date": "2022-09-30",
-            "status": "EXACT"
-          },
-          "relative_activity": 10.02,
-          "severity": "PURPLE",
-          "signal_id": "SEFA.L:2022-09-30",
-          "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
-        },
-        {
-          "accumulation": "DETECTED",
-          "date": "2023-02-09",
-          "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 8.23,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-          },
-          "price_context": {
-            "close": 0.0017500000540167093,
-            "date": "2023-02-09",
-            "status": "EXACT"
-          },
-          "relative_activity": 8.23,
-          "severity": "PURPLE",
-          "signal_id": "SEFA.L:2023-02-09",
-          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-02-28",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 7.85,
-            "severity": "RED",
-            "signal_state": "ULTRA CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.0012499999720603228,
-            "date": "2023-02-28",
-            "status": "EXACT"
-          },
-          "relative_activity": 7.85,
-          "severity": "RED",
-          "signal_id": "SEFA.L:2023-02-28",
-          "signal_type": "ULTRA CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-03-02",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.46,
-            "severity": "ORANGE",
-            "signal_state": "EXTREME CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.0012499999720603228,
-            "date": "2023-03-02",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.46,
-          "severity": "ORANGE",
-          "signal_id": "SEFA.L:2023-03-02",
-          "signal_type": "EXTREME CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-04-26",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 7.0,
-            "severity": "ORANGE",
-            "signal_state": "EXTREME CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.0012499999720603228,
-            "date": "2023-04-26",
-            "status": "EXACT"
-          },
-          "relative_activity": 7.0,
-          "severity": "ORANGE",
-          "signal_id": "SEFA.L:2023-04-26",
-          "signal_type": "EXTREME CRASH BOTTOM"
         }
       ],
       "identity": {
@@ -41570,7 +41492,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Shefa Gems Ltd",
@@ -41579,8 +41501,8 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 7.0,
-        "legacy_signal_color": "ORANGE",
+        "activity_multiple": 10.69,
+        "legacy_signal_color": "GREEN",
         "social_comparison_status": "NO_DATA",
         "social_records": []
       },
@@ -41595,10 +41517,86 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-05",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.71,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.00774999987334013,
+                "date": "2021-07-05",
+                "status": "EXACT"
+              },
+              "relative_activity": 5.71,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-05",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-06",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.33,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.006500000134110451,
+                "date": "2021-07-06",
+                "status": "EXACT"
+              },
+              "relative_activity": 6.33,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-06",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-07",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.39,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.006500000134110451,
+                "date": "2021-07-07",
+                "status": "EXACT"
+              },
+              "relative_activity": 5.39,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-07",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-07-08",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.05,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.006500000134110451,
+                "date": "2021-07-08",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.05,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-07-08",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2021-09-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 11.57,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41614,11 +41612,30 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-10-11",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.49,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.007300000172108412,
+                "date": "2021-10-11",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.49,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2021-10-11",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2021-10-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 19.27,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 19.55,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
@@ -41627,19 +41644,19 @@
                 "date": "2021-10-13",
                 "status": "EXACT"
               },
-              "relative_activity": 19.27,
+              "relative_activity": 19.55,
               "severity": "GREEN",
               "signal_id": "SEFA.L:2021-10-13",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-10-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 7.08,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.005499999970197678,
@@ -41647,18 +41664,18 @@
                 "status": "EXACT"
               },
               "relative_activity": 7.08,
-              "severity": "GREEN",
+              "severity": "YELLOW",
               "signal_id": "SEFA.L:2021-10-18",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-10-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 5.33,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.004749999847263098,
@@ -41666,218 +41683,85 @@
                 "status": "EXACT"
               },
               "relative_activity": 5.33,
-              "severity": "GREEN",
+              "severity": "YELLOW",
               "signal_id": "SEFA.L:2021-10-20",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-01-24",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-03-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.97,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.004000000189989805,
-                "date": "2022-01-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.97,
-              "severity": "GREEN",
-              "signal_id": "SEFA.L:2022-01-24",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-03-11",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 5.67,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0037499999161809683,
-                "date": "2022-03-11",
-                "status": "EXACT"
-              },
-              "relative_activity": 5.67,
-              "severity": "GREEN",
-              "signal_id": "SEFA.L:2022-03-11",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-03-15",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.14,
-                "severity": "ORANGE",
-                "signal_state": "EXTREME CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0032500000670552254,
-                "date": "2022-03-15",
-                "status": "EXACT"
-              },
-              "relative_activity": 4.14,
-              "severity": "ORANGE",
-              "signal_id": "SEFA.L:2022-03-15",
-              "signal_type": "EXTREME CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-05-27",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.05,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.68,
                 "severity": "ORANGE",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.0022499999031424522,
-                "date": "2022-05-27",
+                "date": "2022-03-30",
                 "status": "EXACT"
               },
-              "relative_activity": 2.05,
+              "relative_activity": 1.68,
               "severity": "ORANGE",
-              "signal_id": "SEFA.L:2022-05-27",
+              "signal_id": "SEFA.L:2022-03-30",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-06-30",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-04-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.51,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.38,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.0022499999031424522,
+                "date": "2022-04-05",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.38,
+              "severity": "GREEN",
+              "signal_id": "SEFA.L:2022-04-05",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-06-29",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.07,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.002749999985098839,
+                "date": "2022-06-29",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.07,
+              "severity": "YELLOW",
+              "signal_id": "SEFA.L:2022-06-29",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-06-30",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 10.69,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
               },
               "price_context": {
                 "close": 0.0017500000540167093,
                 "date": "2022-06-30",
                 "status": "EXACT"
               },
-              "relative_activity": 2.51,
-              "severity": "YELLOW",
-              "signal_id": "SEFA.L:2022-06-30",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-09-29",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.26,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0017500000540167093,
-                "date": "2022-09-29",
-                "status": "EXACT"
-              },
-              "relative_activity": 8.26,
+              "relative_activity": 10.69,
               "severity": "GREEN",
-              "signal_id": "SEFA.L:2022-09-29",
+              "signal_id": "SEFA.L:2022-06-30",
               "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2022-09-30",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 10.02,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.0017500000540167093,
-                "date": "2022-09-30",
-                "status": "EXACT"
-              },
-              "relative_activity": 10.02,
-              "severity": "PURPLE",
-              "signal_id": "SEFA.L:2022-09-30",
-              "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2023-02-09",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 8.23,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.0017500000540167093,
-                "date": "2023-02-09",
-                "status": "EXACT"
-              },
-              "relative_activity": 8.23,
-              "severity": "PURPLE",
-              "signal_id": "SEFA.L:2023-02-09",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-02-28",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.85,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0012499999720603228,
-                "date": "2023-02-28",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.85,
-              "severity": "RED",
-              "signal_id": "SEFA.L:2023-02-28",
-              "signal_type": "ULTRA CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-02",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.46,
-                "severity": "ORANGE",
-                "signal_state": "EXTREME CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0012499999720603228,
-                "date": "2023-03-02",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.46,
-              "severity": "ORANGE",
-              "signal_id": "SEFA.L:2023-03-02",
-              "signal_type": "EXTREME CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-04-26",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.0,
-                "severity": "ORANGE",
-                "signal_state": "EXTREME CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.0012499999720603228,
-                "date": "2023-04-26",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.0,
-              "severity": "ORANGE",
-              "signal_id": "SEFA.L:2023-04-26",
-              "signal_type": "EXTREME CRASH BOTTOM"
             }
           ],
           "price_points": [
@@ -68900,7 +68784,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.0018,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68917,10 +68801,11 @@
           "ticker": "SEFA.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 11.57,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 5.71,
           "severity": "YELLOW",
-          "signal_date": "2021-09-30",
+          "signal_date": "2021-07-05",
+          "signal_id": "SEFA.L:2021-07-05",
           "ticker": "SEFA.L"
         },
         "market_cap": null,
@@ -69087,15 +68972,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 2,
-            "DEEP CRASH BOTTOM": 6,
-            "ENHANCED CRASH CRASH-ACCUM COMBO": 1,
-            "ENHANCED DEEP CRASH-ACCUM COMBO": 1,
-            "EXTREME CRASH BOTTOM": 4,
-            "ULTRA CRASH BOTTOM": 1
+            "CRASH ZONE BOTTOM": 9,
+            "DEEP CRASH BOTTOM": 3,
+            "EXTREME CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 15
+          "historical_signal_count": 13
         },
         "trends": {
           "records": [],
@@ -69108,16 +68990,16 @@
       "sector": "Basic Materials",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2023-04-26",
-      "signal_state": "EXTREME CRASH BOTTOM",
+      "signal_date": "2022-06-30",
+      "signal_state": "DEEP CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "source_quality": "READY",
       "temporal_class": "SIGNAL_TIME",
       "ticker": "SEFA.L",
-      "watch_severity": "HIGH",
+      "watch_severity": "ELEVATED",
       "why_crashdash_noticed": [
-        "EXTREME CRASH BOTTOM"
+        "DEEP CRASH BOTTOM"
       ]
     }
   },

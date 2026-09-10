@@ -1,18 +1,18 @@
 {
   "data": {
-    "accumulation_state": "UNKNOWN",
+    "accumulation_state": "NOT_DETECTED",
     "ai_analysis": null,
     "ai_status": "ANALYSIS_PENDING",
     "data_quality": "READY",
     "evidence_refs": [],
     "exact_evidence": {
-      "activity_multiple": 1.42,
-      "legacy_signal_color": "GREEN",
+      "activity_multiple": 1.59,
+      "legacy_signal_color": "YELLOW",
       "social_comparison_status": "NO_DATA",
       "social_records": []
     },
     "freshness": "UNKNOWN",
-    "instrument_id": "BCG.L",
+    "instrument_id": "AMG.L",
     "limitations": [
       "RNS context is not currently available."
     ],
@@ -23,30 +23,30 @@
         "rns_markers": []
       },
       "metadata": {
-        "company_name": null,
+        "company_name": "Atlas Metals Group plc",
         "current_close": null,
-        "market": "MAIN",
+        "market": "LSE_MAIN",
         "quote_unit_status": "UNAVAILABLE"
       },
       "price_history": [],
       "source_as_of": null
     },
-    "price_at_signal": null,
+    "price_at_signal": 4.75,
     "provenance_refs": [],
     "rns_records_emitted": 0,
     "rns_total_available": 0,
     "sharechat_records_emitted": 0,
     "sharechat_total_available": 0,
-    "signal_date": "2026-09-08",
-    "signal_state": "DEEP CRASH BOTTOM",
+    "signal_date": "2026-08-21",
+    "signal_state": "CRASH ZONE BOTTOM",
     "social_records": [],
     "social_status": "NO_DATA",
     "source_quality": "READY",
     "temporal_class": "SIGNAL_TIME",
-    "ticker": "BCG.L",
-    "watch_severity": "ELEVATED",
+    "ticker": "AMG.L",
+    "watch_severity": "CLOSE WATCH",
     "why_crashdash_noticed": [
-      "DEEP CRASH BOTTOM"
+      "CRASH ZONE BOTTOM"
     ]
   },
   "schema_version": "V1"

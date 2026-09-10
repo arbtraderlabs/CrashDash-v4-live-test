@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Pineapple Power Corporation plc",
@@ -20,29 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-10-13",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.38,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.017500000074505806,
-                "date": "2022-10-13",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.38,
-              "severity": "YELLOW",
-              "signal_id": "PNPL.L:2022-10-13",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-10-14",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.88,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-10-17",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.46,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -23097,7 +23078,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.0162,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -23114,10 +23095,11 @@
           "ticker": "PNPL.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.38,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 2.88,
           "severity": "YELLOW",
-          "signal_date": "2022-10-13",
+          "signal_date": "2022-10-14",
+          "signal_id": "PNPL.L:2022-10-14",
           "ticker": "PNPL.L"
         },
         "market_cap": null,
@@ -23284,10 +23266,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 3
+            "CRASH ZONE BOTTOM": 2
           },
           "current_signal_count": 0,
-          "historical_signal_count": 3
+          "historical_signal_count": 2
         },
         "trends": {
           "records": [],
@@ -23332,29 +23314,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-10-13",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.38,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 0.017500000074505806,
-            "date": "2022-10-13",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.38,
-          "severity": "YELLOW",
-          "signal_id": "PNPL.L:2022-10-13",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-10-14",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.88,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -23370,10 +23333,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-10-17",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.46,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -35109,7 +35072,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Pineapple Power Corporation plc",
@@ -35134,29 +35097,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-10-13",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.38,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.017500000074505806,
-                "date": "2022-10-13",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.38,
-              "severity": "YELLOW",
-              "signal_id": "PNPL.L:2022-10-13",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-10-14",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.88,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -35172,10 +35116,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-10-17",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.46,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58211,7 +58155,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.0162,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -58228,10 +58172,11 @@
           "ticker": "PNPL.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.38,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 2.88,
           "severity": "YELLOW",
-          "signal_date": "2022-10-13",
+          "signal_date": "2022-10-14",
+          "signal_id": "PNPL.L:2022-10-14",
           "ticker": "PNPL.L"
         },
         "market_cap": null,
@@ -58398,10 +58343,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 3
+            "CRASH ZONE BOTTOM": 2
           },
           "current_signal_count": 0,
-          "historical_signal_count": 3
+          "historical_signal_count": 2
         },
         "trends": {
           "records": [],

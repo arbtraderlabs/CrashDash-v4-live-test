@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "PACSCo Limited",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.44,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-21",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 9.56,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58,10 +58,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.42,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -77,10 +77,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.94,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -96,10 +96,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.4,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -115,10 +115,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-04-04",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.2,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -134,10 +134,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.27,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -150,25 +150,6 @@
               "relative_activity": 2.27,
               "severity": "YELLOW",
               "signal_id": "PACS.L:2023-05-09",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-01-04",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 12.14,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.8500000238418579,
-                "date": "2024-01-04",
-                "status": "EXACT"
-              },
-              "relative_activity": 12.14,
-              "severity": "YELLOW",
-              "signal_id": "PACS.L:2024-01-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
@@ -27224,7 +27205,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 1.1,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27241,10 +27222,11 @@
           "ticker": "PACS.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 6.44,
           "severity": "YELLOW",
           "signal_date": "2023-03-20",
+          "signal_id": "PACS.L:2023-03-20",
           "ticker": "PACS.L"
         },
         "market_cap": null,
@@ -27411,10 +27393,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 8
+            "CRASH ZONE BOTTOM": 7
           },
           "current_signal_count": 0,
-          "historical_signal_count": 8
+          "historical_signal_count": 7
         },
         "trends": {
           "records": [],
@@ -27426,7 +27408,7 @@
       "sector": "Consumer Defensive",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2024-01-04",
+      "signal_date": "2023-05-09",
       "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
@@ -27459,10 +27441,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-03-20",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 6.44,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27478,10 +27460,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-03-21",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 9.56,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27497,10 +27479,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-03-24",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.42,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27516,10 +27498,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-03-27",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.94,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27535,10 +27517,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-03-30",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.4,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27554,10 +27536,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-04-04",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.2,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27573,10 +27555,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-05-09",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.27,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27589,25 +27571,6 @@
           "relative_activity": 2.27,
           "severity": "YELLOW",
           "signal_id": "PACS.L:2023-05-09",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-01-04",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 12.14,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 0.8500000238418579,
-            "date": "2024-01-04",
-            "status": "EXACT"
-          },
-          "relative_activity": 12.14,
-          "severity": "YELLOW",
-          "signal_id": "PACS.L:2024-01-04",
           "signal_type": "CRASH ZONE BOTTOM"
         }
       ],
@@ -41347,7 +41310,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "PACSCo Limited",
@@ -41356,7 +41319,7 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 12.14,
+        "activity_multiple": 2.27,
         "legacy_signal_color": "YELLOW",
         "social_comparison_status": "NO_DATA",
         "social_records": []
@@ -41372,10 +41335,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.44,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41391,10 +41354,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-21",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 9.56,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41410,10 +41373,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.42,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41429,10 +41392,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-27",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.94,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41448,10 +41411,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-03-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.4,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41467,10 +41430,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-04-04",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.2,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41486,10 +41449,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.27,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41502,25 +41465,6 @@
               "relative_activity": 2.27,
               "severity": "YELLOW",
               "signal_id": "PACS.L:2023-05-09",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-01-04",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 12.14,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.8500000238418579,
-                "date": "2024-01-04",
-                "status": "EXACT"
-              },
-              "relative_activity": 12.14,
-              "severity": "YELLOW",
-              "signal_id": "PACS.L:2024-01-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
@@ -68576,7 +68520,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 1.1,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68593,10 +68537,11 @@
           "ticker": "PACS.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 6.44,
           "severity": "YELLOW",
           "signal_date": "2023-03-20",
+          "signal_id": "PACS.L:2023-03-20",
           "ticker": "PACS.L"
         },
         "market_cap": null,
@@ -68763,10 +68708,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 8
+            "CRASH ZONE BOTTOM": 7
           },
           "current_signal_count": 0,
-          "historical_signal_count": 8
+          "historical_signal_count": 7
         },
         "trends": {
           "records": [],
@@ -68779,7 +68724,7 @@
       "sector": "Consumer Defensive",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2024-01-04",
+      "signal_date": "2023-05-09",
       "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",

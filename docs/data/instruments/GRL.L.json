@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Goldstone Resources Limited",
@@ -20,200 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2024-05-24",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 17.0,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1,
-                "date": "2024-05-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 17.0,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-05-24",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-05-31",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.66,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.024999976158142,
-                "date": "2024-05-31",
-                "status": "EXACT"
-              },
-              "relative_activity": 3.66,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-05-31",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-06-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.11,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.0099999904632568,
-                "date": "2024-06-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.11,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-06-03",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-06-05",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.15,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.875,
-                "date": "2024-06-05",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.15,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-06-05",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-06-25",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.58,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.699999988079071,
-                "date": "2024-06-25",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.58,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-06-25",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2024-09-24",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 1.74,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 1.065000057220459,
-                "date": "2024-09-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.74,
-              "severity": "PURPLE",
-              "signal_id": "GRL.L:2024-09-24",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2024-09-26",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 7.82,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 1.024999976158142,
-                "date": "2024-09-26",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.82,
-              "severity": "PURPLE",
-              "signal_id": "GRL.L:2024-09-26",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2024-09-30",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 1.65,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.949999988079071,
-                "date": "2024-09-30",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.65,
-              "severity": "PURPLE",
-              "signal_id": "GRL.L:2024-09-30",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-11-08",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.33,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.8899999856948853,
-                "date": "2024-11-08",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.33,
-              "severity": "YELLOW",
-              "signal_id": "GRL.L:2024-11-08",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-11-11",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.01,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.8999999761581421,
-                "date": "2024-11-11",
-                "status": "EXACT"
-              },
-              "relative_activity": 4.01,
-              "severity": "YELLOW",
-              "signal_id": "GRL.L:2024-11-11",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-12",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 8.45,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -229,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.03,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -248,10 +58,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.81,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -27319,7 +27129,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.35,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27336,10 +27146,11 @@
           "ticker": "GRL.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 17.0,
-          "severity": "GREEN",
-          "signal_date": "2024-05-24",
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 8.45,
+          "severity": "YELLOW",
+          "signal_date": "2025-08-12",
+          "signal_id": "GRL.L:2025-08-12",
           "ticker": "GRL.L"
         },
         "market_cap": null,
@@ -27506,12 +27317,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 4,
-            "DEEP CRASH BOTTOM": 6,
-            "ENHANCED CRASH CRASH-ACCUM COMBO": 3
+            "CRASH ZONE BOTTOM": 2,
+            "DEEP CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 13
+          "historical_signal_count": 3
         },
         "trends": {
           "records": [],
@@ -27556,200 +27366,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
-          "date": "2024-05-24",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 17.0,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 1,
-            "date": "2024-05-24",
-            "status": "EXACT"
-          },
-          "relative_activity": 17.0,
-          "severity": "GREEN",
-          "signal_id": "GRL.L:2024-05-24",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-05-31",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 3.66,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 1.024999976158142,
-            "date": "2024-05-31",
-            "status": "EXACT"
-          },
-          "relative_activity": 3.66,
-          "severity": "GREEN",
-          "signal_id": "GRL.L:2024-05-31",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-06-03",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.11,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 1.0099999904632568,
-            "date": "2024-06-03",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.11,
-          "severity": "GREEN",
-          "signal_id": "GRL.L:2024-06-03",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-06-05",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.15,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.875,
-            "date": "2024-06-05",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.15,
-          "severity": "GREEN",
-          "signal_id": "GRL.L:2024-06-05",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-06-25",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.58,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.699999988079071,
-            "date": "2024-06-25",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.58,
-          "severity": "GREEN",
-          "signal_id": "GRL.L:2024-06-25",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "DETECTED",
-          "date": "2024-09-24",
-          "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 1.74,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-          },
-          "price_context": {
-            "close": 1.065000057220459,
-            "date": "2024-09-24",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.74,
-          "severity": "PURPLE",
-          "signal_id": "GRL.L:2024-09-24",
-          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-        },
-        {
-          "accumulation": "DETECTED",
-          "date": "2024-09-26",
-          "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 7.82,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-          },
-          "price_context": {
-            "close": 1.024999976158142,
-            "date": "2024-09-26",
-            "status": "EXACT"
-          },
-          "relative_activity": 7.82,
-          "severity": "PURPLE",
-          "signal_id": "GRL.L:2024-09-26",
-          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-        },
-        {
-          "accumulation": "DETECTED",
-          "date": "2024-09-30",
-          "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 1.65,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-          },
-          "price_context": {
-            "close": 0.949999988079071,
-            "date": "2024-09-30",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.65,
-          "severity": "PURPLE",
-          "signal_id": "GRL.L:2024-09-30",
-          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-11-08",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.33,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 0.8899999856948853,
-            "date": "2024-11-08",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.33,
-          "severity": "YELLOW",
-          "signal_id": "GRL.L:2024-11-08",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-11-11",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 4.01,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 0.8999999761581421,
-            "date": "2024-11-11",
-            "status": "EXACT"
-          },
-          "relative_activity": 4.01,
-          "severity": "YELLOW",
-          "signal_id": "GRL.L:2024-11-11",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-08-12",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 8.45,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27765,10 +27385,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-08-13",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.03,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -27784,10 +27404,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-08-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.81,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -41539,7 +41159,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Goldstone Resources Limited",
@@ -41564,200 +41184,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2024-05-24",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 17.0,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1,
-                "date": "2024-05-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 17.0,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-05-24",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-05-31",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.66,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.024999976158142,
-                "date": "2024-05-31",
-                "status": "EXACT"
-              },
-              "relative_activity": 3.66,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-05-31",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-06-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.11,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.0099999904632568,
-                "date": "2024-06-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.11,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-06-03",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-06-05",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.15,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.875,
-                "date": "2024-06-05",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.15,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-06-05",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-06-25",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.58,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.699999988079071,
-                "date": "2024-06-25",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.58,
-              "severity": "GREEN",
-              "signal_id": "GRL.L:2024-06-25",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2024-09-24",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 1.74,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 1.065000057220459,
-                "date": "2024-09-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.74,
-              "severity": "PURPLE",
-              "signal_id": "GRL.L:2024-09-24",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2024-09-26",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 7.82,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 1.024999976158142,
-                "date": "2024-09-26",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.82,
-              "severity": "PURPLE",
-              "signal_id": "GRL.L:2024-09-26",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2024-09-30",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 1.65,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 0.949999988079071,
-                "date": "2024-09-30",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.65,
-              "severity": "PURPLE",
-              "signal_id": "GRL.L:2024-09-30",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-11-08",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.33,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.8899999856948853,
-                "date": "2024-11-08",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.33,
-              "severity": "YELLOW",
-              "signal_id": "GRL.L:2024-11-08",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-11-11",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.01,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.8999999761581421,
-                "date": "2024-11-11",
-                "status": "EXACT"
-              },
-              "relative_activity": 4.01,
-              "severity": "YELLOW",
-              "signal_id": "GRL.L:2024-11-11",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-12",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 8.45,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41773,10 +41203,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.03,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -41792,10 +41222,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.81,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -68863,7 +68293,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.35,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68880,10 +68310,11 @@
           "ticker": "GRL.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 17.0,
-          "severity": "GREEN",
-          "signal_date": "2024-05-24",
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 8.45,
+          "severity": "YELLOW",
+          "signal_date": "2025-08-12",
+          "signal_id": "GRL.L:2025-08-12",
           "ticker": "GRL.L"
         },
         "market_cap": null,
@@ -69050,12 +68481,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 4,
-            "DEEP CRASH BOTTOM": 6,
-            "ENHANCED CRASH CRASH-ACCUM COMBO": 3
+            "CRASH ZONE BOTTOM": 2,
+            "DEEP CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 13
+          "historical_signal_count": 3
         },
         "trends": {
           "records": [],

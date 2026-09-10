@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Ondo InsurTech Plc",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-04-21",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.79,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-04-22",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 12.14,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -58,10 +58,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-04-23",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.07,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -77,11 +77,30 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2026-04-24",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.29,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 4.25,
+                "date": "2026-04-24",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.29,
+              "severity": "GREEN",
+              "signal_id": "ONDO.L:2026-04-24",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2026-05-11",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.5,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.31,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
@@ -90,29 +109,29 @@
                 "date": "2026-05-11",
                 "status": "EXACT"
               },
-              "relative_activity": 1.5,
+              "relative_activity": 1.31,
               "severity": "GREEN",
               "signal_id": "ONDO.L:2026-05-11",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-05-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.9,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.59,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 3.700000047683716,
                 "date": "2026-05-13",
                 "status": "EXACT"
               },
-              "relative_activity": 2.9,
-              "severity": "GREEN",
+              "relative_activity": 2.59,
+              "severity": "YELLOW",
               "signal_id": "ONDO.L:2026-05-13",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
           "price_points": [
@@ -20815,7 +20834,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 3.7,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -20832,10 +20851,11 @@
           "ticker": "ONDO.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 10.79,
           "severity": "YELLOW",
           "signal_date": "2026-04-21",
+          "signal_id": "ONDO.L:2026-04-21",
           "ticker": "ONDO.L"
         },
         "market_cap": null,
@@ -21002,11 +21022,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 1,
+            "CRASH ZONE BOTTOM": 2,
             "DEEP CRASH BOTTOM": 4
           },
           "current_signal_count": 0,
-          "historical_signal_count": 5
+          "historical_signal_count": 6
         },
         "trends": {
           "records": [],
@@ -21019,13 +21039,13 @@
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
       "signal_date": "2026-05-13",
-      "signal_state": "DEEP CRASH BOTTOM",
+      "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "ticker": "ONDO.L",
-      "watch_severity": "ELEVATED",
+      "watch_severity": "CLOSE WATCH",
       "why_crashdash_noticed": [
-        "DEEP CRASH BOTTOM"
+        "CRASH ZONE BOTTOM"
       ]
     },
     "instrument_detail": {
@@ -21051,10 +21071,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-04-21",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 10.79,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -21070,10 +21090,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-04-22",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 12.14,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -21089,10 +21109,10 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-04-23",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 6.07,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
@@ -21108,11 +21128,30 @@
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
+          "date": "2026-04-24",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.29,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 4.25,
+            "date": "2026-04-24",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.29,
+          "severity": "GREEN",
+          "signal_id": "ONDO.L:2026-04-24",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
           "date": "2026-05-11",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.5,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.31,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
           },
@@ -21121,29 +21160,29 @@
             "date": "2026-05-11",
             "status": "EXACT"
           },
-          "relative_activity": 1.5,
+          "relative_activity": 1.31,
           "severity": "GREEN",
           "signal_id": "ONDO.L:2026-05-11",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-05-13",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.9,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.59,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
             "close": 3.700000047683716,
             "date": "2026-05-13",
             "status": "EXACT"
           },
-          "relative_activity": 2.9,
-          "severity": "GREEN",
+          "relative_activity": 2.59,
+          "severity": "YELLOW",
           "signal_id": "ONDO.L:2026-05-13",
-          "signal_type": "DEEP CRASH BOTTOM"
+          "signal_type": "CRASH ZONE BOTTOM"
         }
       ],
       "identity": {
@@ -31706,7 +31745,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Ondo InsurTech Plc",
@@ -31715,8 +31754,8 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 2.9,
-        "legacy_signal_color": "GREEN",
+        "activity_multiple": 2.59,
+        "legacy_signal_color": "YELLOW",
         "social_comparison_status": "NO_DATA",
         "social_records": []
       },
@@ -31731,10 +31770,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-04-21",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.79,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -31750,10 +31789,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-04-22",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 12.14,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -31769,10 +31808,10 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-04-23",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.07,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
@@ -31788,11 +31827,30 @@
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
+              "date": "2026-04-24",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.29,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 4.25,
+                "date": "2026-04-24",
+                "status": "EXACT"
+              },
+              "relative_activity": 3.29,
+              "severity": "GREEN",
+              "signal_id": "ONDO.L:2026-04-24",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2026-05-11",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.5,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.31,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
@@ -31801,29 +31859,29 @@
                 "date": "2026-05-11",
                 "status": "EXACT"
               },
-              "relative_activity": 1.5,
+              "relative_activity": 1.31,
               "severity": "GREEN",
               "signal_id": "ONDO.L:2026-05-11",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-05-13",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.9,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.59,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 3.700000047683716,
                 "date": "2026-05-13",
                 "status": "EXACT"
               },
-              "relative_activity": 2.9,
-              "severity": "GREEN",
+              "relative_activity": 2.59,
+              "severity": "YELLOW",
               "signal_id": "ONDO.L:2026-05-13",
-              "signal_type": "DEEP CRASH BOTTOM"
+              "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
           "price_points": [
@@ -52526,7 +52584,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 3.7,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -52543,10 +52601,11 @@
           "ticker": "ONDO.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 10.79,
           "severity": "YELLOW",
           "signal_date": "2026-04-21",
+          "signal_id": "ONDO.L:2026-04-21",
           "ticker": "ONDO.L"
         },
         "market_cap": null,
@@ -52713,11 +52772,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 1,
+            "CRASH ZONE BOTTOM": 2,
             "DEEP CRASH BOTTOM": 4
           },
           "current_signal_count": 0,
-          "historical_signal_count": 5
+          "historical_signal_count": 6
         },
         "trends": {
           "records": [],
@@ -52731,15 +52790,15 @@
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
       "signal_date": "2026-05-13",
-      "signal_state": "DEEP CRASH BOTTOM",
+      "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "source_quality": "READY",
       "temporal_class": "SIGNAL_TIME",
       "ticker": "ONDO.L",
-      "watch_severity": "ELEVATED",
+      "watch_severity": "CLOSE WATCH",
       "why_crashdash_noticed": [
-        "DEEP CRASH BOTTOM"
+        "CRASH ZONE BOTTOM"
       ]
     }
   },

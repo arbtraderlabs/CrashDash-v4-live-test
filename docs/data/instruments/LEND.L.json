@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Sancus Lending Group Limited",
@@ -20,11 +20,11 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-06-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 5.71,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -33,17 +33,17 @@
                 "date": "2023-06-08",
                 "status": "EXACT"
               },
-              "relative_activity": 5.71,
+              "relative_activity": 6.0,
               "severity": "YELLOW",
               "signal_id": "LEND.L:2023-06-08",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-06-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 15.81,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 16.23,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -52,16 +52,16 @@
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
-              "relative_activity": 15.81,
+              "relative_activity": 16.23,
               "severity": "YELLOW",
               "signal_id": "LEND.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-06-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.38,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -77,10 +77,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.78,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -94,6 +94,25 @@
               "severity": "YELLOW",
               "signal_id": "LEND.L:2024-07-01",
               "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2026-01-12",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.81,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.004000000189989805,
+                "date": "2026-01-12",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.81,
+              "severity": "ORANGE",
+              "signal_id": "LEND.L:2026-01-12",
+              "signal_type": "EXTREME CRASH BOTTOM"
             }
           ],
           "price_points": [
@@ -27132,7 +27151,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.004,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27149,10 +27168,11 @@
           "ticker": "LEND.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 5.71,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 6.0,
           "severity": "YELLOW",
           "signal_date": "2023-06-08",
+          "signal_id": "LEND.L:2023-06-08",
           "ticker": "LEND.L"
         },
         "market_cap": null,
@@ -27319,10 +27339,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 4
+            "CRASH ZONE BOTTOM": 4,
+            "EXTREME CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 4
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],
@@ -27334,14 +27355,14 @@
       "sector": "Financial Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2024-07-01",
-      "signal_state": "CRASH ZONE BOTTOM",
+      "signal_date": "2026-01-12",
+      "signal_state": "EXTREME CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "ticker": "LEND.L",
-      "watch_severity": "CLOSE WATCH",
+      "watch_severity": "HIGH",
       "why_crashdash_noticed": [
-        "CRASH ZONE BOTTOM"
+        "EXTREME CRASH BOTTOM"
       ]
     },
     "instrument_detail": {
@@ -27367,11 +27388,11 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-06-08",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 5.71,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 6.0,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -27380,17 +27401,17 @@
             "date": "2023-06-08",
             "status": "EXACT"
           },
-          "relative_activity": 5.71,
+          "relative_activity": 6.0,
           "severity": "YELLOW",
           "signal_id": "LEND.L:2023-06-08",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-06-09",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 15.81,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 16.23,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -27399,16 +27420,16 @@
             "date": "2023-06-09",
             "status": "EXACT"
           },
-          "relative_activity": 15.81,
+          "relative_activity": 16.23,
           "severity": "YELLOW",
           "signal_id": "LEND.L:2023-06-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-06-10",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 6.38,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27424,10 +27445,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-07-01",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 10.78,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27441,6 +27462,25 @@
           "severity": "YELLOW",
           "signal_id": "LEND.L:2024-07-01",
           "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2026-01-12",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.81,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 0.004000000189989805,
+            "date": "2026-01-12",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.81,
+          "severity": "ORANGE",
+          "signal_id": "LEND.L:2026-01-12",
+          "signal_type": "EXTREME CRASH BOTTOM"
         }
       ],
       "identity": {
@@ -41171,7 +41211,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Sancus Lending Group Limited",
@@ -41180,8 +41220,8 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 10.78,
-        "legacy_signal_color": "YELLOW",
+        "activity_multiple": 1.81,
+        "legacy_signal_color": "ORANGE",
         "social_comparison_status": "NO_DATA",
         "social_records": []
       },
@@ -41196,11 +41236,11 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-06-08",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 5.71,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 6.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -41209,17 +41249,17 @@
                 "date": "2023-06-08",
                 "status": "EXACT"
               },
-              "relative_activity": 5.71,
+              "relative_activity": 6.0,
               "severity": "YELLOW",
               "signal_id": "LEND.L:2023-06-08",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-06-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 15.81,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 16.23,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -41228,16 +41268,16 @@
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
-              "relative_activity": 15.81,
+              "relative_activity": 16.23,
               "severity": "YELLOW",
               "signal_id": "LEND.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-06-10",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 6.38,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41253,10 +41293,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-07-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.78,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41270,6 +41310,25 @@
               "severity": "YELLOW",
               "signal_id": "LEND.L:2024-07-01",
               "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2026-01-12",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.81,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.004000000189989805,
+                "date": "2026-01-12",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.81,
+              "severity": "ORANGE",
+              "signal_id": "LEND.L:2026-01-12",
+              "signal_type": "EXTREME CRASH BOTTOM"
             }
           ],
           "price_points": [
@@ -68308,7 +68367,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.004,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68325,10 +68384,11 @@
           "ticker": "LEND.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 5.71,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 6.0,
           "severity": "YELLOW",
           "signal_date": "2023-06-08",
+          "signal_id": "LEND.L:2023-06-08",
           "ticker": "LEND.L"
         },
         "market_cap": null,
@@ -68495,10 +68555,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 4
+            "CRASH ZONE BOTTOM": 4,
+            "EXTREME CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 4
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],
@@ -68511,16 +68572,16 @@
       "sector": "Financial Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2024-07-01",
-      "signal_state": "CRASH ZONE BOTTOM",
+      "signal_date": "2026-01-12",
+      "signal_state": "EXTREME CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "source_quality": "READY",
       "temporal_class": "SIGNAL_TIME",
       "ticker": "LEND.L",
-      "watch_severity": "CLOSE WATCH",
+      "watch_severity": "HIGH",
       "why_crashdash_noticed": [
-        "CRASH ZONE BOTTOM"
+        "EXTREME CRASH BOTTOM"
       ]
     }
   },

@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "AIQ Limited",
@@ -20,11 +20,11 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-08-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.54,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.85,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
@@ -33,16 +33,16 @@
                 "date": "2021-08-03",
                 "status": "EXACT"
               },
-              "relative_activity": 2.54,
+              "relative_activity": 2.85,
               "severity": "GREEN",
               "signal_id": "AIQ.L:2021-08-03",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-12-07",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.88,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58,11 +58,11 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-03-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.6,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 12.23,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -71,256 +71,47 @@
                 "date": "2022-03-09",
                 "status": "EXACT"
               },
-              "relative_activity": 8.6,
+              "relative_activity": 12.23,
               "severity": "YELLOW",
               "signal_id": "AIQ.L:2022-03-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-03-22",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-05-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.15,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 9,
-                "date": "2022-03-22",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.15,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-03-22",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-04-12",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.87,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 9,
-                "date": "2022-04-12",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.87,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-04-12",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-05-18",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.63,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 7.85,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 7.5,
-                "date": "2022-05-18",
+                "date": "2022-05-05",
                 "status": "EXACT"
               },
-              "relative_activity": 1.63,
+              "relative_activity": 7.85,
               "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-05-18",
+              "signal_id": "AIQ.L:2022-05-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-06-20",
+              "accumulation": "NOT_DETECTED",
+              "date": "2024-02-02",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.33,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 7.5,
-                "date": "2022-06-20",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.33,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-06-20",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-06-30",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.46,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 7.5,
-                "date": "2022-06-30",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.46,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-06-30",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-01-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.3,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 9,
-                "date": "2023-01-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.3,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2023-01-03",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-01-17",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.43,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 8,
-                "date": "2023-01-17",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.43,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2023-01-17",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-02",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.06,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 7,
-                "date": "2023-03-02",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.06,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2023-03-02",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-20",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.4,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 6,
-                "date": "2023-03-20",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.4,
-              "severity": "GREEN",
-              "signal_id": "AIQ.L:2023-03-20",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-24",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.07,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 5.5,
-                "date": "2023-03-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 4.07,
-              "severity": "GREEN",
-              "signal_id": "AIQ.L:2023-03-24",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-05-26",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.28,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 6.5,
-                "date": "2023-05-26",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.28,
-              "severity": "GREEN",
-              "signal_id": "AIQ.L:2023-05-26",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-01-16",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.23,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 3.5,
-                "date": "2024-01-16",
-                "status": "EXACT"
-              },
-              "relative_activity": 3.23,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2024-01-16",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-03-05",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 5.14,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.61,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 3,
-                "date": "2024-03-05",
+                "date": "2024-02-02",
                 "status": "EXACT"
               },
-              "relative_activity": 5.14,
+              "relative_activity": 4.61,
               "severity": "YELLOW",
-              "signal_id": "AIQ.L:2024-03-05",
+              "signal_id": "AIQ.L:2024-02-02",
               "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
@@ -27360,7 +27151,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 3.0,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27377,10 +27168,11 @@
           "ticker": "AIQ.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 2.54,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 2.85,
           "severity": "GREEN",
           "signal_date": "2021-08-03",
+          "signal_id": "AIQ.L:2021-08-03",
           "ticker": "AIQ.L"
         },
         "market_cap": null,
@@ -27547,11 +27339,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 12,
-            "DEEP CRASH BOTTOM": 4
+            "CRASH ZONE BOTTOM": 4,
+            "DEEP CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 16
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],
@@ -27563,7 +27355,7 @@
       "sector": "Technology",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2024-03-05",
+      "signal_date": "2024-02-02",
       "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
@@ -27596,11 +27388,11 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2021-08-03",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.54,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.85,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
           },
@@ -27609,16 +27401,16 @@
             "date": "2021-08-03",
             "status": "EXACT"
           },
-          "relative_activity": 2.54,
+          "relative_activity": 2.85,
           "severity": "GREEN",
           "signal_id": "AIQ.L:2021-08-03",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2021-12-07",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.88,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27634,11 +27426,11 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-03-09",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 8.6,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 12.23,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -27647,256 +27439,47 @@
             "date": "2022-03-09",
             "status": "EXACT"
           },
-          "relative_activity": 8.6,
+          "relative_activity": 12.23,
           "severity": "YELLOW",
           "signal_id": "AIQ.L:2022-03-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-03-22",
+          "accumulation": "NOT_DETECTED",
+          "date": "2022-05-05",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.15,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 9,
-            "date": "2022-03-22",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.15,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2022-03-22",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-04-12",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.87,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 9,
-            "date": "2022-04-12",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.87,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2022-04-12",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-05-18",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.63,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 7.85,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
             "close": 7.5,
-            "date": "2022-05-18",
+            "date": "2022-05-05",
             "status": "EXACT"
           },
-          "relative_activity": 1.63,
+          "relative_activity": 7.85,
           "severity": "YELLOW",
-          "signal_id": "AIQ.L:2022-05-18",
+          "signal_id": "AIQ.L:2022-05-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-06-20",
+          "accumulation": "NOT_DETECTED",
+          "date": "2024-02-02",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 6.33,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 7.5,
-            "date": "2022-06-20",
-            "status": "EXACT"
-          },
-          "relative_activity": 6.33,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2022-06-20",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-06-30",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.46,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 7.5,
-            "date": "2022-06-30",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.46,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2022-06-30",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-01-03",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.3,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 9,
-            "date": "2023-01-03",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.3,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2023-01-03",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-01-17",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.43,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 8,
-            "date": "2023-01-17",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.43,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2023-01-17",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-03-02",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.06,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 7,
-            "date": "2023-03-02",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.06,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2023-03-02",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-03-20",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 7.4,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 6,
-            "date": "2023-03-20",
-            "status": "EXACT"
-          },
-          "relative_activity": 7.4,
-          "severity": "GREEN",
-          "signal_id": "AIQ.L:2023-03-20",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-03-24",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 4.07,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 5.5,
-            "date": "2023-03-24",
-            "status": "EXACT"
-          },
-          "relative_activity": 4.07,
-          "severity": "GREEN",
-          "signal_id": "AIQ.L:2023-03-24",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-05-26",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 6.28,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 6.5,
-            "date": "2023-05-26",
-            "status": "EXACT"
-          },
-          "relative_activity": 6.28,
-          "severity": "GREEN",
-          "signal_id": "AIQ.L:2023-05-26",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-01-16",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 3.23,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 3.5,
-            "date": "2024-01-16",
-            "status": "EXACT"
-          },
-          "relative_activity": 3.23,
-          "severity": "YELLOW",
-          "signal_id": "AIQ.L:2024-01-16",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2024-03-05",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 5.14,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 4.61,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
             "close": 3,
-            "date": "2024-03-05",
+            "date": "2024-02-02",
             "status": "EXACT"
           },
-          "relative_activity": 5.14,
+          "relative_activity": 4.61,
           "severity": "YELLOW",
-          "signal_id": "AIQ.L:2024-03-05",
+          "signal_id": "AIQ.L:2024-02-02",
           "signal_type": "CRASH ZONE BOTTOM"
         }
       ],
@@ -41628,7 +41211,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "AIQ Limited",
@@ -41637,7 +41220,7 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 5.14,
+        "activity_multiple": 4.61,
         "legacy_signal_color": "YELLOW",
         "social_comparison_status": "NO_DATA",
         "social_records": []
@@ -41653,11 +41236,11 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-08-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.54,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.85,
                 "severity": "GREEN",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
@@ -41666,16 +41249,16 @@
                 "date": "2021-08-03",
                 "status": "EXACT"
               },
-              "relative_activity": 2.54,
+              "relative_activity": 2.85,
               "severity": "GREEN",
               "signal_id": "AIQ.L:2021-08-03",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2021-12-07",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.88,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41691,11 +41274,11 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-03-09",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.6,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 12.23,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -41704,256 +41287,47 @@
                 "date": "2022-03-09",
                 "status": "EXACT"
               },
-              "relative_activity": 8.6,
+              "relative_activity": 12.23,
               "severity": "YELLOW",
               "signal_id": "AIQ.L:2022-03-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-03-22",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-05-05",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.15,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 9,
-                "date": "2022-03-22",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.15,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-03-22",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-04-12",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.87,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 9,
-                "date": "2022-04-12",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.87,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-04-12",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-05-18",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.63,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 7.85,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 7.5,
-                "date": "2022-05-18",
+                "date": "2022-05-05",
                 "status": "EXACT"
               },
-              "relative_activity": 1.63,
+              "relative_activity": 7.85,
               "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-05-18",
+              "signal_id": "AIQ.L:2022-05-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-06-20",
+              "accumulation": "NOT_DETECTED",
+              "date": "2024-02-02",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.33,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 7.5,
-                "date": "2022-06-20",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.33,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-06-20",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-06-30",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.46,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 7.5,
-                "date": "2022-06-30",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.46,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2022-06-30",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-01-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.3,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 9,
-                "date": "2023-01-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.3,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2023-01-03",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-01-17",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.43,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 8,
-                "date": "2023-01-17",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.43,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2023-01-17",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-02",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.06,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 7,
-                "date": "2023-03-02",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.06,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2023-03-02",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-20",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.4,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 6,
-                "date": "2023-03-20",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.4,
-              "severity": "GREEN",
-              "signal_id": "AIQ.L:2023-03-20",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-03-24",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.07,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 5.5,
-                "date": "2023-03-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 4.07,
-              "severity": "GREEN",
-              "signal_id": "AIQ.L:2023-03-24",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-05-26",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 6.28,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 6.5,
-                "date": "2023-05-26",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.28,
-              "severity": "GREEN",
-              "signal_id": "AIQ.L:2023-05-26",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-01-16",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.23,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 3.5,
-                "date": "2024-01-16",
-                "status": "EXACT"
-              },
-              "relative_activity": 3.23,
-              "severity": "YELLOW",
-              "signal_id": "AIQ.L:2024-01-16",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2024-03-05",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 5.14,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.61,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 3,
-                "date": "2024-03-05",
+                "date": "2024-02-02",
                 "status": "EXACT"
               },
-              "relative_activity": 5.14,
+              "relative_activity": 4.61,
               "severity": "YELLOW",
-              "signal_id": "AIQ.L:2024-03-05",
+              "signal_id": "AIQ.L:2024-02-02",
               "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
@@ -68993,7 +68367,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 3.0,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -69010,10 +68384,11 @@
           "ticker": "AIQ.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 2.54,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 2.85,
           "severity": "GREEN",
           "signal_date": "2021-08-03",
+          "signal_id": "AIQ.L:2021-08-03",
           "ticker": "AIQ.L"
         },
         "market_cap": null,
@@ -69180,11 +68555,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 12,
-            "DEEP CRASH BOTTOM": 4
+            "CRASH ZONE BOTTOM": 4,
+            "DEEP CRASH BOTTOM": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 16
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],
@@ -69197,7 +68572,7 @@
       "sector": "Technology",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2024-03-05",
+      "signal_date": "2024-02-02",
       "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",

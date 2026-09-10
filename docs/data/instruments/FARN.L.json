@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Faron Pharmaceuticals Oy",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-02-16",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.58,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-02-17",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.64,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58,10 +58,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-02-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.76,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -77,11 +77,11 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-03-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.73,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.7,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -90,7 +90,7 @@
                 "date": "2026-03-18",
                 "status": "EXACT"
               },
-              "relative_activity": 1.73,
+              "relative_activity": 1.7,
               "severity": "YELLOW",
               "signal_id": "FARN.L:2026-03-18",
               "signal_type": "CRASH ZONE BOTTOM"
@@ -27148,7 +27148,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 44.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27165,10 +27165,11 @@
           "ticker": "FARN.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 1.58,
           "severity": "YELLOW",
           "signal_date": "2026-02-16",
+          "signal_id": "FARN.L:2026-02-16",
           "ticker": "FARN.L"
         },
         "market_cap": null,
@@ -27383,10 +27384,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-02-16",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.58,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27402,10 +27403,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-02-17",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.64,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27421,10 +27422,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-02-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.76,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27440,11 +27441,11 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-03-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.73,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.7,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -27453,7 +27454,7 @@
             "date": "2026-03-18",
             "status": "EXACT"
           },
-          "relative_activity": 1.73,
+          "relative_activity": 1.7,
           "severity": "YELLOW",
           "signal_id": "FARN.L:2026-03-18",
           "signal_type": "CRASH ZONE BOTTOM"
@@ -41195,7 +41196,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Faron Pharmaceuticals Oy",
@@ -41204,7 +41205,7 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 1.73,
+        "activity_multiple": 1.7,
         "legacy_signal_color": "YELLOW",
         "social_comparison_status": "NO_DATA",
         "social_records": []
@@ -41220,10 +41221,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-02-16",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.58,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41239,10 +41240,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-02-17",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.64,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41258,10 +41259,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-02-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.76,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41277,11 +41278,11 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-03-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.73,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 1.7,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -41290,7 +41291,7 @@
                 "date": "2026-03-18",
                 "status": "EXACT"
               },
-              "relative_activity": 1.73,
+              "relative_activity": 1.7,
               "severity": "YELLOW",
               "signal_id": "FARN.L:2026-03-18",
               "signal_type": "CRASH ZONE BOTTOM"
@@ -68348,7 +68349,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 44.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68365,10 +68366,11 @@
           "ticker": "FARN.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 1.58,
           "severity": "YELLOW",
           "signal_date": "2026-02-16",
+          "signal_id": "FARN.L:2026-02-16",
           "ticker": "FARN.L"
         },
         "market_cap": null,

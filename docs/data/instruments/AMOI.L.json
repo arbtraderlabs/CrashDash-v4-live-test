@@ -20,11 +20,11 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-04-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.63,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.96,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -33,168 +33,16 @@
                 "date": "2022-04-01",
                 "status": "EXACT"
               },
-              "relative_activity": 4.63,
+              "relative_activity": 4.96,
               "severity": "YELLOW",
               "signal_id": "AMOI.L:2022-04-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-04-06",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.61,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.850000023841858,
-                "date": "2022-04-06",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.61,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-04-06",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-05-05",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.99,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.7000000476837158,
-                "date": "2022-05-05",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.99,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-05-05",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-07-08",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 9.11,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.600000023841858,
-                "date": "2022-07-08",
-                "status": "EXACT"
-              },
-              "relative_activity": 9.11,
-              "severity": "GREEN",
-              "signal_id": "AMOI.L:2022-07-08",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2022-07-14",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 6.9,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 1.600000023841858,
-                "date": "2022-07-14",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.9,
-              "severity": "PURPLE",
-              "signal_id": "AMOI.L:2022-07-14",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-11",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.77,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.4500000476837158,
-                "date": "2022-08-11",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.77,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-08-11",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-15",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.78,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.399999976158142,
-                "date": "2022-08-15",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.78,
-              "severity": "GREEN",
-              "signal_id": "AMOI.L:2022-08-15",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-24",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.41,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.399999976158142,
-                "date": "2022-08-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 3.41,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-08-24",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-11-17",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.82,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.9750000238418579,
-                "date": "2022-11-17",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.82,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-11-17",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.8,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -23969,7 +23817,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.825,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -23986,10 +23834,11 @@
           "ticker": "AMOI.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 4.63,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 4.96,
           "severity": "YELLOW",
           "signal_date": "2022-04-01",
+          "signal_id": "AMOI.L:2022-04-01",
           "ticker": "AMOI.L"
         },
         "market_cap": null,
@@ -24156,13 +24005,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 7,
-            "DEEP CRASH BOTTOM": 2,
-            "ENHANCED CRASH CRASH-ACCUM COMBO": 1,
+            "CRASH ZONE BOTTOM": 2,
             "ENHANCED DEEP CRASH-ACCUM COMBO": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 11
+          "historical_signal_count": 3
         },
         "trends": {
           "records": [],
@@ -24207,11 +24054,11 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2022-04-01",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 4.63,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 4.96,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -24220,168 +24067,16 @@
             "date": "2022-04-01",
             "status": "EXACT"
           },
-          "relative_activity": 4.63,
+          "relative_activity": 4.96,
           "severity": "YELLOW",
           "signal_id": "AMOI.L:2022-04-01",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-04-06",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.61,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 1.850000023841858,
-            "date": "2022-04-06",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.61,
-          "severity": "YELLOW",
-          "signal_id": "AMOI.L:2022-04-06",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-05-05",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.99,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 1.7000000476837158,
-            "date": "2022-05-05",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.99,
-          "severity": "YELLOW",
-          "signal_id": "AMOI.L:2022-05-05",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-07-08",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 9.11,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 1.600000023841858,
-            "date": "2022-07-08",
-            "status": "EXACT"
-          },
-          "relative_activity": 9.11,
-          "severity": "GREEN",
-          "signal_id": "AMOI.L:2022-07-08",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "DETECTED",
-          "date": "2022-07-14",
-          "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 6.9,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-          },
-          "price_context": {
-            "close": 1.600000023841858,
-            "date": "2022-07-14",
-            "status": "EXACT"
-          },
-          "relative_activity": 6.9,
-          "severity": "PURPLE",
-          "signal_id": "AMOI.L:2022-07-14",
-          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-08-11",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.77,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 1.4500000476837158,
-            "date": "2022-08-11",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.77,
-          "severity": "YELLOW",
-          "signal_id": "AMOI.L:2022-08-11",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-08-15",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.78,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 1.399999976158142,
-            "date": "2022-08-15",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.78,
-          "severity": "GREEN",
-          "signal_id": "AMOI.L:2022-08-15",
-          "signal_type": "DEEP CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-08-24",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 3.41,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 1.399999976158142,
-            "date": "2022-08-24",
-            "status": "EXACT"
-          },
-          "relative_activity": 3.41,
-          "severity": "YELLOW",
-          "signal_id": "AMOI.L:2022-08-24",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2022-11-17",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 7.82,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 0.9750000238418579,
-            "date": "2022-11-17",
-            "status": "EXACT"
-          },
-          "relative_activity": 7.82,
-          "severity": "YELLOW",
-          "signal_id": "AMOI.L:2022-11-17",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-08-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.8,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -36521,11 +36216,11 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2022-04-01",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.63,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 4.96,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -36534,168 +36229,16 @@
                 "date": "2022-04-01",
                 "status": "EXACT"
               },
-              "relative_activity": 4.63,
+              "relative_activity": 4.96,
               "severity": "YELLOW",
               "signal_id": "AMOI.L:2022-04-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-04-06",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.61,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.850000023841858,
-                "date": "2022-04-06",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.61,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-04-06",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-05-05",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.99,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.7000000476837158,
-                "date": "2022-05-05",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.99,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-05-05",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-07-08",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 9.11,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.600000023841858,
-                "date": "2022-07-08",
-                "status": "EXACT"
-              },
-              "relative_activity": 9.11,
-              "severity": "GREEN",
-              "signal_id": "AMOI.L:2022-07-08",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "DETECTED",
-              "date": "2022-07-14",
-              "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 6.9,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
-              },
-              "price_context": {
-                "close": 1.600000023841858,
-                "date": "2022-07-14",
-                "status": "EXACT"
-              },
-              "relative_activity": 6.9,
-              "severity": "PURPLE",
-              "signal_id": "AMOI.L:2022-07-14",
-              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-11",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.77,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.4500000476837158,
-                "date": "2022-08-11",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.77,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-08-11",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-15",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.78,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 1.399999976158142,
-                "date": "2022-08-15",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.78,
-              "severity": "GREEN",
-              "signal_id": "AMOI.L:2022-08-15",
-              "signal_type": "DEEP CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-24",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.41,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.399999976158142,
-                "date": "2022-08-24",
-                "status": "EXACT"
-              },
-              "relative_activity": 3.41,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-08-24",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2022-11-17",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 7.82,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.9750000238418579,
-                "date": "2022-11-17",
-                "status": "EXACT"
-              },
-              "relative_activity": 7.82,
-              "severity": "YELLOW",
-              "signal_id": "AMOI.L:2022-11-17",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-08-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.8,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -60470,7 +60013,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.825,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -60487,10 +60030,11 @@
           "ticker": "AMOI.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 4.63,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 4.96,
           "severity": "YELLOW",
           "signal_date": "2022-04-01",
+          "signal_id": "AMOI.L:2022-04-01",
           "ticker": "AMOI.L"
         },
         "market_cap": null,
@@ -60657,13 +60201,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 7,
-            "DEEP CRASH BOTTOM": 2,
-            "ENHANCED CRASH CRASH-ACCUM COMBO": 1,
+            "CRASH ZONE BOTTOM": 2,
             "ENHANCED DEEP CRASH-ACCUM COMBO": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 11
+          "historical_signal_count": 3
         },
         "trends": {
           "records": [],

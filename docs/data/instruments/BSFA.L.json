@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "BSF Enterprise Plc",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-12-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.49,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-12-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.04,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -58,10 +58,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-01-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -77,79 +77,60 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "DETECTED",
+              "accumulation": "NOT_DETECTED",
+              "date": "2026-03-13",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 9.48,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.625,
+                "date": "2026-03-13",
+                "status": "EXACT"
+              },
+              "relative_activity": 9.48,
+              "severity": "YELLOW",
+              "signal_id": "BSFA.L:2026-03-13",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2026-03-16",
               "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 2.35,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED ULTRA CRASH-ACCUM COMBO"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.06,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.6019999980926514,
                 "date": "2026-03-16",
                 "status": "EXACT"
               },
-              "relative_activity": 2.35,
-              "severity": "PURPLE",
+              "relative_activity": 2.06,
+              "severity": "YELLOW",
               "signal_id": "BSFA.L:2026-03-16",
-              "signal_type": "ENHANCED ULTRA CRASH-ACCUM COMBO"
+              "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-03-17",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.21,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.79,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.75,
                 "date": "2026-03-17",
                 "status": "EXACT"
               },
-              "relative_activity": 4.21,
-              "severity": "RED",
+              "relative_activity": 3.79,
+              "severity": "YELLOW",
               "signal_id": "BSFA.L:2026-03-17",
-              "signal_type": "ULTRA CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2026-06-12",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.66,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.125,
-                "date": "2026-06-12",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.66,
-              "severity": "YELLOW",
-              "signal_id": "BSFA.L:2026-06-12",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2026-07-29",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.39,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.800000011920929,
-                "date": "2026-07-29",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.39,
-              "severity": "YELLOW",
-              "signal_id": "BSFA.L:2026-07-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
@@ -27205,7 +27186,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.75,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -27232,10 +27213,11 @@
           "ticker": "BSFA.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 1.49,
           "severity": "YELLOW",
           "signal_date": "2024-12-18",
+          "signal_id": "BSFA.L:2024-12-18",
           "ticker": "BSFA.L"
         },
         "market_cap": null,
@@ -27402,12 +27384,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 5,
-            "ENHANCED ULTRA CRASH-ACCUM COMBO": 1,
-            "ULTRA CRASH BOTTOM": 1
+            "CRASH ZONE BOTTOM": 6
           },
           "current_signal_count": 0,
-          "historical_signal_count": 7
+          "historical_signal_count": 6
         },
         "trends": {
           "records": [],
@@ -27419,7 +27399,7 @@
       "sector": "Healthcare",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-07-29",
+      "signal_date": "2026-03-17",
       "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
@@ -27462,10 +27442,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-12-18",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.49,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27481,10 +27461,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2024-12-24",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 4.04,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27500,10 +27480,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-01-03",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 10.0,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27519,79 +27499,60 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "DETECTED",
+          "accumulation": "NOT_DETECTED",
+          "date": "2026-03-13",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 9.48,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.625,
+            "date": "2026-03-13",
+            "status": "EXACT"
+          },
+          "relative_activity": 9.48,
+          "severity": "YELLOW",
+          "signal_id": "BSFA.L:2026-03-13",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
           "date": "2026-03-16",
           "evidence": {
-            "accumulation": "DETECTED",
-            "relative_activity": 2.35,
-            "severity": "PURPLE",
-            "signal_state": "ENHANCED ULTRA CRASH-ACCUM COMBO"
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.06,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
             "close": 0.6019999980926514,
             "date": "2026-03-16",
             "status": "EXACT"
           },
-          "relative_activity": 2.35,
-          "severity": "PURPLE",
+          "relative_activity": 2.06,
+          "severity": "YELLOW",
           "signal_id": "BSFA.L:2026-03-16",
-          "signal_type": "ENHANCED ULTRA CRASH-ACCUM COMBO"
+          "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-03-17",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 4.21,
-            "severity": "RED",
-            "signal_state": "ULTRA CRASH BOTTOM"
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.79,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
             "close": 0.75,
             "date": "2026-03-17",
             "status": "EXACT"
           },
-          "relative_activity": 4.21,
-          "severity": "RED",
+          "relative_activity": 3.79,
+          "severity": "YELLOW",
           "signal_id": "BSFA.L:2026-03-17",
-          "signal_type": "ULTRA CRASH BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2026-06-12",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.66,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 1.125,
-            "date": "2026-06-12",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.66,
-          "severity": "YELLOW",
-          "signal_id": "BSFA.L:2026-06-12",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2026-07-29",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.39,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 0.800000011920929,
-            "date": "2026-07-29",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.39,
-          "severity": "YELLOW",
-          "signal_id": "BSFA.L:2026-07-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
       ],
@@ -41331,7 +41292,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "BSF Enterprise Plc",
@@ -41340,7 +41301,7 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 1.39,
+        "activity_multiple": 3.79,
         "legacy_signal_color": "YELLOW",
         "social_comparison_status": "NO_DATA",
         "social_records": []
@@ -41356,10 +41317,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-12-18",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 1.49,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41375,10 +41336,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2024-12-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.04,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41394,10 +41355,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-01-03",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 10.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41413,79 +41374,60 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "DETECTED",
+              "accumulation": "NOT_DETECTED",
+              "date": "2026-03-13",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 9.48,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.625,
+                "date": "2026-03-13",
+                "status": "EXACT"
+              },
+              "relative_activity": 9.48,
+              "severity": "YELLOW",
+              "signal_id": "BSFA.L:2026-03-13",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
               "date": "2026-03-16",
               "evidence": {
-                "accumulation": "DETECTED",
-                "relative_activity": 2.35,
-                "severity": "PURPLE",
-                "signal_state": "ENHANCED ULTRA CRASH-ACCUM COMBO"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.06,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.6019999980926514,
                 "date": "2026-03-16",
                 "status": "EXACT"
               },
-              "relative_activity": 2.35,
-              "severity": "PURPLE",
+              "relative_activity": 2.06,
+              "severity": "YELLOW",
               "signal_id": "BSFA.L:2026-03-16",
-              "signal_type": "ENHANCED ULTRA CRASH-ACCUM COMBO"
+              "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2026-03-17",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.21,
-                "severity": "RED",
-                "signal_state": "ULTRA CRASH BOTTOM"
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.79,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
                 "close": 0.75,
                 "date": "2026-03-17",
                 "status": "EXACT"
               },
-              "relative_activity": 4.21,
-              "severity": "RED",
+              "relative_activity": 3.79,
+              "severity": "YELLOW",
               "signal_id": "BSFA.L:2026-03-17",
-              "signal_type": "ULTRA CRASH BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2026-06-12",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.66,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 1.125,
-                "date": "2026-06-12",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.66,
-              "severity": "YELLOW",
-              "signal_id": "BSFA.L:2026-06-12",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2026-07-29",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.39,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 0.800000011920929,
-                "date": "2026-07-29",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.39,
-              "severity": "YELLOW",
-              "signal_id": "BSFA.L:2026-07-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
           ],
@@ -68541,7 +68483,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.75,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -68568,10 +68510,11 @@
           "ticker": "BSFA.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 1.49,
           "severity": "YELLOW",
           "signal_date": "2024-12-18",
+          "signal_id": "BSFA.L:2024-12-18",
           "ticker": "BSFA.L"
         },
         "market_cap": null,
@@ -68738,12 +68681,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 5,
-            "ENHANCED ULTRA CRASH-ACCUM COMBO": 1,
-            "ULTRA CRASH BOTTOM": 1
+            "CRASH ZONE BOTTOM": 6
           },
           "current_signal_count": 0,
-          "historical_signal_count": 7
+          "historical_signal_count": 6
         },
         "trends": {
           "records": [],
@@ -68756,7 +68697,7 @@
       "sector": "Healthcare",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-07-29",
+      "signal_date": "2026-03-17",
       "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",

@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Itim Group Plc",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-04-21",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.5,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,49 +39,11 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2023-04-28",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.89,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 25,
-                "date": "2023-04-28",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.89,
-              "severity": "YELLOW",
-              "signal_id": "ITIM.L:2023-04-28",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-05-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.12,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 25,
-                "date": "2023-05-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.12,
-              "severity": "YELLOW",
-              "signal_id": "ITIM.L:2023-05-03",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-23",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.32,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 10.4,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -90,17 +52,17 @@
                 "date": "2023-05-23",
                 "status": "EXACT"
               },
-              "relative_activity": 8.32,
+              "relative_activity": 10.4,
               "severity": "YELLOW",
               "signal_id": "ITIM.L:2023-05-23",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.01,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.63,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -109,17 +71,17 @@
                 "date": "2023-05-24",
                 "status": "EXACT"
               },
-              "relative_activity": 3.01,
+              "relative_activity": 3.63,
               "severity": "YELLOW",
               "signal_id": "ITIM.L:2023-05-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-26",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.86,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.53,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -128,16 +90,16 @@
                 "date": "2023-05-26",
                 "status": "EXACT"
               },
-              "relative_activity": 4.86,
+              "relative_activity": 5.53,
               "severity": "YELLOW",
               "signal_id": "ITIM.L:2023-05-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-06-12",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.04,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -21189,7 +21151,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 22.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -21206,10 +21168,11 @@
           "ticker": "ITIM.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 2.5,
           "severity": "YELLOW",
           "signal_date": "2023-04-21",
+          "signal_id": "ITIM.L:2023-04-21",
           "ticker": "ITIM.L"
         },
         "market_cap": null,
@@ -21376,10 +21339,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 7
+            "CRASH ZONE BOTTOM": 5
           },
           "current_signal_count": 0,
-          "historical_signal_count": 7
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],
@@ -21424,10 +21387,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-04-21",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.5,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -21443,49 +21406,11 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2023-04-28",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.89,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 25,
-            "date": "2023-04-28",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.89,
-          "severity": "YELLOW",
-          "signal_id": "ITIM.L:2023-04-28",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2023-05-03",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.12,
-            "severity": "YELLOW",
-            "signal_state": "CRASH ZONE BOTTOM"
-          },
-          "price_context": {
-            "close": 25,
-            "date": "2023-05-03",
-            "status": "EXACT"
-          },
-          "relative_activity": 2.12,
-          "severity": "YELLOW",
-          "signal_id": "ITIM.L:2023-05-03",
-          "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-05-23",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 8.32,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 10.4,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -21494,17 +21419,17 @@
             "date": "2023-05-23",
             "status": "EXACT"
           },
-          "relative_activity": 8.32,
+          "relative_activity": 10.4,
           "severity": "YELLOW",
           "signal_id": "ITIM.L:2023-05-23",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-05-24",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 3.01,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.63,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -21513,17 +21438,17 @@
             "date": "2023-05-24",
             "status": "EXACT"
           },
-          "relative_activity": 3.01,
+          "relative_activity": 3.63,
           "severity": "YELLOW",
           "signal_id": "ITIM.L:2023-05-24",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-05-26",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 4.86,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 5.53,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
@@ -21532,16 +21457,16 @@
             "date": "2023-05-26",
             "status": "EXACT"
           },
-          "relative_activity": 4.86,
+          "relative_activity": 5.53,
           "severity": "YELLOW",
           "signal_id": "ITIM.L:2023-05-26",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-06-12",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 3.04,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -32285,7 +32210,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Itim Group Plc",
@@ -32310,10 +32235,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-04-21",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.5,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -32329,49 +32254,11 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2023-04-28",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.89,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 25,
-                "date": "2023-04-28",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.89,
-              "severity": "YELLOW",
-              "signal_id": "ITIM.L:2023-04-28",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2023-05-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.12,
-                "severity": "YELLOW",
-                "signal_state": "CRASH ZONE BOTTOM"
-              },
-              "price_context": {
-                "close": 25,
-                "date": "2023-05-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 2.12,
-              "severity": "YELLOW",
-              "signal_id": "ITIM.L:2023-05-03",
-              "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-23",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 8.32,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 10.4,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -32380,17 +32267,17 @@
                 "date": "2023-05-23",
                 "status": "EXACT"
               },
-              "relative_activity": 8.32,
+              "relative_activity": 10.4,
               "severity": "YELLOW",
               "signal_id": "ITIM.L:2023-05-23",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.01,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.63,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -32399,17 +32286,17 @@
                 "date": "2023-05-24",
                 "status": "EXACT"
               },
-              "relative_activity": 3.01,
+              "relative_activity": 3.63,
               "severity": "YELLOW",
               "signal_id": "ITIM.L:2023-05-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-05-26",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.86,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 5.53,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
@@ -32418,16 +32305,16 @@
                 "date": "2023-05-26",
                 "status": "EXACT"
               },
-              "relative_activity": 4.86,
+              "relative_activity": 5.53,
               "severity": "YELLOW",
               "signal_id": "ITIM.L:2023-05-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-06-12",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 3.04,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -53479,7 +53366,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 22.5,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -53496,10 +53383,11 @@
           "ticker": "ITIM.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 2.5,
           "severity": "YELLOW",
           "signal_date": "2023-04-21",
+          "signal_id": "ITIM.L:2023-04-21",
           "ticker": "ITIM.L"
         },
         "market_cap": null,
@@ -53666,10 +53554,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 7
+            "CRASH ZONE BOTTOM": 5
           },
           "current_signal_count": 0,
-          "historical_signal_count": 7
+          "historical_signal_count": 5
         },
         "trends": {
           "records": [],

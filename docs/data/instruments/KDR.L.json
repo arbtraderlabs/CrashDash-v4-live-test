@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Karelian Diamond Resources Plc",
@@ -39,10 +39,10 @@
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-04-07",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.48,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -27110,7 +27110,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.575,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27131,6 +27131,7 @@
           "relative_activity": 2.17,
           "severity": "PURPLE",
           "signal_date": "2025-04-01",
+          "signal_id": "KDR.L:2025-04-01",
           "ticker": "KDR.L"
         },
         "market_cap": null,
@@ -27365,10 +27366,10 @@
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-04-07",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.48,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -41120,7 +41121,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Karelian Diamond Resources Plc",
@@ -41164,10 +41165,10 @@
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-04-07",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.48,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -68235,7 +68236,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.575,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68256,6 +68257,7 @@
           "relative_activity": 2.17,
           "severity": "PURPLE",
           "signal_date": "2025-04-01",
+          "signal_id": "KDR.L:2025-04-01",
           "ticker": "KDR.L"
         },
         "market_cap": null,

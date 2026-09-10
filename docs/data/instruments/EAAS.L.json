@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "eEnergy Group Plc",
@@ -58,10 +58,10 @@
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-26",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 9.84,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -27129,7 +27129,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 2.75,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -27160,6 +27160,7 @@
           "relative_activity": 4.4,
           "severity": "PURPLE",
           "signal_date": "2022-12-28",
+          "signal_id": "EAAS.L:2022-12-28",
           "ticker": "EAAS.L"
         },
         "market_cap": null,
@@ -27423,10 +27424,10 @@
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2023-01-26",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 9.84,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -41178,7 +41179,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "eEnergy Group Plc",
@@ -41241,10 +41242,10 @@
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2023-01-26",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 9.84,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -68312,7 +68313,7 @@
       },
       "market": "AIM",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 2.75,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -68343,6 +68344,7 @@
           "relative_activity": 4.4,
           "severity": "PURPLE",
           "signal_date": "2022-12-28",
+          "signal_id": "EAAS.L:2022-12-28",
           "ticker": "EAAS.L"
         },
         "market_cap": null,

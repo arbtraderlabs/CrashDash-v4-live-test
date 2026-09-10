@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Baltic Classifieds Group PLC",
@@ -10530,7 +10530,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 2.43,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -10547,10 +10547,11 @@
           "ticker": "BCG.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.42,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 1.41,
           "severity": "GREEN",
           "signal_date": "2026-09-08",
+          "signal_id": "BCG.L:2026-09-08",
           "ticker": "BCG.L"
         },
         "market_cap": null,
@@ -10717,11 +10718,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "DEEP CRASH BOTTOM": 1,
-            "EXTREME CRASH BOTTOM": 2
+            "DEEP CRASH BOTTOM": 3,
+            "EXTREME CRASH BOTTOM": 2,
+            "ULTRA CRASH BOTTOM": 1
           },
           "current_signal_count": 1,
-          "historical_signal_count": 3
+          "historical_signal_count": 6
         },
         "trends": {
           "records": [],
@@ -10765,11 +10767,11 @@
       },
       "current_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-09-08",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.42,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.41,
             "severity": "GREEN",
             "signal_state": "DEEP CRASH BOTTOM"
           },
@@ -10778,7 +10780,7 @@
             "date": "2026-09-08",
             "status": "EXACT"
           },
-          "relative_activity": 1.42,
+          "relative_activity": 1.41,
           "severity": "GREEN",
           "signal_id": "BCG.L:2026-09-08",
           "signal_type": "DEEP CRASH BOTTOM"
@@ -10786,13 +10788,70 @@
       ],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
-          "date": "2026-09-01",
+          "accumulation": "NOT_DETECTED",
+          "date": "2026-08-26",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.95,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.21,
             "severity": "ORANGE",
             "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 2.125999927520752,
+            "date": "2026-08-26",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.21,
+          "severity": "ORANGE",
+          "signal_id": "BCG.L:2026-08-26",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2026-08-27",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.72,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 2.171999931335449,
+            "date": "2026-08-27",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.72,
+          "severity": "ORANGE",
+          "signal_id": "BCG.L:2026-08-27",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2026-08-28",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.52,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 2.138000011444092,
+            "date": "2026-08-28",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.52,
+          "severity": "RED",
+          "signal_id": "BCG.L:2026-08-28",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2026-09-01",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 1.95,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
             "close": 2.0920000076293945,
@@ -10800,18 +10859,18 @@
             "status": "EXACT"
           },
           "relative_activity": 1.95,
-          "severity": "ORANGE",
+          "severity": "GREEN",
           "signal_id": "BCG.L:2026-09-01",
-          "signal_type": "EXTREME CRASH BOTTOM"
+          "signal_type": "DEEP CRASH BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2026-09-04",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 1.51,
-            "severity": "ORANGE",
-            "signal_state": "EXTREME CRASH BOTTOM"
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
           },
           "price_context": {
             "close": 2.4860000610351562,
@@ -10819,9 +10878,9 @@
             "status": "EXACT"
           },
           "relative_activity": 1.51,
-          "severity": "ORANGE",
+          "severity": "GREEN",
           "signal_id": "BCG.L:2026-09-04",
-          "signal_type": "EXTREME CRASH BOTTOM"
+          "signal_type": "DEEP CRASH BOTTOM"
         }
       ],
       "identity": {
@@ -21536,7 +21595,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Baltic Classifieds Group PLC",
@@ -21545,7 +21604,7 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 1.42,
+        "activity_multiple": 1.41,
         "legacy_signal_color": "GREEN",
         "social_comparison_status": "NO_DATA",
         "social_records": []
@@ -32071,7 +32130,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 2.43,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -32088,10 +32147,11 @@
           "ticker": "BCG.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.42,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 1.41,
           "severity": "GREEN",
           "signal_date": "2026-09-08",
+          "signal_id": "BCG.L:2026-09-08",
           "ticker": "BCG.L"
         },
         "market_cap": null,
@@ -32258,11 +32318,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "DEEP CRASH BOTTOM": 1,
-            "EXTREME CRASH BOTTOM": 2
+            "DEEP CRASH BOTTOM": 3,
+            "EXTREME CRASH BOTTOM": 2,
+            "ULTRA CRASH BOTTOM": 1
           },
           "current_signal_count": 1,
-          "historical_signal_count": 3
+          "historical_signal_count": 6
         },
         "trends": {
           "records": [],

@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Alternative Liquidity Fund Limited",
@@ -20,10 +20,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-10-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.5,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -39,10 +39,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-10-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.26,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -56,6 +56,44 @@
               "severity": "YELLOW",
               "signal_id": "ALF.L:2025-10-31",
               "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2025-11-21",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 7.69,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.020999999716877937,
+                "date": "2025-11-21",
+                "status": "EXACT"
+              },
+              "relative_activity": 7.69,
+              "severity": "YELLOW",
+              "signal_id": "ALF.L:2025-11-21",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "DETECTED",
+              "date": "2025-12-01",
+              "evidence": {
+                "accumulation": "DETECTED",
+                "relative_activity": 2.62,
+                "severity": "PURPLE",
+                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+              },
+              "price_context": {
+                "close": 0.020999999716877937,
+                "date": "2025-12-01",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.62,
+              "severity": "PURPLE",
+              "signal_id": "ALF.L:2025-12-01",
+              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             }
           ],
           "price_points": [
@@ -27094,7 +27132,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.021,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27111,10 +27149,11 @@
           "ticker": "ALF.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 2.5,
           "severity": "YELLOW",
           "signal_date": "2025-10-30",
+          "signal_id": "ALF.L:2025-10-30",
           "ticker": "ALF.L"
         },
         "market_cap": null,
@@ -27281,10 +27320,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 2
+            "CRASH ZONE BOTTOM": 3,
+            "ENHANCED CRASH CRASH-ACCUM COMBO": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 2
+          "historical_signal_count": 4
         },
         "trends": {
           "records": [],
@@ -27296,14 +27336,14 @@
       "sector": "Financial Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2025-10-31",
-      "signal_state": "CRASH ZONE BOTTOM",
+      "signal_date": "2025-12-01",
+      "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO",
       "social_records": [],
       "social_status": "NO_DATA",
       "ticker": "ALF.L",
       "watch_severity": "CLOSE WATCH",
       "why_crashdash_noticed": [
-        "CRASH ZONE BOTTOM"
+        "ENHANCED CRASH CRASH-ACCUM COMBO"
       ]
     },
     "instrument_detail": {
@@ -27329,10 +27369,10 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-10-30",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 2.5,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27348,10 +27388,10 @@
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
+          "accumulation": "NOT_DETECTED",
           "date": "2025-10-31",
           "evidence": {
-            "accumulation": "UNKNOWN",
+            "accumulation": "NOT_DETECTED",
             "relative_activity": 4.26,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
@@ -27365,6 +27405,44 @@
           "severity": "YELLOW",
           "signal_id": "ALF.L:2025-10-31",
           "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "date": "2025-11-21",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 7.69,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": 0.020999999716877937,
+            "date": "2025-11-21",
+            "status": "EXACT"
+          },
+          "relative_activity": 7.69,
+          "severity": "YELLOW",
+          "signal_id": "ALF.L:2025-11-21",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "DETECTED",
+          "date": "2025-12-01",
+          "evidence": {
+            "accumulation": "DETECTED",
+            "relative_activity": 2.62,
+            "severity": "PURPLE",
+            "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+          },
+          "price_context": {
+            "close": 0.020999999716877937,
+            "date": "2025-12-01",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.62,
+          "severity": "PURPLE",
+          "signal_id": "ALF.L:2025-12-01",
+          "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         }
       ],
       "identity": {
@@ -41095,7 +41173,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Alternative Liquidity Fund Limited",
@@ -41104,8 +41182,8 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 4.26,
-        "legacy_signal_color": "YELLOW",
+        "activity_multiple": 2.62,
+        "legacy_signal_color": "PURPLE",
         "social_comparison_status": "NO_DATA",
         "social_records": []
       },
@@ -41120,10 +41198,10 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-10-30",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 2.5,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41139,10 +41217,10 @@
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
+              "accumulation": "NOT_DETECTED",
               "date": "2025-10-31",
               "evidence": {
-                "accumulation": "UNKNOWN",
+                "accumulation": "NOT_DETECTED",
                 "relative_activity": 4.26,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
@@ -41156,6 +41234,44 @@
               "severity": "YELLOW",
               "signal_id": "ALF.L:2025-10-31",
               "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "NOT_DETECTED",
+              "date": "2025-11-21",
+              "evidence": {
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 7.69,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": 0.020999999716877937,
+                "date": "2025-11-21",
+                "status": "EXACT"
+              },
+              "relative_activity": 7.69,
+              "severity": "YELLOW",
+              "signal_id": "ALF.L:2025-11-21",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "DETECTED",
+              "date": "2025-12-01",
+              "evidence": {
+                "accumulation": "DETECTED",
+                "relative_activity": 2.62,
+                "severity": "PURPLE",
+                "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
+              },
+              "price_context": {
+                "close": 0.020999999716877937,
+                "date": "2025-12-01",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.62,
+              "severity": "PURPLE",
+              "signal_id": "ALF.L:2025-12-01",
+              "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             }
           ],
           "price_points": [
@@ -68194,7 +68310,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 0.021,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68211,10 +68327,11 @@
           "ticker": "ALF.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
+          "accumulation_state": "NOT_DETECTED",
           "relative_activity": 2.5,
           "severity": "YELLOW",
           "signal_date": "2025-10-30",
+          "signal_id": "ALF.L:2025-10-30",
           "ticker": "ALF.L"
         },
         "market_cap": null,
@@ -68381,10 +68498,11 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 2
+            "CRASH ZONE BOTTOM": 3,
+            "ENHANCED CRASH CRASH-ACCUM COMBO": 1
           },
           "current_signal_count": 0,
-          "historical_signal_count": 2
+          "historical_signal_count": 4
         },
         "trends": {
           "records": [],
@@ -68397,8 +68515,8 @@
       "sector": "Financial Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2025-10-31",
-      "signal_state": "CRASH ZONE BOTTOM",
+      "signal_date": "2025-12-01",
+      "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO",
       "social_records": [],
       "social_status": "NO_DATA",
       "source_quality": "READY",
@@ -68406,7 +68524,7 @@
       "ticker": "ALF.L",
       "watch_severity": "CLOSE WATCH",
       "why_crashdash_noticed": [
-        "CRASH ZONE BOTTOM"
+        "ENHANCED CRASH CRASH-ACCUM COMBO"
       ]
     }
   },

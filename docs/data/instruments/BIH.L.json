@@ -1,7 +1,7 @@
 {
   "data": {
     "beginner": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Boston International Holdings Plc",
@@ -20,99 +20,80 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-07-06",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-10-15",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.9,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.7250000238418579,
-                "date": "2022-07-06",
+                "close": 1.2999999523162842,
+                "date": "2021-10-15",
                 "status": "EXACT"
               },
-              "relative_activity": 1.9,
+              "relative_activity": 2.0,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2022-07-06",
+              "signal_id": "BIH.L:2021-10-15",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-15",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-12-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.2,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.84,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.6000000238418579,
-                "date": "2022-08-15",
+                "close": 1.350000023841858,
+                "date": "2021-12-20",
                 "status": "EXACT"
               },
-              "relative_activity": 3.2,
+              "relative_activity": 3.84,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2022-08-15",
+              "signal_id": "BIH.L:2021-12-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-17",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-03-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.46,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 16.24,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.6000000238418579,
-                "date": "2022-08-17",
+                "close": 1.0499999523162842,
+                "date": "2022-03-24",
                 "status": "EXACT"
               },
-              "relative_activity": 2.46,
+              "relative_activity": 16.24,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2022-08-17",
+              "signal_id": "BIH.L:2022-03-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2025-03-31",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-03-25",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.98,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 10.84,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.22499999403953552,
-                "date": "2025-03-31",
+                "close": 1.0499999523162842,
+                "date": "2022-03-25",
                 "status": "EXACT"
               },
-              "relative_activity": 4.98,
+              "relative_activity": 10.84,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2025-03-31",
+              "signal_id": "BIH.L:2022-03-25",
               "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2025-04-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.44,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.20000000298023224,
-                "date": "2025-04-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.44,
-              "severity": "GREEN",
-              "signal_id": "BIH.L:2025-04-03",
-              "signal_type": "DEEP CRASH BOTTOM"
             }
           ],
           "price_points": [
@@ -27135,7 +27116,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 1.05,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -27152,10 +27133,11 @@
           "ticker": "BIH.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.9,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 2.0,
           "severity": "YELLOW",
-          "signal_date": "2022-07-06",
+          "signal_date": "2021-10-15",
+          "signal_id": "BIH.L:2021-10-15",
           "ticker": "BIH.L"
         },
         "market_cap": null,
@@ -27322,11 +27304,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 4,
-            "DEEP CRASH BOTTOM": 1
+            "CRASH ZONE BOTTOM": 4
           },
           "current_signal_count": 0,
-          "historical_signal_count": 5
+          "historical_signal_count": 4
         },
         "trends": {
           "records": [],
@@ -27338,14 +27319,14 @@
       "sector": "Financial Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2025-04-03",
-      "signal_state": "DEEP CRASH BOTTOM",
+      "signal_date": "2022-03-25",
+      "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "ticker": "BIH.L",
-      "watch_severity": "ELEVATED",
+      "watch_severity": "CLOSE WATCH",
       "why_crashdash_noticed": [
-        "DEEP CRASH BOTTOM"
+        "CRASH ZONE BOTTOM"
       ]
     },
     "instrument_detail": {
@@ -27371,99 +27352,80 @@
       "current_alerts": [],
       "historical_alerts": [
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-07-06",
+          "accumulation": "NOT_DETECTED",
+          "date": "2021-10-15",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.9,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 2.0,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": 0.7250000238418579,
-            "date": "2022-07-06",
+            "close": 1.2999999523162842,
+            "date": "2021-10-15",
             "status": "EXACT"
           },
-          "relative_activity": 1.9,
+          "relative_activity": 2.0,
           "severity": "YELLOW",
-          "signal_id": "BIH.L:2022-07-06",
+          "signal_id": "BIH.L:2021-10-15",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-08-15",
+          "accumulation": "NOT_DETECTED",
+          "date": "2021-12-20",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 3.2,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 3.84,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": 0.6000000238418579,
-            "date": "2022-08-15",
+            "close": 1.350000023841858,
+            "date": "2021-12-20",
             "status": "EXACT"
           },
-          "relative_activity": 3.2,
+          "relative_activity": 3.84,
           "severity": "YELLOW",
-          "signal_id": "BIH.L:2022-08-15",
+          "signal_id": "BIH.L:2021-12-20",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2022-08-17",
+          "accumulation": "NOT_DETECTED",
+          "date": "2022-03-24",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 2.46,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 16.24,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": 0.6000000238418579,
-            "date": "2022-08-17",
+            "close": 1.0499999523162842,
+            "date": "2022-03-24",
             "status": "EXACT"
           },
-          "relative_activity": 2.46,
+          "relative_activity": 16.24,
           "severity": "YELLOW",
-          "signal_id": "BIH.L:2022-08-17",
+          "signal_id": "BIH.L:2022-03-24",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
-          "accumulation": "UNKNOWN",
-          "date": "2025-03-31",
+          "accumulation": "NOT_DETECTED",
+          "date": "2022-03-25",
           "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 4.98,
+            "accumulation": "NOT_DETECTED",
+            "relative_activity": 10.84,
             "severity": "YELLOW",
             "signal_state": "CRASH ZONE BOTTOM"
           },
           "price_context": {
-            "close": 0.22499999403953552,
-            "date": "2025-03-31",
+            "close": 1.0499999523162842,
+            "date": "2022-03-25",
             "status": "EXACT"
           },
-          "relative_activity": 4.98,
+          "relative_activity": 10.84,
           "severity": "YELLOW",
-          "signal_id": "BIH.L:2025-03-31",
+          "signal_id": "BIH.L:2022-03-25",
           "signal_type": "CRASH ZONE BOTTOM"
-        },
-        {
-          "accumulation": "UNKNOWN",
-          "date": "2025-04-03",
-          "evidence": {
-            "accumulation": "UNKNOWN",
-            "relative_activity": 1.44,
-            "severity": "GREEN",
-            "signal_state": "DEEP CRASH BOTTOM"
-          },
-          "price_context": {
-            "close": 0.20000000298023224,
-            "date": "2025-04-03",
-            "status": "EXACT"
-          },
-          "relative_activity": 1.44,
-          "severity": "GREEN",
-          "signal_id": "BIH.L:2025-04-03",
-          "signal_type": "DEEP CRASH BOTTOM"
         }
       ],
       "identity": {
@@ -41186,7 +41148,7 @@
       }
     },
     "pro": {
-      "accumulation_state": "UNKNOWN",
+      "accumulation_state": "NOT_DETECTED",
       "ai_analysis": null,
       "ai_status": "ANALYSIS_PENDING",
       "company_name": "Boston International Holdings Plc",
@@ -41195,8 +41157,8 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 1.44,
-        "legacy_signal_color": "GREEN",
+        "activity_multiple": 10.84,
+        "legacy_signal_color": "YELLOW",
         "social_comparison_status": "NO_DATA",
         "social_records": []
       },
@@ -41211,99 +41173,80 @@
         "convergence": {
           "alert_markers": [
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-07-06",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-10-15",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.9,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 2.0,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.7250000238418579,
-                "date": "2022-07-06",
+                "close": 1.2999999523162842,
+                "date": "2021-10-15",
                 "status": "EXACT"
               },
-              "relative_activity": 1.9,
+              "relative_activity": 2.0,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2022-07-06",
+              "signal_id": "BIH.L:2021-10-15",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-15",
+              "accumulation": "NOT_DETECTED",
+              "date": "2021-12-20",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 3.2,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 3.84,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.6000000238418579,
-                "date": "2022-08-15",
+                "close": 1.350000023841858,
+                "date": "2021-12-20",
                 "status": "EXACT"
               },
-              "relative_activity": 3.2,
+              "relative_activity": 3.84,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2022-08-15",
+              "signal_id": "BIH.L:2021-12-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2022-08-17",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-03-24",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 2.46,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 16.24,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.6000000238418579,
-                "date": "2022-08-17",
+                "close": 1.0499999523162842,
+                "date": "2022-03-24",
                 "status": "EXACT"
               },
-              "relative_activity": 2.46,
+              "relative_activity": 16.24,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2022-08-17",
+              "signal_id": "BIH.L:2022-03-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
-              "accumulation": "UNKNOWN",
-              "date": "2025-03-31",
+              "accumulation": "NOT_DETECTED",
+              "date": "2022-03-25",
               "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 4.98,
+                "accumulation": "NOT_DETECTED",
+                "relative_activity": 10.84,
                 "severity": "YELLOW",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
               "price_context": {
-                "close": 0.22499999403953552,
-                "date": "2025-03-31",
+                "close": 1.0499999523162842,
+                "date": "2022-03-25",
                 "status": "EXACT"
               },
-              "relative_activity": 4.98,
+              "relative_activity": 10.84,
               "severity": "YELLOW",
-              "signal_id": "BIH.L:2025-03-31",
+              "signal_id": "BIH.L:2022-03-25",
               "signal_type": "CRASH ZONE BOTTOM"
-            },
-            {
-              "accumulation": "UNKNOWN",
-              "date": "2025-04-03",
-              "evidence": {
-                "accumulation": "UNKNOWN",
-                "relative_activity": 1.44,
-                "severity": "GREEN",
-                "signal_state": "DEEP CRASH BOTTOM"
-              },
-              "price_context": {
-                "close": 0.20000000298023224,
-                "date": "2025-04-03",
-                "status": "EXACT"
-              },
-              "relative_activity": 1.44,
-              "severity": "GREEN",
-              "signal_id": "BIH.L:2025-04-03",
-              "signal_type": "DEEP CRASH BOTTOM"
             }
           ],
           "price_points": [
@@ -68326,7 +68269,7 @@
       },
       "market": "MAIN",
       "market_cap": null,
-      "price_at_signal": null,
+      "price_at_signal": 1.05,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -68343,10 +68286,11 @@
           "ticker": "BIH.L"
         },
         "latest_signal": {
-          "accumulation_state": "UNKNOWN",
-          "relative_activity": 1.9,
+          "accumulation_state": "NOT_DETECTED",
+          "relative_activity": 2.0,
           "severity": "YELLOW",
-          "signal_date": "2022-07-06",
+          "signal_date": "2021-10-15",
+          "signal_id": "BIH.L:2021-10-15",
           "ticker": "BIH.L"
         },
         "market_cap": null,
@@ -68513,11 +68457,10 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 4,
-            "DEEP CRASH BOTTOM": 1
+            "CRASH ZONE BOTTOM": 4
           },
           "current_signal_count": 0,
-          "historical_signal_count": 5
+          "historical_signal_count": 4
         },
         "trends": {
           "records": [],
@@ -68530,16 +68473,16 @@
       "sector": "Financial Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2025-04-03",
-      "signal_state": "DEEP CRASH BOTTOM",
+      "signal_date": "2022-03-25",
+      "signal_state": "CRASH ZONE BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "source_quality": "READY",
       "temporal_class": "SIGNAL_TIME",
       "ticker": "BIH.L",
-      "watch_severity": "ELEVATED",
+      "watch_severity": "CLOSE WATCH",
       "why_crashdash_noticed": [
-        "DEEP CRASH BOTTOM"
+        "CRASH ZONE BOTTOM"
       ]
     }
   },
