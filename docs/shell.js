@@ -212,6 +212,12 @@ async function loadInstrumentBundle(instrumentId) {
         },
       };
       model.social_records = initialSharechat;
+      model.sharechat_snapshot = instrument.sharechat_snapshot || null;
+      if (model.sharechat_snapshot) {
+        model.sharechat_total_available = model.sharechat_snapshot.total_posts;
+        model.social_status = model.sharechat_snapshot.analysis_status;
+      }
+      model.corporate_actions = instrument.corporate_actions || null;
       model.ai_analysis = instrument.research?.data || model.ai_analysis;
       model.ai_status = instrument.research?.status || model.ai_status;
       const summary = instrument.company_summary;
