@@ -355,6 +355,30 @@ def check_path_portability(candidate_root: Path) -> CheckResult:
     return CheckResult("path_portability", not errors, {"errors": errors})
 
 
+def check_no_banned_public_files(candidate_root: Path, config: PublicationConfig) -> CheckResult:
+    """The customer-facing GitHub Pages artifact must be minimal and static:
+    no Python, no test/dev tooling, no internal logs/staging, no bytecode
+    caches. This is checked directly against the candidate tree (not left
+    to defense-in-depth alone) so a stray developer-only file is rejected
+    BEFORE promotion/publish, not merely scanned for after the fact."""
+    findings: list[str] = []
+    banned_suffixes = tuple(config.banned_public_file_suffixes)
+    banned_dir_names = set(config.banned_public_dir_names)
+    for path in sorted(candidate_root.rglob("*")):
+        relative = path.relative_to(candidate_root)
+        parts = relative.parts
+        if path.is_dir():
+            if path.name in banned_dir_names:
+                findings.append(f"{relative}: banned directory name '{path.name}'")
+            continue
+        if any(part in banned_dir_names for part in parts[:-1]):
+            findings.append(f"{relative}: located under a banned directory")
+            continue
+        if path.suffix in banned_suffixes:
+            findings.append(f"{relative}: banned file suffix '{path.suffix}'")
+    return CheckResult("no_banned_public_files", not findings, {"findings": findings})
+
+
 def validate_site(candidate_root: Path | None = None, config: PublicationConfig | None = None) -> ValidationReport:
     paths = default_paths()
     candidate_root = candidate_root or paths["candidate"]
@@ -372,6 +396,7 @@ def validate_site(candidate_root: Path | None = None, config: PublicationConfig 
     report.checks.append(check_intelligence_bounds(candidate_root, config))
     report.checks.append(check_public_safety(candidate_root, config))
     report.checks.append(check_path_portability(candidate_root))
+    report.checks.append(check_no_banned_public_files(candidate_root, config))
     return report
 
 

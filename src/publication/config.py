@@ -32,6 +32,8 @@ class PublicationConfig:
     beginner_severity_map: Mapping[str, str]
     public_safety_patterns: tuple[str, ...]
     public_safety_allowlist_substrings: tuple[str, ...]
+    banned_public_file_suffixes: tuple[str, ...]
+    banned_public_dir_names: tuple[str, ...]
     smoke_required_tickers: tuple[str, ...]
     smoke_random_historical_sample_size: int
     pipeline_version: str
@@ -57,6 +59,13 @@ def load_config(config_path: Path | None = None) -> PublicationConfig:
         beginner_severity_map=dict(raw["beginner_severity_map"]),
         public_safety_patterns=tuple(raw["public_safety_patterns"]),
         public_safety_allowlist_substrings=tuple(raw.get("public_safety_allowlist_substrings", [])),
+        banned_public_file_suffixes=tuple(raw.get("banned_public_file_suffixes", [
+            ".py", ".pyc", ".pyo", ".csv", ".log", ".env", ".pem", ".key",
+        ])),
+        banned_public_dir_names=tuple(raw.get("banned_public_dir_names", [
+            "__pycache__", "tests", "test", "src", "scripts", "staging",
+            ".git", ".pytest_cache", "logs", "engineering",
+        ])),
         smoke_required_tickers=tuple(raw["smoke_required_tickers"]),
         smoke_random_historical_sample_size=int(raw["smoke_random_historical_sample_size"]),
         pipeline_version=raw["pipeline_version"],

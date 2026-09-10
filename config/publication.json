@@ -48,6 +48,13 @@
     "TOKEN_HISTORICAL",
     "watch_severity"
   ],
+  "banned_public_file_suffixes": [
+    ".py", ".pyc", ".pyo", ".csv", ".log", ".env", ".pem", ".key"
+  ],
+  "banned_public_dir_names": [
+    "__pycache__", "tests", "test", "src", "scripts", "staging",
+    ".git", ".pytest_cache", "logs", "engineering"
+  ],
   "smoke_required_tickers": [
     "PREM.L",
     "BCG.L",

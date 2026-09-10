@@ -34,7 +34,7 @@ def test_complete_fixture_passes_every_check(complete_candidate):
     assert names == {
         "json_parseable", "historical_coverage", "ohlc_contract", "alert_price_contract",
         "event_type_contract", "beginner_pro_contract", "intelligence_bounds",
-        "public_safety_scan", "path_portability",
+        "public_safety_scan", "path_portability", "no_banned_public_files",
     }
 
 
@@ -216,3 +216,35 @@ def test_static_shell_source_has_no_parent_relative_imports():
     for js_file in static_shell.glob("*.js"):
         text = js_file.read_text(encoding="utf-8")
         assert '"../browser.js' not in text, f"{js_file.name} still imports browser.js via a parent-relative path"
+
+
+def test_no_banned_public_files_rejects_python_source(complete_candidate):
+    (complete_candidate / "helper.py").write_text("print('should never ship')", encoding="utf-8")
+    report = validate_site(complete_candidate)
+    check = _check(report, "no_banned_public_files")
+    assert not check.passed
+    assert any("helper.py" in f for f in check.detail["findings"])
+
+
+def test_no_banned_public_files_rejects_pycache_directory(complete_candidate):
+    pycache = complete_candidate / "__pycache__"
+    pycache.mkdir()
+    (pycache / "module.cpython-312.pyc").write_bytes(b"\x00")
+    report = validate_site(complete_candidate)
+    check = _check(report, "no_banned_public_files")
+    assert not check.passed
+    assert any("__pycache__" in f for f in check.detail["findings"])
+
+
+def test_no_banned_public_files_rejects_tests_directory(complete_candidate):
+    tests_dir = complete_candidate / "tests"
+    tests_dir.mkdir()
+    (tests_dir / "test_something.py").write_text("assert True", encoding="utf-8")
+    report = validate_site(complete_candidate)
+    check = _check(report, "no_banned_public_files")
+    assert not check.passed
+
+
+def test_no_banned_public_files_accepts_clean_static_candidate(complete_candidate):
+    report = validate_site(complete_candidate)
+    assert _check(report, "no_banned_public_files").passed
