@@ -194,7 +194,6 @@ async function loadInstrumentBundle(instrumentId) {
       accumulation: alert.accumulation === "DETECTED" || alert.accumulation === true,
     }));
     const rns = Array.isArray(instrument.rns) ? instrument.rns : [];
-    const initialRns = Array.isArray(instrument.rns_initial) ? instrument.rns_initial : rns.slice(0, 5);
     const initialSharechat = Array.isArray(instrument.sharechat_initial)
       ? instrument.sharechat_initial : (instrument.sharechat || []).slice(0, 10);
     for (const model of [bundle.beginner, bundle.pro]) {
@@ -208,9 +207,12 @@ async function loadInstrumentBundle(instrumentId) {
           ...(local.convergence || {}),
           price_points: priceSeries,
           alert_markers: alerts,
-          rns_markers: initialRns,
+          rns_markers: rns,
         },
       };
+      model.rns_total_available = instrument.rns_total_available
+        ?? instrument.profile?.rns?.total_available
+        ?? rns.length;
       model.social_records = initialSharechat;
       model.sharechat_snapshot = instrument.sharechat_snapshot || null;
       if (model.sharechat_snapshot) {

@@ -614,6 +614,14 @@ function renderAlertHistory(markers) {
   return `<section class="alert-history" aria-labelledby="alert-history-heading"><div class="section-heading"><div><p class="eyebrow">Research Alerts</p><h2 id="alert-history-heading">Research Alert History</h2></div><span class="state-chip placeholder">${sorted.length} recorded</span></div><ol class="alert-history-visible">${visibleRows}</ol>${disclosure}</section>`;
 }
 
+function eventDateValue(item) {
+  return item?.timestamp || item?.datetime || item?.date || "";
+}
+
+function compareNewestFirst(left, right) {
+  return String(eventDateValue(right)).localeCompare(String(eventDateValue(left)));
+}
+
 function renderResearchSections(model, chartRange = "1Y", primaryContext = "", filters = {}) {
   const accumulation = model.accumulation_state === "DETECTED";
   const local = enrichment(model);
@@ -684,14 +692,24 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
         ? "Stored analysis is not currently available."
         : "No stored analysis is available.";
   const aiTimestamp = ai && typeof ai === "object" ? (ai.completed_at || ai.updated_at || ai.source_timestamp) : null;
+  const rnsVisible = rnsMarkers.slice().sort(compareNewestFirst).slice(0, 20);
   const rnsAvailable = Math.max(
-    rnsMarkers.length,
+    rnsVisible.length,
     Number.isFinite(Number(model.rns_total_available)) ? Number(model.rns_total_available) : 0,
   );
-  const rnsVisible = rnsMarkers.slice().reverse();
   const rnsInitial = rnsVisible.slice(0, 5);
   const rnsRemaining = rnsVisible.slice(5);
-  const renderRns = (item) => `<details class="rns-evidence" id="${escapeHtml(item.chart_id)}"><summary>${escapeHtml(cleanDisplayText(item.headline, "Company update"))} &middot; ${escapeHtml(humanDate(cleanDisplayText(item.date, "")) || cleanDisplayText(item.date, "Date unavailable"))}</summary><p class="rns-meta">Official company announcement · ${escapeHtml(item.source || "RNS")}${item.category ? ` · ${escapeHtml(item.category)}` : ""}${item.rns_number ? ` · ${escapeHtml(item.rns_number)}` : ""}</p><div class="rns-content">${escapeHtml(item.content || item.full_content || "Full announcement text is not available in this local evidence record.")}</div>${item.url ? `<p class="research-source"><a href="${escapeHtml(item.url)}" target="_blank" rel="noreferrer">Original source</a></p>` : ""}</details>`;
+  const renderRns = (item) => {
+    const dateValue = cleanDisplayText(eventDateValue(item), "");
+    const rating = ["BULLISH", "NEUTRAL", "BEARISH"].includes(String(item.category || item.rating || item.sentiment).toUpperCase())
+      ? String(item.category || item.rating || item.sentiment).toUpperCase()
+      : "";
+    const sourceUrl = item.url || item.source_url;
+    return `<details class="rns-evidence" id="${escapeHtml(item.chart_id || "")}"><summary>${escapeHtml(cleanDisplayText(item.headline, "Company update"))} &middot; ${escapeHtml(humanDate(dateValue) || dateValue || "Date unavailable")}</summary><p class="rns-meta">Official company announcement · ${escapeHtml(item.source || "RNS")}${rating ? ` · Rating: ${escapeHtml(rating)}` : ""}${item.rns_number ? ` · ${escapeHtml(item.rns_number)}` : ""}</p><div class="rns-content">${escapeHtml(item.content || item.full_content || "Full announcement text is not available in this local evidence record.")}</div>${sourceUrl ? `<p class="research-source"><a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noreferrer">Original source</a></p>` : ""}</details>`;
+  };
+  const rnsSummary = rnsRemaining.length
+    ? `<details class="evidence-more"><summary><span class="rns-show-more">Show more</span><span class="rns-showing-expanded">Showing latest ${rnsVisible.length} of ${rnsAvailable} · Show less</span></summary>${rnsRemaining.map(renderRns).join("")}</details>`
+    : "";
   const socialTotal = Number.isFinite(Number(model.sharechat_total_available)) ? Number(model.sharechat_total_available) : socialRecords.length;
   const socialInitial = socialRecords.slice(0, 10);
   const socialRemaining = socialRecords.slice(10);
@@ -727,7 +745,7 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
     <section class="research-cards" aria-labelledby="research-intelligence-heading">
       <div class="section-heading"><div><p class="eyebrow">AI-enhanced research</p><h2 id="research-intelligence-heading">Research intelligence</h2></div><span class="state-chip placeholder">Evidence-led summary</span></div>
       <article class="research-card"><h3>CrashDash intelligence</h3><p>CrashDash noticed this instrument because the evidence listed above aligned with a ${escapeHtml(model.watch_severity || "current")} signal.</p></article>
-      <article class="research-card"><h3>Official RNS evidence</h3><p>${rnsAvailable ? `${rnsAvailable} announcements available. Showing the latest ${Math.min(5, rnsInitial.length)} first.` : "RNS headers are not currently available."}</p>${rnsInitial.map(renderRns).join("")}${rnsRemaining.length ? `<details class="evidence-more"><summary>Show more RNS announcements</summary>${rnsRemaining.map(renderRns).join("")}</details>` : ""}</article>
+      <article class="research-card"><h3>Official RNS evidence</h3><p>${rnsAvailable ? `${rnsAvailable} announcements found · showing latest ${rnsInitial.length}` : "RNS announcements are not currently available."}</p>${rnsInitial.map(renderRns).join("")}${rnsSummary}</article>
       <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${socialSnapshot ? "" : (socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : "")}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></details>` : ""}</article>
       ${corporateActions ? `<article class="research-card"><h3>Corporate actions</h3><p>${escapeHtml(corporateActionText)}</p></article>` : ""}
       <article class="research-card"><h3>Stored AI analysis</h3><p>${escapeHtml(aiText)}</p>${aiTimestamp ? `<p class="research-source">Source timestamp: ${escapeHtml(String(aiTimestamp))}</p>` : ""}</article>

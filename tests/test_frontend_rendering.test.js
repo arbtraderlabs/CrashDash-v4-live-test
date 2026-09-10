@@ -45,3 +45,31 @@ test("live shell renders typed CrashDash and RNS markers separately", () => {
   assert.doesNotMatch(markup, /<polygon class="chart-signal-marker/);
   assert.doesNotMatch(markup, /GREEN|ORANGE|RED|YELLOW/);
 });
+
+test("RNS renders newest five with bounded expansion and supplied rating", () => {
+  const rns = Array.from({ length: 7 }, (_, index) => ({
+    date: `2026-09-${String(8 - index).padStart(2, "0")}`,
+    headline: `Announcement ${index + 1}`,
+    category: index === 0 ? "BULLISH" : "NEUTRAL",
+  }));
+  const markup = renderBeginner({
+    ...model,
+    rns_total_available: 87,
+    local_enrichment: {
+      ...model.local_enrichment,
+      convergence: { ...model.local_enrichment.convergence, rns_markers: rns },
+    },
+  }, { chartRange: "FULL" });
+  assert.ok(markup.indexOf("Announcement 1") < markup.indexOf("Announcement 2"));
+  assert.match(markup, /87 announcements found · showing latest 5/);
+  assert.match(markup, /Rating: BULLISH/);
+  assert.match(markup, /Show more/);
+  assert.match(markup, /Showing latest 7 of 87 · Show less/);
+  assert.doesNotMatch(markup, /RNS headers are unavailable/);
+});
+
+test("price series renders a real chart independently of exact alert-date price", () => {
+  const markup = renderBeginner(model, { chartRange: "FULL" });
+  assert.match(markup, /class="chart-area"/);
+  assert.match(markup, /Source price history shown for context only/);
+});
