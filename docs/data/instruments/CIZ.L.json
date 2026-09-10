@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-06-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.68,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.4500000476837158,
                 "date": "2022-06-22",
                 "status": "EXACT"
               },
               "relative_activity": 1.68,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CIZ.L:2022-06-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-06-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.5,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.5,
                 "date": "2022-06-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.5,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CIZ.L:2022-06-24",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -21625,141 +21633,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-61da280b0d3447b2fe2b1ddd",
               "headline": "Laboratory Expansion to Accelerate Sales in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0238P",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-2f307cd12e67d53d38170100",
               "headline": "Update on Sales in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4008N",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-e63be6253ae8c5f2bf495a0a",
               "headline": "Half Year Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3518M",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-005c2c8245063159ce358f4c",
               "headline": "Change of Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2605K",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-8956e4c0efedcf9c1f5397e6",
               "headline": "CIZ1B Test Approved For Clinical Use in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3831I",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-4eefabf383fa645afaf26548",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/result-of-agm-yr4qc75ri95mis0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5257I",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/result-of-agm-yr4qc75ri95mis0.html",
+              "time": "12:33 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-2313f764943fe1fdcde24783",
               "headline": "Patent Granted in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-usa-kh3knhddn2gt3rm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0189I",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-usa-kh3knhddn2gt3rm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-6ebb72224d02b69f8fe54768",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/notice-of-agm-sv068qcxyloemt3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2576F",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/notice-of-agm-sv068qcxyloemt3.html",
+              "time": "7:51 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2026",
+              "event_id": "rns-b2f4d9dbadffce5474e19530",
               "headline": "Issue of Options, Salary Waivers, Incentive Plan",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/issue-of-options-salary-waivers-incentive-plan-3p22wd3jyyf8dhp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3109D",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/issue-of-options-salary-waivers-incentive-plan-3p22wd3jyyf8dhp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-b731e80366a29a35d37a503d",
               "headline": "Conversion of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/conversion-of-convertible-loan-notes-urwvoe998d7kbkc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1272D",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/conversion-of-convertible-loan-notes-urwvoe998d7kbkc.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-a20b252dce08779dcd1a947e",
               "headline": "Final results for the year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/final-results-for-the-year-ended-31-december-2025-svb291z8chtdasf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4787C",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/final-results-for-the-year-ended-31-december-2025-svb291z8chtdasf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2026",
+              "event_id": "rns-cbff0d81461f3d4ae0fae216",
               "headline": "\u00a3250,000 Funding Facility",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-funding-facility-ho9xegig1w9f9jx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1443Z",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-funding-facility-ho9xegig1w9f9jx.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Feb 2026",
+              "event_id": "rns-4cb94ea5e4bf9ab3a629a11f",
               "headline": "Progress on Launch of Biomarker Test in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/progress-on-launch-of-biomarker-test-in-usa-tvu06vb4gajn0zj.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9193T",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/progress-on-launch-of-biomarker-test-in-usa-tvu06vb4gajn0zj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-7486d08ea8fb8b9e8cf53cb5",
               "headline": "Patent Granted in Canada",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-canada-imjj0rn96xti2e8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6042R",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-canada-imjj0rn96xti2e8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Nov 2025",
+              "event_id": "rns-c3a8cb615a26943911486d22",
               "headline": "\u00a3250,000 Convertible Loan Note Issue",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-convertible-loan-note-issue-yb40qr8y4t4ksx6.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1974G",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-convertible-loan-note-issue-yb40qr8y4t4ksx6.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Nov 2025",
+              "event_id": "rns-d3a8a454f92d8ac6795bb89a",
               "headline": "LOI with leading UK Clinical Diagnostic Group",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/loi-with-leading-uk-clinical-diagnostic-group-vrurszq7lbjai9i.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1967G",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/loi-with-leading-uk-clinical-diagnostic-group-vrurszq7lbjai9i.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Oct 2025",
+              "event_id": "rns-2f4f7949be5e51e5207bdfc3",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-registered-office-hln53cd2nexlphq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9588E",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-registered-office-hln53cd2nexlphq.html",
+              "time": "11:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-79e913b99b629b4ae1243b0c",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/interim-results-ftekluwbomfyrly.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2934B",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/interim-results-ftekluwbomfyrly.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-0e11e2c1014072362bbb24d8",
               "headline": "Update on Clinical Laboratory Partnerships in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-clinical-laboratory-partnerships-in-usa-pi9ynlq1klbhz5u.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0881B",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-clinical-laboratory-partnerships-in-usa-pi9ynlq1klbhz5u.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Aug 2025",
+              "event_id": "rns-d21290641048e9dea9e5061f",
               "headline": "Commercial Progress in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/commercial-progress-in-usa-gvv9j3sxqqx2th1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6822V",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/commercial-progress-in-usa-gvv9j3sxqqx2th1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -21827,39 +21935,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-06-22",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.68,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.4500000476837158,
             "date": "2022-06-22",
             "status": "EXACT"
           },
           "relative_activity": 1.68,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "CIZ.L:2022-06-22",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-06-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.5,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.5,
             "date": "2022-06-24",
             "status": "EXACT"
           },
           "relative_activity": 1.5,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "CIZ.L:2022-06-24",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -32647,141 +32763,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-61da280b0d3447b2fe2b1ddd",
           "headline": "Laboratory Expansion to Accelerate Sales in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0238P",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html",
+          "time": "1:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-2f307cd12e67d53d38170100",
           "headline": "Update on Sales in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4008N",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html",
+          "time": "12:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-15",
+          "event_id": "rns-e63be6253ae8c5f2bf495a0a",
           "headline": "Half Year Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3518M",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-005c2c8245063159ce358f4c",
           "headline": "Change of Corporate Broker",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2605K",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-16",
+          "event_id": "rns-8956e4c0efedcf9c1f5397e6",
           "headline": "CIZ1B Test Approved For Clinical Use in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3831I",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-16",
+          "event_id": "rns-4eefabf383fa645afaf26548",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/result-of-agm-yr4qc75ri95mis0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5257I",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/result-of-agm-yr4qc75ri95mis0.html",
+          "time": "12:33 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-12",
+          "event_id": "rns-2313f764943fe1fdcde24783",
           "headline": "Patent Granted in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-usa-kh3knhddn2gt3rm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0189I",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-usa-kh3knhddn2gt3rm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-6ebb72224d02b69f8fe54768",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/notice-of-agm-sv068qcxyloemt3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2576F",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/notice-of-agm-sv068qcxyloemt3.html",
+          "time": "7:51 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-07",
+          "event_id": "rns-b2f4d9dbadffce5474e19530",
           "headline": "Issue of Options, Salary Waivers, Incentive Plan",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/issue-of-options-salary-waivers-incentive-plan-3p22wd3jyyf8dhp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3109D",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/issue-of-options-salary-waivers-incentive-plan-3p22wd3jyyf8dhp.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-b731e80366a29a35d37a503d",
           "headline": "Conversion of Convertible Loan Notes",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/conversion-of-convertible-loan-notes-urwvoe998d7kbkc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1272D",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/conversion-of-convertible-loan-notes-urwvoe998d7kbkc.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-a20b252dce08779dcd1a947e",
           "headline": "Final results for the year ended 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/final-results-for-the-year-ended-31-december-2025-svb291z8chtdasf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4787C",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/final-results-for-the-year-ended-31-december-2025-svb291z8chtdasf.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-02",
+          "event_id": "rns-cbff0d81461f3d4ae0fae216",
           "headline": "\u00a3250,000 Funding Facility",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-funding-facility-ho9xegig1w9f9jx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1443Z",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-funding-facility-ho9xegig1w9f9jx.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-23",
+          "event_id": "rns-4cb94ea5e4bf9ab3a629a11f",
           "headline": "Progress on Launch of Biomarker Test in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/progress-on-launch-of-biomarker-test-in-usa-tvu06vb4gajn0zj.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9193T",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/progress-on-launch-of-biomarker-test-in-usa-tvu06vb4gajn0zj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-04",
+          "event_id": "rns-7486d08ea8fb8b9e8cf53cb5",
           "headline": "Patent Granted in Canada",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-canada-imjj0rn96xti2e8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6042R",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-canada-imjj0rn96xti2e8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-05",
+          "event_id": "rns-c3a8cb615a26943911486d22",
           "headline": "\u00a3250,000 Convertible Loan Note Issue",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-convertible-loan-note-issue-yb40qr8y4t4ksx6.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1974G",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-convertible-loan-note-issue-yb40qr8y4t4ksx6.html",
+          "time": "7:01 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-05",
+          "event_id": "rns-d3a8a454f92d8ac6795bb89a",
           "headline": "LOI with leading UK Clinical Diagnostic Group",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/loi-with-leading-uk-clinical-diagnostic-group-vrurszq7lbjai9i.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1967G",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/loi-with-leading-uk-clinical-diagnostic-group-vrurszq7lbjai9i.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-27",
+          "event_id": "rns-2f4f7949be5e51e5207bdfc3",
           "headline": "Change of Registered Office",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-registered-office-hln53cd2nexlphq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9588E",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-registered-office-hln53cd2nexlphq.html",
+          "time": "11:32 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-30",
+          "event_id": "rns-79e913b99b629b4ae1243b0c",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/interim-results-ftekluwbomfyrly.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2934B",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/interim-results-ftekluwbomfyrly.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-0e11e2c1014072362bbb24d8",
           "headline": "Update on Clinical Laboratory Partnerships in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-clinical-laboratory-partnerships-in-usa-pi9ynlq1klbhz5u.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0881B",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-clinical-laboratory-partnerships-in-usa-pi9ynlq1klbhz5u.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-18",
+          "event_id": "rns-d21290641048e9dea9e5061f",
           "headline": "Commercial Progress in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/commercial-progress-in-usa-gvv9j3sxqqx2th1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6822V",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/commercial-progress-in-usa-gvv9j3sxqqx2th1.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -32789,36 +33005,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-61da280b0d3447b2fe2b1ddd",
           "headline": "Laboratory Expansion to Accelerate Sales in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0238P",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html",
+          "time": "1:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-2f307cd12e67d53d38170100",
           "headline": "Update on Sales in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4008N",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html",
+          "time": "12:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-15",
+          "event_id": "rns-e63be6253ae8c5f2bf495a0a",
           "headline": "Half Year Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3518M",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-005c2c8245063159ce358f4c",
           "headline": "Change of Corporate Broker",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2605K",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-16",
+          "event_id": "rns-8956e4c0efedcf9c1f5397e6",
           "headline": "CIZ1B Test Approved For Clinical Use in USA",
-          "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3831I",
+          "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -32866,39 +33107,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-06-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.68,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.4500000476837158,
                 "date": "2022-06-22",
                 "status": "EXACT"
               },
               "relative_activity": 1.68,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CIZ.L:2022-06-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-06-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.5,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.5,
                 "date": "2022-06-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.5,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CIZ.L:2022-06-24",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -54470,141 +54719,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-61da280b0d3447b2fe2b1ddd",
               "headline": "Laboratory Expansion to Accelerate Sales in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0238P",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/laboratory-expansion-to-accelerate-sales-in-usa-bb52dpudpbxh52x.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-2f307cd12e67d53d38170100",
               "headline": "Update on Sales in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4008N",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-sales-in-usa-xvlqr6meqf95rgr.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-e63be6253ae8c5f2bf495a0a",
               "headline": "Half Year Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3518M",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/half-year-operational-update-3kcnyckmolk9tsq.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-005c2c8245063159ce358f4c",
               "headline": "Change of Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2605K",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-corporate-broker-cwzd3ry45nnac0b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-8956e4c0efedcf9c1f5397e6",
               "headline": "CIZ1B Test Approved For Clinical Use in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3831I",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/ciz1b-test-approved-for-clinical-use-in-usa-lyor7s9bh9ojs5j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-4eefabf383fa645afaf26548",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/result-of-agm-yr4qc75ri95mis0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5257I",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/result-of-agm-yr4qc75ri95mis0.html",
+              "time": "12:33 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-2313f764943fe1fdcde24783",
               "headline": "Patent Granted in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-usa-kh3knhddn2gt3rm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0189I",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-usa-kh3knhddn2gt3rm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-6ebb72224d02b69f8fe54768",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/notice-of-agm-sv068qcxyloemt3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2576F",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/notice-of-agm-sv068qcxyloemt3.html",
+              "time": "7:51 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2026",
+              "event_id": "rns-b2f4d9dbadffce5474e19530",
               "headline": "Issue of Options, Salary Waivers, Incentive Plan",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/issue-of-options-salary-waivers-incentive-plan-3p22wd3jyyf8dhp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3109D",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/issue-of-options-salary-waivers-incentive-plan-3p22wd3jyyf8dhp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-b731e80366a29a35d37a503d",
               "headline": "Conversion of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/conversion-of-convertible-loan-notes-urwvoe998d7kbkc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1272D",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/conversion-of-convertible-loan-notes-urwvoe998d7kbkc.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-a20b252dce08779dcd1a947e",
               "headline": "Final results for the year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/final-results-for-the-year-ended-31-december-2025-svb291z8chtdasf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4787C",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/final-results-for-the-year-ended-31-december-2025-svb291z8chtdasf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2026",
+              "event_id": "rns-cbff0d81461f3d4ae0fae216",
               "headline": "\u00a3250,000 Funding Facility",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-funding-facility-ho9xegig1w9f9jx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1443Z",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-funding-facility-ho9xegig1w9f9jx.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Feb 2026",
+              "event_id": "rns-4cb94ea5e4bf9ab3a629a11f",
               "headline": "Progress on Launch of Biomarker Test in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/progress-on-launch-of-biomarker-test-in-usa-tvu06vb4gajn0zj.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9193T",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/progress-on-launch-of-biomarker-test-in-usa-tvu06vb4gajn0zj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-7486d08ea8fb8b9e8cf53cb5",
               "headline": "Patent Granted in Canada",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-canada-imjj0rn96xti2e8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6042R",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/patent-granted-in-canada-imjj0rn96xti2e8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Nov 2025",
+              "event_id": "rns-c3a8cb615a26943911486d22",
               "headline": "\u00a3250,000 Convertible Loan Note Issue",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-convertible-loan-note-issue-yb40qr8y4t4ksx6.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1974G",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/163250000-convertible-loan-note-issue-yb40qr8y4t4ksx6.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Nov 2025",
+              "event_id": "rns-d3a8a454f92d8ac6795bb89a",
               "headline": "LOI with leading UK Clinical Diagnostic Group",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/loi-with-leading-uk-clinical-diagnostic-group-vrurszq7lbjai9i.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1967G",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/loi-with-leading-uk-clinical-diagnostic-group-vrurszq7lbjai9i.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Oct 2025",
+              "event_id": "rns-2f4f7949be5e51e5207bdfc3",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-registered-office-hln53cd2nexlphq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9588E",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/change-of-registered-office-hln53cd2nexlphq.html",
+              "time": "11:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-79e913b99b629b4ae1243b0c",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/interim-results-ftekluwbomfyrly.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2934B",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/interim-results-ftekluwbomfyrly.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-0e11e2c1014072362bbb24d8",
               "headline": "Update on Clinical Laboratory Partnerships in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-clinical-laboratory-partnerships-in-usa-pi9ynlq1klbhz5u.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0881B",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/update-on-clinical-laboratory-partnerships-in-usa-pi9ynlq1klbhz5u.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Aug 2025",
+              "event_id": "rns-d21290641048e9dea9e5061f",
               "headline": "Commercial Progress in USA",
-              "source_url": "https://www.lse.co.uk/rns/CIZ/commercial-progress-in-usa-gvv9j3sxqqx2th1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6822V",
+              "source_url": "https://www.lse.co.uk/rns/CIZ/commercial-progress-in-usa-gvv9j3sxqqx2th1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

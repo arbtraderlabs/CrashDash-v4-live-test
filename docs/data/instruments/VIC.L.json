@@ -21,134 +21,162 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 49.45049285888672,
                 "date": "2022-08-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-08-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-19",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.97,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 48.201751708984375,
                 "date": "2022-08-19",
                 "status": "EXACT"
               },
               "relative_activity": 1.97,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-08-19",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.68,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 47.951995849609375,
                 "date": "2022-08-22",
                 "status": "EXACT"
               },
               "relative_activity": 1.68,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-08-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 37.96199417114258,
                 "date": "2022-09-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-09-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.39,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 39.91004943847656,
                 "date": "2022-09-13",
                 "status": "EXACT"
               },
               "relative_activity": 5.39,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-09-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.06,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 39.01095199584961,
                 "date": "2022-09-16",
                 "status": "EXACT"
               },
               "relative_activity": 3.06,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-09-16",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.64,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 35.06489944458008,
                 "date": "2022-10-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.64,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "VIC.L:2022-10-03",
               "signal_type": "DEEP CRASH BOTTOM"
             }
@@ -21304,141 +21332,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jul 2026",
+              "event_id": "rns-f19460917f05f54f64f125c5",
               "headline": "Director/PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6833M",
+              "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html",
+              "time": "1:19 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-ba4beb725742f0ddb20f0f29",
               "headline": "Director / PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0176K",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html",
+              "time": "2:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2026",
+              "event_id": "rns-1d3db77ed83554ba2f9f07ac",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9289F",
+              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html",
+              "time": "1:54 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2026",
+              "event_id": "rns-3fdab632ba517ef555d216e4",
               "headline": "Half-year Results",
-              "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8002E",
+              "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2026",
+              "event_id": "rns-d9d052cb7a1bf30d4ed78687",
               "headline": "Listing Application and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9547E",
+              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-e893d4549373a7a33cbc46c0",
               "headline": "Notice of Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/VIC/notice-of-investor-presentation-cqdnto6w1gojtby.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8430C",
+              "source_url": "https://www.lse.co.uk/rns/VIC/notice-of-investor-presentation-cqdnto6w1gojtby.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-36e0e5c67c2961765af0dfa9",
               "headline": "Completion of CEO Succession",
-              "source_url": "https://www.lse.co.uk/rns/VIC/completion-of-ceo-succession-ne2sl7w6o2n7ay2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9189Y",
+              "source_url": "https://www.lse.co.uk/rns/VIC/completion-of-ceo-succession-ne2sl7w6o2n7ay2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-a15bebe009468c92620cfa9f",
               "headline": "Director / PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-eav9mytyajizhmb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9208Y",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-eav9mytyajizhmb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-5f84698fb235203de0ba4a09",
               "headline": "Value Creation Plan",
-              "source_url": "https://www.lse.co.uk/rns/VIC/value-creation-plan-jl0qn3z2x2vgvml.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9195Y",
+              "source_url": "https://www.lse.co.uk/rns/VIC/value-creation-plan-jl0qn3z2x2vgvml.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-0efb1e0af90dadbf76ccdf6a",
               "headline": "Director / PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-pism3tqu59aydib.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5791U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-pism3tqu59aydib.html",
+              "time": "1:24 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-408e895627d31df7d193b418",
               "headline": "AGM Trading Update, Acquisition & Results Notice",
-              "source_url": "https://www.lse.co.uk/rns/VIC/agm-trading-update-acquisition-results-notice-xqli426y7gxqhdi.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2482U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/agm-trading-update-acquisition-results-notice-xqli426y7gxqhdi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-967eaecd8dd33bf98b23d183",
               "headline": "CEO Succession",
-              "source_url": "https://www.lse.co.uk/rns/VIC/ceo-succession-34329cyvmrsz30d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2487U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/ceo-succession-34329cyvmrsz30d.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-3017e88003127a506a844e72",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/VIC/result-of-agm-rl7nz2hqol9qfpq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3975U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/result-of-agm-rl7nz2hqol9qfpq.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Dec 2025",
+              "event_id": "rns-9a2c3835447ab7f53d3e6233",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/VIC/posting-of-annual-report-and-notice-of-agm-60ck53l7afibaf8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0048M",
+              "source_url": "https://www.lse.co.uk/rns/VIC/posting-of-annual-report-and-notice-of-agm-60ck53l7afibaf8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Dec 2025",
+              "event_id": "rns-ebef6e68efddf3df08e7d041",
               "headline": "Initiation of Research & Notice of Presentation",
-              "source_url": "https://www.lse.co.uk/rns/VIC/initiation-of-research-notice-of-presentation-4hsxc3iki7s0kmr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1498K",
+              "source_url": "https://www.lse.co.uk/rns/VIC/initiation-of-research-notice-of-presentation-4hsxc3iki7s0kmr.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Dec 2025",
+              "event_id": "rns-3219735cbd4513455e787cfb",
               "headline": "FINAL RESULTS FOR THE YEAR ENDED 30 SEPTEMBER 2025",
-              "source_url": "https://www.lse.co.uk/rns/VIC/final-results-for-the-year-ended-30-september-2025-wegr068apkdhyr1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9703J",
+              "source_url": "https://www.lse.co.uk/rns/VIC/final-results-for-the-year-ended-30-september-2025-wegr068apkdhyr1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Dec 2025",
+              "event_id": "rns-e0832c8f2d31315e3720eeba",
               "headline": "Listing Application and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-zteka1ujb7jv4dk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1275K",
+              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-zteka1ujb7jv4dk.html",
+              "time": "3:03 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Oct 2025",
+              "event_id": "rns-afcde1af17a1d7e5f90f6a77",
               "headline": "Full Year Trading Update and Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/VIC/full-year-trading-update-and-notice-of-results-04qjbom7cayjn23.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2746C",
+              "source_url": "https://www.lse.co.uk/rns/VIC/full-year-trading-update-and-notice-of-results-04qjbom7cayjn23.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2025",
+              "event_id": "rns-8fa6827932812e6d5126ec2a",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-a25xsw7piif0753.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8414S",
+              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-a25xsw7piif0753.html",
+              "time": "1:38 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2025",
+              "event_id": "rns-9b7fb7de7ed87e5bcf76a67f",
               "headline": "Director / PDMR Dealing",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealing-671l4tor2mnf7k5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6306P",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealing-671l4tor2mnf7k5.html",
+              "time": "10:47 am"
             }
           ],
           "status": "AVAILABLE",
@@ -21507,134 +21635,162 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.34,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 49.45049285888672,
             "date": "2022-08-05",
             "status": "EXACT"
           },
           "relative_activity": 1.34,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "VIC.L:2022-08-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-19",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.97,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 48.201751708984375,
             "date": "2022-08-19",
             "status": "EXACT"
           },
           "relative_activity": 1.97,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "VIC.L:2022-08-19",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-22",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.68,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 47.951995849609375,
             "date": "2022-08-22",
             "status": "EXACT"
           },
           "relative_activity": 1.68,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "VIC.L:2022-08-22",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-09-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.65,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 37.96199417114258,
             "date": "2022-09-09",
             "status": "EXACT"
           },
           "relative_activity": 1.65,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "VIC.L:2022-09-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-09-13",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.39,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 39.91004943847656,
             "date": "2022-09-13",
             "status": "EXACT"
           },
           "relative_activity": 5.39,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "VIC.L:2022-09-13",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-09-16",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.06,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 39.01095199584961,
             "date": "2022-09-16",
             "status": "EXACT"
           },
           "relative_activity": 3.06,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "VIC.L:2022-09-16",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-10-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.64,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 35.06489944458008,
             "date": "2022-10-03",
             "status": "EXACT"
           },
           "relative_activity": 1.64,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "VIC.L:2022-10-03",
           "signal_type": "DEEP CRASH BOTTOM"
         }
@@ -32214,141 +32370,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-16",
+          "event_id": "rns-f19460917f05f54f64f125c5",
           "headline": "Director/PDMR Dealings",
-          "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6833M",
+          "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html",
+          "time": "1:19 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-26",
+          "event_id": "rns-ba4beb725742f0ddb20f0f29",
           "headline": "Director / PDMR Dealings",
-          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0176K",
+          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html",
+          "time": "2:49 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-27",
+          "event_id": "rns-1d3db77ed83554ba2f9f07ac",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9289F",
+          "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html",
+          "time": "1:54 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-19",
+          "event_id": "rns-3fdab632ba517ef555d216e4",
           "headline": "Half-year Results",
-          "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8002E",
+          "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-19",
+          "event_id": "rns-d9d052cb7a1bf30d4ed78687",
           "headline": "Listing Application and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9547E",
+          "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html",
+          "time": "2:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-05",
+          "event_id": "rns-e893d4549373a7a33cbc46c0",
           "headline": "Notice of Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/VIC/notice-of-investor-presentation-cqdnto6w1gojtby.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8430C",
+          "source_url": "https://www.lse.co.uk/rns/VIC/notice-of-investor-presentation-cqdnto6w1gojtby.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-36e0e5c67c2961765af0dfa9",
           "headline": "Completion of CEO Succession",
-          "source_url": "https://www.lse.co.uk/rns/VIC/completion-of-ceo-succession-ne2sl7w6o2n7ay2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9189Y",
+          "source_url": "https://www.lse.co.uk/rns/VIC/completion-of-ceo-succession-ne2sl7w6o2n7ay2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-a15bebe009468c92620cfa9f",
           "headline": "Director / PDMR Dealings",
-          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-eav9mytyajizhmb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9208Y",
+          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-eav9mytyajizhmb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-5f84698fb235203de0ba4a09",
           "headline": "Value Creation Plan",
-          "source_url": "https://www.lse.co.uk/rns/VIC/value-creation-plan-jl0qn3z2x2vgvml.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9195Y",
+          "source_url": "https://www.lse.co.uk/rns/VIC/value-creation-plan-jl0qn3z2x2vgvml.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-26",
+          "event_id": "rns-0efb1e0af90dadbf76ccdf6a",
           "headline": "Director / PDMR Dealings",
-          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-pism3tqu59aydib.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5791U",
+          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-pism3tqu59aydib.html",
+          "time": "1:24 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-25",
+          "event_id": "rns-408e895627d31df7d193b418",
           "headline": "AGM Trading Update, Acquisition & Results Notice",
-          "source_url": "https://www.lse.co.uk/rns/VIC/agm-trading-update-acquisition-results-notice-xqli426y7gxqhdi.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2482U",
+          "source_url": "https://www.lse.co.uk/rns/VIC/agm-trading-update-acquisition-results-notice-xqli426y7gxqhdi.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-25",
+          "event_id": "rns-967eaecd8dd33bf98b23d183",
           "headline": "CEO Succession",
-          "source_url": "https://www.lse.co.uk/rns/VIC/ceo-succession-34329cyvmrsz30d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2487U",
+          "source_url": "https://www.lse.co.uk/rns/VIC/ceo-succession-34329cyvmrsz30d.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-25",
+          "event_id": "rns-3017e88003127a506a844e72",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/VIC/result-of-agm-rl7nz2hqol9qfpq.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3975U",
+          "source_url": "https://www.lse.co.uk/rns/VIC/result-of-agm-rl7nz2hqol9qfpq.html",
+          "time": "12:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-18",
+          "event_id": "rns-9a2c3835447ab7f53d3e6233",
           "headline": "Posting of Annual Report and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/VIC/posting-of-annual-report-and-notice-of-agm-60ck53l7afibaf8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0048M",
+          "source_url": "https://www.lse.co.uk/rns/VIC/posting-of-annual-report-and-notice-of-agm-60ck53l7afibaf8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-04",
+          "event_id": "rns-ebef6e68efddf3df08e7d041",
           "headline": "Initiation of Research & Notice of Presentation",
-          "source_url": "https://www.lse.co.uk/rns/VIC/initiation-of-research-notice-of-presentation-4hsxc3iki7s0kmr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1498K",
+          "source_url": "https://www.lse.co.uk/rns/VIC/initiation-of-research-notice-of-presentation-4hsxc3iki7s0kmr.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-03",
+          "event_id": "rns-3219735cbd4513455e787cfb",
           "headline": "FINAL RESULTS FOR THE YEAR ENDED 30 SEPTEMBER 2025",
-          "source_url": "https://www.lse.co.uk/rns/VIC/final-results-for-the-year-ended-30-september-2025-wegr068apkdhyr1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9703J",
+          "source_url": "https://www.lse.co.uk/rns/VIC/final-results-for-the-year-ended-30-september-2025-wegr068apkdhyr1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-03",
+          "event_id": "rns-e0832c8f2d31315e3720eeba",
           "headline": "Listing Application and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-zteka1ujb7jv4dk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1275K",
+          "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-zteka1ujb7jv4dk.html",
+          "time": "3:03 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-07",
+          "event_id": "rns-afcde1af17a1d7e5f90f6a77",
           "headline": "Full Year Trading Update and Notice of Results",
-          "source_url": "https://www.lse.co.uk/rns/VIC/full-year-trading-update-and-notice-of-results-04qjbom7cayjn23.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2746C",
+          "source_url": "https://www.lse.co.uk/rns/VIC/full-year-trading-update-and-notice-of-results-04qjbom7cayjn23.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-28",
+          "event_id": "rns-8fa6827932812e6d5126ec2a",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-a25xsw7piif0753.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8414S",
+          "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-a25xsw7piif0753.html",
+          "time": "1:38 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-03",
+          "event_id": "rns-9b7fb7de7ed87e5bcf76a67f",
           "headline": "Director / PDMR Dealing",
-          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealing-671l4tor2mnf7k5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6306P",
+          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealing-671l4tor2mnf7k5.html",
+          "time": "10:47 am"
         }
       ],
       "rns_initial": [
@@ -32356,36 +32612,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-16",
+          "event_id": "rns-f19460917f05f54f64f125c5",
           "headline": "Director/PDMR Dealings",
-          "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6833M",
+          "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html",
+          "time": "1:19 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-26",
+          "event_id": "rns-ba4beb725742f0ddb20f0f29",
           "headline": "Director / PDMR Dealings",
-          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0176K",
+          "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html",
+          "time": "2:49 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-27",
+          "event_id": "rns-1d3db77ed83554ba2f9f07ac",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9289F",
+          "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html",
+          "time": "1:54 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-19",
+          "event_id": "rns-3fdab632ba517ef555d216e4",
           "headline": "Half-year Results",
-          "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8002E",
+          "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-19",
+          "event_id": "rns-d9d052cb7a1bf30d4ed78687",
           "headline": "Listing Application and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9547E",
+          "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html",
+          "time": "2:00 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -32433,134 +32714,162 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 49.45049285888672,
                 "date": "2022-08-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-08-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-19",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.97,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 48.201751708984375,
                 "date": "2022-08-19",
                 "status": "EXACT"
               },
               "relative_activity": 1.97,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-08-19",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.68,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 47.951995849609375,
                 "date": "2022-08-22",
                 "status": "EXACT"
               },
               "relative_activity": 1.68,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-08-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 37.96199417114258,
                 "date": "2022-09-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-09-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.39,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 39.91004943847656,
                 "date": "2022-09-13",
                 "status": "EXACT"
               },
               "relative_activity": 5.39,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-09-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.06,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 39.01095199584961,
                 "date": "2022-09-16",
                 "status": "EXACT"
               },
               "relative_activity": 3.06,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "VIC.L:2022-09-16",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.64,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 35.06489944458008,
                 "date": "2022-10-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.64,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "VIC.L:2022-10-03",
               "signal_type": "DEEP CRASH BOTTOM"
             }
@@ -53716,141 +54025,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jul 2026",
+              "event_id": "rns-f19460917f05f54f64f125c5",
               "headline": "Director/PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6833M",
+              "source_url": "https://www.lse.co.uk/rns/VIC/directorpdmr-dealings-o2dcgxa69ed22oh.html",
+              "time": "1:19 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-ba4beb725742f0ddb20f0f29",
               "headline": "Director / PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0176K",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-lg9nbmte24zuiru.html",
+              "time": "2:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2026",
+              "event_id": "rns-1d3db77ed83554ba2f9f07ac",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9289F",
+              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-b5y5zeyv450hl6w.html",
+              "time": "1:54 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2026",
+              "event_id": "rns-3fdab632ba517ef555d216e4",
               "headline": "Half-year Results",
-              "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8002E",
+              "source_url": "https://www.lse.co.uk/rns/VIC/half-year-results-1p4vpfc4nnxmqfx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2026",
+              "event_id": "rns-d9d052cb7a1bf30d4ed78687",
               "headline": "Listing Application and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9547E",
+              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-vqzjfcccz2gaze0.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-e893d4549373a7a33cbc46c0",
               "headline": "Notice of Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/VIC/notice-of-investor-presentation-cqdnto6w1gojtby.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8430C",
+              "source_url": "https://www.lse.co.uk/rns/VIC/notice-of-investor-presentation-cqdnto6w1gojtby.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-36e0e5c67c2961765af0dfa9",
               "headline": "Completion of CEO Succession",
-              "source_url": "https://www.lse.co.uk/rns/VIC/completion-of-ceo-succession-ne2sl7w6o2n7ay2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9189Y",
+              "source_url": "https://www.lse.co.uk/rns/VIC/completion-of-ceo-succession-ne2sl7w6o2n7ay2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-a15bebe009468c92620cfa9f",
               "headline": "Director / PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-eav9mytyajizhmb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9208Y",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-eav9mytyajizhmb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-5f84698fb235203de0ba4a09",
               "headline": "Value Creation Plan",
-              "source_url": "https://www.lse.co.uk/rns/VIC/value-creation-plan-jl0qn3z2x2vgvml.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9195Y",
+              "source_url": "https://www.lse.co.uk/rns/VIC/value-creation-plan-jl0qn3z2x2vgvml.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-0efb1e0af90dadbf76ccdf6a",
               "headline": "Director / PDMR Dealings",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-pism3tqu59aydib.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5791U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealings-pism3tqu59aydib.html",
+              "time": "1:24 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-408e895627d31df7d193b418",
               "headline": "AGM Trading Update, Acquisition & Results Notice",
-              "source_url": "https://www.lse.co.uk/rns/VIC/agm-trading-update-acquisition-results-notice-xqli426y7gxqhdi.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2482U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/agm-trading-update-acquisition-results-notice-xqli426y7gxqhdi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-967eaecd8dd33bf98b23d183",
               "headline": "CEO Succession",
-              "source_url": "https://www.lse.co.uk/rns/VIC/ceo-succession-34329cyvmrsz30d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2487U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/ceo-succession-34329cyvmrsz30d.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-3017e88003127a506a844e72",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/VIC/result-of-agm-rl7nz2hqol9qfpq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3975U",
+              "source_url": "https://www.lse.co.uk/rns/VIC/result-of-agm-rl7nz2hqol9qfpq.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Dec 2025",
+              "event_id": "rns-9a2c3835447ab7f53d3e6233",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/VIC/posting-of-annual-report-and-notice-of-agm-60ck53l7afibaf8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0048M",
+              "source_url": "https://www.lse.co.uk/rns/VIC/posting-of-annual-report-and-notice-of-agm-60ck53l7afibaf8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Dec 2025",
+              "event_id": "rns-ebef6e68efddf3df08e7d041",
               "headline": "Initiation of Research & Notice of Presentation",
-              "source_url": "https://www.lse.co.uk/rns/VIC/initiation-of-research-notice-of-presentation-4hsxc3iki7s0kmr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1498K",
+              "source_url": "https://www.lse.co.uk/rns/VIC/initiation-of-research-notice-of-presentation-4hsxc3iki7s0kmr.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Dec 2025",
+              "event_id": "rns-3219735cbd4513455e787cfb",
               "headline": "FINAL RESULTS FOR THE YEAR ENDED 30 SEPTEMBER 2025",
-              "source_url": "https://www.lse.co.uk/rns/VIC/final-results-for-the-year-ended-30-september-2025-wegr068apkdhyr1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9703J",
+              "source_url": "https://www.lse.co.uk/rns/VIC/final-results-for-the-year-ended-30-september-2025-wegr068apkdhyr1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Dec 2025",
+              "event_id": "rns-e0832c8f2d31315e3720eeba",
               "headline": "Listing Application and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-zteka1ujb7jv4dk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1275K",
+              "source_url": "https://www.lse.co.uk/rns/VIC/listing-application-and-total-voting-rights-zteka1ujb7jv4dk.html",
+              "time": "3:03 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Oct 2025",
+              "event_id": "rns-afcde1af17a1d7e5f90f6a77",
               "headline": "Full Year Trading Update and Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/VIC/full-year-trading-update-and-notice-of-results-04qjbom7cayjn23.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2746C",
+              "source_url": "https://www.lse.co.uk/rns/VIC/full-year-trading-update-and-notice-of-results-04qjbom7cayjn23.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2025",
+              "event_id": "rns-8fa6827932812e6d5126ec2a",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-a25xsw7piif0753.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8414S",
+              "source_url": "https://www.lse.co.uk/rns/VIC/holdings-in-company-a25xsw7piif0753.html",
+              "time": "1:38 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2025",
+              "event_id": "rns-9b7fb7de7ed87e5bcf76a67f",
               "headline": "Director / PDMR Dealing",
-              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealing-671l4tor2mnf7k5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6306P",
+              "source_url": "https://www.lse.co.uk/rns/VIC/director-pdmr-dealing-671l4tor2mnf7k5.html",
+              "time": "10:47 am"
             }
           ],
           "status": "AVAILABLE",

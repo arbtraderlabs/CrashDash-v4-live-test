@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.44,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.75,
                 "date": "2022-01-25",
                 "status": "EXACT"
               },
               "relative_activity": 2.44,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "B90.L:2022-01-25",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 8.1,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.875,
                 "date": "2022-01-26",
                 "status": "EXACT"
               },
               "relative_activity": 8.1,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "B90.L:2022-01-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.99,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.25,
                 "date": "2022-01-28",
                 "status": "EXACT"
               },
               "relative_activity": 2.99,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "B90.L:2022-01-28",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27164,141 +27176,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-523dc0c3395b8dfff2d7850b",
               "headline": "Notice of Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1715T",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-e71240d1f5eaee071eaf9ff0",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4980S",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-626ecda223b41264d812a931",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2787P",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jun 2026",
+              "event_id": "rns-25313a3dbc44dc6d21d67e1c",
               "headline": "Director's Dealings",
-              "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0385J",
+              "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html",
+              "time": "10:13 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-7c2f0e37374b305083bf9900",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1200D",
+              "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Apr 2026",
+              "event_id": "rns-533027461c879136e8f19db3",
               "headline": "Notice of Final Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-final-results-c9ydb2gm6vowx0k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9074B",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-final-results-c9ydb2gm6vowx0k.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-9b23dd0cf699428502ce5247",
               "headline": "Board Change",
-              "source_url": "https://www.lse.co.uk/rns/B90/board-change-mlmrxoomid9i89p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1267S",
+              "source_url": "https://www.lse.co.uk/rns/B90/board-change-mlmrxoomid9i89p.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-0f3884104f28be8d5d80ed95",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-s92dqiergxq7w1m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1697R",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-s92dqiergxq7w1m.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Nov 2025",
+              "event_id": "rns-0d0f06967e76586810cf4f83",
               "headline": "Statement re: UK Budget",
-              "source_url": "https://www.lse.co.uk/rns/B90/statement-re-uk-budget-sldy9l6jw51gy1n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3606J",
+              "source_url": "https://www.lse.co.uk/rns/B90/statement-re-uk-budget-sldy9l6jw51gy1n.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2025",
+              "event_id": "rns-65ca0612b99120912fbd7390",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/interim-results-omj7zw4izsr1igx.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1470A",
+              "source_url": "https://www.lse.co.uk/rns/B90/interim-results-omj7zw4izsr1igx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-8e52275aa6ad1cc9fcff3598",
               "headline": "Notice of Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-investor-presentation-5fdgpctjcr00jit.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7697Z",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-investor-presentation-5fdgpctjcr00jit.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Sep 2025",
+              "event_id": "rns-047f3e07f0296c40a5ff6a84",
               "headline": "Result of AGM and Notice of Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/result-of-agm-and-notice-of-interim-results-xyl3w3q4b16ytvd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5109Z",
+              "source_url": "https://www.lse.co.uk/rns/B90/result-of-agm-and-notice-of-interim-results-xyl3w3q4b16ytvd.html",
+              "time": "9:44 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Aug 2025",
+              "event_id": "rns-a10faf2983889d6bf0d9493b",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-ab9srdgd22co4ht.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1227X",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-ab9srdgd22co4ht.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2025",
+              "event_id": "rns-8a60a7cd122abad0306c4cec",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-c81g9fh3bj7cyk0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9499R",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-c81g9fh3bj7cyk0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-b1cc15e27f8eccbacfa57e7b",
               "headline": "Grant of Options",
-              "source_url": "https://www.lse.co.uk/rns/B90/grant-of-options-iqzqevbzuvf2nxg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8381O",
+              "source_url": "https://www.lse.co.uk/rns/B90/grant-of-options-iqzqevbzuvf2nxg.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2025",
+              "event_id": "rns-d5e47a74ae51434f71fb9679",
               "headline": "Director Dealings",
-              "source_url": "https://www.lse.co.uk/rns/B90/director-dealings-7vvzaui9c69mqas.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5930M",
+              "source_url": "https://www.lse.co.uk/rns/B90/director-dealings-7vvzaui9c69mqas.html",
+              "time": "10:33 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th May 2025",
+              "event_id": "rns-760e60c9a673210c09065ff6",
               "headline": "Online Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/B90/online-investor-presentation-p99gzsf5loifs8o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1564I",
+              "source_url": "https://www.lse.co.uk/rns/B90/online-investor-presentation-p99gzsf5loifs8o.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2025",
+              "event_id": "rns-4c0c831442de52b6f2d7e453",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/final-results-yszgfte8qe9hixw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5716H",
+              "source_url": "https://www.lse.co.uk/rns/B90/final-results-yszgfte8qe9hixw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2025",
+              "event_id": "rns-de8017afcd3b146fc0db868b",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-3vxifwlhnorlg3b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7277V",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-3vxifwlhnorlg3b.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2024",
+              "event_id": "rns-90427ebce120801f0d69b9f5",
               "headline": "Director's Exercise of Options",
-              "source_url": "https://www.lse.co.uk/rns/B90/directors-exercise-of-options-qhlwtyq2nty5ebe.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7624P",
+              "source_url": "https://www.lse.co.uk/rns/B90/directors-exercise-of-options-qhlwtyq2nty5ebe.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27366,58 +27478,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-01-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.44,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.75,
             "date": "2022-01-25",
             "status": "EXACT"
           },
           "relative_activity": 2.44,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "B90.L:2022-01-25",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-01-26",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 8.1,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.875,
             "date": "2022-01-26",
             "status": "EXACT"
           },
           "relative_activity": 8.1,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "B90.L:2022-01-26",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-01-28",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.99,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.25,
             "date": "2022-01-28",
             "status": "EXACT"
           },
           "relative_activity": 2.99,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "B90.L:2022-01-28",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40965,141 +41089,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-523dc0c3395b8dfff2d7850b",
           "headline": "Notice of Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1715T",
+          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-e71240d1f5eaee071eaf9ff0",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4980S",
+          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-626ecda223b41264d812a931",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2787P",
+          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-19",
+          "event_id": "rns-25313a3dbc44dc6d21d67e1c",
           "headline": "Director's Dealings",
-          "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0385J",
+          "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html",
+          "time": "10:13 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-7c2f0e37374b305083bf9900",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1200D",
+          "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-27",
+          "event_id": "rns-533027461c879136e8f19db3",
           "headline": "Notice of Final Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-final-results-c9ydb2gm6vowx0k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9074B",
+          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-final-results-c9ydb2gm6vowx0k.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-09",
+          "event_id": "rns-9b23dd0cf699428502ce5247",
           "headline": "Board Change",
-          "source_url": "https://www.lse.co.uk/rns/B90/board-change-mlmrxoomid9i89p.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1267S",
+          "source_url": "https://www.lse.co.uk/rns/B90/board-change-mlmrxoomid9i89p.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-02",
+          "event_id": "rns-0f3884104f28be8d5d80ed95",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-s92dqiergxq7w1m.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1697R",
+          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-s92dqiergxq7w1m.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-28",
+          "event_id": "rns-0d0f06967e76586810cf4f83",
           "headline": "Statement re: UK Budget",
-          "source_url": "https://www.lse.co.uk/rns/B90/statement-re-uk-budget-sldy9l6jw51gy1n.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3606J",
+          "source_url": "https://www.lse.co.uk/rns/B90/statement-re-uk-budget-sldy9l6jw51gy1n.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-22",
+          "event_id": "rns-65ca0612b99120912fbd7390",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/interim-results-omj7zw4izsr1igx.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1470A",
+          "source_url": "https://www.lse.co.uk/rns/B90/interim-results-omj7zw4izsr1igx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-18",
+          "event_id": "rns-8e52275aa6ad1cc9fcff3598",
           "headline": "Notice of Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-investor-presentation-5fdgpctjcr00jit.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7697Z",
+          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-investor-presentation-5fdgpctjcr00jit.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-16",
+          "event_id": "rns-047f3e07f0296c40a5ff6a84",
           "headline": "Result of AGM and Notice of Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/result-of-agm-and-notice-of-interim-results-xyl3w3q4b16ytvd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5109Z",
+          "source_url": "https://www.lse.co.uk/rns/B90/result-of-agm-and-notice-of-interim-results-xyl3w3q4b16ytvd.html",
+          "time": "9:44 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-29",
+          "event_id": "rns-a10faf2983889d6bf0d9493b",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-ab9srdgd22co4ht.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1227X",
+          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-ab9srdgd22co4ht.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-22",
+          "event_id": "rns-8a60a7cd122abad0306c4cec",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-c81g9fh3bj7cyk0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9499R",
+          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-c81g9fh3bj7cyk0.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-30",
+          "event_id": "rns-b1cc15e27f8eccbacfa57e7b",
           "headline": "Grant of Options",
-          "source_url": "https://www.lse.co.uk/rns/B90/grant-of-options-iqzqevbzuvf2nxg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8381O",
+          "source_url": "https://www.lse.co.uk/rns/B90/grant-of-options-iqzqevbzuvf2nxg.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-12",
+          "event_id": "rns-d5e47a74ae51434f71fb9679",
           "headline": "Director Dealings",
-          "source_url": "https://www.lse.co.uk/rns/B90/director-dealings-7vvzaui9c69mqas.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5930M",
+          "source_url": "https://www.lse.co.uk/rns/B90/director-dealings-7vvzaui9c69mqas.html",
+          "time": "10:33 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-12",
+          "event_id": "rns-760e60c9a673210c09065ff6",
           "headline": "Online Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/B90/online-investor-presentation-p99gzsf5loifs8o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1564I",
+          "source_url": "https://www.lse.co.uk/rns/B90/online-investor-presentation-p99gzsf5loifs8o.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-07",
+          "event_id": "rns-4c0c831442de52b6f2d7e453",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/final-results-yszgfte8qe9hixw.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5716H",
+          "source_url": "https://www.lse.co.uk/rns/B90/final-results-yszgfte8qe9hixw.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-04",
+          "event_id": "rns-de8017afcd3b146fc0db868b",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-3vxifwlhnorlg3b.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7277V",
+          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-3vxifwlhnorlg3b.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-12",
+          "event_id": "rns-90427ebce120801f0d69b9f5",
           "headline": "Director's Exercise of Options",
-          "source_url": "https://www.lse.co.uk/rns/B90/directors-exercise-of-options-qhlwtyq2nty5ebe.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7624P",
+          "source_url": "https://www.lse.co.uk/rns/B90/directors-exercise-of-options-qhlwtyq2nty5ebe.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41107,36 +41331,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-523dc0c3395b8dfff2d7850b",
           "headline": "Notice of Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1715T",
+          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-e71240d1f5eaee071eaf9ff0",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4980S",
+          "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-626ecda223b41264d812a931",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2787P",
+          "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-19",
+          "event_id": "rns-25313a3dbc44dc6d21d67e1c",
           "headline": "Director's Dealings",
-          "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0385J",
+          "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html",
+          "time": "10:13 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-7c2f0e37374b305083bf9900",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1200D",
+          "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41184,58 +41433,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.44,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.75,
                 "date": "2022-01-25",
                 "status": "EXACT"
               },
               "relative_activity": 2.44,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "B90.L:2022-01-25",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 8.1,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.875,
                 "date": "2022-01-26",
                 "status": "EXACT"
               },
               "relative_activity": 8.1,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "B90.L:2022-01-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.99,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.25,
                 "date": "2022-01-28",
                 "status": "EXACT"
               },
               "relative_activity": 2.99,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "B90.L:2022-01-28",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68327,141 +68588,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-523dc0c3395b8dfff2d7850b",
               "headline": "Notice of Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1715T",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-interim-results-syf5wym0vogvkd6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-e71240d1f5eaee071eaf9ff0",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4980S",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-e87ynmxl3ipluxh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-626ecda223b41264d812a931",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2787P",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-o7rc0ohzhkws73o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jun 2026",
+              "event_id": "rns-25313a3dbc44dc6d21d67e1c",
               "headline": "Director's Dealings",
-              "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0385J",
+              "source_url": "https://www.lse.co.uk/rns/B90/directors-dealings-w12bnojihntorwc.html",
+              "time": "10:13 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-7c2f0e37374b305083bf9900",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1200D",
+              "source_url": "https://www.lse.co.uk/rns/B90/final-results-k95nnxyp7d03pnf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Apr 2026",
+              "event_id": "rns-533027461c879136e8f19db3",
               "headline": "Notice of Final Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-final-results-c9ydb2gm6vowx0k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9074B",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-final-results-c9ydb2gm6vowx0k.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-9b23dd0cf699428502ce5247",
               "headline": "Board Change",
-              "source_url": "https://www.lse.co.uk/rns/B90/board-change-mlmrxoomid9i89p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1267S",
+              "source_url": "https://www.lse.co.uk/rns/B90/board-change-mlmrxoomid9i89p.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-0f3884104f28be8d5d80ed95",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-s92dqiergxq7w1m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1697R",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-s92dqiergxq7w1m.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Nov 2025",
+              "event_id": "rns-0d0f06967e76586810cf4f83",
               "headline": "Statement re: UK Budget",
-              "source_url": "https://www.lse.co.uk/rns/B90/statement-re-uk-budget-sldy9l6jw51gy1n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3606J",
+              "source_url": "https://www.lse.co.uk/rns/B90/statement-re-uk-budget-sldy9l6jw51gy1n.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2025",
+              "event_id": "rns-65ca0612b99120912fbd7390",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/interim-results-omj7zw4izsr1igx.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1470A",
+              "source_url": "https://www.lse.co.uk/rns/B90/interim-results-omj7zw4izsr1igx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-8e52275aa6ad1cc9fcff3598",
               "headline": "Notice of Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-investor-presentation-5fdgpctjcr00jit.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7697Z",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-investor-presentation-5fdgpctjcr00jit.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Sep 2025",
+              "event_id": "rns-047f3e07f0296c40a5ff6a84",
               "headline": "Result of AGM and Notice of Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/result-of-agm-and-notice-of-interim-results-xyl3w3q4b16ytvd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5109Z",
+              "source_url": "https://www.lse.co.uk/rns/B90/result-of-agm-and-notice-of-interim-results-xyl3w3q4b16ytvd.html",
+              "time": "9:44 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Aug 2025",
+              "event_id": "rns-a10faf2983889d6bf0d9493b",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-ab9srdgd22co4ht.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1227X",
+              "source_url": "https://www.lse.co.uk/rns/B90/notice-of-agm-ab9srdgd22co4ht.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2025",
+              "event_id": "rns-8a60a7cd122abad0306c4cec",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-c81g9fh3bj7cyk0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9499R",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-c81g9fh3bj7cyk0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-b1cc15e27f8eccbacfa57e7b",
               "headline": "Grant of Options",
-              "source_url": "https://www.lse.co.uk/rns/B90/grant-of-options-iqzqevbzuvf2nxg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8381O",
+              "source_url": "https://www.lse.co.uk/rns/B90/grant-of-options-iqzqevbzuvf2nxg.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2025",
+              "event_id": "rns-d5e47a74ae51434f71fb9679",
               "headline": "Director Dealings",
-              "source_url": "https://www.lse.co.uk/rns/B90/director-dealings-7vvzaui9c69mqas.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5930M",
+              "source_url": "https://www.lse.co.uk/rns/B90/director-dealings-7vvzaui9c69mqas.html",
+              "time": "10:33 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th May 2025",
+              "event_id": "rns-760e60c9a673210c09065ff6",
               "headline": "Online Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/B90/online-investor-presentation-p99gzsf5loifs8o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1564I",
+              "source_url": "https://www.lse.co.uk/rns/B90/online-investor-presentation-p99gzsf5loifs8o.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2025",
+              "event_id": "rns-4c0c831442de52b6f2d7e453",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/B90/final-results-yszgfte8qe9hixw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5716H",
+              "source_url": "https://www.lse.co.uk/rns/B90/final-results-yszgfte8qe9hixw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2025",
+              "event_id": "rns-de8017afcd3b146fc0db868b",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-3vxifwlhnorlg3b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7277V",
+              "source_url": "https://www.lse.co.uk/rns/B90/trading-update-3vxifwlhnorlg3b.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2024",
+              "event_id": "rns-90427ebce120801f0d69b9f5",
               "headline": "Director's Exercise of Options",
-              "source_url": "https://www.lse.co.uk/rns/B90/directors-exercise-of-options-qhlwtyq2nty5ebe.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7624P",
+              "source_url": "https://www.lse.co.uk/rns/B90/directors-exercise-of-options-qhlwtyq2nty5ebe.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

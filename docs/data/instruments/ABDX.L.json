@@ -21,324 +21,392 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.21,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 22,
                 "date": "2022-01-10",
                 "status": "EXACT"
               },
               "relative_activity": 2.21,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-01-10",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.94,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 15,
                 "date": "2022-02-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.94,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-02-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-11",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.45,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 13.75,
                 "date": "2022-02-11",
                 "status": "EXACT"
               },
               "relative_activity": 1.45,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-02-11",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.94,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 12.5,
                 "date": "2022-02-14",
                 "status": "EXACT"
               },
               "relative_activity": 1.94,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-02-14",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.09,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 12.5,
                 "date": "2022-02-21",
                 "status": "EXACT"
               },
               "relative_activity": 2.09,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-02-21",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.89,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.5,
                 "date": "2022-03-02",
                 "status": "EXACT"
               },
               "relative_activity": 1.89,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-03-02",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.75,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.739999771118164,
                 "date": "2022-03-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.75,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-03-03",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-08-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.57,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.25,
                 "date": "2022-08-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-08-04",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-08-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 4.37,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.25,
                 "date": "2022-08-05",
                 "status": "EXACT"
               },
               "relative_activity": 4.37,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-08-05",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 8.85,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.110000133514404,
                 "date": "2022-08-15",
                 "status": "EXACT"
               },
               "relative_activity": 8.85,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ABDX.L:2022-08-15",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.22,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.5,
                 "date": "2022-08-16",
                 "status": "EXACT"
               },
               "relative_activity": 2.22,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-08-16",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.2,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.75,
                 "date": "2022-08-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.2,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-08-24",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.6,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.5,
                 "date": "2022-08-25",
                 "status": "EXACT"
               },
               "relative_activity": 1.6,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ABDX.L:2022-08-25",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.76,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.25,
                 "date": "2022-08-30",
                 "status": "EXACT"
               },
               "relative_activity": 1.76,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-08-30",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-11-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.1,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 5.25,
                 "date": "2022-11-24",
                 "status": "EXACT"
               },
               "relative_activity": 4.1,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-11-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-11-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.86,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.25,
                 "date": "2022-11-29",
                 "status": "EXACT"
               },
               "relative_activity": 1.86,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-11-29",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.41,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 3.75,
                 "date": "2022-12-16",
                 "status": "EXACT"
               },
               "relative_activity": 1.41,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-12-16",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -23542,141 +23610,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-741273e5d18e232add078483",
               "headline": "Shareholder open day",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7273T",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-4306abc4f0e975008387307a",
               "headline": "Trading update",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2621O",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-fab82335b28953dc98525ac1",
               "headline": "Presentation at Mello2026",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1355G",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2026",
+              "event_id": "rns-77ba72c838902ed9dac5e5a1",
               "headline": "US tax credit agreement",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7375F",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2026",
+              "event_id": "rns-067aa763d4046ca76be15167",
               "headline": "Earn-out Consideration and Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8016E",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th May 2026",
+              "event_id": "rns-34560a3eb4757eac4a1b4d47",
               "headline": "Launch of LVOne Stroke Test by UpFront Diagnostics",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/launch-of-lvone-stroke-test-by-upfront-diagnostics-thlzpppcly6mozz.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6837D",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/launch-of-lvone-stroke-test-by-upfront-diagnostics-thlzpppcly6mozz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2026",
+              "event_id": "rns-8b7e3f4928df03d0d38f9930",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/holdings-in-company-xuckpum9x8uaiud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4982D",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/holdings-in-company-xuckpum9x8uaiud.html",
+              "time": "5:38 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-6a63e6baef132d8d42907fa1",
               "headline": "Update on Partnership with 4TEEN4 Pharmaceuticals",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/update-on-partnership-with-4teen4-pharmaceuticals-b5tk1kj8uzbxgkt.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1323D",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/update-on-partnership-with-4teen4-pharmaceuticals-b5tk1kj8uzbxgkt.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Apr 2026",
+              "event_id": "rns-92c70814221c63eca0974fec",
               "headline": "Admission to trading on OTCQB in the US",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/admission-to-trading-on-otcqb-in-the-us-a86tisa21wwm8yn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1913B",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/admission-to-trading-on-otcqb-in-the-us-a86tisa21wwm8yn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-040880f6c0bcbce855220df2",
               "headline": "EMI Share Option Scheme",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/emi-share-option-scheme-xrlt45exlailfts.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4560A",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/emi-share-option-scheme-xrlt45exlailfts.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-5f566885308497cb4cb10070",
               "headline": "Trading to commence on the OTCQB in the US",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-to-commence-on-the-otcqb-in-the-us-3w5fscn75thkcgq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2542A",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-to-commence-on-the-otcqb-in-the-us-3w5fscn75thkcgq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-a8704ccadbe328c6b83fcd85",
               "headline": "\u00a34.8m contracts awarded",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/16348m-contracts-awarded-ddbvaqwemwi5yif.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5354Y",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/16348m-contracts-awarded-ddbvaqwemwi5yif.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-f9ceb6cb6496f22fb83558b3",
               "headline": "Half-year Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-djn7ld3qusp6rez.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8536W",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-djn7ld3qusp6rez.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-f9ceb6cb6496f22fb83558b3",
               "headline": "Half-year Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-ipgceqhvyg2h1p8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8536W",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-ipgceqhvyg2h1p8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-6b6754c86fff695cc3b7698f",
               "headline": "$2.5m Contract for clinical self-test development",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/25m-contract-for-clinical-self-test-development-hxvq3x4n9uufxt6.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3087W",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/25m-contract-for-clinical-self-test-development-hxvq3x4n9uufxt6.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-b7ef9bfa32036cff58ca9c11",
               "headline": "Trading on the OTCQB Venture Market in the US",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-on-the-otcqb-venture-market-in-the-us-eyhxhojf6aj8vdd.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9476V",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-on-the-otcqb-venture-market-in-the-us-eyhxhojf6aj8vdd.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-c3d8c502d56bc96132692257",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/notice-of-results-rgoc4g181i3l40w.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3863V",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/notice-of-results-rgoc4g181i3l40w.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-745b7b39cb6a9a9de646bd3c",
               "headline": "Appointment of NOMAD & Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/appointment-of-nomad-corporate-broker-9ter8v0ty4oo6b9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9528O",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/appointment-of-nomad-corporate-broker-9ter8v0ty4oo6b9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-f0529cf16b0d9212901925ea",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-c3q6zyr8t629fm1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9539O",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-c3q6zyr8t629fm1.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Dec 2025",
+              "event_id": "rns-c51fd15934ea61210a0842df",
               "headline": "Exercise of options and total voting rights",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/exercise-of-options-and-total-voting-rights-80m9yx3goi4rz5c.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0290N",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/exercise-of-options-and-total-voting-rights-80m9yx3goi4rz5c.html",
+              "time": "2:35 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -23747,324 +23915,392 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-01-10",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.21,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 22,
             "date": "2022-01-10",
             "status": "EXACT"
           },
           "relative_activity": 2.21,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-01-10",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-02-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.94,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 15,
             "date": "2022-02-09",
             "status": "EXACT"
           },
           "relative_activity": 1.94,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-02-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-02-11",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.45,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 13.75,
             "date": "2022-02-11",
             "status": "EXACT"
           },
           "relative_activity": 1.45,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-02-11",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-02-14",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.94,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 12.5,
             "date": "2022-02-14",
             "status": "EXACT"
           },
           "relative_activity": 1.94,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ABDX.L:2022-02-14",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-02-21",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.09,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 12.5,
             "date": "2022-02-21",
             "status": "EXACT"
           },
           "relative_activity": 2.09,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ABDX.L:2022-02-21",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-03-02",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.89,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 9.5,
             "date": "2022-03-02",
             "status": "EXACT"
           },
           "relative_activity": 1.89,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ABDX.L:2022-03-02",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-03-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.75,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 9.739999771118164,
             "date": "2022-03-03",
             "status": "EXACT"
           },
           "relative_activity": 1.75,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-03-03",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2022-08-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 1.57,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 9.25,
             "date": "2022-08-04",
             "status": "EXACT"
           },
           "relative_activity": 1.57,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-08-04",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2022-08-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 4.37,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 9.25,
             "date": "2022-08-05",
             "status": "EXACT"
           },
           "relative_activity": 4.37,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-08-05",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-15",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 8.85,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.110000133514404,
             "date": "2022-08-15",
             "status": "EXACT"
           },
           "relative_activity": 8.85,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "ABDX.L:2022-08-15",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-16",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.22,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.5,
             "date": "2022-08-16",
             "status": "EXACT"
           },
           "relative_activity": 2.22,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ABDX.L:2022-08-16",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.2,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.75,
             "date": "2022-08-24",
             "status": "EXACT"
           },
           "relative_activity": 1.2,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ABDX.L:2022-08-24",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 1.6,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.5,
             "date": "2022-08-25",
             "status": "EXACT"
           },
           "relative_activity": 1.6,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "ABDX.L:2022-08-25",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-30",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.76,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.25,
             "date": "2022-08-30",
             "status": "EXACT"
           },
           "relative_activity": 1.76,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ABDX.L:2022-08-30",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-11-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.1,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 5.25,
             "date": "2022-11-24",
             "status": "EXACT"
           },
           "relative_activity": 4.1,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-11-24",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-11-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.86,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4.25,
             "date": "2022-11-29",
             "status": "EXACT"
           },
           "relative_activity": 1.86,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ABDX.L:2022-11-29",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-12-16",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.41,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 3.75,
             "date": "2022-12-16",
             "status": "EXACT"
           },
           "relative_activity": 1.41,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ABDX.L:2022-12-16",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -35668,141 +35904,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-741273e5d18e232add078483",
           "headline": "Shareholder open day",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7273T",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-4306abc4f0e975008387307a",
           "headline": "Trading update",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2621O",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-29",
+          "event_id": "rns-fab82335b28953dc98525ac1",
           "headline": "Presentation at Mello2026",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1355G",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-27",
+          "event_id": "rns-77ba72c838902ed9dac5e5a1",
           "headline": "US tax credit agreement",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7375F",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-19",
+          "event_id": "rns-067aa763d4046ca76be15167",
           "headline": "Earn-out Consideration and Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8016E",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-11",
+          "event_id": "rns-34560a3eb4757eac4a1b4d47",
           "headline": "Launch of LVOne Stroke Test by UpFront Diagnostics",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/launch-of-lvone-stroke-test-by-upfront-diagnostics-thlzpppcly6mozz.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6837D",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/launch-of-lvone-stroke-test-by-upfront-diagnostics-thlzpppcly6mozz.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-07",
+          "event_id": "rns-8b7e3f4928df03d0d38f9930",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/holdings-in-company-xuckpum9x8uaiud.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4982D",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/holdings-in-company-xuckpum9x8uaiud.html",
+          "time": "5:38 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-6a63e6baef132d8d42907fa1",
           "headline": "Update on Partnership with 4TEEN4 Pharmaceuticals",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/update-on-partnership-with-4teen4-pharmaceuticals-b5tk1kj8uzbxgkt.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1323D",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/update-on-partnership-with-4teen4-pharmaceuticals-b5tk1kj8uzbxgkt.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-21",
+          "event_id": "rns-92c70814221c63eca0974fec",
           "headline": "Admission to trading on OTCQB in the US",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/admission-to-trading-on-otcqb-in-the-us-a86tisa21wwm8yn.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1913B",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/admission-to-trading-on-otcqb-in-the-us-a86tisa21wwm8yn.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-15",
+          "event_id": "rns-040880f6c0bcbce855220df2",
           "headline": "EMI Share Option Scheme",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/emi-share-option-scheme-xrlt45exlailfts.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4560A",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/emi-share-option-scheme-xrlt45exlailfts.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-14",
+          "event_id": "rns-5f566885308497cb4cb10070",
           "headline": "Trading to commence on the OTCQB in the US",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-to-commence-on-the-otcqb-in-the-us-3w5fscn75thkcgq.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2542A",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-to-commence-on-the-otcqb-in-the-us-3w5fscn75thkcgq.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-30",
+          "event_id": "rns-a8704ccadbe328c6b83fcd85",
           "headline": "\u00a34.8m contracts awarded",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/16348m-contracts-awarded-ddbvaqwemwi5yif.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5354Y",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/16348m-contracts-awarded-ddbvaqwemwi5yif.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-f9ceb6cb6496f22fb83558b3",
           "headline": "Half-year Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-djn7ld3qusp6rez.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8536W",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-djn7ld3qusp6rez.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-f9ceb6cb6496f22fb83558b3",
           "headline": "Half-year Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-ipgceqhvyg2h1p8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8536W",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-ipgceqhvyg2h1p8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-6b6754c86fff695cc3b7698f",
           "headline": "$2.5m Contract for clinical self-test development",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/25m-contract-for-clinical-self-test-development-hxvq3x4n9uufxt6.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3087W",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/25m-contract-for-clinical-self-test-development-hxvq3x4n9uufxt6.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-10",
+          "event_id": "rns-b7ef9bfa32036cff58ca9c11",
           "headline": "Trading on the OTCQB Venture Market in the US",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-on-the-otcqb-venture-market-in-the-us-eyhxhojf6aj8vdd.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9476V",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-on-the-otcqb-venture-market-in-the-us-eyhxhojf6aj8vdd.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-05",
+          "event_id": "rns-c3d8c502d56bc96132692257",
           "headline": "Notice of Results",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/notice-of-results-rgoc4g181i3l40w.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3863V",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/notice-of-results-rgoc4g181i3l40w.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-15",
+          "event_id": "rns-745b7b39cb6a9a9de646bd3c",
           "headline": "Appointment of NOMAD & Corporate Broker",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/appointment-of-nomad-corporate-broker-9ter8v0ty4oo6b9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9528O",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/appointment-of-nomad-corporate-broker-9ter8v0ty4oo6b9.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-15",
+          "event_id": "rns-f0529cf16b0d9212901925ea",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-c3q6zyr8t629fm1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9539O",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-c3q6zyr8t629fm1.html",
+          "time": "7:01 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-29",
+          "event_id": "rns-c51fd15934ea61210a0842df",
           "headline": "Exercise of options and total voting rights",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/exercise-of-options-and-total-voting-rights-80m9yx3goi4rz5c.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0290N",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/exercise-of-options-and-total-voting-rights-80m9yx3goi4rz5c.html",
+          "time": "2:35 pm"
         }
       ],
       "rns_initial": [
@@ -35810,36 +36146,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-741273e5d18e232add078483",
           "headline": "Shareholder open day",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7273T",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-4306abc4f0e975008387307a",
           "headline": "Trading update",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2621O",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-29",
+          "event_id": "rns-fab82335b28953dc98525ac1",
           "headline": "Presentation at Mello2026",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1355G",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-27",
+          "event_id": "rns-77ba72c838902ed9dac5e5a1",
           "headline": "US tax credit agreement",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7375F",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-19",
+          "event_id": "rns-067aa763d4046ca76be15167",
           "headline": "Earn-out Consideration and Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8016E",
+          "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -35887,324 +36248,392 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.21,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 22,
                 "date": "2022-01-10",
                 "status": "EXACT"
               },
               "relative_activity": 2.21,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-01-10",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.94,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 15,
                 "date": "2022-02-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.94,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-02-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-11",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.45,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 13.75,
                 "date": "2022-02-11",
                 "status": "EXACT"
               },
               "relative_activity": 1.45,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-02-11",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.94,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 12.5,
                 "date": "2022-02-14",
                 "status": "EXACT"
               },
               "relative_activity": 1.94,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-02-14",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.09,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 12.5,
                 "date": "2022-02-21",
                 "status": "EXACT"
               },
               "relative_activity": 2.09,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-02-21",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.89,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.5,
                 "date": "2022-03-02",
                 "status": "EXACT"
               },
               "relative_activity": 1.89,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-03-02",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.75,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.739999771118164,
                 "date": "2022-03-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.75,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-03-03",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-08-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.57,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.25,
                 "date": "2022-08-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-08-04",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-08-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 4.37,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 9.25,
                 "date": "2022-08-05",
                 "status": "EXACT"
               },
               "relative_activity": 4.37,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-08-05",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 8.85,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.110000133514404,
                 "date": "2022-08-15",
                 "status": "EXACT"
               },
               "relative_activity": 8.85,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ABDX.L:2022-08-15",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.22,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.5,
                 "date": "2022-08-16",
                 "status": "EXACT"
               },
               "relative_activity": 2.22,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-08-16",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.2,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.75,
                 "date": "2022-08-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.2,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-08-24",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.6,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.5,
                 "date": "2022-08-25",
                 "status": "EXACT"
               },
               "relative_activity": 1.6,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ABDX.L:2022-08-25",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.76,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.25,
                 "date": "2022-08-30",
                 "status": "EXACT"
               },
               "relative_activity": 1.76,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-08-30",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-11-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.1,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 5.25,
                 "date": "2022-11-24",
                 "status": "EXACT"
               },
               "relative_activity": 4.1,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-11-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-11-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.86,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.25,
                 "date": "2022-11-29",
                 "status": "EXACT"
               },
               "relative_activity": 1.86,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ABDX.L:2022-11-29",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.41,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 3.75,
                 "date": "2022-12-16",
                 "status": "EXACT"
               },
               "relative_activity": 1.41,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ABDX.L:2022-12-16",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -59408,141 +59837,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-741273e5d18e232add078483",
               "headline": "Shareholder open day",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7273T",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/shareholder-open-day-281w8wkt94jspwo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-4306abc4f0e975008387307a",
               "headline": "Trading update",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2621O",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-d3djvhhlhr5a1x4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-fab82335b28953dc98525ac1",
               "headline": "Presentation at Mello2026",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1355G",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/presentation-at-mello2026-3ss2mcw89lkibst.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2026",
+              "event_id": "rns-77ba72c838902ed9dac5e5a1",
               "headline": "US tax credit agreement",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7375F",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/us-tax-credit-agreement-373gtmymxyv5df9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2026",
+              "event_id": "rns-067aa763d4046ca76be15167",
               "headline": "Earn-out Consideration and Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8016E",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/earn-out-consideration-and-issue-of-equity-2bor8etgw06gq3t.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th May 2026",
+              "event_id": "rns-34560a3eb4757eac4a1b4d47",
               "headline": "Launch of LVOne Stroke Test by UpFront Diagnostics",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/launch-of-lvone-stroke-test-by-upfront-diagnostics-thlzpppcly6mozz.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6837D",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/launch-of-lvone-stroke-test-by-upfront-diagnostics-thlzpppcly6mozz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2026",
+              "event_id": "rns-8b7e3f4928df03d0d38f9930",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/holdings-in-company-xuckpum9x8uaiud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4982D",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/holdings-in-company-xuckpum9x8uaiud.html",
+              "time": "5:38 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-6a63e6baef132d8d42907fa1",
               "headline": "Update on Partnership with 4TEEN4 Pharmaceuticals",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/update-on-partnership-with-4teen4-pharmaceuticals-b5tk1kj8uzbxgkt.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1323D",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/update-on-partnership-with-4teen4-pharmaceuticals-b5tk1kj8uzbxgkt.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Apr 2026",
+              "event_id": "rns-92c70814221c63eca0974fec",
               "headline": "Admission to trading on OTCQB in the US",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/admission-to-trading-on-otcqb-in-the-us-a86tisa21wwm8yn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1913B",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/admission-to-trading-on-otcqb-in-the-us-a86tisa21wwm8yn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-040880f6c0bcbce855220df2",
               "headline": "EMI Share Option Scheme",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/emi-share-option-scheme-xrlt45exlailfts.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4560A",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/emi-share-option-scheme-xrlt45exlailfts.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-5f566885308497cb4cb10070",
               "headline": "Trading to commence on the OTCQB in the US",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-to-commence-on-the-otcqb-in-the-us-3w5fscn75thkcgq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2542A",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-to-commence-on-the-otcqb-in-the-us-3w5fscn75thkcgq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-a8704ccadbe328c6b83fcd85",
               "headline": "\u00a34.8m contracts awarded",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/16348m-contracts-awarded-ddbvaqwemwi5yif.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5354Y",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/16348m-contracts-awarded-ddbvaqwemwi5yif.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-f9ceb6cb6496f22fb83558b3",
               "headline": "Half-year Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-djn7ld3qusp6rez.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8536W",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-djn7ld3qusp6rez.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-f9ceb6cb6496f22fb83558b3",
               "headline": "Half-year Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-ipgceqhvyg2h1p8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8536W",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/half-year-financial-report-ipgceqhvyg2h1p8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-6b6754c86fff695cc3b7698f",
               "headline": "$2.5m Contract for clinical self-test development",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/25m-contract-for-clinical-self-test-development-hxvq3x4n9uufxt6.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3087W",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/25m-contract-for-clinical-self-test-development-hxvq3x4n9uufxt6.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-b7ef9bfa32036cff58ca9c11",
               "headline": "Trading on the OTCQB Venture Market in the US",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-on-the-otcqb-venture-market-in-the-us-eyhxhojf6aj8vdd.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9476V",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-on-the-otcqb-venture-market-in-the-us-eyhxhojf6aj8vdd.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-c3d8c502d56bc96132692257",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/notice-of-results-rgoc4g181i3l40w.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3863V",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/notice-of-results-rgoc4g181i3l40w.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-745b7b39cb6a9a9de646bd3c",
               "headline": "Appointment of NOMAD & Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/appointment-of-nomad-corporate-broker-9ter8v0ty4oo6b9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9528O",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/appointment-of-nomad-corporate-broker-9ter8v0ty4oo6b9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-f0529cf16b0d9212901925ea",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-c3q6zyr8t629fm1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9539O",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/trading-update-c3q6zyr8t629fm1.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Dec 2025",
+              "event_id": "rns-c51fd15934ea61210a0842df",
               "headline": "Exercise of options and total voting rights",
-              "source_url": "https://www.lse.co.uk/rns/ABDX/exercise-of-options-and-total-voting-rights-80m9yx3goi4rz5c.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0290N",
+              "source_url": "https://www.lse.co.uk/rns/ABDX/exercise-of-options-and-total-voting-rights-80m9yx3goi4rz5c.html",
+              "time": "2:35 pm"
             }
           ],
           "status": "AVAILABLE",

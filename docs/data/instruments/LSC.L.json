@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 12.78,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 34.48990249633789,
                 "date": "2025-09-04",
                 "status": "EXACT"
               },
               "relative_activity": 12.78,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LSC.L:2025-09-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Nov 2025",
+              "event_id": "rns-190bf5941b7483a0b191fa85",
               "headline": "Dividend Declaration",
-              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5155G",
+              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html",
+              "time": "11:39 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Sep 2025",
+              "event_id": "rns-0c4d1130268c2168aa9ac1b5",
               "headline": "Interim results for six months ended 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1728Z",
+              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-1b97f0a8dac62e0e2270c92e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3962O",
+              "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html",
+              "time": "11:53 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th May 2025",
+              "event_id": "rns-2f8923489e075a3703835765",
               "headline": "Final Results for the Year Ended 31 December 2024",
-              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1266I",
+              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html",
+              "time": "2:22 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Oct 2024",
+              "event_id": "rns-752007c25d4e585b44bf70d7",
               "headline": "Dividend Declaration",
-              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5093J",
+              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html",
+              "time": "12:58 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Sep 2024",
+              "event_id": "rns-4f182b8fc5bfa1f3e86a8261",
               "headline": "Interim results for six months ended 30 June 2024",
-              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2024-rpc8bprx07gxuxm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0217E",
+              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2024-rpc8bprx07gxuxm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Aug 2024",
+              "event_id": "rns-e680e80d4085be3e307fdf65",
               "headline": "Change of Nominated Adviser and Broker",
-              "source_url": "https://www.lse.co.uk/rns/LSC/change-of-nominated-adviser-and-broker-ht0bmbfaou4faa9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2093C",
+              "source_url": "https://www.lse.co.uk/rns/LSC/change-of-nominated-adviser-and-broker-ht0bmbfaou4faa9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Aug 2024",
+              "event_id": "rns-677f8f0419456b638a3c0356",
               "headline": "Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/LSC/board-appointment-5ldajgv0wburmuk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0473C",
+              "source_url": "https://www.lse.co.uk/rns/LSC/board-appointment-5ldajgv0wburmuk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2024",
+              "event_id": "rns-f603deed112fc62f62247c46",
               "headline": "Board Change",
-              "source_url": "https://www.lse.co.uk/rns/LSC/board-change-a12pblg2ch9dlkj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4672Y",
+              "source_url": "https://www.lse.co.uk/rns/LSC/board-change-a12pblg2ch9dlkj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th May 2024",
+              "event_id": "rns-f5260fe85d3eb712f7bf83aa",
               "headline": "Publication of 2023 Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2023-annual-report-gp5hxr5565c224k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8964P",
+              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2023-annual-report-gp5hxr5565c224k.html",
+              "time": "2:08 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2024",
+              "event_id": "rns-e10f5a00948820f413161bf4",
               "headline": "Final Results for the Year Ended 31 December 2023",
-              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2023-ms4o6tk6gsgq77z.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5353O",
+              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2023-ms4o6tk6gsgq77z.html",
+              "time": "9:16 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Nov 2023",
+              "event_id": "rns-ea10f370bb0cdfd7c183a53e",
               "headline": "Dividend declaration",
-              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-tliola9p79fx7jh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0876S",
+              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-tliola9p79fx7jh.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2023",
+              "event_id": "rns-06dd794fecb15267531bbd8d",
               "headline": "Interim results for six months ended 30 June 2023",
-              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2023-ewc6kx3jwhy1smv.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2710N",
+              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2023-ewc6kx3jwhy1smv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2023",
+              "event_id": "rns-fa7f3dbc5b17caac9259c6f6",
               "headline": "Cancellation of Treasury Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-g2xiygwbobg82c0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9666J",
+              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-g2xiygwbobg82c0.html",
+              "time": "2:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Aug 2023",
+              "event_id": "rns-621ec27ccc1da61ff4703078",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-fkam0ntcnxx2p70.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0430I",
+              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-fkam0ntcnxx2p70.html",
+              "time": "7:50 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jun 2023",
+              "event_id": "rns-f66f5517e613317749ddf46e",
               "headline": "Jacques-Gaston Murray",
-              "source_url": "https://www.lse.co.uk/rns/LSC/jacques-gaston-murray-o696vi2wjm0fnw6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9975B",
+              "source_url": "https://www.lse.co.uk/rns/LSC/jacques-gaston-murray-o696vi2wjm0fnw6.html",
+              "time": "3:46 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jun 2023",
+              "event_id": "rns-a15bf90e6050462dd07c879b",
               "headline": "Publication of 2022 Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2022-annual-report-4xru0auea4vz7x4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3833B",
+              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2022-annual-report-4xru0auea4vz7x4.html",
+              "time": "2:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th May 2023",
+              "event_id": "rns-9ca77df38e32b9fea274c048",
               "headline": "Cancellation of Treasury Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-28rksg3lnnfj2je.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8736A",
+              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-28rksg3lnnfj2je.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2023",
+              "event_id": "rns-31a054a7b2ee65e1e947d67c",
               "headline": "Final Results for the Year Ended 31 December 2022",
-              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2022-3ry2xdseugbbcf9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0293A",
+              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2022-3ry2xdseugbbcf9.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2023",
+              "event_id": "rns-9b535703d9848b9d735c573c",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-24yu2wc50gbuznz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4093Z",
+              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-24yu2wc50gbuznz.html",
+              "time": "9:22 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-09-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 12.78,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 34.48990249633789,
             "date": "2025-09-04",
             "status": "EXACT"
           },
           "relative_activity": 12.78,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "LSC.L:2025-09-04",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-06",
+          "event_id": "rns-190bf5941b7483a0b191fa85",
           "headline": "Dividend Declaration",
-          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5155G",
+          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html",
+          "time": "11:39 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-15",
+          "event_id": "rns-0c4d1130268c2168aa9ac1b5",
           "headline": "Interim results for six months ended 30 June 2025",
-          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1728Z",
+          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-25",
+          "event_id": "rns-1b97f0a8dac62e0e2270c92e",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3962O",
+          "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html",
+          "time": "11:53 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-09",
+          "event_id": "rns-2f8923489e075a3703835765",
           "headline": "Final Results for the Year Ended 31 December 2024",
-          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1266I",
+          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html",
+          "time": "2:22 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-24",
+          "event_id": "rns-752007c25d4e585b44bf70d7",
           "headline": "Dividend Declaration",
-          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5093J",
+          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html",
+          "time": "12:58 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-13",
+          "event_id": "rns-4f182b8fc5bfa1f3e86a8261",
           "headline": "Interim results for six months ended 30 June 2024",
-          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2024-rpc8bprx07gxuxm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0217E",
+          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2024-rpc8bprx07gxuxm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-08-30",
+          "event_id": "rns-e680e80d4085be3e307fdf65",
           "headline": "Change of Nominated Adviser and Broker",
-          "source_url": "https://www.lse.co.uk/rns/LSC/change-of-nominated-adviser-and-broker-ht0bmbfaou4faa9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2093C",
+          "source_url": "https://www.lse.co.uk/rns/LSC/change-of-nominated-adviser-and-broker-ht0bmbfaou4faa9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-08-29",
+          "event_id": "rns-677f8f0419456b638a3c0356",
           "headline": "Board Appointment",
-          "source_url": "https://www.lse.co.uk/rns/LSC/board-appointment-5ldajgv0wburmuk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0473C",
+          "source_url": "https://www.lse.co.uk/rns/LSC/board-appointment-5ldajgv0wburmuk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-07-31",
+          "event_id": "rns-f603deed112fc62f62247c46",
           "headline": "Board Change",
-          "source_url": "https://www.lse.co.uk/rns/LSC/board-change-a12pblg2ch9dlkj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4672Y",
+          "source_url": "https://www.lse.co.uk/rns/LSC/board-change-a12pblg2ch9dlkj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-05-24",
+          "event_id": "rns-f5260fe85d3eb712f7bf83aa",
           "headline": "Publication of 2023 Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2023-annual-report-gp5hxr5565c224k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8964P",
+          "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2023-annual-report-gp5hxr5565c224k.html",
+          "time": "2:08 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-05-15",
+          "event_id": "rns-e10f5a00948820f413161bf4",
           "headline": "Final Results for the Year Ended 31 December 2023",
-          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2023-ms4o6tk6gsgq77z.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5353O",
+          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2023-ms4o6tk6gsgq77z.html",
+          "time": "9:16 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-11-02",
+          "event_id": "rns-ea10f370bb0cdfd7c183a53e",
           "headline": "Dividend declaration",
-          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-tliola9p79fx7jh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0876S",
+          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-tliola9p79fx7jh.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-09-22",
+          "event_id": "rns-06dd794fecb15267531bbd8d",
           "headline": "Interim results for six months ended 30 June 2023",
-          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2023-ewc6kx3jwhy1smv.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2710N",
+          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2023-ewc6kx3jwhy1smv.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-08-21",
+          "event_id": "rns-fa7f3dbc5b17caac9259c6f6",
           "headline": "Cancellation of Treasury Shares",
-          "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-g2xiygwbobg82c0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9666J",
+          "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-g2xiygwbobg82c0.html",
+          "time": "2:49 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-08-02",
+          "event_id": "rns-621ec27ccc1da61ff4703078",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-fkam0ntcnxx2p70.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0430I",
+          "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-fkam0ntcnxx2p70.html",
+          "time": "7:50 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-06-07",
+          "event_id": "rns-f66f5517e613317749ddf46e",
           "headline": "Jacques-Gaston Murray",
-          "source_url": "https://www.lse.co.uk/rns/LSC/jacques-gaston-murray-o696vi2wjm0fnw6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9975B",
+          "source_url": "https://www.lse.co.uk/rns/LSC/jacques-gaston-murray-o696vi2wjm0fnw6.html",
+          "time": "3:46 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-06-01",
+          "event_id": "rns-a15bf90e6050462dd07c879b",
           "headline": "Publication of 2022 Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2022-annual-report-4xru0auea4vz7x4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3833B",
+          "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2022-annual-report-4xru0auea4vz7x4.html",
+          "time": "2:08 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-05-30",
+          "event_id": "rns-9ca77df38e32b9fea274c048",
           "headline": "Cancellation of Treasury Shares",
-          "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-28rksg3lnnfj2je.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8736A",
+          "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-28rksg3lnnfj2je.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-05-19",
+          "event_id": "rns-31a054a7b2ee65e1e947d67c",
           "headline": "Final Results for the Year Ended 31 December 2022",
-          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2022-3ry2xdseugbbcf9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0293A",
+          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2022-3ry2xdseugbbcf9.html",
+          "time": "9:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-05-15",
+          "event_id": "rns-9b535703d9848b9d735c573c",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-24yu2wc50gbuznz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4093Z",
+          "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-24yu2wc50gbuznz.html",
+          "time": "9:22 am"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-06",
+          "event_id": "rns-190bf5941b7483a0b191fa85",
           "headline": "Dividend Declaration",
-          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5155G",
+          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html",
+          "time": "11:39 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-15",
+          "event_id": "rns-0c4d1130268c2168aa9ac1b5",
           "headline": "Interim results for six months ended 30 June 2025",
-          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1728Z",
+          "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-25",
+          "event_id": "rns-1b97f0a8dac62e0e2270c92e",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3962O",
+          "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html",
+          "time": "11:53 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-09",
+          "event_id": "rns-2f8923489e075a3703835765",
           "headline": "Final Results for the Year Ended 31 December 2024",
-          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1266I",
+          "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html",
+          "time": "2:22 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-24",
+          "event_id": "rns-752007c25d4e585b44bf70d7",
           "headline": "Dividend Declaration",
-          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5093J",
+          "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html",
+          "time": "12:58 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 12.78,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 34.48990249633789,
                 "date": "2025-09-04",
                 "status": "EXACT"
               },
               "relative_activity": 12.78,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LSC.L:2025-09-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Nov 2025",
+              "event_id": "rns-190bf5941b7483a0b191fa85",
               "headline": "Dividend Declaration",
-              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5155G",
+              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-7p2vm786mij0lf3.html",
+              "time": "11:39 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Sep 2025",
+              "event_id": "rns-0c4d1130268c2168aa9ac1b5",
               "headline": "Interim results for six months ended 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1728Z",
+              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2025-nnfn9rxs7k06w6e.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-1b97f0a8dac62e0e2270c92e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3962O",
+              "source_url": "https://www.lse.co.uk/rns/LSC/result-of-agm-b34ivtgk0ndoaxh.html",
+              "time": "11:53 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th May 2025",
+              "event_id": "rns-2f8923489e075a3703835765",
               "headline": "Final Results for the Year Ended 31 December 2024",
-              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1266I",
+              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2024-8a6oobjts8z0jxz.html",
+              "time": "2:22 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Oct 2024",
+              "event_id": "rns-752007c25d4e585b44bf70d7",
               "headline": "Dividend Declaration",
-              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5093J",
+              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-xihrurbqxvry61l.html",
+              "time": "12:58 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Sep 2024",
+              "event_id": "rns-4f182b8fc5bfa1f3e86a8261",
               "headline": "Interim results for six months ended 30 June 2024",
-              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2024-rpc8bprx07gxuxm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0217E",
+              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2024-rpc8bprx07gxuxm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Aug 2024",
+              "event_id": "rns-e680e80d4085be3e307fdf65",
               "headline": "Change of Nominated Adviser and Broker",
-              "source_url": "https://www.lse.co.uk/rns/LSC/change-of-nominated-adviser-and-broker-ht0bmbfaou4faa9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2093C",
+              "source_url": "https://www.lse.co.uk/rns/LSC/change-of-nominated-adviser-and-broker-ht0bmbfaou4faa9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Aug 2024",
+              "event_id": "rns-677f8f0419456b638a3c0356",
               "headline": "Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/LSC/board-appointment-5ldajgv0wburmuk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0473C",
+              "source_url": "https://www.lse.co.uk/rns/LSC/board-appointment-5ldajgv0wburmuk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2024",
+              "event_id": "rns-f603deed112fc62f62247c46",
               "headline": "Board Change",
-              "source_url": "https://www.lse.co.uk/rns/LSC/board-change-a12pblg2ch9dlkj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4672Y",
+              "source_url": "https://www.lse.co.uk/rns/LSC/board-change-a12pblg2ch9dlkj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th May 2024",
+              "event_id": "rns-f5260fe85d3eb712f7bf83aa",
               "headline": "Publication of 2023 Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2023-annual-report-gp5hxr5565c224k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8964P",
+              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2023-annual-report-gp5hxr5565c224k.html",
+              "time": "2:08 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2024",
+              "event_id": "rns-e10f5a00948820f413161bf4",
               "headline": "Final Results for the Year Ended 31 December 2023",
-              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2023-ms4o6tk6gsgq77z.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5353O",
+              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2023-ms4o6tk6gsgq77z.html",
+              "time": "9:16 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Nov 2023",
+              "event_id": "rns-ea10f370bb0cdfd7c183a53e",
               "headline": "Dividend declaration",
-              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-tliola9p79fx7jh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0876S",
+              "source_url": "https://www.lse.co.uk/rns/LSC/dividend-declaration-tliola9p79fx7jh.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2023",
+              "event_id": "rns-06dd794fecb15267531bbd8d",
               "headline": "Interim results for six months ended 30 June 2023",
-              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2023-ewc6kx3jwhy1smv.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2710N",
+              "source_url": "https://www.lse.co.uk/rns/LSC/interim-results-for-six-months-ended-30-june-2023-ewc6kx3jwhy1smv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2023",
+              "event_id": "rns-fa7f3dbc5b17caac9259c6f6",
               "headline": "Cancellation of Treasury Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-g2xiygwbobg82c0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9666J",
+              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-g2xiygwbobg82c0.html",
+              "time": "2:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Aug 2023",
+              "event_id": "rns-621ec27ccc1da61ff4703078",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-fkam0ntcnxx2p70.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0430I",
+              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-fkam0ntcnxx2p70.html",
+              "time": "7:50 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jun 2023",
+              "event_id": "rns-f66f5517e613317749ddf46e",
               "headline": "Jacques-Gaston Murray",
-              "source_url": "https://www.lse.co.uk/rns/LSC/jacques-gaston-murray-o696vi2wjm0fnw6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9975B",
+              "source_url": "https://www.lse.co.uk/rns/LSC/jacques-gaston-murray-o696vi2wjm0fnw6.html",
+              "time": "3:46 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jun 2023",
+              "event_id": "rns-a15bf90e6050462dd07c879b",
               "headline": "Publication of 2022 Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2022-annual-report-4xru0auea4vz7x4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3833B",
+              "source_url": "https://www.lse.co.uk/rns/LSC/publication-of-2022-annual-report-4xru0auea4vz7x4.html",
+              "time": "2:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th May 2023",
+              "event_id": "rns-9ca77df38e32b9fea274c048",
               "headline": "Cancellation of Treasury Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-28rksg3lnnfj2je.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8736A",
+              "source_url": "https://www.lse.co.uk/rns/LSC/cancellation-of-treasury-shares-28rksg3lnnfj2je.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th May 2023",
+              "event_id": "rns-31a054a7b2ee65e1e947d67c",
               "headline": "Final Results for the Year Ended 31 December 2022",
-              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2022-3ry2xdseugbbcf9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0293A",
+              "source_url": "https://www.lse.co.uk/rns/LSC/final-results-for-the-year-ended-31-december-2022-3ry2xdseugbbcf9.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2023",
+              "event_id": "rns-9b535703d9848b9d735c573c",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-24yu2wc50gbuznz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4093Z",
+              "source_url": "https://www.lse.co.uk/rns/LSC/transaction-in-own-shares-24yu2wc50gbuznz.html",
+              "time": "9:22 am"
             }
           ],
           "status": "AVAILABLE",

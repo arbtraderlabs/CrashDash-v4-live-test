@@ -21,96 +21,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.22,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.75,
                 "date": "2025-01-07",
                 "status": "EXACT"
               },
               "relative_activity": 1.22,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-01-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.27,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.75,
                 "date": "2025-01-22",
                 "status": "EXACT"
               },
               "relative_activity": 5.27,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-01-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-01-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.28,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5999999046325684,
                 "date": "2025-01-30",
                 "status": "EXACT"
               },
               "relative_activity": 1.28,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-01-30",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-02-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 6.05,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5999999046325684,
                 "date": "2025-02-05",
                 "status": "EXACT"
               },
               "relative_activity": 6.05,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-02-05",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 6.51,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2025-02-10",
                 "status": "EXACT"
               },
               "relative_activity": 6.51,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "GAL.L:2025-02-10",
               "signal_type": "DEEP CRASH BOTTOM"
             }
@@ -27221,141 +27241,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Sep 2026",
+              "event_id": "rns-d68cd30c9425260a704af460",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7400T",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-689c033e8d8e39a81489a999",
               "headline": "NOTIFICATION OF CHANGE TO SIGNIFICANT SHAREHOLDING",
-              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3532T",
+              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2026",
+              "event_id": "rns-87a004c2ba0a5fb151025854",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1632T",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html",
+              "time": "3:26 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-0c1601fc56453e4c63eadaeb",
               "headline": "Appointment of Chair of the Board",
-              "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9489S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-27c927a9fca6849fef6b474a",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9610S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-86400f3f27475cc28f783162",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-07j335yncyi0bjh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5037S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-07j335yncyi0bjh.html",
+              "time": "6:22 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-cf4a9f16ade1cd519f30d948",
               "headline": "Notification of Significant Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-significant-shareholding-e8hna8yrc7uwh7q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4885S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-significant-shareholding-e8hna8yrc7uwh7q.html",
+              "time": "2:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-2617f5d76b4b0e9d009bc4f5",
               "headline": "RESULTS FOR THE 3 AND 6 MONTHS ENDED JUNE 30, 2026",
-              "source_url": "https://www.lse.co.uk/rns/GAL/results-for-the-3-and-6-months-ended-june-30-2026-ec9ux4pbzzvvjvr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3268S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/results-for-the-3-and-6-months-ended-june-30-2026-ec9ux4pbzzvvjvr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2026",
+              "event_id": "rns-12d2f4c9dc079f176385ac39",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/GAL/notice-of-agm-wagj3zpxzwrbkcc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7567R",
+              "source_url": "https://www.lse.co.uk/rns/GAL/notice-of-agm-wagj3zpxzwrbkcc.html",
+              "time": "5:21 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Aug 2026",
+              "event_id": "rns-a9e446c22e24d6ec15b200df",
               "headline": "Key Permit Approval for Andacollo",
-              "source_url": "https://www.lse.co.uk/rns/GAL/key-permit-approval-for-andacollo-388k7218z23t5ip.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5454R",
+              "source_url": "https://www.lse.co.uk/rns/GAL/key-permit-approval-for-andacollo-388k7218z23t5ip.html",
+              "time": "1:04 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-22ec5833e3e7d39360aa047b",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-7d5oumkgjhkgvc4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0092R",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-7d5oumkgjhkgvc4.html",
+              "time": "3:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-520b4c775bd692d0e8921737",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-bujc1n5cpqo1n22.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4621Q",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-bujc1n5cpqo1n22.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-04f5fc74e73376b42f98a66c",
               "headline": "Contractors Selected for Andacollo Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/GAL/contractors-selected-for-andacollo-gold-project-3nng7hbp3c7ytvv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2703Q",
+              "source_url": "https://www.lse.co.uk/rns/GAL/contractors-selected-for-andacollo-gold-project-3nng7hbp3c7ytvv.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-76dbe830571cce6c4895e986",
               "headline": "Indiana Exploration Update",
-              "source_url": "https://www.lse.co.uk/rns/GAL/indiana-exploration-update-pvswyc9hb0p0wrj.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8567P",
+              "source_url": "https://www.lse.co.uk/rns/GAL/indiana-exploration-update-pvswyc9hb0p0wrj.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-6ae1fb91a92171be62fae76a",
               "headline": "Key Permitting Approvals for Andacollo Secured",
-              "source_url": "https://www.lse.co.uk/rns/GAL/key-permitting-approvals-for-andacollo-secured-wtjgvjs5gghb0h5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4854P",
+              "source_url": "https://www.lse.co.uk/rns/GAL/key-permitting-approvals-for-andacollo-secured-wtjgvjs5gghb0h5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-11367deee2ea9efca23fb1f0",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-23qevetlhzr1w1o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8951O",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-23qevetlhzr1w1o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-540f73e0c3ad256134721d51",
               "headline": "Change of Nominated Adviser",
-              "source_url": "https://www.lse.co.uk/rns/GAL/change-of-nominated-adviser-f1elfiyhxcapeeb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3497M",
+              "source_url": "https://www.lse.co.uk/rns/GAL/change-of-nominated-adviser-f1elfiyhxcapeeb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-2009973992bd30537ded593c",
               "headline": "Amendment to a Dragones Share Purchase Agreement",
-              "source_url": "https://www.lse.co.uk/rns/GAL/amendment-to-a-dragones-share-purchase-agreement-zkuc9g0uvlithhx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6698N",
+              "source_url": "https://www.lse.co.uk/rns/GAL/amendment-to-a-dragones-share-purchase-agreement-zkuc9g0uvlithhx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jul 2026",
+              "event_id": "rns-e5a027aefc9e34ffe8a55f99",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-jineevye7tq5ijh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0953N",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-jineevye7tq5ijh.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-e0558f3cbec2bf6fb119c809",
               "headline": "Agreement to Acquire Crushing Plant for Andacollo",
-              "source_url": "https://www.lse.co.uk/rns/GAL/agreement-to-acquire-crushing-plant-for-andacollo-3ux57vfs8ebxpts.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1173M",
+              "source_url": "https://www.lse.co.uk/rns/GAL/agreement-to-acquire-crushing-plant-for-andacollo-3ux57vfs8ebxpts.html",
+              "time": "11:51 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27444,96 +27564,116 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-01-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.22,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.75,
             "date": "2025-01-07",
             "status": "EXACT"
           },
           "relative_activity": 1.22,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GAL.L:2025-01-07",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-01-22",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.27,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.75,
             "date": "2025-01-22",
             "status": "EXACT"
           },
           "relative_activity": 5.27,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GAL.L:2025-01-22",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2025-01-30",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 1.28,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.5999999046325684,
             "date": "2025-01-30",
             "status": "EXACT"
           },
           "relative_activity": 1.28,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "GAL.L:2025-01-30",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2025-02-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 6.05,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.5999999046325684,
             "date": "2025-02-05",
             "status": "EXACT"
           },
           "relative_activity": 6.05,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "GAL.L:2025-02-05",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-02-10",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 6.51,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.25,
             "date": "2025-02-10",
             "status": "EXACT"
           },
           "relative_activity": 6.51,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "GAL.L:2025-02-10",
           "signal_type": "DEEP CRASH BOTTOM"
         }
@@ -41081,141 +41221,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-07",
+          "event_id": "rns-d68cd30c9425260a704af460",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7400T",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html",
+          "time": "4:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-689c033e8d8e39a81489a999",
           "headline": "NOTIFICATION OF CHANGE TO SIGNIFICANT SHAREHOLDING",
-          "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3532T",
+          "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-02",
+          "event_id": "rns-87a004c2ba0a5fb151025854",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1632T",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html",
+          "time": "3:26 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-0c1601fc56453e4c63eadaeb",
           "headline": "Appointment of Chair of the Board",
-          "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9489S",
+          "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html",
+          "time": "2:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-27c927a9fca6849fef6b474a",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9610S",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html",
+          "time": "3:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-86400f3f27475cc28f783162",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-07j335yncyi0bjh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5037S",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-07j335yncyi0bjh.html",
+          "time": "6:22 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-cf4a9f16ade1cd519f30d948",
           "headline": "Notification of Significant Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-significant-shareholding-e8hna8yrc7uwh7q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4885S",
+          "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-significant-shareholding-e8hna8yrc7uwh7q.html",
+          "time": "2:59 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-2617f5d76b4b0e9d009bc4f5",
           "headline": "RESULTS FOR THE 3 AND 6 MONTHS ENDED JUNE 30, 2026",
-          "source_url": "https://www.lse.co.uk/rns/GAL/results-for-the-3-and-6-months-ended-june-30-2026-ec9ux4pbzzvvjvr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3268S",
+          "source_url": "https://www.lse.co.uk/rns/GAL/results-for-the-3-and-6-months-ended-june-30-2026-ec9ux4pbzzvvjvr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-21",
+          "event_id": "rns-12d2f4c9dc079f176385ac39",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/GAL/notice-of-agm-wagj3zpxzwrbkcc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7567R",
+          "source_url": "https://www.lse.co.uk/rns/GAL/notice-of-agm-wagj3zpxzwrbkcc.html",
+          "time": "5:21 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-20",
+          "event_id": "rns-a9e446c22e24d6ec15b200df",
           "headline": "Key Permit Approval for Andacollo",
-          "source_url": "https://www.lse.co.uk/rns/GAL/key-permit-approval-for-andacollo-388k7218z23t5ip.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5454R",
+          "source_url": "https://www.lse.co.uk/rns/GAL/key-permit-approval-for-andacollo-388k7218z23t5ip.html",
+          "time": "1:04 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-22ec5833e3e7d39360aa047b",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-7d5oumkgjhkgvc4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0092R",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-7d5oumkgjhkgvc4.html",
+          "time": "3:07 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-520b4c775bd692d0e8921737",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-bujc1n5cpqo1n22.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4621Q",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-bujc1n5cpqo1n22.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-04f5fc74e73376b42f98a66c",
           "headline": "Contractors Selected for Andacollo Gold Project",
-          "source_url": "https://www.lse.co.uk/rns/GAL/contractors-selected-for-andacollo-gold-project-3nng7hbp3c7ytvv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2703Q",
+          "source_url": "https://www.lse.co.uk/rns/GAL/contractors-selected-for-andacollo-gold-project-3nng7hbp3c7ytvv.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-76dbe830571cce6c4895e986",
           "headline": "Indiana Exploration Update",
-          "source_url": "https://www.lse.co.uk/rns/GAL/indiana-exploration-update-pvswyc9hb0p0wrj.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8567P",
+          "source_url": "https://www.lse.co.uk/rns/GAL/indiana-exploration-update-pvswyc9hb0p0wrj.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-6ae1fb91a92171be62fae76a",
           "headline": "Key Permitting Approvals for Andacollo Secured",
-          "source_url": "https://www.lse.co.uk/rns/GAL/key-permitting-approvals-for-andacollo-secured-wtjgvjs5gghb0h5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4854P",
+          "source_url": "https://www.lse.co.uk/rns/GAL/key-permitting-approvals-for-andacollo-secured-wtjgvjs5gghb0h5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-11367deee2ea9efca23fb1f0",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-23qevetlhzr1w1o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8951O",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-23qevetlhzr1w1o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-31",
+          "event_id": "rns-540f73e0c3ad256134721d51",
           "headline": "Change of Nominated Adviser",
-          "source_url": "https://www.lse.co.uk/rns/GAL/change-of-nominated-adviser-f1elfiyhxcapeeb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3497M",
+          "source_url": "https://www.lse.co.uk/rns/GAL/change-of-nominated-adviser-f1elfiyhxcapeeb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-2009973992bd30537ded593c",
           "headline": "Amendment to a Dragones Share Purchase Agreement",
-          "source_url": "https://www.lse.co.uk/rns/GAL/amendment-to-a-dragones-share-purchase-agreement-zkuc9g0uvlithhx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6698N",
+          "source_url": "https://www.lse.co.uk/rns/GAL/amendment-to-a-dragones-share-purchase-agreement-zkuc9g0uvlithhx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-21",
+          "event_id": "rns-e5a027aefc9e34ffe8a55f99",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-jineevye7tq5ijh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0953N",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-jineevye7tq5ijh.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-e0558f3cbec2bf6fb119c809",
           "headline": "Agreement to Acquire Crushing Plant for Andacollo",
-          "source_url": "https://www.lse.co.uk/rns/GAL/agreement-to-acquire-crushing-plant-for-andacollo-3ux57vfs8ebxpts.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1173M",
+          "source_url": "https://www.lse.co.uk/rns/GAL/agreement-to-acquire-crushing-plant-for-andacollo-3ux57vfs8ebxpts.html",
+          "time": "11:51 am"
         }
       ],
       "rns_initial": [
@@ -41223,36 +41463,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-07",
+          "event_id": "rns-d68cd30c9425260a704af460",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7400T",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html",
+          "time": "4:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-689c033e8d8e39a81489a999",
           "headline": "NOTIFICATION OF CHANGE TO SIGNIFICANT SHAREHOLDING",
-          "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3532T",
+          "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-02",
+          "event_id": "rns-87a004c2ba0a5fb151025854",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1632T",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html",
+          "time": "3:26 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-0c1601fc56453e4c63eadaeb",
           "headline": "Appointment of Chair of the Board",
-          "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9489S",
+          "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html",
+          "time": "2:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-27c927a9fca6849fef6b474a",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9610S",
+          "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html",
+          "time": "3:30 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41300,96 +41565,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.22,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.75,
                 "date": "2025-01-07",
                 "status": "EXACT"
               },
               "relative_activity": 1.22,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-01-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.27,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.75,
                 "date": "2025-01-22",
                 "status": "EXACT"
               },
               "relative_activity": 5.27,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-01-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-01-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.28,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5999999046325684,
                 "date": "2025-01-30",
                 "status": "EXACT"
               },
               "relative_activity": 1.28,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-01-30",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-02-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 6.05,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5999999046325684,
                 "date": "2025-02-05",
                 "status": "EXACT"
               },
               "relative_activity": 6.05,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "GAL.L:2025-02-05",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 6.51,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2025-02-10",
                 "status": "EXACT"
               },
               "relative_activity": 6.51,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "GAL.L:2025-02-10",
               "signal_type": "DEEP CRASH BOTTOM"
             }
@@ -68500,141 +68785,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Sep 2026",
+              "event_id": "rns-d68cd30c9425260a704af460",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7400T",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-xtls7r6uousyifh.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-689c033e8d8e39a81489a999",
               "headline": "NOTIFICATION OF CHANGE TO SIGNIFICANT SHAREHOLDING",
-              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3532T",
+              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-change-to-significant-shareholding-jdhhxx18y77bext.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2026",
+              "event_id": "rns-87a004c2ba0a5fb151025854",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1632T",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-2uujd2wy1ryvyud.html",
+              "time": "3:26 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-0c1601fc56453e4c63eadaeb",
               "headline": "Appointment of Chair of the Board",
-              "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9489S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/appointment-of-chair-of-the-board-f0scg7e8mj8stth.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-27c927a9fca6849fef6b474a",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9610S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-3fw7i25wiksxbru.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-86400f3f27475cc28f783162",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-07j335yncyi0bjh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5037S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-07j335yncyi0bjh.html",
+              "time": "6:22 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-cf4a9f16ade1cd519f30d948",
               "headline": "Notification of Significant Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-significant-shareholding-e8hna8yrc7uwh7q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4885S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/notification-of-significant-shareholding-e8hna8yrc7uwh7q.html",
+              "time": "2:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-2617f5d76b4b0e9d009bc4f5",
               "headline": "RESULTS FOR THE 3 AND 6 MONTHS ENDED JUNE 30, 2026",
-              "source_url": "https://www.lse.co.uk/rns/GAL/results-for-the-3-and-6-months-ended-june-30-2026-ec9ux4pbzzvvjvr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3268S",
+              "source_url": "https://www.lse.co.uk/rns/GAL/results-for-the-3-and-6-months-ended-june-30-2026-ec9ux4pbzzvvjvr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2026",
+              "event_id": "rns-12d2f4c9dc079f176385ac39",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/GAL/notice-of-agm-wagj3zpxzwrbkcc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7567R",
+              "source_url": "https://www.lse.co.uk/rns/GAL/notice-of-agm-wagj3zpxzwrbkcc.html",
+              "time": "5:21 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Aug 2026",
+              "event_id": "rns-a9e446c22e24d6ec15b200df",
               "headline": "Key Permit Approval for Andacollo",
-              "source_url": "https://www.lse.co.uk/rns/GAL/key-permit-approval-for-andacollo-388k7218z23t5ip.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5454R",
+              "source_url": "https://www.lse.co.uk/rns/GAL/key-permit-approval-for-andacollo-388k7218z23t5ip.html",
+              "time": "1:04 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-22ec5833e3e7d39360aa047b",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-7d5oumkgjhkgvc4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0092R",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-7d5oumkgjhkgvc4.html",
+              "time": "3:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-520b4c775bd692d0e8921737",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-bujc1n5cpqo1n22.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4621Q",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-bujc1n5cpqo1n22.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-04f5fc74e73376b42f98a66c",
               "headline": "Contractors Selected for Andacollo Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/GAL/contractors-selected-for-andacollo-gold-project-3nng7hbp3c7ytvv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2703Q",
+              "source_url": "https://www.lse.co.uk/rns/GAL/contractors-selected-for-andacollo-gold-project-3nng7hbp3c7ytvv.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-76dbe830571cce6c4895e986",
               "headline": "Indiana Exploration Update",
-              "source_url": "https://www.lse.co.uk/rns/GAL/indiana-exploration-update-pvswyc9hb0p0wrj.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8567P",
+              "source_url": "https://www.lse.co.uk/rns/GAL/indiana-exploration-update-pvswyc9hb0p0wrj.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-6ae1fb91a92171be62fae76a",
               "headline": "Key Permitting Approvals for Andacollo Secured",
-              "source_url": "https://www.lse.co.uk/rns/GAL/key-permitting-approvals-for-andacollo-secured-wtjgvjs5gghb0h5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4854P",
+              "source_url": "https://www.lse.co.uk/rns/GAL/key-permitting-approvals-for-andacollo-secured-wtjgvjs5gghb0h5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-11367deee2ea9efca23fb1f0",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-23qevetlhzr1w1o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8951O",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-23qevetlhzr1w1o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-540f73e0c3ad256134721d51",
               "headline": "Change of Nominated Adviser",
-              "source_url": "https://www.lse.co.uk/rns/GAL/change-of-nominated-adviser-f1elfiyhxcapeeb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3497M",
+              "source_url": "https://www.lse.co.uk/rns/GAL/change-of-nominated-adviser-f1elfiyhxcapeeb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-2009973992bd30537ded593c",
               "headline": "Amendment to a Dragones Share Purchase Agreement",
-              "source_url": "https://www.lse.co.uk/rns/GAL/amendment-to-a-dragones-share-purchase-agreement-zkuc9g0uvlithhx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6698N",
+              "source_url": "https://www.lse.co.uk/rns/GAL/amendment-to-a-dragones-share-purchase-agreement-zkuc9g0uvlithhx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jul 2026",
+              "event_id": "rns-e5a027aefc9e34ffe8a55f99",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-jineevye7tq5ijh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0953N",
+              "source_url": "https://www.lse.co.uk/rns/GAL/exercise-of-warrants-jineevye7tq5ijh.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-e0558f3cbec2bf6fb119c809",
               "headline": "Agreement to Acquire Crushing Plant for Andacollo",
-              "source_url": "https://www.lse.co.uk/rns/GAL/agreement-to-acquire-crushing-plant-for-andacollo-3ux57vfs8ebxpts.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1173M",
+              "source_url": "https://www.lse.co.uk/rns/GAL/agreement-to-acquire-crushing-plant-for-andacollo-3ux57vfs8ebxpts.html",
+              "time": "11:51 am"
             }
           ],
           "status": "AVAILABLE",

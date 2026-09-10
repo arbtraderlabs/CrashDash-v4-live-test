@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-10-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.76,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.675000011920929,
                 "date": "2024-10-03",
                 "status": "EXACT"
               },
               "relative_activity": 4.76,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PET.L:2024-10-03",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-10-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.52,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.675000011920929,
                 "date": "2024-10-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.52,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PET.L:2024-10-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-84fcba7d8485ce11235f3a08",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6087N",
+              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html",
+              "time": "11:16 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-65fa120df6b813968c028d83",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8323J",
+              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html",
+              "time": "3:40 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-77f935fad65df565184b5532",
               "headline": "Preliminary Results for the Year Ended 31 Dec 2025",
-              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7329I",
+              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Nov 2025",
+              "event_id": "rns-04ba72486de1041f8025e038",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8765G",
+              "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html",
+              "time": "10:02 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Oct 2025",
+              "event_id": "rns-b1571a2a5716c19ca5c866b2",
               "headline": "Death of David Horgan",
-              "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3422F",
+              "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html",
+              "time": "11:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-6fd0389be4177579050c3e4a",
               "headline": "Unaudited Interim Statement",
-              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-74h4gvkhkv7ge07.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7615Z",
+              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-74h4gvkhkv7ge07.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-804b0a7724197fa5ab6de07f",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-pq9hb0p3vii94w5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2409T",
+              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-pq9hb0p3vii94w5.html",
+              "time": "2:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-1c4acf1b6cd0961c04bb02d1",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-7mwydjkz48m2log.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0520O",
+              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-7mwydjkz48m2log.html",
+              "time": "9:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2025",
+              "event_id": "rns-6bc2793e9654dbfc38a5212a",
               "headline": "Preliminary Results for the Year Ended 31 Dec 2024",
-              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2024-djw691iw7sy4ktt.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6499N",
+              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2024-djw691iw7sy4ktt.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Mar 2025",
+              "event_id": "rns-4cbb906da7b7fefc97fdc40e",
               "headline": "Placing to Raise \u00a3250,000",
-              "source_url": "https://www.lse.co.uk/rns/PET/placing-to-raise-163250000-k9g898ok0y88kwq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5476Z",
+              "source_url": "https://www.lse.co.uk/rns/PET/placing-to-raise-163250000-k9g898ok0y88kwq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Sep 2024",
+              "event_id": "rns-d8e4f986a6d4b5f5ff94438e",
               "headline": "Unaudited Interim Statement",
-              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-bqbj47kszvhpoga.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7548E",
+              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-bqbj47kszvhpoga.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jul 2024",
+              "event_id": "rns-2438743b45d13de613c018dd",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-c6uv6tilkjqikup.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8839X",
+              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-c6uv6tilkjqikup.html",
+              "time": "1:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2024",
+              "event_id": "rns-9683227c34b79fcd7f6fab08",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-16zy1y3fr5tib0w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5943T",
+              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-16zy1y3fr5tib0w.html",
+              "time": "10:45 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2024",
+              "event_id": "rns-eaa13e491651d6e8cec3610f",
               "headline": "Preliminary Results for the Year Ended 31 Dec 2023",
-              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2023-wd3y7f1emr61pvk.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1127T",
+              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2023-wd3y7f1emr61pvk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jan 2024",
+              "event_id": "rns-9387bb48eac11c9b3b3be03b",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-zdj6eymyidsigfd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8032Y",
+              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-zdj6eymyidsigfd.html",
+              "time": "10:24 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jan 2024",
+              "event_id": "rns-6c62e5d6833328a36ea46115",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-bep2yyjl9q47wbg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5294Y",
+              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-bep2yyjl9q47wbg.html",
+              "time": "10:37 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Dec 2023",
+              "event_id": "rns-2d4ed71ac535e58aaf999a07",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-jm55nc92hcqxmfa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6720X",
+              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-jm55nc92hcqxmfa.html",
+              "time": "3:18 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Oct 2023",
+              "event_id": "rns-578ecbc55e426529495f8cd0",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-bdnchebjmk7tcok.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5367Q",
+              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-bdnchebjmk7tcok.html",
+              "time": "9:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Oct 2023",
+              "event_id": "rns-ee570cb8fc02623cdd15e47f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-r4xpbe2gbpyva70.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5368Q",
+              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-r4xpbe2gbpyva70.html",
+              "time": "9:54 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Sep 2023",
+              "event_id": "rns-96149c5a17441a1825541580",
               "headline": "Appointment of Nominated and Financial Adviser",
-              "source_url": "https://www.lse.co.uk/rns/PET/appointment-of-nominated-and-financial-adviser-llesn1qb59ojhfs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9029N",
+              "source_url": "https://www.lse.co.uk/rns/PET/appointment-of-nominated-and-financial-adviser-llesn1qb59ojhfs.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27347,39 +27455,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-10-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.76,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.675000011920929,
             "date": "2024-10-03",
             "status": "EXACT"
           },
           "relative_activity": 4.76,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PET.L:2024-10-03",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-10-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.52,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.675000011920929,
             "date": "2024-10-04",
             "status": "EXACT"
           },
           "relative_activity": 1.52,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PET.L:2024-10-04",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40927,141 +41043,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-84fcba7d8485ce11235f3a08",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6087N",
+          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html",
+          "time": "11:16 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-65fa120df6b813968c028d83",
           "headline": "Posting of Annual Report and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8323J",
+          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html",
+          "time": "3:40 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-18",
+          "event_id": "rns-77f935fad65df565184b5532",
           "headline": "Preliminary Results for the Year Ended 31 Dec 2025",
-          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7329I",
+          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-10",
+          "event_id": "rns-04ba72486de1041f8025e038",
           "headline": "Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8765G",
+          "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html",
+          "time": "10:02 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-29",
+          "event_id": "rns-b1571a2a5716c19ca5c866b2",
           "headline": "Death of David Horgan",
-          "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3422F",
+          "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html",
+          "time": "11:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-18",
+          "event_id": "rns-6fd0389be4177579050c3e4a",
           "headline": "Unaudited Interim Statement",
-          "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-74h4gvkhkv7ge07.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7615Z",
+          "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-74h4gvkhkv7ge07.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-30",
+          "event_id": "rns-804b0a7724197fa5ab6de07f",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-pq9hb0p3vii94w5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2409T",
+          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-pq9hb0p3vii94w5.html",
+          "time": "2:28 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-24",
+          "event_id": "rns-1c4acf1b6cd0961c04bb02d1",
           "headline": "Posting of Annual Report and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-7mwydjkz48m2log.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0520O",
+          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-7mwydjkz48m2log.html",
+          "time": "9:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-20",
+          "event_id": "rns-6bc2793e9654dbfc38a5212a",
           "headline": "Preliminary Results for the Year Ended 31 Dec 2024",
-          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2024-djw691iw7sy4ktt.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6499N",
+          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2024-djw691iw7sy4ktt.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-06",
+          "event_id": "rns-4cbb906da7b7fefc97fdc40e",
           "headline": "Placing to Raise \u00a3250,000",
-          "source_url": "https://www.lse.co.uk/rns/PET/placing-to-raise-163250000-k9g898ok0y88kwq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5476Z",
+          "source_url": "https://www.lse.co.uk/rns/PET/placing-to-raise-163250000-k9g898ok0y88kwq.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-19",
+          "event_id": "rns-d8e4f986a6d4b5f5ff94438e",
           "headline": "Unaudited Interim Statement",
-          "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-bqbj47kszvhpoga.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7548E",
+          "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-bqbj47kszvhpoga.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-07-25",
+          "event_id": "rns-2438743b45d13de613c018dd",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-c6uv6tilkjqikup.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8839X",
+          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-c6uv6tilkjqikup.html",
+          "time": "1:28 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-06-24",
+          "event_id": "rns-9683227c34b79fcd7f6fab08",
           "headline": "Posting of Annual Report and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-16zy1y3fr5tib0w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5943T",
+          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-16zy1y3fr5tib0w.html",
+          "time": "10:45 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-06-20",
+          "event_id": "rns-eaa13e491651d6e8cec3610f",
           "headline": "Preliminary Results for the Year Ended 31 Dec 2023",
-          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2023-wd3y7f1emr61pvk.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1127T",
+          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2023-wd3y7f1emr61pvk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-01-05",
+          "event_id": "rns-9387bb48eac11c9b3b3be03b",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-zdj6eymyidsigfd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8032Y",
+          "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-zdj6eymyidsigfd.html",
+          "time": "10:24 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-01-03",
+          "event_id": "rns-6c62e5d6833328a36ea46115",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-bep2yyjl9q47wbg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5294Y",
+          "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-bep2yyjl9q47wbg.html",
+          "time": "10:37 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-12-21",
+          "event_id": "rns-2d4ed71ac535e58aaf999a07",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-jm55nc92hcqxmfa.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6720X",
+          "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-jm55nc92hcqxmfa.html",
+          "time": "3:18 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-10-18",
+          "event_id": "rns-578ecbc55e426529495f8cd0",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-bdnchebjmk7tcok.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5367Q",
+          "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-bdnchebjmk7tcok.html",
+          "time": "9:55 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-10-18",
+          "event_id": "rns-ee570cb8fc02623cdd15e47f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-r4xpbe2gbpyva70.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5368Q",
+          "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-r4xpbe2gbpyva70.html",
+          "time": "9:54 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-09-28",
+          "event_id": "rns-96149c5a17441a1825541580",
           "headline": "Appointment of Nominated and Financial Adviser",
-          "source_url": "https://www.lse.co.uk/rns/PET/appointment-of-nominated-and-financial-adviser-llesn1qb59ojhfs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9029N",
+          "source_url": "https://www.lse.co.uk/rns/PET/appointment-of-nominated-and-financial-adviser-llesn1qb59ojhfs.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41069,36 +41285,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-84fcba7d8485ce11235f3a08",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6087N",
+          "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html",
+          "time": "11:16 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-65fa120df6b813968c028d83",
           "headline": "Posting of Annual Report and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8323J",
+          "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html",
+          "time": "3:40 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-18",
+          "event_id": "rns-77f935fad65df565184b5532",
           "headline": "Preliminary Results for the Year Ended 31 Dec 2025",
-          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7329I",
+          "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-10",
+          "event_id": "rns-04ba72486de1041f8025e038",
           "headline": "Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8765G",
+          "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html",
+          "time": "10:02 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-29",
+          "event_id": "rns-b1571a2a5716c19ca5c866b2",
           "headline": "Death of David Horgan",
-          "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3422F",
+          "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html",
+          "time": "11:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41146,39 +41387,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-10-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.76,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.675000011920929,
                 "date": "2024-10-03",
                 "status": "EXACT"
               },
               "relative_activity": 4.76,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PET.L:2024-10-03",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-10-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.52,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.675000011920929,
                 "date": "2024-10-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.52,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PET.L:2024-10-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68270,141 +68519,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-84fcba7d8485ce11235f3a08",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6087N",
+              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-5awsxht8r7rq3a0.html",
+              "time": "11:16 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-65fa120df6b813968c028d83",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8323J",
+              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-t9mkk7rbm0ogizx.html",
+              "time": "3:40 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-77f935fad65df565184b5532",
               "headline": "Preliminary Results for the Year Ended 31 Dec 2025",
-              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7329I",
+              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2025-usfmtsxywxgfojy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Nov 2025",
+              "event_id": "rns-04ba72486de1041f8025e038",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8765G",
+              "source_url": "https://www.lse.co.uk/rns/PET/board-changes-nhhsh733igbalxy.html",
+              "time": "10:02 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Oct 2025",
+              "event_id": "rns-b1571a2a5716c19ca5c866b2",
               "headline": "Death of David Horgan",
-              "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3422F",
+              "source_url": "https://www.lse.co.uk/rns/PET/death-of-david-horgan-vwh0fwjcx1xtyjw.html",
+              "time": "11:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-6fd0389be4177579050c3e4a",
               "headline": "Unaudited Interim Statement",
-              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-74h4gvkhkv7ge07.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7615Z",
+              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-74h4gvkhkv7ge07.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-804b0a7724197fa5ab6de07f",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-pq9hb0p3vii94w5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2409T",
+              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-pq9hb0p3vii94w5.html",
+              "time": "2:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-1c4acf1b6cd0961c04bb02d1",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-7mwydjkz48m2log.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0520O",
+              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-7mwydjkz48m2log.html",
+              "time": "9:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2025",
+              "event_id": "rns-6bc2793e9654dbfc38a5212a",
               "headline": "Preliminary Results for the Year Ended 31 Dec 2024",
-              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2024-djw691iw7sy4ktt.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6499N",
+              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2024-djw691iw7sy4ktt.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Mar 2025",
+              "event_id": "rns-4cbb906da7b7fefc97fdc40e",
               "headline": "Placing to Raise \u00a3250,000",
-              "source_url": "https://www.lse.co.uk/rns/PET/placing-to-raise-163250000-k9g898ok0y88kwq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5476Z",
+              "source_url": "https://www.lse.co.uk/rns/PET/placing-to-raise-163250000-k9g898ok0y88kwq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Sep 2024",
+              "event_id": "rns-d8e4f986a6d4b5f5ff94438e",
               "headline": "Unaudited Interim Statement",
-              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-bqbj47kszvhpoga.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7548E",
+              "source_url": "https://www.lse.co.uk/rns/PET/unaudited-interim-statement-bqbj47kszvhpoga.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jul 2024",
+              "event_id": "rns-2438743b45d13de613c018dd",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-c6uv6tilkjqikup.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8839X",
+              "source_url": "https://www.lse.co.uk/rns/PET/result-of-annual-general-meeting-c6uv6tilkjqikup.html",
+              "time": "1:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2024",
+              "event_id": "rns-9683227c34b79fcd7f6fab08",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-16zy1y3fr5tib0w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5943T",
+              "source_url": "https://www.lse.co.uk/rns/PET/posting-of-annual-report-and-notice-of-agm-16zy1y3fr5tib0w.html",
+              "time": "10:45 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2024",
+              "event_id": "rns-eaa13e491651d6e8cec3610f",
               "headline": "Preliminary Results for the Year Ended 31 Dec 2023",
-              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2023-wd3y7f1emr61pvk.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1127T",
+              "source_url": "https://www.lse.co.uk/rns/PET/preliminary-results-for-the-year-ended-31-dec-2023-wd3y7f1emr61pvk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jan 2024",
+              "event_id": "rns-9387bb48eac11c9b3b3be03b",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-zdj6eymyidsigfd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8032Y",
+              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-zdj6eymyidsigfd.html",
+              "time": "10:24 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jan 2024",
+              "event_id": "rns-6c62e5d6833328a36ea46115",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-bep2yyjl9q47wbg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5294Y",
+              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-bep2yyjl9q47wbg.html",
+              "time": "10:37 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Dec 2023",
+              "event_id": "rns-2d4ed71ac535e58aaf999a07",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-jm55nc92hcqxmfa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6720X",
+              "source_url": "https://www.lse.co.uk/rns/PET/exercise-of-warrants-jm55nc92hcqxmfa.html",
+              "time": "3:18 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Oct 2023",
+              "event_id": "rns-578ecbc55e426529495f8cd0",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-bdnchebjmk7tcok.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5367Q",
+              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-bdnchebjmk7tcok.html",
+              "time": "9:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Oct 2023",
+              "event_id": "rns-ee570cb8fc02623cdd15e47f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-r4xpbe2gbpyva70.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5368Q",
+              "source_url": "https://www.lse.co.uk/rns/PET/holdings-in-company-r4xpbe2gbpyva70.html",
+              "time": "9:54 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Sep 2023",
+              "event_id": "rns-96149c5a17441a1825541580",
               "headline": "Appointment of Nominated and Financial Adviser",
-              "source_url": "https://www.lse.co.uk/rns/PET/appointment-of-nominated-and-financial-adviser-llesn1qb59ojhfs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9029N",
+              "source_url": "https://www.lse.co.uk/rns/PET/appointment-of-nominated-and-financial-adviser-llesn1qb59ojhfs.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

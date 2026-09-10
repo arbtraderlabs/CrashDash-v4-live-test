@@ -21,77 +21,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-10-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.5,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02250000089406967,
                 "date": "2025-10-30",
                 "status": "EXACT"
               },
               "relative_activity": 2.5,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-10-30",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-10-31",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.26,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.023000000044703484,
                 "date": "2025-10-31",
                 "status": "EXACT"
               },
               "relative_activity": 4.26,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-10-31",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.69,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.020999999716877937,
                 "date": "2025-11-21",
                 "status": "EXACT"
               },
               "relative_activity": 7.69,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-11-21",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-12-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.62,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.020999999716877937,
                 "date": "2025-12-01",
                 "status": "EXACT"
               },
               "relative_activity": 2.62,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-12-01",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             }
@@ -27167,141 +27183,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Aug 2026",
+              "event_id": "rns-1fd1834b78c5974c0cc3bfdc",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2274Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-b1e15d7f56b2111a31bfe5c9",
               "headline": "Shareholder Update",
-              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4420K",
+              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-72fb483ef22c6bb7791c84a8",
               "headline": "Annual Report and Audited Financial Statements",
-              "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4569C",
+              "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html",
+              "time": "4:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-1d392e69f6c09fb4f90eac1f",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5591V",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-4e3ec33a038ee41383b066a9",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3326M",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html",
+              "time": "1:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2025",
+              "event_id": "rns-5b3cd9c9ebffa403527a91e7",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ALF/result-of-agm-nnoon52jpj77niu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2737L",
+              "source_url": "https://www.lse.co.uk/rns/ALF/result-of-agm-nnoon52jpj77niu.html",
+              "time": "5:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2025",
+              "event_id": "rns-e5ff49245280bbe90f505673",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ALF/notice-of-agm-0jwjrcbitelt54h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6029I",
+              "source_url": "https://www.lse.co.uk/rns/ALF/notice-of-agm-0jwjrcbitelt54h.html",
+              "time": "4:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Oct 2025",
+              "event_id": "rns-1fcc0bf5bb1a4e3df7db017e",
               "headline": "Net Asset Value, Fund Update and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-fund-update-and-factsheet-g0a7jofdnio8obp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7999C",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-fund-update-and-factsheet-g0a7jofdnio8obp.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2025",
+              "event_id": "rns-ee637f1e20c3d1ca999624f8",
               "headline": "Receipt of Funds and Return of Capital",
-              "source_url": "https://www.lse.co.uk/rns/ALF/receipt-of-funds-and-return-of-capital-8e23s0bwa7pedao.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3167A",
+              "source_url": "https://www.lse.co.uk/rns/ALF/receipt-of-funds-and-return-of-capital-8e23s0bwa7pedao.html",
+              "time": "5:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2025",
+              "event_id": "rns-391a2bec51bc26e89b6bc00c",
               "headline": "Shareholder Update",
-              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-21pjhv6geryno6t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5388Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-21pjhv6geryno6t.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2025",
+              "event_id": "rns-3e5c1639e5046c482ed9e526",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-rjw7eyzdsutoxwi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1929Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-rjw7eyzdsutoxwi.html",
+              "time": "11:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2025",
+              "event_id": "rns-8811473d0e17476586d94aab",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-xqgv5isb2z2cxpb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1926Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-xqgv5isb2z2cxpb.html",
+              "time": "11:04 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2025",
+              "event_id": "rns-bc89c1f5f528eba1c8f09c3b",
               "headline": "Portfolio Update",
-              "source_url": "https://www.lse.co.uk/rns/ALF/portfolio-update-cz8hlkbr6g6a435.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6117P",
+              "source_url": "https://www.lse.co.uk/rns/ALF/portfolio-update-cz8hlkbr6g6a435.html",
+              "time": "9:45 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-47882c17f0f5e640198be071",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-8p03kxuot45y5ng.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2282O",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-8p03kxuot45y5ng.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jun 2025",
+              "event_id": "rns-89ffe19443c2408d4deeb1ae",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-qub1a19vds0nkrp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4450N",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-qub1a19vds0nkrp.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2025",
+              "event_id": "rns-44a004a163ee6b306d2af239",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-evbraso481jwpxx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6190L",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-evbraso481jwpxx.html",
+              "time": "10:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2025",
+              "event_id": "rns-42f950528fee7f50d61f1b0d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-kxre3bfu1bcxuok.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6572L",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-kxre3bfu1bcxuok.html",
+              "time": "3:03 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd May 2025",
+              "event_id": "rns-194dcca27884372f500bac85",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-gub9sjftrpe1my2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0408K",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-gub9sjftrpe1my2.html",
+              "time": "3:04 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-c21e86b3c37617eb60ea0d3f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-02q2bnh6i2owvem.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5039I",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-02q2bnh6i2owvem.html",
+              "time": "3:37 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Mar 2025",
+              "event_id": "rns-4f8b642d7b358fce4c09549f",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/ALF/half-year-report-0fpc6oplb6mh3r0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7357B",
+              "source_url": "https://www.lse.co.uk/rns/ALF/half-year-report-0fpc6oplb6mh3r0.html",
+              "time": "4:50 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27370,77 +27486,93 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-10-30",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.5,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.02250000089406967,
             "date": "2025-10-30",
             "status": "EXACT"
           },
           "relative_activity": 2.5,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ALF.L:2025-10-30",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-10-31",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.26,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.023000000044703484,
             "date": "2025-10-31",
             "status": "EXACT"
           },
           "relative_activity": 4.26,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ALF.L:2025-10-31",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-21",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 7.69,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.020999999716877937,
             "date": "2025-11-21",
             "status": "EXACT"
           },
           "relative_activity": 7.69,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ALF.L:2025-11-21",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2025-12-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 2.62,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.020999999716877937,
             "date": "2025-12-01",
             "status": "EXACT"
           },
           "relative_activity": 2.62,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "ALF.L:2025-12-01",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         }
@@ -40980,141 +41112,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-11",
+          "event_id": "rns-1fd1834b78c5974c0cc3bfdc",
           "headline": "Net Asset Value and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2274Q",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html",
+          "time": "1:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-b1e15d7f56b2111a31bfe5c9",
           "headline": "Shareholder Update",
-          "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4420K",
+          "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-72fb483ef22c6bb7791c84a8",
           "headline": "Annual Report and Audited Financial Statements",
-          "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4569C",
+          "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html",
+          "time": "4:32 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-05",
+          "event_id": "rns-1d392e69f6c09fb4f90eac1f",
           "headline": "Net Asset Value and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5591V",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-4e3ec33a038ee41383b066a9",
           "headline": "Net Asset Value and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3326M",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html",
+          "time": "1:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-11",
+          "event_id": "rns-5b3cd9c9ebffa403527a91e7",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ALF/result-of-agm-nnoon52jpj77niu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2737L",
+          "source_url": "https://www.lse.co.uk/rns/ALF/result-of-agm-nnoon52jpj77niu.html",
+          "time": "5:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-21",
+          "event_id": "rns-e5ff49245280bbe90f505673",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ALF/notice-of-agm-0jwjrcbitelt54h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6029I",
+          "source_url": "https://www.lse.co.uk/rns/ALF/notice-of-agm-0jwjrcbitelt54h.html",
+          "time": "4:14 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-09",
+          "event_id": "rns-1fcc0bf5bb1a4e3df7db017e",
           "headline": "Net Asset Value, Fund Update and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-fund-update-and-factsheet-g0a7jofdnio8obp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7999C",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-fund-update-and-factsheet-g0a7jofdnio8obp.html",
+          "time": "4:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-22",
+          "event_id": "rns-ee637f1e20c3d1ca999624f8",
           "headline": "Receipt of Funds and Return of Capital",
-          "source_url": "https://www.lse.co.uk/rns/ALF/receipt-of-funds-and-return-of-capital-8e23s0bwa7pedao.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3167A",
+          "source_url": "https://www.lse.co.uk/rns/ALF/receipt-of-funds-and-return-of-capital-8e23s0bwa7pedao.html",
+          "time": "5:20 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-10",
+          "event_id": "rns-391a2bec51bc26e89b6bc00c",
           "headline": "Shareholder Update",
-          "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-21pjhv6geryno6t.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5388Q",
+          "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-21pjhv6geryno6t.html",
+          "time": "9:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-08",
+          "event_id": "rns-3e5c1639e5046c482ed9e526",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-rjw7eyzdsutoxwi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1929Q",
+          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-rjw7eyzdsutoxwi.html",
+          "time": "11:05 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-08",
+          "event_id": "rns-8811473d0e17476586d94aab",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-xqgv5isb2z2cxpb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1926Q",
+          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-xqgv5isb2z2cxpb.html",
+          "time": "11:04 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-03",
+          "event_id": "rns-bc89c1f5f528eba1c8f09c3b",
           "headline": "Portfolio Update",
-          "source_url": "https://www.lse.co.uk/rns/ALF/portfolio-update-cz8hlkbr6g6a435.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6117P",
+          "source_url": "https://www.lse.co.uk/rns/ALF/portfolio-update-cz8hlkbr6g6a435.html",
+          "time": "9:45 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-24",
+          "event_id": "rns-47882c17f0f5e640198be071",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-8p03kxuot45y5ng.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2282O",
+          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-8p03kxuot45y5ng.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-19",
+          "event_id": "rns-89ffe19443c2408d4deeb1ae",
           "headline": "Net Asset Value and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-qub1a19vds0nkrp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4450N",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-qub1a19vds0nkrp.html",
+          "time": "9:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-05",
+          "event_id": "rns-44a004a163ee6b306d2af239",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-evbraso481jwpxx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6190L",
+          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-evbraso481jwpxx.html",
+          "time": "10:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-05",
+          "event_id": "rns-42f950528fee7f50d61f1b0d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-kxre3bfu1bcxuok.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6572L",
+          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-kxre3bfu1bcxuok.html",
+          "time": "3:03 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-23",
+          "event_id": "rns-194dcca27884372f500bac85",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-gub9sjftrpe1my2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0408K",
+          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-gub9sjftrpe1my2.html",
+          "time": "3:04 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-13",
+          "event_id": "rns-c21e86b3c37617eb60ea0d3f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-02q2bnh6i2owvem.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5039I",
+          "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-02q2bnh6i2owvem.html",
+          "time": "3:37 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-21",
+          "event_id": "rns-4f8b642d7b358fce4c09549f",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/ALF/half-year-report-0fpc6oplb6mh3r0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7357B",
+          "source_url": "https://www.lse.co.uk/rns/ALF/half-year-report-0fpc6oplb6mh3r0.html",
+          "time": "4:50 pm"
         }
       ],
       "rns_initial": [
@@ -41122,36 +41354,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-11",
+          "event_id": "rns-1fd1834b78c5974c0cc3bfdc",
           "headline": "Net Asset Value and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2274Q",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html",
+          "time": "1:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-b1e15d7f56b2111a31bfe5c9",
           "headline": "Shareholder Update",
-          "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4420K",
+          "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-72fb483ef22c6bb7791c84a8",
           "headline": "Annual Report and Audited Financial Statements",
-          "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4569C",
+          "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html",
+          "time": "4:32 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-05",
+          "event_id": "rns-1d392e69f6c09fb4f90eac1f",
           "headline": "Net Asset Value and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5591V",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-4e3ec33a038ee41383b066a9",
           "headline": "Net Asset Value and Factsheet",
-          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3326M",
+          "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html",
+          "time": "1:30 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41199,77 +41456,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-10-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.5,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02250000089406967,
                 "date": "2025-10-30",
                 "status": "EXACT"
               },
               "relative_activity": 2.5,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-10-30",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-10-31",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.26,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.023000000044703484,
                 "date": "2025-10-31",
                 "status": "EXACT"
               },
               "relative_activity": 4.26,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-10-31",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.69,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.020999999716877937,
                 "date": "2025-11-21",
                 "status": "EXACT"
               },
               "relative_activity": 7.69,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-11-21",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-12-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.62,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.020999999716877937,
                 "date": "2025-12-01",
                 "status": "EXACT"
               },
               "relative_activity": 2.62,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ALF.L:2025-12-01",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             }
@@ -68345,141 +68618,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Aug 2026",
+              "event_id": "rns-1fd1834b78c5974c0cc3bfdc",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2274Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-8cj0xmwj6vy0h39.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-b1e15d7f56b2111a31bfe5c9",
               "headline": "Shareholder Update",
-              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4420K",
+              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-x9zyl2mrh2jkxk4.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-72fb483ef22c6bb7791c84a8",
               "headline": "Annual Report and Audited Financial Statements",
-              "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4569C",
+              "source_url": "https://www.lse.co.uk/rns/ALF/annual-report-and-audited-financial-statements-kn3rhmzv0sqd5rt.html",
+              "time": "4:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-1d392e69f6c09fb4f90eac1f",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5591V",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-ozaru5pte74unqt.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-4e3ec33a038ee41383b066a9",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3326M",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-1hbke5obq96jg59.html",
+              "time": "1:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2025",
+              "event_id": "rns-5b3cd9c9ebffa403527a91e7",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ALF/result-of-agm-nnoon52jpj77niu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2737L",
+              "source_url": "https://www.lse.co.uk/rns/ALF/result-of-agm-nnoon52jpj77niu.html",
+              "time": "5:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2025",
+              "event_id": "rns-e5ff49245280bbe90f505673",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ALF/notice-of-agm-0jwjrcbitelt54h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6029I",
+              "source_url": "https://www.lse.co.uk/rns/ALF/notice-of-agm-0jwjrcbitelt54h.html",
+              "time": "4:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Oct 2025",
+              "event_id": "rns-1fcc0bf5bb1a4e3df7db017e",
               "headline": "Net Asset Value, Fund Update and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-fund-update-and-factsheet-g0a7jofdnio8obp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7999C",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-fund-update-and-factsheet-g0a7jofdnio8obp.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2025",
+              "event_id": "rns-ee637f1e20c3d1ca999624f8",
               "headline": "Receipt of Funds and Return of Capital",
-              "source_url": "https://www.lse.co.uk/rns/ALF/receipt-of-funds-and-return-of-capital-8e23s0bwa7pedao.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3167A",
+              "source_url": "https://www.lse.co.uk/rns/ALF/receipt-of-funds-and-return-of-capital-8e23s0bwa7pedao.html",
+              "time": "5:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2025",
+              "event_id": "rns-391a2bec51bc26e89b6bc00c",
               "headline": "Shareholder Update",
-              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-21pjhv6geryno6t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5388Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/shareholder-update-21pjhv6geryno6t.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2025",
+              "event_id": "rns-3e5c1639e5046c482ed9e526",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-rjw7eyzdsutoxwi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1929Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-rjw7eyzdsutoxwi.html",
+              "time": "11:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2025",
+              "event_id": "rns-8811473d0e17476586d94aab",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-xqgv5isb2z2cxpb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1926Q",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-xqgv5isb2z2cxpb.html",
+              "time": "11:04 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2025",
+              "event_id": "rns-bc89c1f5f528eba1c8f09c3b",
               "headline": "Portfolio Update",
-              "source_url": "https://www.lse.co.uk/rns/ALF/portfolio-update-cz8hlkbr6g6a435.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6117P",
+              "source_url": "https://www.lse.co.uk/rns/ALF/portfolio-update-cz8hlkbr6g6a435.html",
+              "time": "9:45 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-47882c17f0f5e640198be071",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-8p03kxuot45y5ng.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2282O",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-8p03kxuot45y5ng.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jun 2025",
+              "event_id": "rns-89ffe19443c2408d4deeb1ae",
               "headline": "Net Asset Value and Factsheet",
-              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-qub1a19vds0nkrp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4450N",
+              "source_url": "https://www.lse.co.uk/rns/ALF/net-asset-value-and-factsheet-qub1a19vds0nkrp.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2025",
+              "event_id": "rns-44a004a163ee6b306d2af239",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-evbraso481jwpxx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6190L",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-evbraso481jwpxx.html",
+              "time": "10:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2025",
+              "event_id": "rns-42f950528fee7f50d61f1b0d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-kxre3bfu1bcxuok.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6572L",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-kxre3bfu1bcxuok.html",
+              "time": "3:03 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd May 2025",
+              "event_id": "rns-194dcca27884372f500bac85",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-gub9sjftrpe1my2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0408K",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-gub9sjftrpe1my2.html",
+              "time": "3:04 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-c21e86b3c37617eb60ea0d3f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-02q2bnh6i2owvem.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5039I",
+              "source_url": "https://www.lse.co.uk/rns/ALF/holdings-in-company-02q2bnh6i2owvem.html",
+              "time": "3:37 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Mar 2025",
+              "event_id": "rns-4f8b642d7b358fce4c09549f",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/ALF/half-year-report-0fpc6oplb6mh3r0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7357B",
+              "source_url": "https://www.lse.co.uk/rns/ALF/half-year-report-0fpc6oplb6mh3r0.html",
+              "time": "4:50 pm"
             }
           ],
           "status": "AVAILABLE",

@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-09-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 10.68,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 63.5,
                 "date": "2021-09-01",
                 "status": "EXACT"
               },
               "relative_activity": 10.68,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TIA.L:2021-09-01",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27136,141 +27140,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-05e00f516df19011d742fa0b",
               "headline": "Strategic Agreement with AI Auxesis",
-              "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9559R",
+              "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-c961d8027d58a420bb814bbe",
               "headline": "Unaudited Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9560R",
+              "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html",
+              "time": "7:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-ba5de82c64e751e28e222cc0",
               "headline": "Appointment of Nominated Adviser and Broker",
-              "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2644K",
+              "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-b1de9f39d54e81f67ee896b5",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2611J",
+              "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html",
+              "time": "2:28 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th May 2026",
+              "event_id": "rns-ccd0d6bc997c58ed8b8d9d1a",
               "headline": "Final Results and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8754D",
+              "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Mar 2026",
+              "event_id": "rns-0c0937a03b0d6417b5eed6bc",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-j07oq0lhrvnwknk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6858X",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-j07oq0lhrvnwknk.html",
+              "time": "8:50 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Mar 2026",
+              "event_id": "rns-d6d0998df4ba39b1c63a1757",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ombmmgqarcr4xw1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1897X",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ombmmgqarcr4xw1.html",
+              "time": "2:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-5d5a8fcf2252e5ad16e81b3b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ebn4t6kiypzu43d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9400W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ebn4t6kiypzu43d.html",
+              "time": "7:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-5d5a8fcf2252e5ad16e81b3b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-jc727l0ekq1cejq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9400W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-jc727l0ekq1cejq.html",
+              "time": "7:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-c4806fa15fec9091cbd1b4c5",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-vtbwbx4ur8kngag.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6491W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-vtbwbx4ur8kngag.html",
+              "time": "4:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-8e0d2f7b29683097e0e5c703",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-72w45epfigtfqvf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1020W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-72w45epfigtfqvf.html",
+              "time": "4:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-8e0d2f7b29683097e0e5c703",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ju9h40177fzvmpu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1020W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ju9h40177fzvmpu.html",
+              "time": "4:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-96b8885060b486f2fd893bc6",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-xikz3p7d89mht8c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1022W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-xikz3p7d89mht8c.html",
+              "time": "4:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-96b8885060b486f2fd893bc6",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-yfffptlgih0akui.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1022W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-yfffptlgih0akui.html",
+              "time": "4:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jan 2026",
+              "event_id": "rns-d8d4697b98a66101da8a5d77",
               "headline": "MXC Distribution, Trading Update and Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/TIA/mxc-distribution-trading-update-and-board-changes-7hh3yy1zldm5ve9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1538R",
+              "source_url": "https://www.lse.co.uk/rns/TIA/mxc-distribution-trading-update-and-board-changes-7hh3yy1zldm5ve9.html",
+              "time": "2:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-e9a0ef9f08f428e067790731",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-dnd2g8bcqw0x2sz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7836Q",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-dnd2g8bcqw0x2sz.html",
+              "time": "3:43 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-a8aa6970530158bed709bca7",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-k5nm7a930g3n882.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7830Q",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-k5nm7a930g3n882.html",
+              "time": "3:40 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Dec 2025",
+              "event_id": "rns-1a574c797da0d8dc3edde058",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-2rkofjkco9mr7xz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7347M",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-2rkofjkco9mr7xz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Dec 2025",
+              "event_id": "rns-304a2eb58f03b6f518d5473a",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-nw27haqrlcrp7sz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7348M",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-nw27haqrlcrp7sz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Dec 2025",
+              "event_id": "rns-0361b857ebd3e929857b6520",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ugqlju8uhg6gygm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7349M",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ugqlju8uhg6gygm.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27348,20 +27452,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-09-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 10.68,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 63.5,
             "date": "2021-09-01",
             "status": "EXACT"
           },
           "relative_activity": 10.68,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TIA.L:2021-09-01",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40909,141 +41017,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-05e00f516df19011d742fa0b",
           "headline": "Strategic Agreement with AI Auxesis",
-          "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9559R",
+          "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-c961d8027d58a420bb814bbe",
           "headline": "Unaudited Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9560R",
+          "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html",
+          "time": "7:01 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-ba5de82c64e751e28e222cc0",
           "headline": "Appointment of Nominated Adviser and Broker",
-          "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2644K",
+          "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-22",
+          "event_id": "rns-b1de9f39d54e81f67ee896b5",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2611J",
+          "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html",
+          "time": "2:28 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-12",
+          "event_id": "rns-ccd0d6bc997c58ed8b8d9d1a",
           "headline": "Final Results and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8754D",
+          "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-23",
+          "event_id": "rns-0c0937a03b0d6417b5eed6bc",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-j07oq0lhrvnwknk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6858X",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-j07oq0lhrvnwknk.html",
+          "time": "8:50 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-18",
+          "event_id": "rns-d6d0998df4ba39b1c63a1757",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ombmmgqarcr4xw1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1897X",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ombmmgqarcr4xw1.html",
+          "time": "2:20 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-5d5a8fcf2252e5ad16e81b3b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ebn4t6kiypzu43d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9400W",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ebn4t6kiypzu43d.html",
+          "time": "7:01 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-5d5a8fcf2252e5ad16e81b3b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-jc727l0ekq1cejq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9400W",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-jc727l0ekq1cejq.html",
+          "time": "7:01 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-13",
+          "event_id": "rns-c4806fa15fec9091cbd1b4c5",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-vtbwbx4ur8kngag.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6491W",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-vtbwbx4ur8kngag.html",
+          "time": "4:32 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-10",
+          "event_id": "rns-8e0d2f7b29683097e0e5c703",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-72w45epfigtfqvf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1020W",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-72w45epfigtfqvf.html",
+          "time": "4:10 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-10",
+          "event_id": "rns-8e0d2f7b29683097e0e5c703",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ju9h40177fzvmpu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1020W",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ju9h40177fzvmpu.html",
+          "time": "4:10 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-10",
+          "event_id": "rns-96b8885060b486f2fd893bc6",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-xikz3p7d89mht8c.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1022W",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-xikz3p7d89mht8c.html",
+          "time": "4:11 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-10",
+          "event_id": "rns-96b8885060b486f2fd893bc6",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-yfffptlgih0akui.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1022W",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-yfffptlgih0akui.html",
+          "time": "4:11 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-30",
+          "event_id": "rns-d8d4697b98a66101da8a5d77",
           "headline": "MXC Distribution, Trading Update and Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/TIA/mxc-distribution-trading-update-and-board-changes-7hh3yy1zldm5ve9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1538R",
+          "source_url": "https://www.lse.co.uk/rns/TIA/mxc-distribution-trading-update-and-board-changes-7hh3yy1zldm5ve9.html",
+          "time": "2:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-28",
+          "event_id": "rns-e9a0ef9f08f428e067790731",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-dnd2g8bcqw0x2sz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7836Q",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-dnd2g8bcqw0x2sz.html",
+          "time": "3:43 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-28",
+          "event_id": "rns-a8aa6970530158bed709bca7",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-k5nm7a930g3n882.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7830Q",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-k5nm7a930g3n882.html",
+          "time": "3:40 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-24",
+          "event_id": "rns-1a574c797da0d8dc3edde058",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-2rkofjkco9mr7xz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7347M",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-2rkofjkco9mr7xz.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-24",
+          "event_id": "rns-304a2eb58f03b6f518d5473a",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-nw27haqrlcrp7sz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7348M",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-nw27haqrlcrp7sz.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-24",
+          "event_id": "rns-0361b857ebd3e929857b6520",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ugqlju8uhg6gygm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7349M",
+          "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ugqlju8uhg6gygm.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41051,36 +41259,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-05e00f516df19011d742fa0b",
           "headline": "Strategic Agreement with AI Auxesis",
-          "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9559R",
+          "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-c961d8027d58a420bb814bbe",
           "headline": "Unaudited Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9560R",
+          "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html",
+          "time": "7:01 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-ba5de82c64e751e28e222cc0",
           "headline": "Appointment of Nominated Adviser and Broker",
-          "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2644K",
+          "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-22",
+          "event_id": "rns-b1de9f39d54e81f67ee896b5",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2611J",
+          "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html",
+          "time": "2:28 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-12",
+          "event_id": "rns-ccd0d6bc997c58ed8b8d9d1a",
           "headline": "Final Results and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8754D",
+          "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41128,20 +41361,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-09-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 10.68,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 63.5,
                 "date": "2021-09-01",
                 "status": "EXACT"
               },
               "relative_activity": 10.68,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TIA.L:2021-09-01",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68243,141 +68480,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-05e00f516df19011d742fa0b",
               "headline": "Strategic Agreement with AI Auxesis",
-              "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9559R",
+              "source_url": "https://www.lse.co.uk/rns/TIA/strategic-agreement-with-ai-auxesis-bc5zlqx13r3vn3r.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-c961d8027d58a420bb814bbe",
               "headline": "Unaudited Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9560R",
+              "source_url": "https://www.lse.co.uk/rns/TIA/unaudited-interim-results-u2rt44n4l7lujld.html",
+              "time": "7:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-ba5de82c64e751e28e222cc0",
               "headline": "Appointment of Nominated Adviser and Broker",
-              "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2644K",
+              "source_url": "https://www.lse.co.uk/rns/TIA/appointment-of-nominated-adviser-and-broker-8zou6h3a1swbkxv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-b1de9f39d54e81f67ee896b5",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2611J",
+              "source_url": "https://www.lse.co.uk/rns/TIA/result-of-annual-general-meeting-euga9w7y700kh4o.html",
+              "time": "2:28 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th May 2026",
+              "event_id": "rns-ccd0d6bc997c58ed8b8d9d1a",
               "headline": "Final Results and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8754D",
+              "source_url": "https://www.lse.co.uk/rns/TIA/final-results-and-notice-of-agm-6fgt4r1hodskp7o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Mar 2026",
+              "event_id": "rns-0c0937a03b0d6417b5eed6bc",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-j07oq0lhrvnwknk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6858X",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-j07oq0lhrvnwknk.html",
+              "time": "8:50 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Mar 2026",
+              "event_id": "rns-d6d0998df4ba39b1c63a1757",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ombmmgqarcr4xw1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1897X",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ombmmgqarcr4xw1.html",
+              "time": "2:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-5d5a8fcf2252e5ad16e81b3b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ebn4t6kiypzu43d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9400W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ebn4t6kiypzu43d.html",
+              "time": "7:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-5d5a8fcf2252e5ad16e81b3b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-jc727l0ekq1cejq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9400W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-jc727l0ekq1cejq.html",
+              "time": "7:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-c4806fa15fec9091cbd1b4c5",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-vtbwbx4ur8kngag.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6491W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-vtbwbx4ur8kngag.html",
+              "time": "4:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-8e0d2f7b29683097e0e5c703",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-72w45epfigtfqvf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1020W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-72w45epfigtfqvf.html",
+              "time": "4:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-8e0d2f7b29683097e0e5c703",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ju9h40177fzvmpu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1020W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ju9h40177fzvmpu.html",
+              "time": "4:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-96b8885060b486f2fd893bc6",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-xikz3p7d89mht8c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1022W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-xikz3p7d89mht8c.html",
+              "time": "4:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-96b8885060b486f2fd893bc6",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-yfffptlgih0akui.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1022W",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-yfffptlgih0akui.html",
+              "time": "4:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jan 2026",
+              "event_id": "rns-d8d4697b98a66101da8a5d77",
               "headline": "MXC Distribution, Trading Update and Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/TIA/mxc-distribution-trading-update-and-board-changes-7hh3yy1zldm5ve9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1538R",
+              "source_url": "https://www.lse.co.uk/rns/TIA/mxc-distribution-trading-update-and-board-changes-7hh3yy1zldm5ve9.html",
+              "time": "2:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-e9a0ef9f08f428e067790731",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-dnd2g8bcqw0x2sz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7836Q",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-dnd2g8bcqw0x2sz.html",
+              "time": "3:43 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-a8aa6970530158bed709bca7",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-k5nm7a930g3n882.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7830Q",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-k5nm7a930g3n882.html",
+              "time": "3:40 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Dec 2025",
+              "event_id": "rns-1a574c797da0d8dc3edde058",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-2rkofjkco9mr7xz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7347M",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-2rkofjkco9mr7xz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Dec 2025",
+              "event_id": "rns-304a2eb58f03b6f518d5473a",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-nw27haqrlcrp7sz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7348M",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-nw27haqrlcrp7sz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Dec 2025",
+              "event_id": "rns-0361b857ebd3e929857b6520",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ugqlju8uhg6gygm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7349M",
+              "source_url": "https://www.lse.co.uk/rns/TIA/holdings-in-company-ugqlju8uhg6gygm.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

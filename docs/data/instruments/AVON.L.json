@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-11-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 14.86,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 926.9729614257812,
                 "date": "2021-11-12",
                 "status": "EXACT"
               },
               "relative_activity": 14.86,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AVON.L:2021-11-12",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-e33f371480d714ab17d010da",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9098T",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html",
+              "time": "4:08 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-ab10a9ba379bfbd5d588fe23",
               "headline": "Notice of Strategy Teach-In event",
-              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1723T",
+              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2026",
+              "event_id": "rns-a530ed6807194ecddbbfd9a5",
               "headline": "$20.3M ACH GEN II DELIVERY ORDER",
-              "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9897S",
+              "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-06e6d3c43d0a8186e0a76ffa",
               "headline": "Interim Dividend Currency Exchange Rate",
-              "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5732Q",
+              "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html",
+              "time": "9:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-8cd8c5d24c641bcc090b9d55",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4825P",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-4996de1f0f1c5ccc07c7be2e",
               "headline": "European NATO Respiratory System Upgrade Order",
-              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respiratory-system-upgrade-order-xwubux19yd1soup.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2719P",
+              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respiratory-system-upgrade-order-xwubux19yd1soup.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-13bc136019a141cf7918736a",
               "headline": "$20.1M ACH GEN II DELIVERY ORDER",
-              "source_url": "https://www.lse.co.uk/rns/AVON/201m-ach-gen-ii-delivery-order-7dq5fn0vrkzjrmv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2647O",
+              "source_url": "https://www.lse.co.uk/rns/AVON/201m-ach-gen-ii-delivery-order-7dq5fn0vrkzjrmv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jul 2026",
+              "event_id": "rns-80c2cb7fa22c90083f802a9c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6xcosph18vh7i3f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3617L",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6xcosph18vh7i3f.html",
+              "time": "1:23 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-365540f80bbdfacbbe7dde7c",
               "headline": "European NATO Respirator Order",
-              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respirator-order-yy6siofyl6dymh8.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0580L",
+              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respirator-order-yy6siofyl6dymh8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-2f03944b3f15f023c65b3163",
               "headline": "NG IHPS Delivery Orders",
-              "source_url": "https://www.lse.co.uk/rns/AVON/ng-ihps-delivery-orders-nyafj1hja1l0oeb.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9332J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/ng-ihps-delivery-orders-nyafj1hja1l0oeb.html",
+              "time": "7:06 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-be2c6d4474a6d56b5e7a5043",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-rpsr156gsrljzzh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8335J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-rpsr156gsrljzzh.html",
+              "time": "3:53 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-7e0654b8b43dab40b68bea24",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-zd0su2lcnm9w88x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2886J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-zd0su2lcnm9w88x.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-faa833c0f36a9d60367a7189",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-vqp6rrmolbvaisk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2687J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-vqp6rrmolbvaisk.html",
+              "time": "3:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-220d196967aa50abeb34d2b0",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-2euiaugoy3hdhlx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4390H",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-2euiaugoy3hdhlx.html",
+              "time": "1:37 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2026",
+              "event_id": "rns-67fad9557fe218042f6bc86a",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/AVON/interim-results-shny6vmzzyfzhov.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0491E",
+              "source_url": "https://www.lse.co.uk/rns/AVON/interim-results-shny6vmzzyfzhov.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-2ededb6cc809f3e33b20e079",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-euu8sprf0357qx7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5081D",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-euu8sprf0357qx7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-039ef1201086d33c73ec89e5",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-3ps1c7ymztz34py.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2806D",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-3ps1c7ymztz34py.html",
+              "time": "2:03 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-176d4965fc3e7a7f936a9b11",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-snmh8i0oa2lx6tm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1105C",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-snmh8i0oa2lx6tm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-9d11089bdffa0e5e043239d2",
               "headline": "Notice of Results and Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-results-and-investor-presentation-4dudkot99wkys54.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2466A",
+              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-results-and-investor-presentation-4dudkot99wkys54.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2026",
+              "event_id": "rns-6a1b2d4d9c78d537f92f0777",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-xvb8j8fwagcmdxv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6699Z",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-xvb8j8fwagcmdxv.html",
+              "time": "11:47 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-11-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 14.86,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 926.9729614257812,
             "date": "2021-11-12",
             "status": "EXACT"
           },
           "relative_activity": 14.86,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AVON.L:2021-11-12",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-e33f371480d714ab17d010da",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9098T",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html",
+          "time": "4:08 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-ab10a9ba379bfbd5d588fe23",
           "headline": "Notice of Strategy Teach-In event",
-          "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1723T",
+          "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-02",
+          "event_id": "rns-a530ed6807194ecddbbfd9a5",
           "headline": "$20.3M ACH GEN II DELIVERY ORDER",
-          "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9897S",
+          "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-06e6d3c43d0a8186e0a76ffa",
           "headline": "Interim Dividend Currency Exchange Rate",
-          "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5732Q",
+          "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html",
+          "time": "9:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-8cd8c5d24c641bcc090b9d55",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4825P",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-4996de1f0f1c5ccc07c7be2e",
           "headline": "European NATO Respiratory System Upgrade Order",
-          "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respiratory-system-upgrade-order-xwubux19yd1soup.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2719P",
+          "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respiratory-system-upgrade-order-xwubux19yd1soup.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-13bc136019a141cf7918736a",
           "headline": "$20.1M ACH GEN II DELIVERY ORDER",
-          "source_url": "https://www.lse.co.uk/rns/AVON/201m-ach-gen-ii-delivery-order-7dq5fn0vrkzjrmv.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2647O",
+          "source_url": "https://www.lse.co.uk/rns/AVON/201m-ach-gen-ii-delivery-order-7dq5fn0vrkzjrmv.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-07",
+          "event_id": "rns-80c2cb7fa22c90083f802a9c",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6xcosph18vh7i3f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3617L",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6xcosph18vh7i3f.html",
+          "time": "1:23 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-06",
+          "event_id": "rns-365540f80bbdfacbbe7dde7c",
           "headline": "European NATO Respirator Order",
-          "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respirator-order-yy6siofyl6dymh8.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0580L",
+          "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respirator-order-yy6siofyl6dymh8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-26",
+          "event_id": "rns-2f03944b3f15f023c65b3163",
           "headline": "NG IHPS Delivery Orders",
-          "source_url": "https://www.lse.co.uk/rns/AVON/ng-ihps-delivery-orders-nyafj1hja1l0oeb.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9332J",
+          "source_url": "https://www.lse.co.uk/rns/AVON/ng-ihps-delivery-orders-nyafj1hja1l0oeb.html",
+          "time": "7:06 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-be2c6d4474a6d56b5e7a5043",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-rpsr156gsrljzzh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8335J",
+          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-rpsr156gsrljzzh.html",
+          "time": "3:53 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-23",
+          "event_id": "rns-7e0654b8b43dab40b68bea24",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-zd0su2lcnm9w88x.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2886J",
+          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-zd0su2lcnm9w88x.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-22",
+          "event_id": "rns-faa833c0f36a9d60367a7189",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-vqp6rrmolbvaisk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2687J",
+          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-vqp6rrmolbvaisk.html",
+          "time": "3:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-08",
+          "event_id": "rns-220d196967aa50abeb34d2b0",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-2euiaugoy3hdhlx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4390H",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-2euiaugoy3hdhlx.html",
+          "time": "1:37 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-13",
+          "event_id": "rns-67fad9557fe218042f6bc86a",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/AVON/interim-results-shny6vmzzyfzhov.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0491E",
+          "source_url": "https://www.lse.co.uk/rns/AVON/interim-results-shny6vmzzyfzhov.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-08",
+          "event_id": "rns-2ededb6cc809f3e33b20e079",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-euu8sprf0357qx7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5081D",
+          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-euu8sprf0357qx7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-039ef1201086d33c73ec89e5",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-3ps1c7ymztz34py.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2806D",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-3ps1c7ymztz34py.html",
+          "time": "2:03 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-176d4965fc3e7a7f936a9b11",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-snmh8i0oa2lx6tm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1105C",
+          "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-snmh8i0oa2lx6tm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-14",
+          "event_id": "rns-9d11089bdffa0e5e043239d2",
           "headline": "Notice of Results and Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-results-and-investor-presentation-4dudkot99wkys54.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2466A",
+          "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-results-and-investor-presentation-4dudkot99wkys54.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-08",
+          "event_id": "rns-6a1b2d4d9c78d537f92f0777",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-xvb8j8fwagcmdxv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6699Z",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-xvb8j8fwagcmdxv.html",
+          "time": "11:47 am"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-e33f371480d714ab17d010da",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9098T",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html",
+          "time": "4:08 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-ab10a9ba379bfbd5d588fe23",
           "headline": "Notice of Strategy Teach-In event",
-          "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1723T",
+          "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-02",
+          "event_id": "rns-a530ed6807194ecddbbfd9a5",
           "headline": "$20.3M ACH GEN II DELIVERY ORDER",
-          "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9897S",
+          "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-06e6d3c43d0a8186e0a76ffa",
           "headline": "Interim Dividend Currency Exchange Rate",
-          "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5732Q",
+          "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html",
+          "time": "9:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-8cd8c5d24c641bcc090b9d55",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4825P",
+          "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-11-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 14.86,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 926.9729614257812,
                 "date": "2021-11-12",
                 "status": "EXACT"
               },
               "relative_activity": 14.86,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AVON.L:2021-11-12",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-e33f371480d714ab17d010da",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9098T",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6m4pajc1ir62sph.html",
+              "time": "4:08 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-ab10a9ba379bfbd5d588fe23",
               "headline": "Notice of Strategy Teach-In event",
-              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1723T",
+              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-strategy-teach-in-event-jd2adef2nouv4v3.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2026",
+              "event_id": "rns-a530ed6807194ecddbbfd9a5",
               "headline": "$20.3M ACH GEN II DELIVERY ORDER",
-              "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9897S",
+              "source_url": "https://www.lse.co.uk/rns/AVON/203m-ach-gen-ii-delivery-order-gvtdhcv162t0ppu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-06e6d3c43d0a8186e0a76ffa",
               "headline": "Interim Dividend Currency Exchange Rate",
-              "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5732Q",
+              "source_url": "https://www.lse.co.uk/rns/AVON/interim-dividend-currency-exchange-rate-4rqb50m0lfj6u72.html",
+              "time": "9:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-8cd8c5d24c641bcc090b9d55",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4825P",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6dessjtg2dg8izb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-4996de1f0f1c5ccc07c7be2e",
               "headline": "European NATO Respiratory System Upgrade Order",
-              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respiratory-system-upgrade-order-xwubux19yd1soup.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2719P",
+              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respiratory-system-upgrade-order-xwubux19yd1soup.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-13bc136019a141cf7918736a",
               "headline": "$20.1M ACH GEN II DELIVERY ORDER",
-              "source_url": "https://www.lse.co.uk/rns/AVON/201m-ach-gen-ii-delivery-order-7dq5fn0vrkzjrmv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2647O",
+              "source_url": "https://www.lse.co.uk/rns/AVON/201m-ach-gen-ii-delivery-order-7dq5fn0vrkzjrmv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jul 2026",
+              "event_id": "rns-80c2cb7fa22c90083f802a9c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6xcosph18vh7i3f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3617L",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-6xcosph18vh7i3f.html",
+              "time": "1:23 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-365540f80bbdfacbbe7dde7c",
               "headline": "European NATO Respirator Order",
-              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respirator-order-yy6siofyl6dymh8.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0580L",
+              "source_url": "https://www.lse.co.uk/rns/AVON/european-nato-respirator-order-yy6siofyl6dymh8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-2f03944b3f15f023c65b3163",
               "headline": "NG IHPS Delivery Orders",
-              "source_url": "https://www.lse.co.uk/rns/AVON/ng-ihps-delivery-orders-nyafj1hja1l0oeb.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9332J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/ng-ihps-delivery-orders-nyafj1hja1l0oeb.html",
+              "time": "7:06 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-be2c6d4474a6d56b5e7a5043",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-rpsr156gsrljzzh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8335J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-rpsr156gsrljzzh.html",
+              "time": "3:53 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-7e0654b8b43dab40b68bea24",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-zd0su2lcnm9w88x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2886J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-zd0su2lcnm9w88x.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-faa833c0f36a9d60367a7189",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-vqp6rrmolbvaisk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2687J",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-vqp6rrmolbvaisk.html",
+              "time": "3:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-220d196967aa50abeb34d2b0",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-2euiaugoy3hdhlx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4390H",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-2euiaugoy3hdhlx.html",
+              "time": "1:37 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2026",
+              "event_id": "rns-67fad9557fe218042f6bc86a",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/AVON/interim-results-shny6vmzzyfzhov.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0491E",
+              "source_url": "https://www.lse.co.uk/rns/AVON/interim-results-shny6vmzzyfzhov.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-2ededb6cc809f3e33b20e079",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-euu8sprf0357qx7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5081D",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-euu8sprf0357qx7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-039ef1201086d33c73ec89e5",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-3ps1c7ymztz34py.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2806D",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-3ps1c7ymztz34py.html",
+              "time": "2:03 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-176d4965fc3e7a7f936a9b11",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-snmh8i0oa2lx6tm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1105C",
+              "source_url": "https://www.lse.co.uk/rns/AVON/holdings-in-company-snmh8i0oa2lx6tm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-9d11089bdffa0e5e043239d2",
               "headline": "Notice of Results and Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-results-and-investor-presentation-4dudkot99wkys54.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2466A",
+              "source_url": "https://www.lse.co.uk/rns/AVON/notice-of-results-and-investor-presentation-4dudkot99wkys54.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2026",
+              "event_id": "rns-6a1b2d4d9c78d537f92f0777",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-xvb8j8fwagcmdxv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6699Z",
+              "source_url": "https://www.lse.co.uk/rns/AVON/directorpdmr-shareholding-xvb8j8fwagcmdxv.html",
+              "time": "11:47 am"
             }
           ],
           "status": "AVAILABLE",

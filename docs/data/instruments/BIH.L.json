@@ -21,77 +21,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-10-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.0,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2021-10-15",
                 "status": "EXACT"
               },
               "relative_activity": 2.0,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2021-10-15",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-12-20",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.84,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.350000023841858,
                 "date": "2021-12-20",
                 "status": "EXACT"
               },
               "relative_activity": 3.84,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2021-12-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 16.24,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.0499999523162842,
                 "date": "2022-03-24",
                 "status": "EXACT"
               },
               "relative_activity": 16.24,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2022-03-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 10.84,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.0499999523162842,
                 "date": "2022-03-25",
                 "status": "EXACT"
               },
               "relative_activity": 10.84,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2022-03-25",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27151,141 +27167,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2026",
+              "event_id": "rns-a966252dd9456877867b7186",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9564L",
+              "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html",
+              "time": "4:25 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-73130fcd70fc0a64f0014a22",
               "headline": "Temporary Suspension",
-              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6745C",
+              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Mar 2026",
+              "event_id": "rns-b4026c56cd3dd58cd72a4539",
               "headline": "CLNs - extention and variation",
-              "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1328Y",
+              "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html",
+              "time": "2:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Mar 2026",
+              "event_id": "rns-04790e5a0f5bad64c2b8c6a9",
               "headline": "Update on Funding Arrangements and CLNs",
-              "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7396V",
+              "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html",
+              "time": "4:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Dec 2025",
+              "event_id": "rns-7afc2df6931d255fdc03d096",
               "headline": "Company Update",
-              "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6823J",
+              "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html",
+              "time": "10:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-033176dba23e7463b95a797c",
               "headline": "Unaudited Half-year Report to 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/BIH/unaudited-half-year-report-to-30-june-2025-jy80wve60gctx8w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3025B",
+              "source_url": "https://www.lse.co.uk/rns/BIH/unaudited-half-year-report-to-30-june-2025-jy80wve60gctx8w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2025",
+              "event_id": "rns-b2961f4221060bbf299bb6a6",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-v99n7fhtqua7r6g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6086Q",
+              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-v99n7fhtqua7r6g.html",
+              "time": "2:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-6e8dc1d2455c23ecc15f8e44",
               "headline": "Restoration of Listing",
-              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-of-listing-6ti5o4b121kvly5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4234O",
+              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-of-listing-6ti5o4b121kvly5.html",
+              "time": "3:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2025",
+              "event_id": "rns-9ec91b9073db8cf3b6242044",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BIH/notice-of-agm-7tkhwldjqupnlcq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2696N",
+              "source_url": "https://www.lse.co.uk/rns/BIH/notice-of-agm-7tkhwldjqupnlcq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jun 2025",
+              "event_id": "rns-54a127504204986eae429d95",
               "headline": "Annual Financial Report and Suspension Update",
-              "source_url": "https://www.lse.co.uk/rns/BIH/annual-financial-report-and-suspension-update-lphqi301kx8tfeo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8546L",
+              "source_url": "https://www.lse.co.uk/rns/BIH/annual-financial-report-and-suspension-update-lphqi301kx8tfeo.html",
+              "time": "1:40 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2025",
+              "event_id": "rns-c9a2b5bb4a39d2b109c8f99f",
               "headline": "Temporary Suspension",
-              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5of5d4v4v7tepcf.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0218H",
+              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5of5d4v4v7tepcf.html",
+              "time": "8:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Apr 2025",
+              "event_id": "rns-bf5983ae3918bdffce7486b6",
               "headline": "Appointment of New Director",
-              "source_url": "https://www.lse.co.uk/rns/BIH/appointment-of-new-director-2hq740b1deo0tpi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3064E",
+              "source_url": "https://www.lse.co.uk/rns/BIH/appointment-of-new-director-2hq740b1deo0tpi.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2025",
+              "event_id": "rns-a4d49a6d0c9a999f213d11e3",
               "headline": "Loan Facility Agreement",
-              "source_url": "https://www.lse.co.uk/rns/BIH/loan-facility-agreement-f1eifz3j5se4ohj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8992A",
+              "source_url": "https://www.lse.co.uk/rns/BIH/loan-facility-agreement-f1eifz3j5se4ohj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2025",
+              "event_id": "rns-32cd15ac75dacc44dae527c1",
               "headline": "Board Change",
-              "source_url": "https://www.lse.co.uk/rns/BIH/board-change-tmewrnojxg92yk1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8303V",
+              "source_url": "https://www.lse.co.uk/rns/BIH/board-change-tmewrnojxg92yk1.html",
+              "time": "8:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2025",
+              "event_id": "rns-c97bb0d9dcc6a1cc01eea948",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-s3c2fizqagbb9xv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8304V",
+              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-s3c2fizqagbb9xv.html",
+              "time": "8:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2025",
+              "event_id": "rns-c3dc4a6517daa1660937e933",
               "headline": "Restoration - Boston International Holdings Plc",
-              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-boston-international-holdings-plc-bxtzb0cdgbhrdb6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1750U",
+              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-boston-international-holdings-plc-bxtzb0cdgbhrdb6.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jan 2025",
+              "event_id": "rns-5a25745dfd90c2467081cf27",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/BIH/half-year-report-vyudpt22ml9ty97.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9474S",
+              "source_url": "https://www.lse.co.uk/rns/BIH/half-year-report-vyudpt22ml9ty97.html",
+              "time": "12:45 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2024",
+              "event_id": "rns-e4878eab5ec35e02e771b428",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-pz5fhzvc35nrksq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7992Q",
+              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-pz5fhzvc35nrksq.html",
+              "time": "12:43 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2024",
+              "event_id": "rns-55016a68c43cb88a508a8b25",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-y5deo9i58getpi8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8902P",
+              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-y5deo9i58getpi8.html",
+              "time": "11:08 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Dec 2024",
+              "event_id": "rns-1971622c8b56749f17dbee60",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-70mni2prywzl8ey.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9735O",
+              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-70mni2prywzl8ey.html",
+              "time": "9:45 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27353,77 +27469,93 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-10-15",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.0,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.2999999523162842,
             "date": "2021-10-15",
             "status": "EXACT"
           },
           "relative_activity": 2.0,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "BIH.L:2021-10-15",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-12-20",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.84,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.350000023841858,
             "date": "2021-12-20",
             "status": "EXACT"
           },
           "relative_activity": 3.84,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "BIH.L:2021-12-20",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-03-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 16.24,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.0499999523162842,
             "date": "2022-03-24",
             "status": "EXACT"
           },
           "relative_activity": 16.24,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "BIH.L:2022-03-24",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-03-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 10.84,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.0499999523162842,
             "date": "2022-03-25",
             "status": "EXACT"
           },
           "relative_activity": 10.84,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "BIH.L:2022-03-25",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40955,141 +41087,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-10",
+          "event_id": "rns-a966252dd9456877867b7186",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9564L",
+          "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html",
+          "time": "4:25 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-73130fcd70fc0a64f0014a22",
           "headline": "Temporary Suspension",
-          "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6745C",
+          "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-25",
+          "event_id": "rns-b4026c56cd3dd58cd72a4539",
           "headline": "CLNs - extention and variation",
-          "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1328Y",
+          "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html",
+          "time": "2:31 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-06",
+          "event_id": "rns-04790e5a0f5bad64c2b8c6a9",
           "headline": "Update on Funding Arrangements and CLNs",
-          "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7396V",
+          "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html",
+          "time": "4:50 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-01",
+          "event_id": "rns-7afc2df6931d255fdc03d096",
           "headline": "Company Update",
-          "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6823J",
+          "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html",
+          "time": "10:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-30",
+          "event_id": "rns-033176dba23e7463b95a797c",
           "headline": "Unaudited Half-year Report to 30 June 2025",
-          "source_url": "https://www.lse.co.uk/rns/BIH/unaudited-half-year-report-to-30-june-2025-jy80wve60gctx8w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3025B",
+          "source_url": "https://www.lse.co.uk/rns/BIH/unaudited-half-year-report-to-30-june-2025-jy80wve60gctx8w.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-10",
+          "event_id": "rns-b2961f4221060bbf299bb6a6",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-v99n7fhtqua7r6g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6086Q",
+          "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-v99n7fhtqua7r6g.html",
+          "time": "2:35 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-25",
+          "event_id": "rns-6e8dc1d2455c23ecc15f8e44",
           "headline": "Restoration of Listing",
-          "source_url": "https://www.lse.co.uk/rns/BIH/restoration-of-listing-6ti5o4b121kvly5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4234O",
+          "source_url": "https://www.lse.co.uk/rns/BIH/restoration-of-listing-6ti5o4b121kvly5.html",
+          "time": "3:08 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-18",
+          "event_id": "rns-9ec91b9073db8cf3b6242044",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/BIH/notice-of-agm-7tkhwldjqupnlcq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2696N",
+          "source_url": "https://www.lse.co.uk/rns/BIH/notice-of-agm-7tkhwldjqupnlcq.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-06",
+          "event_id": "rns-54a127504204986eae429d95",
           "headline": "Annual Financial Report and Suspension Update",
-          "source_url": "https://www.lse.co.uk/rns/BIH/annual-financial-report-and-suspension-update-lphqi301kx8tfeo.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8546L",
+          "source_url": "https://www.lse.co.uk/rns/BIH/annual-financial-report-and-suspension-update-lphqi301kx8tfeo.html",
+          "time": "1:40 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-01",
+          "event_id": "rns-c9a2b5bb4a39d2b109c8f99f",
           "headline": "Temporary Suspension",
-          "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5of5d4v4v7tepcf.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0218H",
+          "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5of5d4v4v7tepcf.html",
+          "time": "8:32 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-09",
+          "event_id": "rns-bf5983ae3918bdffce7486b6",
           "headline": "Appointment of New Director",
-          "source_url": "https://www.lse.co.uk/rns/BIH/appointment-of-new-director-2hq740b1deo0tpi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3064E",
+          "source_url": "https://www.lse.co.uk/rns/BIH/appointment-of-new-director-2hq740b1deo0tpi.html",
+          "time": "9:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-17",
+          "event_id": "rns-a4d49a6d0c9a999f213d11e3",
           "headline": "Loan Facility Agreement",
-          "source_url": "https://www.lse.co.uk/rns/BIH/loan-facility-agreement-f1eifz3j5se4ohj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8992A",
+          "source_url": "https://www.lse.co.uk/rns/BIH/loan-facility-agreement-f1eifz3j5se4ohj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-04",
+          "event_id": "rns-32cd15ac75dacc44dae527c1",
           "headline": "Board Change",
-          "source_url": "https://www.lse.co.uk/rns/BIH/board-change-tmewrnojxg92yk1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8303V",
+          "source_url": "https://www.lse.co.uk/rns/BIH/board-change-tmewrnojxg92yk1.html",
+          "time": "8:45 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-04",
+          "event_id": "rns-c97bb0d9dcc6a1cc01eea948",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-s3c2fizqagbb9xv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8304V",
+          "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-s3c2fizqagbb9xv.html",
+          "time": "8:55 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-01-22",
+          "event_id": "rns-c3dc4a6517daa1660937e933",
           "headline": "Restoration - Boston International Holdings Plc",
-          "source_url": "https://www.lse.co.uk/rns/BIH/restoration-boston-international-holdings-plc-bxtzb0cdgbhrdb6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1750U",
+          "source_url": "https://www.lse.co.uk/rns/BIH/restoration-boston-international-holdings-plc-bxtzb0cdgbhrdb6.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-01-10",
+          "event_id": "rns-5a25745dfd90c2467081cf27",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/BIH/half-year-report-vyudpt22ml9ty97.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9474S",
+          "source_url": "https://www.lse.co.uk/rns/BIH/half-year-report-vyudpt22ml9ty97.html",
+          "time": "12:45 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-19",
+          "event_id": "rns-e4878eab5ec35e02e771b428",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-pz5fhzvc35nrksq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7992Q",
+          "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-pz5fhzvc35nrksq.html",
+          "time": "12:43 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-12",
+          "event_id": "rns-55016a68c43cb88a508a8b25",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-y5deo9i58getpi8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8902P",
+          "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-y5deo9i58getpi8.html",
+          "time": "11:08 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-05",
+          "event_id": "rns-1971622c8b56749f17dbee60",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-70mni2prywzl8ey.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9735O",
+          "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-70mni2prywzl8ey.html",
+          "time": "9:45 am"
         }
       ],
       "rns_initial": [
@@ -41097,36 +41329,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-10",
+          "event_id": "rns-a966252dd9456877867b7186",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9564L",
+          "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html",
+          "time": "4:25 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-73130fcd70fc0a64f0014a22",
           "headline": "Temporary Suspension",
-          "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6745C",
+          "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-25",
+          "event_id": "rns-b4026c56cd3dd58cd72a4539",
           "headline": "CLNs - extention and variation",
-          "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1328Y",
+          "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html",
+          "time": "2:31 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-06",
+          "event_id": "rns-04790e5a0f5bad64c2b8c6a9",
           "headline": "Update on Funding Arrangements and CLNs",
-          "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7396V",
+          "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html",
+          "time": "4:50 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-01",
+          "event_id": "rns-7afc2df6931d255fdc03d096",
           "headline": "Company Update",
-          "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6823J",
+          "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html",
+          "time": "10:30 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41174,77 +41431,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-10-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.0,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2021-10-15",
                 "status": "EXACT"
               },
               "relative_activity": 2.0,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2021-10-15",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-12-20",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.84,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.350000023841858,
                 "date": "2021-12-20",
                 "status": "EXACT"
               },
               "relative_activity": 3.84,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2021-12-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 16.24,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.0499999523162842,
                 "date": "2022-03-24",
                 "status": "EXACT"
               },
               "relative_activity": 16.24,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2022-03-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 10.84,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.0499999523162842,
                 "date": "2022-03-25",
                 "status": "EXACT"
               },
               "relative_activity": 10.84,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BIH.L:2022-03-25",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68304,141 +68577,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2026",
+              "event_id": "rns-a966252dd9456877867b7186",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9564L",
+              "source_url": "https://www.lse.co.uk/rns/BIH/directorate-change-fuhot1fg6gbk9oh.html",
+              "time": "4:25 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-73130fcd70fc0a64f0014a22",
               "headline": "Temporary Suspension",
-              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6745C",
+              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5g0cr64ov200j2m.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Mar 2026",
+              "event_id": "rns-b4026c56cd3dd58cd72a4539",
               "headline": "CLNs - extention and variation",
-              "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1328Y",
+              "source_url": "https://www.lse.co.uk/rns/BIH/clns-extention-and-variation-7r2t7qi33z0rhdw.html",
+              "time": "2:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Mar 2026",
+              "event_id": "rns-04790e5a0f5bad64c2b8c6a9",
               "headline": "Update on Funding Arrangements and CLNs",
-              "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7396V",
+              "source_url": "https://www.lse.co.uk/rns/BIH/update-on-funding-arrangements-and-clns-8bkvby0orstxlzw.html",
+              "time": "4:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Dec 2025",
+              "event_id": "rns-7afc2df6931d255fdc03d096",
               "headline": "Company Update",
-              "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6823J",
+              "source_url": "https://www.lse.co.uk/rns/BIH/company-update-fg11ot4bcjhiaff.html",
+              "time": "10:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-033176dba23e7463b95a797c",
               "headline": "Unaudited Half-year Report to 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/BIH/unaudited-half-year-report-to-30-june-2025-jy80wve60gctx8w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3025B",
+              "source_url": "https://www.lse.co.uk/rns/BIH/unaudited-half-year-report-to-30-june-2025-jy80wve60gctx8w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2025",
+              "event_id": "rns-b2961f4221060bbf299bb6a6",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-v99n7fhtqua7r6g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6086Q",
+              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-v99n7fhtqua7r6g.html",
+              "time": "2:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-6e8dc1d2455c23ecc15f8e44",
               "headline": "Restoration of Listing",
-              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-of-listing-6ti5o4b121kvly5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4234O",
+              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-of-listing-6ti5o4b121kvly5.html",
+              "time": "3:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2025",
+              "event_id": "rns-9ec91b9073db8cf3b6242044",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BIH/notice-of-agm-7tkhwldjqupnlcq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2696N",
+              "source_url": "https://www.lse.co.uk/rns/BIH/notice-of-agm-7tkhwldjqupnlcq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jun 2025",
+              "event_id": "rns-54a127504204986eae429d95",
               "headline": "Annual Financial Report and Suspension Update",
-              "source_url": "https://www.lse.co.uk/rns/BIH/annual-financial-report-and-suspension-update-lphqi301kx8tfeo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8546L",
+              "source_url": "https://www.lse.co.uk/rns/BIH/annual-financial-report-and-suspension-update-lphqi301kx8tfeo.html",
+              "time": "1:40 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2025",
+              "event_id": "rns-c9a2b5bb4a39d2b109c8f99f",
               "headline": "Temporary Suspension",
-              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5of5d4v4v7tepcf.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0218H",
+              "source_url": "https://www.lse.co.uk/rns/BIH/temporary-suspension-5of5d4v4v7tepcf.html",
+              "time": "8:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Apr 2025",
+              "event_id": "rns-bf5983ae3918bdffce7486b6",
               "headline": "Appointment of New Director",
-              "source_url": "https://www.lse.co.uk/rns/BIH/appointment-of-new-director-2hq740b1deo0tpi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3064E",
+              "source_url": "https://www.lse.co.uk/rns/BIH/appointment-of-new-director-2hq740b1deo0tpi.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2025",
+              "event_id": "rns-a4d49a6d0c9a999f213d11e3",
               "headline": "Loan Facility Agreement",
-              "source_url": "https://www.lse.co.uk/rns/BIH/loan-facility-agreement-f1eifz3j5se4ohj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8992A",
+              "source_url": "https://www.lse.co.uk/rns/BIH/loan-facility-agreement-f1eifz3j5se4ohj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2025",
+              "event_id": "rns-32cd15ac75dacc44dae527c1",
               "headline": "Board Change",
-              "source_url": "https://www.lse.co.uk/rns/BIH/board-change-tmewrnojxg92yk1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8303V",
+              "source_url": "https://www.lse.co.uk/rns/BIH/board-change-tmewrnojxg92yk1.html",
+              "time": "8:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2025",
+              "event_id": "rns-c97bb0d9dcc6a1cc01eea948",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-s3c2fizqagbb9xv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8304V",
+              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-s3c2fizqagbb9xv.html",
+              "time": "8:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2025",
+              "event_id": "rns-c3dc4a6517daa1660937e933",
               "headline": "Restoration - Boston International Holdings Plc",
-              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-boston-international-holdings-plc-bxtzb0cdgbhrdb6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1750U",
+              "source_url": "https://www.lse.co.uk/rns/BIH/restoration-boston-international-holdings-plc-bxtzb0cdgbhrdb6.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jan 2025",
+              "event_id": "rns-5a25745dfd90c2467081cf27",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/BIH/half-year-report-vyudpt22ml9ty97.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9474S",
+              "source_url": "https://www.lse.co.uk/rns/BIH/half-year-report-vyudpt22ml9ty97.html",
+              "time": "12:45 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2024",
+              "event_id": "rns-e4878eab5ec35e02e771b428",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-pz5fhzvc35nrksq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7992Q",
+              "source_url": "https://www.lse.co.uk/rns/BIH/result-of-agm-pz5fhzvc35nrksq.html",
+              "time": "12:43 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2024",
+              "event_id": "rns-55016a68c43cb88a508a8b25",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-y5deo9i58getpi8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8902P",
+              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-y5deo9i58getpi8.html",
+              "time": "11:08 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Dec 2024",
+              "event_id": "rns-1971622c8b56749f17dbee60",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-70mni2prywzl8ey.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9735O",
+              "source_url": "https://www.lse.co.uk/rns/BIH/holdings-in-company-70mni2prywzl8ey.html",
+              "time": "9:45 am"
             }
           ],
           "status": "AVAILABLE",

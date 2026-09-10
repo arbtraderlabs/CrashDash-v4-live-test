@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.9,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.149999976158142,
                 "date": "2024-06-25",
                 "status": "EXACT"
               },
               "relative_activity": 4.9,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "IBAI.L:2024-06-25",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.86,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.100000023841858,
                 "date": "2024-06-28",
                 "status": "EXACT"
               },
               "relative_activity": 4.86,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "IBAI.L:2024-06-28",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-bab9b6b0f31f4b6b9885d927",
               "headline": "US Academic Medical Centre Adopts IB Clinic",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5033S",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-d6b04b75bee18521b0b61627",
               "headline": "Half Yearly Report to 30 June 2026",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2393O",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-b3227e7e9d9bd108a60b7b0e",
               "headline": "Sub-division",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2696M",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html",
+              "time": "10:02 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-526a303322234db53f4993c3",
               "headline": "Publication of Phase 1 Clinical Trial",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4746H",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2026",
+              "event_id": "rns-ef9966f1948b674e929d48f6",
               "headline": "Commercialisation, Phase II Results & Revenue Path",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0999H",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-051f82e8776e7de820b70fc4",
               "headline": "AGM Statement and Business Update",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/agm-statement-and-business-update-buop2n65rgyo9e2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5405G",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/agm-statement-and-business-update-buop2n65rgyo9e2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-b039e2d79e40c3a0926e98b5",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/result-of-agm-sabsa6o5hedfout.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8611G",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/result-of-agm-sabsa6o5hedfout.html",
+              "time": "11:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2026",
+              "event_id": "rns-9a20ae3185cabe23c18f1e31",
               "headline": "AMENDEMENT TO NOTICE OF ANNUAL GENERAL MEETING",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/amendement-to-notice-of-annual-general-meeting-pfsb932o9481gj4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0578E",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/amendement-to-notice-of-annual-general-meeting-pfsb932o9481gj4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th May 2026",
+              "event_id": "rns-95026cbb0780b98d3a14b225",
               "headline": "NOTICE OF ANNUAL GENERAL MEETING",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/notice-of-annual-general-meeting-5avp7o99rvxhqdw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0280E",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/notice-of-annual-general-meeting-5avp7o99rvxhqdw.html",
+              "time": "2:24 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-29ceae8cb31d6868ac9e091a",
               "headline": "KIRKSTALL AWARDED BBSRC/NC3Rs GRANT: GLIOBLASTOMA",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/kirkstall-awarded-bbsrcnc3rs-grant-glioblastoma-wxvl2k0379unq9v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4862D",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/kirkstall-awarded-bbsrcnc3rs-grant-glioblastoma-wxvl2k0379unq9v.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-43b717e427fa330e308099fe",
               "headline": "Annual Report for the Year Ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/annual-report-for-the-year-ended-31-december-2025-qe1inlans1qwu9t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6589C",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/annual-report-for-the-year-ended-31-december-2025-qe1inlans1qwu9t.html",
+              "time": "4:18 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-cfadadb79a7ded5a0e8df43b",
               "headline": "Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/board-appointment-l8gtbck0rb2zthj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6987T",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/board-appointment-l8gtbck0rb2zthj.html",
+              "time": "10:48 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-326cd6f1755e51d7162817ba",
               "headline": "Update and IB Nimble Webinar \u2013 27 February 2026",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/update-and-ib-nimble-webinar-8211-27-february-2026-66a0930izgwzhyh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4979S",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/update-and-ib-nimble-webinar-8211-27-february-2026-66a0930izgwzhyh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jan 2026",
+              "event_id": "rns-dd3f3bc9989b079aa54372f9",
               "headline": "IBAI: Strategic Direction Fueling Organic Growth",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/ibai-strategic-direction-fueling-organic-growth-283o70ntjktgzun.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1365P",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/ibai-strategic-direction-fueling-organic-growth-283o70ntjktgzun.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-b9197c616a0b1a5669a425f7",
               "headline": "Expansion Global Distribution Agreement with GE",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/expansion-global-distribution-agreement-with-ge-olf2jnxtnto5nuj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0116L",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/expansion-global-distribution-agreement-with-ge-olf2jnxtnto5nuj.html",
+              "time": "9:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Nov 2025",
+              "event_id": "rns-f1882990be923bd32d8242d3",
               "headline": "Release of Next-Generation IB Clinic",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/release-of-next-generation-ib-clinic-hlvf683qm8ojnuf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1481J",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/release-of-next-generation-ib-clinic-hlvf683qm8ojnuf.html",
+              "time": "2:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Nov 2025",
+              "event_id": "rns-f86b7aac997f81947084afa7",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/board-changes-lds8sldp585ug5s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7342I",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/board-changes-lds8sldp585ug5s.html",
+              "time": "9:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Nov 2025",
+              "event_id": "rns-83ab3b5113b04683daeaeb6a",
               "headline": "Fractional Tumor Burden Mapping Enhances GBM Trial",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/fractional-tumor-burden-mapping-enhances-gbm-trial-tlp7rv2zxwh87xa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4541H",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/fractional-tumor-burden-mapping-enhances-gbm-trial-tlp7rv2zxwh87xa.html",
+              "time": "11:24 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Nov 2025",
+              "event_id": "rns-9805c6520a8a623f8d57ba0a",
               "headline": "IB Announces Completion of Phase 1 Trial of GaM",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/ib-announces-completion-of-phase-1-trial-of-gam-l0w1p01a3xat1pk.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9232G",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/ib-announces-completion-of-phase-1-trial-of-gam-l0w1p01a3xat1pk.html",
+              "time": "3:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Oct 2025",
+              "event_id": "rns-2310d41a9e0aef52b63a1d0d",
               "headline": "Further Re: Purchase of interest in Kirkstall Ltd",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/further-re-purchase-of-interest-in-kirkstall-ltd-bmuvptuu9gw1i3y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5711D",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/further-re-purchase-of-interest-in-kirkstall-ltd-bmuvptuu9gw1i3y.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27347,39 +27455,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-06-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.9,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.149999976158142,
             "date": "2024-06-25",
             "status": "EXACT"
           },
           "relative_activity": 4.9,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "IBAI.L:2024-06-25",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-06-28",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.86,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.100000023841858,
             "date": "2024-06-28",
             "status": "EXACT"
           },
           "relative_activity": 4.86,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "IBAI.L:2024-06-28",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40927,141 +41043,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-bab9b6b0f31f4b6b9885d927",
           "headline": "US Academic Medical Centre Adopts IB Clinic",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5033S",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-d6b04b75bee18521b0b61627",
           "headline": "Half Yearly Report to 30 June 2026",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2393O",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-14",
+          "event_id": "rns-b3227e7e9d9bd108a60b7b0e",
           "headline": "Sub-division",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2696M",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html",
+          "time": "10:02 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-526a303322234db53f4993c3",
           "headline": "Publication of Phase 1 Clinical Trial",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4746H",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-05",
+          "event_id": "rns-ef9966f1948b674e929d48f6",
           "headline": "Commercialisation, Phase II Results & Revenue Path",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0999H",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-03",
+          "event_id": "rns-051f82e8776e7de820b70fc4",
           "headline": "AGM Statement and Business Update",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/agm-statement-and-business-update-buop2n65rgyo9e2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5405G",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/agm-statement-and-business-update-buop2n65rgyo9e2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-03",
+          "event_id": "rns-b039e2d79e40c3a0926e98b5",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/result-of-agm-sabsa6o5hedfout.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8611G",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/result-of-agm-sabsa6o5hedfout.html",
+          "time": "11:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-13",
+          "event_id": "rns-9a20ae3185cabe23c18f1e31",
           "headline": "AMENDEMENT TO NOTICE OF ANNUAL GENERAL MEETING",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/amendement-to-notice-of-annual-general-meeting-pfsb932o9481gj4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0578E",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/amendement-to-notice-of-annual-general-meeting-pfsb932o9481gj4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-12",
+          "event_id": "rns-95026cbb0780b98d3a14b225",
           "headline": "NOTICE OF ANNUAL GENERAL MEETING",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/notice-of-annual-general-meeting-5avp7o99rvxhqdw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0280E",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/notice-of-annual-general-meeting-5avp7o99rvxhqdw.html",
+          "time": "2:24 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-08",
+          "event_id": "rns-29ceae8cb31d6868ac9e091a",
           "headline": "KIRKSTALL AWARDED BBSRC/NC3Rs GRANT: GLIOBLASTOMA",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/kirkstall-awarded-bbsrcnc3rs-grant-glioblastoma-wxvl2k0379unq9v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4862D",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/kirkstall-awarded-bbsrcnc3rs-grant-glioblastoma-wxvl2k0379unq9v.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-43b717e427fa330e308099fe",
           "headline": "Annual Report for the Year Ended 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/annual-report-for-the-year-ended-31-december-2025-qe1inlans1qwu9t.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6589C",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/annual-report-for-the-year-ended-31-december-2025-qe1inlans1qwu9t.html",
+          "time": "4:18 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-19",
+          "event_id": "rns-cfadadb79a7ded5a0e8df43b",
           "headline": "Board Appointment",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/board-appointment-l8gtbck0rb2zthj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6987T",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/board-appointment-l8gtbck0rb2zthj.html",
+          "time": "10:48 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-11",
+          "event_id": "rns-326cd6f1755e51d7162817ba",
           "headline": "Update and IB Nimble Webinar \u2013 27 February 2026",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/update-and-ib-nimble-webinar-8211-27-february-2026-66a0930izgwzhyh.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4979S",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/update-and-ib-nimble-webinar-8211-27-february-2026-66a0930izgwzhyh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16",
+          "event_id": "rns-dd3f3bc9989b079aa54372f9",
           "headline": "IBAI: Strategic Direction Fueling Organic Growth",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/ibai-strategic-direction-fueling-organic-growth-283o70ntjktgzun.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1365P",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/ibai-strategic-direction-fueling-organic-growth-283o70ntjktgzun.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-10",
+          "event_id": "rns-b9197c616a0b1a5669a425f7",
           "headline": "Expansion Global Distribution Agreement with GE",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/expansion-global-distribution-agreement-with-ge-olf2jnxtnto5nuj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0116L",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/expansion-global-distribution-agreement-with-ge-olf2jnxtnto5nuj.html",
+          "time": "9:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-26",
+          "event_id": "rns-f1882990be923bd32d8242d3",
           "headline": "Release of Next-Generation IB Clinic",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/release-of-next-generation-ib-clinic-hlvf683qm8ojnuf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1481J",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/release-of-next-generation-ib-clinic-hlvf683qm8ojnuf.html",
+          "time": "2:50 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-24",
+          "event_id": "rns-f86b7aac997f81947084afa7",
           "headline": "Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/board-changes-lds8sldp585ug5s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7342I",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/board-changes-lds8sldp585ug5s.html",
+          "time": "9:56 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-13",
+          "event_id": "rns-83ab3b5113b04683daeaeb6a",
           "headline": "Fractional Tumor Burden Mapping Enhances GBM Trial",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/fractional-tumor-burden-mapping-enhances-gbm-trial-tlp7rv2zxwh87xa.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4541H",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/fractional-tumor-burden-mapping-enhances-gbm-trial-tlp7rv2zxwh87xa.html",
+          "time": "11:24 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-10",
+          "event_id": "rns-9805c6520a8a623f8d57ba0a",
           "headline": "IB Announces Completion of Phase 1 Trial of GaM",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/ib-announces-completion-of-phase-1-trial-of-gam-l0w1p01a3xat1pk.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9232G",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/ib-announces-completion-of-phase-1-trial-of-gam-l0w1p01a3xat1pk.html",
+          "time": "3:14 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-16",
+          "event_id": "rns-2310d41a9e0aef52b63a1d0d",
           "headline": "Further Re: Purchase of interest in Kirkstall Ltd",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/further-re-purchase-of-interest-in-kirkstall-ltd-bmuvptuu9gw1i3y.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5711D",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/further-re-purchase-of-interest-in-kirkstall-ltd-bmuvptuu9gw1i3y.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41069,36 +41285,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-bab9b6b0f31f4b6b9885d927",
           "headline": "US Academic Medical Centre Adopts IB Clinic",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5033S",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-d6b04b75bee18521b0b61627",
           "headline": "Half Yearly Report to 30 June 2026",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2393O",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-14",
+          "event_id": "rns-b3227e7e9d9bd108a60b7b0e",
           "headline": "Sub-division",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2696M",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html",
+          "time": "10:02 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-526a303322234db53f4993c3",
           "headline": "Publication of Phase 1 Clinical Trial",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4746H",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-05",
+          "event_id": "rns-ef9966f1948b674e929d48f6",
           "headline": "Commercialisation, Phase II Results & Revenue Path",
-          "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0999H",
+          "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41146,39 +41387,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.9,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.149999976158142,
                 "date": "2024-06-25",
                 "status": "EXACT"
               },
               "relative_activity": 4.9,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "IBAI.L:2024-06-25",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.86,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.100000023841858,
                 "date": "2024-06-28",
                 "status": "EXACT"
               },
               "relative_activity": 4.86,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "IBAI.L:2024-06-28",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68270,141 +68519,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-bab9b6b0f31f4b6b9885d927",
               "headline": "US Academic Medical Centre Adopts IB Clinic",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5033S",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/us-academic-medical-centre-adopts-ib-clinic-i4glqodlvxos2m5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-d6b04b75bee18521b0b61627",
               "headline": "Half Yearly Report to 30 June 2026",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2393O",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/half-yearly-report-to-30-june-2026-e9t4usb2bk59kzt.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-b3227e7e9d9bd108a60b7b0e",
               "headline": "Sub-division",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2696M",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/sub-division-x8czjt9s5mr2a9x.html",
+              "time": "10:02 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-526a303322234db53f4993c3",
               "headline": "Publication of Phase 1 Clinical Trial",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4746H",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/publication-of-phase-1-clinical-trial-lm7i6kerbuapx9f.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2026",
+              "event_id": "rns-ef9966f1948b674e929d48f6",
               "headline": "Commercialisation, Phase II Results & Revenue Path",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0999H",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/commercialisation-phase-ii-results-revenue-path-wfyhbvh347jke45.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-051f82e8776e7de820b70fc4",
               "headline": "AGM Statement and Business Update",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/agm-statement-and-business-update-buop2n65rgyo9e2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5405G",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/agm-statement-and-business-update-buop2n65rgyo9e2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-b039e2d79e40c3a0926e98b5",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/result-of-agm-sabsa6o5hedfout.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8611G",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/result-of-agm-sabsa6o5hedfout.html",
+              "time": "11:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2026",
+              "event_id": "rns-9a20ae3185cabe23c18f1e31",
               "headline": "AMENDEMENT TO NOTICE OF ANNUAL GENERAL MEETING",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/amendement-to-notice-of-annual-general-meeting-pfsb932o9481gj4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0578E",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/amendement-to-notice-of-annual-general-meeting-pfsb932o9481gj4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th May 2026",
+              "event_id": "rns-95026cbb0780b98d3a14b225",
               "headline": "NOTICE OF ANNUAL GENERAL MEETING",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/notice-of-annual-general-meeting-5avp7o99rvxhqdw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0280E",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/notice-of-annual-general-meeting-5avp7o99rvxhqdw.html",
+              "time": "2:24 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-29ceae8cb31d6868ac9e091a",
               "headline": "KIRKSTALL AWARDED BBSRC/NC3Rs GRANT: GLIOBLASTOMA",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/kirkstall-awarded-bbsrcnc3rs-grant-glioblastoma-wxvl2k0379unq9v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4862D",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/kirkstall-awarded-bbsrcnc3rs-grant-glioblastoma-wxvl2k0379unq9v.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-43b717e427fa330e308099fe",
               "headline": "Annual Report for the Year Ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/annual-report-for-the-year-ended-31-december-2025-qe1inlans1qwu9t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6589C",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/annual-report-for-the-year-ended-31-december-2025-qe1inlans1qwu9t.html",
+              "time": "4:18 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-cfadadb79a7ded5a0e8df43b",
               "headline": "Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/board-appointment-l8gtbck0rb2zthj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6987T",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/board-appointment-l8gtbck0rb2zthj.html",
+              "time": "10:48 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-326cd6f1755e51d7162817ba",
               "headline": "Update and IB Nimble Webinar \u2013 27 February 2026",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/update-and-ib-nimble-webinar-8211-27-february-2026-66a0930izgwzhyh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4979S",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/update-and-ib-nimble-webinar-8211-27-february-2026-66a0930izgwzhyh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jan 2026",
+              "event_id": "rns-dd3f3bc9989b079aa54372f9",
               "headline": "IBAI: Strategic Direction Fueling Organic Growth",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/ibai-strategic-direction-fueling-organic-growth-283o70ntjktgzun.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1365P",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/ibai-strategic-direction-fueling-organic-growth-283o70ntjktgzun.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-b9197c616a0b1a5669a425f7",
               "headline": "Expansion Global Distribution Agreement with GE",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/expansion-global-distribution-agreement-with-ge-olf2jnxtnto5nuj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0116L",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/expansion-global-distribution-agreement-with-ge-olf2jnxtnto5nuj.html",
+              "time": "9:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Nov 2025",
+              "event_id": "rns-f1882990be923bd32d8242d3",
               "headline": "Release of Next-Generation IB Clinic",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/release-of-next-generation-ib-clinic-hlvf683qm8ojnuf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1481J",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/release-of-next-generation-ib-clinic-hlvf683qm8ojnuf.html",
+              "time": "2:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Nov 2025",
+              "event_id": "rns-f86b7aac997f81947084afa7",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/board-changes-lds8sldp585ug5s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7342I",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/board-changes-lds8sldp585ug5s.html",
+              "time": "9:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Nov 2025",
+              "event_id": "rns-83ab3b5113b04683daeaeb6a",
               "headline": "Fractional Tumor Burden Mapping Enhances GBM Trial",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/fractional-tumor-burden-mapping-enhances-gbm-trial-tlp7rv2zxwh87xa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4541H",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/fractional-tumor-burden-mapping-enhances-gbm-trial-tlp7rv2zxwh87xa.html",
+              "time": "11:24 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Nov 2025",
+              "event_id": "rns-9805c6520a8a623f8d57ba0a",
               "headline": "IB Announces Completion of Phase 1 Trial of GaM",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/ib-announces-completion-of-phase-1-trial-of-gam-l0w1p01a3xat1pk.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9232G",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/ib-announces-completion-of-phase-1-trial-of-gam-l0w1p01a3xat1pk.html",
+              "time": "3:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Oct 2025",
+              "event_id": "rns-2310d41a9e0aef52b63a1d0d",
               "headline": "Further Re: Purchase of interest in Kirkstall Ltd",
-              "source_url": "https://www.lse.co.uk/rns/IBAI/further-re-purchase-of-interest-in-kirkstall-ltd-bmuvptuu9gw1i3y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5711D",
+              "source_url": "https://www.lse.co.uk/rns/IBAI/further-re-purchase-of-interest-in-kirkstall-ltd-bmuvptuu9gw1i3y.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

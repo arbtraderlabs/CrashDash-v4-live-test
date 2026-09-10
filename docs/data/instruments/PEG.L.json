@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 3.01,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.08500000089406967,
                 "date": "2025-09-01",
                 "status": "EXACT"
               },
               "relative_activity": 3.01,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PEG.L:2025-09-01",
               "signal_type": "ULTRA CRASH BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-aafbb79f5f631c69da7e931a",
               "headline": "Defence Order",
-              "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4558L",
+              "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Dec 2025",
+              "event_id": "rns-4aa69b9cdacd84f4dcc8d822",
               "headline": "New Defence Contract Award",
-              "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8707J",
+              "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html",
+              "time": "9:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2025",
+              "event_id": "rns-d11c0f2179a84ceb33f34338",
               "headline": "Contract extension",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4408I",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Nov 2025",
+              "event_id": "rns-dfc6934124e8780f3e665614",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3030H",
+              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html",
+              "time": "4:41 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Oct 2025",
+              "event_id": "rns-12bb5d02e5adba60d46ae94d",
               "headline": "Rail Order Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9313E",
+              "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html",
+              "time": "9:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-37b3f10d8c6ba972400d0557",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/PEG/interim-results-r5xh25keoczmz66.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7787Z",
+              "source_url": "https://www.lse.co.uk/rns/PEG/interim-results-r5xh25keoczmz66.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Sep 2025",
+              "event_id": "rns-12121588fd1bfa93584387cb",
               "headline": "Notice of Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/PEG/notice-of-interim-results-7tg1jqyn0gxyf2m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1684Z",
+              "source_url": "https://www.lse.co.uk/rns/PEG/notice-of-interim-results-7tg1jqyn0gxyf2m.html",
+              "time": "10:51 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2025",
+              "event_id": "rns-6a191565ac721eaa2eea8509",
               "headline": "Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-40rej55kckxphw9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8771U",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-40rej55kckxphw9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2025",
+              "event_id": "rns-3d732c4405f1199faffc64df",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PEG/result-of-agm-uynrwtj4h4uotke.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2541U",
+              "source_url": "https://www.lse.co.uk/rns/PEG/result-of-agm-uynrwtj4h4uotke.html",
+              "time": "12:09 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2025",
+              "event_id": "rns-7de100bfff8f14b0add34ab9",
               "headline": "Multi-year framework agreement renewal",
-              "source_url": "https://www.lse.co.uk/rns/PEG/multi-year-framework-agreement-renewal-f81m3u2aw7lgole.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9162T",
+              "source_url": "https://www.lse.co.uk/rns/PEG/multi-year-framework-agreement-renewal-f81m3u2aw7lgole.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2025",
+              "event_id": "rns-23ed1ae25be73cad5789a656",
               "headline": "Contract Renewal",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-renewal-ror7d684871fnof.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8625S",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-renewal-ror7d684871fnof.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-539328fcdd9d2bb6f3176a67",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PEG/posting-of-annual-report-and-notice-of-agm-i04jmezpoqack12.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0431P",
+              "source_url": "https://www.lse.co.uk/rns/PEG/posting-of-annual-report-and-notice-of-agm-i04jmezpoqack12.html",
+              "time": "4:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-a2aefe35155ea41ad56c2f36",
               "headline": "SaaS licensing renewal",
-              "source_url": "https://www.lse.co.uk/rns/PEG/saas-licensing-renewal-14nbil7os0t97n9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0390O",
+              "source_url": "https://www.lse.co.uk/rns/PEG/saas-licensing-renewal-14nbil7os0t97n9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2025",
+              "event_id": "rns-74ab12601411553bd977df2d",
               "headline": "Final results for the year ended 31 December 2024",
-              "source_url": "https://www.lse.co.uk/rns/PEG/final-results-for-the-year-ended-31-december-2024-1prrtsu8wtz27lu.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8628N",
+              "source_url": "https://www.lse.co.uk/rns/PEG/final-results-for-the-year-ended-31-december-2024-1prrtsu8wtz27lu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2025",
+              "event_id": "rns-beea824f11b5fbad37099477",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-4rews7rojgmmjp0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2309M",
+              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-4rews7rojgmmjp0.html",
+              "time": "12:17 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2025",
+              "event_id": "rns-6d6e2f1435c242084f9aafa6",
               "headline": "Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-9xsyxpehpyc53ld.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9018L",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-9xsyxpehpyc53ld.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2025",
+              "event_id": "rns-6ee09c56bbe547dd839eb877",
               "headline": "Petards Rail wins Alstom CSR Award",
-              "source_url": "https://www.lse.co.uk/rns/PEG/petards-rail-wins-alstom-csr-award-srlefd5z1miujsc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4083K",
+              "source_url": "https://www.lse.co.uk/rns/PEG/petards-rail-wins-alstom-csr-award-srlefd5z1miujsc.html",
+              "time": "9:26 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2025",
+              "event_id": "rns-55f69895c073ac34c05b515e",
               "headline": "\u2018Made in the North East\u2019 Awards 2025",
-              "source_url": "https://www.lse.co.uk/rns/PEG/8216made-in-the-north-east8217-awards-2025-8v1gch58vfsxdgg.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2870B",
+              "source_url": "https://www.lse.co.uk/rns/PEG/8216made-in-the-north-east8217-awards-2025-8v1gch58vfsxdgg.html",
+              "time": "8:39 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Feb 2025",
+              "event_id": "rns-4243743b127532035589d205",
               "headline": "Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-d2um8c5mcvzs5kz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7625X",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-d2um8c5mcvzs5kz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2025",
+              "event_id": "rns-b3f414e2c26a5d88d5433830",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/PEG/directorpdmr-shareholding-2hte9fshbcvfrul.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2374W",
+              "source_url": "https://www.lse.co.uk/rns/PEG/directorpdmr-shareholding-2hte9fshbcvfrul.html",
+              "time": "3:33 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-09-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "RED",
             "relative_activity": 3.01,
-            "severity": "RED",
+            "severity": "EXTREME CAUTION",
             "signal_state": "ULTRA CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.08500000089406967,
             "date": "2025-09-01",
             "status": "EXACT"
           },
           "relative_activity": 3.01,
-          "severity": "RED",
+          "severity": "EXTREME CAUTION",
           "signal_id": "PEG.L:2025-09-01",
           "signal_type": "ULTRA CRASH BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-15",
+          "event_id": "rns-aafbb79f5f631c69da7e931a",
           "headline": "Defence Order",
-          "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4558L",
+          "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-02",
+          "event_id": "rns-4aa69b9cdacd84f4dcc8d822",
           "headline": "New Defence Contract Award",
-          "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8707J",
+          "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html",
+          "time": "9:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-21",
+          "event_id": "rns-d11c0f2179a84ceb33f34338",
           "headline": "Contract extension",
-          "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4408I",
+          "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-12",
+          "event_id": "rns-dfc6934124e8780f3e665614",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3030H",
+          "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html",
+          "time": "4:41 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-27",
+          "event_id": "rns-12bb5d02e5adba60d46ae94d",
           "headline": "Rail Order Win",
-          "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9313E",
+          "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html",
+          "time": "9:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-18",
+          "event_id": "rns-37b3f10d8c6ba972400d0557",
           "headline": "Interim results",
-          "source_url": "https://www.lse.co.uk/rns/PEG/interim-results-r5xh25keoczmz66.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7787Z",
+          "source_url": "https://www.lse.co.uk/rns/PEG/interim-results-r5xh25keoczmz66.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-12",
+          "event_id": "rns-12121588fd1bfa93584387cb",
           "headline": "Notice of Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/PEG/notice-of-interim-results-7tg1jqyn0gxyf2m.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1684Z",
+          "source_url": "https://www.lse.co.uk/rns/PEG/notice-of-interim-results-7tg1jqyn0gxyf2m.html",
+          "time": "10:51 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-12",
+          "event_id": "rns-6a191565ac721eaa2eea8509",
           "headline": "Contract Win",
-          "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-40rej55kckxphw9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8771U",
+          "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-40rej55kckxphw9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-06",
+          "event_id": "rns-3d732c4405f1199faffc64df",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PEG/result-of-agm-uynrwtj4h4uotke.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2541U",
+          "source_url": "https://www.lse.co.uk/rns/PEG/result-of-agm-uynrwtj4h4uotke.html",
+          "time": "12:09 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-05",
+          "event_id": "rns-7de100bfff8f14b0add34ab9",
           "headline": "Multi-year framework agreement renewal",
-          "source_url": "https://www.lse.co.uk/rns/PEG/multi-year-framework-agreement-renewal-f81m3u2aw7lgole.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9162T",
+          "source_url": "https://www.lse.co.uk/rns/PEG/multi-year-framework-agreement-renewal-f81m3u2aw7lgole.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-29",
+          "event_id": "rns-23ed1ae25be73cad5789a656",
           "headline": "Contract Renewal",
-          "source_url": "https://www.lse.co.uk/rns/PEG/contract-renewal-ror7d684871fnof.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8625S",
+          "source_url": "https://www.lse.co.uk/rns/PEG/contract-renewal-ror7d684871fnof.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-30",
+          "event_id": "rns-539328fcdd9d2bb6f3176a67",
           "headline": "Posting of Annual Report and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PEG/posting-of-annual-report-and-notice-of-agm-i04jmezpoqack12.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0431P",
+          "source_url": "https://www.lse.co.uk/rns/PEG/posting-of-annual-report-and-notice-of-agm-i04jmezpoqack12.html",
+          "time": "4:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-24",
+          "event_id": "rns-a2aefe35155ea41ad56c2f36",
           "headline": "SaaS licensing renewal",
-          "source_url": "https://www.lse.co.uk/rns/PEG/saas-licensing-renewal-14nbil7os0t97n9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0390O",
+          "source_url": "https://www.lse.co.uk/rns/PEG/saas-licensing-renewal-14nbil7os0t97n9.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-23",
+          "event_id": "rns-74ab12601411553bd977df2d",
           "headline": "Final results for the year ended 31 December 2024",
-          "source_url": "https://www.lse.co.uk/rns/PEG/final-results-for-the-year-ended-31-december-2024-1prrtsu8wtz27lu.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8628N",
+          "source_url": "https://www.lse.co.uk/rns/PEG/final-results-for-the-year-ended-31-december-2024-1prrtsu8wtz27lu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-10",
+          "event_id": "rns-beea824f11b5fbad37099477",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-4rews7rojgmmjp0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2309M",
+          "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-4rews7rojgmmjp0.html",
+          "time": "12:17 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-09",
+          "event_id": "rns-6d6e2f1435c242084f9aafa6",
           "headline": "Contract Win",
-          "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-9xsyxpehpyc53ld.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9018L",
+          "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-9xsyxpehpyc53ld.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-28",
+          "event_id": "rns-6ee09c56bbe547dd839eb877",
           "headline": "Petards Rail wins Alstom CSR Award",
-          "source_url": "https://www.lse.co.uk/rns/PEG/petards-rail-wins-alstom-csr-award-srlefd5z1miujsc.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4083K",
+          "source_url": "https://www.lse.co.uk/rns/PEG/petards-rail-wins-alstom-csr-award-srlefd5z1miujsc.html",
+          "time": "9:26 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-19",
+          "event_id": "rns-55f69895c073ac34c05b515e",
           "headline": "\u2018Made in the North East\u2019 Awards 2025",
-          "source_url": "https://www.lse.co.uk/rns/PEG/8216made-in-the-north-east8217-awards-2025-8v1gch58vfsxdgg.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2870B",
+          "source_url": "https://www.lse.co.uk/rns/PEG/8216made-in-the-north-east8217-awards-2025-8v1gch58vfsxdgg.html",
+          "time": "8:39 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-20",
+          "event_id": "rns-4243743b127532035589d205",
           "headline": "Contract Win",
-          "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-d2um8c5mcvzs5kz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7625X",
+          "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-d2um8c5mcvzs5kz.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-06",
+          "event_id": "rns-b3f414e2c26a5d88d5433830",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/PEG/directorpdmr-shareholding-2hte9fshbcvfrul.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2374W",
+          "source_url": "https://www.lse.co.uk/rns/PEG/directorpdmr-shareholding-2hte9fshbcvfrul.html",
+          "time": "3:33 pm"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-15",
+          "event_id": "rns-aafbb79f5f631c69da7e931a",
           "headline": "Defence Order",
-          "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4558L",
+          "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-02",
+          "event_id": "rns-4aa69b9cdacd84f4dcc8d822",
           "headline": "New Defence Contract Award",
-          "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8707J",
+          "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html",
+          "time": "9:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-21",
+          "event_id": "rns-d11c0f2179a84ceb33f34338",
           "headline": "Contract extension",
-          "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4408I",
+          "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-12",
+          "event_id": "rns-dfc6934124e8780f3e665614",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3030H",
+          "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html",
+          "time": "4:41 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-27",
+          "event_id": "rns-12bb5d02e5adba60d46ae94d",
           "headline": "Rail Order Win",
-          "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9313E",
+          "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html",
+          "time": "9:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 3.01,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.08500000089406967,
                 "date": "2025-09-01",
                 "status": "EXACT"
               },
               "relative_activity": 3.01,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PEG.L:2025-09-01",
               "signal_type": "ULTRA CRASH BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-aafbb79f5f631c69da7e931a",
               "headline": "Defence Order",
-              "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4558L",
+              "source_url": "https://www.lse.co.uk/rns/PEG/defence-order-cs9yqe9u8neij4f.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Dec 2025",
+              "event_id": "rns-4aa69b9cdacd84f4dcc8d822",
               "headline": "New Defence Contract Award",
-              "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8707J",
+              "source_url": "https://www.lse.co.uk/rns/PEG/new-defence-contract-award-orhsm4e8xse7rui.html",
+              "time": "9:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2025",
+              "event_id": "rns-d11c0f2179a84ceb33f34338",
               "headline": "Contract extension",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4408I",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-extension-lctazrellxpscg3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Nov 2025",
+              "event_id": "rns-dfc6934124e8780f3e665614",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3030H",
+              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-i5efk1dmdauyy1s.html",
+              "time": "4:41 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Oct 2025",
+              "event_id": "rns-12bb5d02e5adba60d46ae94d",
               "headline": "Rail Order Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9313E",
+              "source_url": "https://www.lse.co.uk/rns/PEG/rail-order-win-9xfty27lfcqu73t.html",
+              "time": "9:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-37b3f10d8c6ba972400d0557",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/PEG/interim-results-r5xh25keoczmz66.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7787Z",
+              "source_url": "https://www.lse.co.uk/rns/PEG/interim-results-r5xh25keoczmz66.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Sep 2025",
+              "event_id": "rns-12121588fd1bfa93584387cb",
               "headline": "Notice of Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/PEG/notice-of-interim-results-7tg1jqyn0gxyf2m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1684Z",
+              "source_url": "https://www.lse.co.uk/rns/PEG/notice-of-interim-results-7tg1jqyn0gxyf2m.html",
+              "time": "10:51 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2025",
+              "event_id": "rns-6a191565ac721eaa2eea8509",
               "headline": "Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-40rej55kckxphw9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8771U",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-40rej55kckxphw9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2025",
+              "event_id": "rns-3d732c4405f1199faffc64df",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PEG/result-of-agm-uynrwtj4h4uotke.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2541U",
+              "source_url": "https://www.lse.co.uk/rns/PEG/result-of-agm-uynrwtj4h4uotke.html",
+              "time": "12:09 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2025",
+              "event_id": "rns-7de100bfff8f14b0add34ab9",
               "headline": "Multi-year framework agreement renewal",
-              "source_url": "https://www.lse.co.uk/rns/PEG/multi-year-framework-agreement-renewal-f81m3u2aw7lgole.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9162T",
+              "source_url": "https://www.lse.co.uk/rns/PEG/multi-year-framework-agreement-renewal-f81m3u2aw7lgole.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2025",
+              "event_id": "rns-23ed1ae25be73cad5789a656",
               "headline": "Contract Renewal",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-renewal-ror7d684871fnof.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8625S",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-renewal-ror7d684871fnof.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-539328fcdd9d2bb6f3176a67",
               "headline": "Posting of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PEG/posting-of-annual-report-and-notice-of-agm-i04jmezpoqack12.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0431P",
+              "source_url": "https://www.lse.co.uk/rns/PEG/posting-of-annual-report-and-notice-of-agm-i04jmezpoqack12.html",
+              "time": "4:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-a2aefe35155ea41ad56c2f36",
               "headline": "SaaS licensing renewal",
-              "source_url": "https://www.lse.co.uk/rns/PEG/saas-licensing-renewal-14nbil7os0t97n9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0390O",
+              "source_url": "https://www.lse.co.uk/rns/PEG/saas-licensing-renewal-14nbil7os0t97n9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2025",
+              "event_id": "rns-74ab12601411553bd977df2d",
               "headline": "Final results for the year ended 31 December 2024",
-              "source_url": "https://www.lse.co.uk/rns/PEG/final-results-for-the-year-ended-31-december-2024-1prrtsu8wtz27lu.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8628N",
+              "source_url": "https://www.lse.co.uk/rns/PEG/final-results-for-the-year-ended-31-december-2024-1prrtsu8wtz27lu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2025",
+              "event_id": "rns-beea824f11b5fbad37099477",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-4rews7rojgmmjp0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2309M",
+              "source_url": "https://www.lse.co.uk/rns/PEG/holdings-in-company-4rews7rojgmmjp0.html",
+              "time": "12:17 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2025",
+              "event_id": "rns-6d6e2f1435c242084f9aafa6",
               "headline": "Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-9xsyxpehpyc53ld.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9018L",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-9xsyxpehpyc53ld.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2025",
+              "event_id": "rns-6ee09c56bbe547dd839eb877",
               "headline": "Petards Rail wins Alstom CSR Award",
-              "source_url": "https://www.lse.co.uk/rns/PEG/petards-rail-wins-alstom-csr-award-srlefd5z1miujsc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4083K",
+              "source_url": "https://www.lse.co.uk/rns/PEG/petards-rail-wins-alstom-csr-award-srlefd5z1miujsc.html",
+              "time": "9:26 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2025",
+              "event_id": "rns-55f69895c073ac34c05b515e",
               "headline": "\u2018Made in the North East\u2019 Awards 2025",
-              "source_url": "https://www.lse.co.uk/rns/PEG/8216made-in-the-north-east8217-awards-2025-8v1gch58vfsxdgg.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2870B",
+              "source_url": "https://www.lse.co.uk/rns/PEG/8216made-in-the-north-east8217-awards-2025-8v1gch58vfsxdgg.html",
+              "time": "8:39 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Feb 2025",
+              "event_id": "rns-4243743b127532035589d205",
               "headline": "Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-d2um8c5mcvzs5kz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7625X",
+              "source_url": "https://www.lse.co.uk/rns/PEG/contract-win-d2um8c5mcvzs5kz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2025",
+              "event_id": "rns-b3f414e2c26a5d88d5433830",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/PEG/directorpdmr-shareholding-2hte9fshbcvfrul.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2374W",
+              "source_url": "https://www.lse.co.uk/rns/PEG/directorpdmr-shareholding-2hte9fshbcvfrul.html",
+              "time": "3:33 pm"
             }
           ],
           "status": "AVAILABLE",

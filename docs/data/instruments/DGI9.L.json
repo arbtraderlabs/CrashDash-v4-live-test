@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.1,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 17.559999465942383,
                 "date": "2024-02-09",
                 "status": "EXACT"
               },
               "relative_activity": 3.1,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "DGI9.L:2024-02-09",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -22070,141 +22074,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-76821b718d77b46158d92cab",
               "headline": "Interim Results 6 month period ended 30 June 2026",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2053R",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jul 2026",
+              "event_id": "rns-26c6be4ab03d4e4e9422444c",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3757L",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html",
+              "time": "3:34 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-b3fd9427e8687538941e74c5",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6235H",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html",
+              "time": "2:21 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-afe1e6bf9b71033526338932",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7142G",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html",
+              "time": "4:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-2c8bfd9fb18b06e8efa262e6",
               "headline": "Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1123D",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-e2eba2bf02d9b721a81c99c9",
               "headline": "Director/PDMR Shareholding - Replacement",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-replacement-ca879yhu79hcm6n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1113D",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-replacement-ca879yhu79hcm6n.html",
+              "time": "5:02 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-8efc8707d674d81dd109bda2",
               "headline": "Total Voting Rights - Replacement",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-replacement-78uh68wkwqz1jax.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6528C",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-replacement-78uh68wkwqz1jax.html",
+              "time": "3:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-aeb35e8922fc87f55c5f80b8",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-rri33mjywlbjpmz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6385C",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-rri33mjywlbjpmz.html",
+              "time": "2:17 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-1a6873fd6256374e74d900bd",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-wx4e589i8tn1kfy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4538C",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-wx4e589i8tn1kfy.html",
+              "time": "4:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-362d7d4a9faabd7408e1a52a",
               "headline": "Investment Manager Share Purchase",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/investment-manager-share-purchase-uspsv57vvakz4kr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3858B",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/investment-manager-share-purchase-uspsv57vvakz4kr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Apr 2026",
+              "event_id": "rns-7a92b594e3b5e013a2420e05",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-29z8h5o5xbqbym6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3754B",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-29z8h5o5xbqbym6.html",
+              "time": "5:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-5a305b221d964620c6d5e437",
               "headline": "Announcement of Compulsory Redemption",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/announcement-of-compulsory-redemption-bxe0uvf2ijyail5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8413A",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/announcement-of-compulsory-redemption-bxe0uvf2ijyail5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-6d2204662bd45b7e2c2680a2",
               "headline": "First Compulsory Redemption and Timetable",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/first-compulsory-redemption-and-timetable-7wwbcmlcsxsa92p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4731A",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/first-compulsory-redemption-and-timetable-7wwbcmlcsxsa92p.html",
+              "time": "7:01 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-b0315b80e202acbfb82f2aa0",
               "headline": "Results for the full year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/results-for-the-full-year-ended-31-december-2025-33r3rbi3kqcsddx.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4819A",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/results-for-the-full-year-ended-31-december-2025-33r3rbi3kqcsddx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Apr 2026",
+              "event_id": "rns-049742f5d14aa8b21d209ba4",
               "headline": "Elio Networks Debt Facility",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/elio-networks-debt-facility-2iq7vpsv0lrnj48.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8889Z",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/elio-networks-debt-facility-2iq7vpsv0lrnj48.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2026",
+              "event_id": "rns-13fcf4acfd24842499fd06e8",
               "headline": "Verne Global Earn\u2011Out and Compulsory Redemption",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/verne-global-earn8209out-and-compulsory-redemption-96xuyrg7g4jqjq5.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2435Z",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/verne-global-earn8209out-and-compulsory-redemption-96xuyrg7g4jqjq5.html",
+              "time": "8:29 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-a17e3cb6a489f76cb44f496f",
               "headline": "Minority Shareholder Transactions in Arqiva Update",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-1qj203d1ocmbxrk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4677W",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-1qj203d1ocmbxrk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-a17e3cb6a489f76cb44f496f",
               "headline": "Minority Shareholder Transactions in Arqiva Update",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-qaiot2rll5hqqha.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4677W",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-qaiot2rll5hqqha.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-40b60e1e94956de42ff99816",
               "headline": "Result of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-general-meeting-2l7v0a1w5g7dhr7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4672W",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-general-meeting-2l7v0a1w5g7dhr7.html",
+              "time": "4:23 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-740dd71b038bae24be311dee",
               "headline": "Notice of Annual Results and Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-results-and-investor-presentation-ochtrkrhfvilzn3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4106U",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-results-and-investor-presentation-ochtrkrhfvilzn3.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -22272,20 +22376,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-02-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.1,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 17.559999465942383,
             "date": "2024-02-09",
             "status": "EXACT"
           },
           "relative_activity": 3.1,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "DGI9.L:2024-02-09",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -33305,141 +33413,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-76821b718d77b46158d92cab",
           "headline": "Interim Results 6 month period ended 30 June 2026",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2053R",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-07",
+          "event_id": "rns-26c6be4ab03d4e4e9422444c",
           "headline": "TR-1 Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3757L",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html",
+          "time": "3:34 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-b3fd9427e8687538941e74c5",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6235H",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html",
+          "time": "2:21 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-afe1e6bf9b71033526338932",
           "headline": "TR-1 Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7142G",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html",
+          "time": "4:16 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-2c8bfd9fb18b06e8efa262e6",
           "headline": "Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1123D",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-05",
+          "event_id": "rns-e2eba2bf02d9b721a81c99c9",
           "headline": "Director/PDMR Shareholding - Replacement",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-replacement-ca879yhu79hcm6n.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1113D",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-replacement-ca879yhu79hcm6n.html",
+          "time": "5:02 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-8efc8707d674d81dd109bda2",
           "headline": "Total Voting Rights - Replacement",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-replacement-78uh68wkwqz1jax.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6528C",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-replacement-78uh68wkwqz1jax.html",
+          "time": "3:28 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-aeb35e8922fc87f55c5f80b8",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-rri33mjywlbjpmz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6385C",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-rri33mjywlbjpmz.html",
+          "time": "2:17 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-1a6873fd6256374e74d900bd",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-wx4e589i8tn1kfy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4538C",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-wx4e589i8tn1kfy.html",
+          "time": "4:20 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-22",
+          "event_id": "rns-362d7d4a9faabd7408e1a52a",
           "headline": "Investment Manager Share Purchase",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/investment-manager-share-purchase-uspsv57vvakz4kr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3858B",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/investment-manager-share-purchase-uspsv57vvakz4kr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-21",
+          "event_id": "rns-7a92b594e3b5e013a2420e05",
           "headline": "TR-1 Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-29z8h5o5xbqbym6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3754B",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-29z8h5o5xbqbym6.html",
+          "time": "5:14 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-5a305b221d964620c6d5e437",
           "headline": "Announcement of Compulsory Redemption",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/announcement-of-compulsory-redemption-bxe0uvf2ijyail5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8413A",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/announcement-of-compulsory-redemption-bxe0uvf2ijyail5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-15",
+          "event_id": "rns-6d2204662bd45b7e2c2680a2",
           "headline": "First Compulsory Redemption and Timetable",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/first-compulsory-redemption-and-timetable-7wwbcmlcsxsa92p.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4731A",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/first-compulsory-redemption-and-timetable-7wwbcmlcsxsa92p.html",
+          "time": "7:01 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-15",
+          "event_id": "rns-b0315b80e202acbfb82f2aa0",
           "headline": "Results for the full year ended 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/results-for-the-full-year-ended-31-december-2025-33r3rbi3kqcsddx.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4819A",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/results-for-the-full-year-ended-31-december-2025-33r3rbi3kqcsddx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-10",
+          "event_id": "rns-049742f5d14aa8b21d209ba4",
           "headline": "Elio Networks Debt Facility",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/elio-networks-debt-facility-2iq7vpsv0lrnj48.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8889Z",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/elio-networks-debt-facility-2iq7vpsv0lrnj48.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-02",
+          "event_id": "rns-13fcf4acfd24842499fd06e8",
           "headline": "Verne Global Earn\u2011Out and Compulsory Redemption",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/verne-global-earn8209out-and-compulsory-redemption-96xuyrg7g4jqjq5.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2435Z",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/verne-global-earn8209out-and-compulsory-redemption-96xuyrg7g4jqjq5.html",
+          "time": "8:29 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-13",
+          "event_id": "rns-a17e3cb6a489f76cb44f496f",
           "headline": "Minority Shareholder Transactions in Arqiva Update",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-1qj203d1ocmbxrk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4677W",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-1qj203d1ocmbxrk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-13",
+          "event_id": "rns-a17e3cb6a489f76cb44f496f",
           "headline": "Minority Shareholder Transactions in Arqiva Update",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-qaiot2rll5hqqha.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4677W",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-qaiot2rll5hqqha.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-40b60e1e94956de42ff99816",
           "headline": "Result of General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-general-meeting-2l7v0a1w5g7dhr7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4672W",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-general-meeting-2l7v0a1w5g7dhr7.html",
+          "time": "4:23 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-26",
+          "event_id": "rns-740dd71b038bae24be311dee",
           "headline": "Notice of Annual Results and Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-results-and-investor-presentation-ochtrkrhfvilzn3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4106U",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-results-and-investor-presentation-ochtrkrhfvilzn3.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -33447,36 +33655,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-76821b718d77b46158d92cab",
           "headline": "Interim Results 6 month period ended 30 June 2026",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2053R",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-07",
+          "event_id": "rns-26c6be4ab03d4e4e9422444c",
           "headline": "TR-1 Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3757L",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html",
+          "time": "3:34 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-b3fd9427e8687538941e74c5",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6235H",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html",
+          "time": "2:21 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-afe1e6bf9b71033526338932",
           "headline": "TR-1 Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7142G",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html",
+          "time": "4:16 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-2c8bfd9fb18b06e8efa262e6",
           "headline": "Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1123D",
+          "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -33524,20 +33757,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.1,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 17.559999465942383,
                 "date": "2024-02-09",
                 "status": "EXACT"
               },
               "relative_activity": 3.1,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "DGI9.L:2024-02-09",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -55573,141 +55810,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-76821b718d77b46158d92cab",
               "headline": "Interim Results 6 month period ended 30 June 2026",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2053R",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/interim-results-6-month-period-ended-30-june-2026-izv9urt71hmyne4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jul 2026",
+              "event_id": "rns-26c6be4ab03d4e4e9422444c",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3757L",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-655lht8saacb82j.html",
+              "time": "3:34 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-b3fd9427e8687538941e74c5",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6235H",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-agm-q9dpssaix04682d.html",
+              "time": "2:21 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-afe1e6bf9b71033526338932",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7142G",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-hr5vru5p7pt8hra.html",
+              "time": "4:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-2c8bfd9fb18b06e8efa262e6",
               "headline": "Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1123D",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-general-meeting-a1f4jbw1n39hyp1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-e2eba2bf02d9b721a81c99c9",
               "headline": "Director/PDMR Shareholding - Replacement",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-replacement-ca879yhu79hcm6n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1113D",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-replacement-ca879yhu79hcm6n.html",
+              "time": "5:02 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-8efc8707d674d81dd109bda2",
               "headline": "Total Voting Rights - Replacement",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-replacement-78uh68wkwqz1jax.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6528C",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-replacement-78uh68wkwqz1jax.html",
+              "time": "3:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-aeb35e8922fc87f55c5f80b8",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-rri33mjywlbjpmz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6385C",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/total-voting-rights-rri33mjywlbjpmz.html",
+              "time": "2:17 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-1a6873fd6256374e74d900bd",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-wx4e589i8tn1kfy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4538C",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/directorpdmr-shareholding-wx4e589i8tn1kfy.html",
+              "time": "4:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-362d7d4a9faabd7408e1a52a",
               "headline": "Investment Manager Share Purchase",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/investment-manager-share-purchase-uspsv57vvakz4kr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3858B",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/investment-manager-share-purchase-uspsv57vvakz4kr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Apr 2026",
+              "event_id": "rns-7a92b594e3b5e013a2420e05",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-29z8h5o5xbqbym6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3754B",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/tr-1-notification-of-major-holdings-29z8h5o5xbqbym6.html",
+              "time": "5:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-5a305b221d964620c6d5e437",
               "headline": "Announcement of Compulsory Redemption",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/announcement-of-compulsory-redemption-bxe0uvf2ijyail5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8413A",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/announcement-of-compulsory-redemption-bxe0uvf2ijyail5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-6d2204662bd45b7e2c2680a2",
               "headline": "First Compulsory Redemption and Timetable",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/first-compulsory-redemption-and-timetable-7wwbcmlcsxsa92p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4731A",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/first-compulsory-redemption-and-timetable-7wwbcmlcsxsa92p.html",
+              "time": "7:01 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-b0315b80e202acbfb82f2aa0",
               "headline": "Results for the full year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/results-for-the-full-year-ended-31-december-2025-33r3rbi3kqcsddx.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4819A",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/results-for-the-full-year-ended-31-december-2025-33r3rbi3kqcsddx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Apr 2026",
+              "event_id": "rns-049742f5d14aa8b21d209ba4",
               "headline": "Elio Networks Debt Facility",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/elio-networks-debt-facility-2iq7vpsv0lrnj48.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8889Z",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/elio-networks-debt-facility-2iq7vpsv0lrnj48.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2026",
+              "event_id": "rns-13fcf4acfd24842499fd06e8",
               "headline": "Verne Global Earn\u2011Out and Compulsory Redemption",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/verne-global-earn8209out-and-compulsory-redemption-96xuyrg7g4jqjq5.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2435Z",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/verne-global-earn8209out-and-compulsory-redemption-96xuyrg7g4jqjq5.html",
+              "time": "8:29 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-a17e3cb6a489f76cb44f496f",
               "headline": "Minority Shareholder Transactions in Arqiva Update",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-1qj203d1ocmbxrk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4677W",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-1qj203d1ocmbxrk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-a17e3cb6a489f76cb44f496f",
               "headline": "Minority Shareholder Transactions in Arqiva Update",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-qaiot2rll5hqqha.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4677W",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/minority-shareholder-transactions-in-arqiva-update-qaiot2rll5hqqha.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-40b60e1e94956de42ff99816",
               "headline": "Result of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-general-meeting-2l7v0a1w5g7dhr7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4672W",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/result-of-general-meeting-2l7v0a1w5g7dhr7.html",
+              "time": "4:23 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-740dd71b038bae24be311dee",
               "headline": "Notice of Annual Results and Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-results-and-investor-presentation-ochtrkrhfvilzn3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4106U",
+              "source_url": "https://www.lse.co.uk/rns/DGI9/notice-of-annual-results-and-investor-presentation-ochtrkrhfvilzn3.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

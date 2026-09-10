@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.01549999974668026,
                 "date": "2022-10-14",
                 "status": "EXACT"
               },
               "relative_activity": 2.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNPL.L:2022-10-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.46,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.016249999403953552,
                 "date": "2022-10-17",
                 "status": "EXACT"
               },
               "relative_activity": 2.46,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNPL.L:2022-10-17",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -23113,141 +23121,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-585ebceb1e357c59bb3bc386",
               "headline": "Appointment Company Secretary- Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3165S",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-d464b72103d223d6cf72ca54",
               "headline": "\u00a3300,000 Convertible Loan Notes & Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0551K",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-5bcd64995d2106aca2643a5a",
               "headline": "Change in Registered Office Address of Pineapple",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5297I",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-e6ddd411391afc22eca2a9fc",
               "headline": "GM Statement",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3396F",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html",
+              "time": "4:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-9a1d6a0beae1c27941a670e8",
               "headline": "Notice of GM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6766C",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Apr 2026",
+              "event_id": "rns-4f3e181f925605d6ad727580",
               "headline": "Annual Financial Report Delay",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-delay-przj5x2qwb0xjqm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7188B",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-delay-przj5x2qwb0xjqm.html",
+              "time": "6:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-d7be58b5bbd204a174c2b003",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/directorate-change-r7xqs2ohm39x450.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6748T",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/directorate-change-r7xqs2ohm39x450.html",
+              "time": "6:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-44e09778ce3bcded807f718d",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-i0twokljnybz5eq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4882B",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-i0twokljnybz5eq.html",
+              "time": "6:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2025",
+              "event_id": "rns-30cc8a7b2fc4eada6f67a47a",
               "headline": "Restoration of Listing",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/restoration-of-listing-c8cm176qehzhi0h.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9002X",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/restoration-of-listing-c8cm176qehzhi0h.html",
+              "time": "8:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2025",
+              "event_id": "rns-e0030112a9efd6167086651d",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-1u58h0nv9w1w03y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9728S",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-1u58h0nv9w1w03y.html",
+              "time": "8:06 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2025",
+              "event_id": "rns-592e274d6dbb7be1a413896f",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-dnm50dkvybyh0ne.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6431P",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-dnm50dkvybyh0ne.html",
+              "time": "5:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-04bd317e3083ba0fef9bcbdf",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ig8yw208atqlmxg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7999O",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ig8yw208atqlmxg.html",
+              "time": "5:30 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th May 2025",
+              "event_id": "rns-8fdec1a0b69f0b890168136d",
               "headline": "Appointment of Joint Broker",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-of-joint-broker-v17ufrnb2s1hacm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9534H",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-of-joint-broker-v17ufrnb2s1hacm.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd May 2025",
+              "event_id": "rns-0f7749ed681f0eb210d217a1",
               "headline": "Termination of Proposed Acquisition",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/termination-of-proposed-acquisition-qus4h3i75w8ilda.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1518H",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/termination-of-proposed-acquisition-qus4h3i75w8ilda.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2025",
+              "event_id": "rns-8070df557ccc29e69c5dc6c4",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-oobirkqu8prt798.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6927G",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-oobirkqu8prt798.html",
+              "time": "8:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2024",
+              "event_id": "rns-44858855b4f055b3070ac651",
               "headline": "Proposed Reverse Takeover of FUSE-AI GmbH",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/proposed-reverse-takeover-of-fuse-ai-gmbh-ycu343fan849fy7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1923R",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/proposed-reverse-takeover-of-fuse-ai-gmbh-ycu343fan849fy7.html",
+              "time": "6:27 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Sep 2024",
+              "event_id": "rns-4394b47fca868b1005782516",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-h4khr3h41rf2dhz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6544F",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-h4khr3h41rf2dhz.html",
+              "time": "5:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jun 2024",
+              "event_id": "rns-7baa93c975c91dd24b3d9715",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-hcpo4w17fk6eb9o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2440U",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-hcpo4w17fk6eb9o.html",
+              "time": "6:18 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2024",
+              "event_id": "rns-96e2ed62cc106aa8b864ce83",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-zqz90b6xtpj3utr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8730Q",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-zqz90b6xtpj3utr.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2024",
+              "event_id": "rns-c52b99ea2eef154174edc7fe",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ponrgihdarizesk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4855M",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ponrgihdarizesk.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -23315,39 +23423,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-10-14",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.88,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.01549999974668026,
             "date": "2022-10-14",
             "status": "EXACT"
           },
           "relative_activity": 2.88,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNPL.L:2022-10-14",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-10-17",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.46,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.016249999403953552,
             "date": "2022-10-17",
             "status": "EXACT"
           },
           "relative_activity": 2.46,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNPL.L:2022-10-17",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -34879,141 +34995,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-585ebceb1e357c59bb3bc386",
           "headline": "Appointment Company Secretary- Registered Office",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3165S",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-29",
+          "event_id": "rns-d464b72103d223d6cf72ca54",
           "headline": "\u00a3300,000 Convertible Loan Notes & Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0551K",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-5bcd64995d2106aca2643a5a",
           "headline": "Change in Registered Office Address of Pineapple",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5297I",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-e6ddd411391afc22eca2a9fc",
           "headline": "GM Statement",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3396F",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html",
+          "time": "4:14 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-9a1d6a0beae1c27941a670e8",
           "headline": "Notice of GM",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6766C",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-23",
+          "event_id": "rns-4f3e181f925605d6ad727580",
           "headline": "Annual Financial Report Delay",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-delay-przj5x2qwb0xjqm.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7188B",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-delay-przj5x2qwb0xjqm.html",
+          "time": "6:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-19",
+          "event_id": "rns-d7be58b5bbd204a174c2b003",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/directorate-change-r7xqs2ohm39x450.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6748T",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/directorate-change-r7xqs2ohm39x450.html",
+          "time": "6:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-30",
+          "event_id": "rns-44e09778ce3bcded807f718d",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-i0twokljnybz5eq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4882B",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-i0twokljnybz5eq.html",
+          "time": "6:00 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-04",
+          "event_id": "rns-30cc8a7b2fc4eada6f67a47a",
           "headline": "Restoration of Listing",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/restoration-of-listing-c8cm176qehzhi0h.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9002X",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/restoration-of-listing-c8cm176qehzhi0h.html",
+          "time": "8:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-29",
+          "event_id": "rns-e0030112a9efd6167086651d",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-1u58h0nv9w1w03y.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9728S",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-1u58h0nv9w1w03y.html",
+          "time": "8:06 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-03",
+          "event_id": "rns-592e274d6dbb7be1a413896f",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-dnm50dkvybyh0ne.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6431P",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-dnm50dkvybyh0ne.html",
+          "time": "5:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-30",
+          "event_id": "rns-04bd317e3083ba0fef9bcbdf",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ig8yw208atqlmxg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7999O",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ig8yw208atqlmxg.html",
+          "time": "5:30 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-09",
+          "event_id": "rns-8fdec1a0b69f0b890168136d",
           "headline": "Appointment of Joint Broker",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-of-joint-broker-v17ufrnb2s1hacm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9534H",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-of-joint-broker-v17ufrnb2s1hacm.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-02",
+          "event_id": "rns-0f7749ed681f0eb210d217a1",
           "headline": "Termination of Proposed Acquisition",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/termination-of-proposed-acquisition-qus4h3i75w8ilda.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1518H",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/termination-of-proposed-acquisition-qus4h3i75w8ilda.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-30",
+          "event_id": "rns-8070df557ccc29e69c5dc6c4",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-oobirkqu8prt798.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6927G",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-oobirkqu8prt798.html",
+          "time": "8:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-23",
+          "event_id": "rns-44858855b4f055b3070ac651",
           "headline": "Proposed Reverse Takeover of FUSE-AI GmbH",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/proposed-reverse-takeover-of-fuse-ai-gmbh-ycu343fan849fy7.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1923R",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/proposed-reverse-takeover-of-fuse-ai-gmbh-ycu343fan849fy7.html",
+          "time": "6:27 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-25",
+          "event_id": "rns-4394b47fca868b1005782516",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-h4khr3h41rf2dhz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6544F",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-h4khr3h41rf2dhz.html",
+          "time": "5:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-06-27",
+          "event_id": "rns-7baa93c975c91dd24b3d9715",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-hcpo4w17fk6eb9o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2440U",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-hcpo4w17fk6eb9o.html",
+          "time": "6:18 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-06-03",
+          "event_id": "rns-96e2ed62cc106aa8b864ce83",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-zqz90b6xtpj3utr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8730Q",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-zqz90b6xtpj3utr.html",
+          "time": "12:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-04-30",
+          "event_id": "rns-c52b99ea2eef154174edc7fe",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ponrgihdarizesk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4855M",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ponrgihdarizesk.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -35021,36 +35237,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-585ebceb1e357c59bb3bc386",
           "headline": "Appointment Company Secretary- Registered Office",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3165S",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-29",
+          "event_id": "rns-d464b72103d223d6cf72ca54",
           "headline": "\u00a3300,000 Convertible Loan Notes & Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0551K",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-5bcd64995d2106aca2643a5a",
           "headline": "Change in Registered Office Address of Pineapple",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5297I",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-e6ddd411391afc22eca2a9fc",
           "headline": "GM Statement",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3396F",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html",
+          "time": "4:14 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-9a1d6a0beae1c27941a670e8",
           "headline": "Notice of GM",
-          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6766C",
+          "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -35098,39 +35339,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.01549999974668026,
                 "date": "2022-10-14",
                 "status": "EXACT"
               },
               "relative_activity": 2.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNPL.L:2022-10-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.46,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.016249999403953552,
                 "date": "2022-10-17",
                 "status": "EXACT"
               },
               "relative_activity": 2.46,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNPL.L:2022-10-17",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -58190,141 +58439,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-585ebceb1e357c59bb3bc386",
               "headline": "Appointment Company Secretary- Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3165S",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-company-secretary-registered-office-nszk0zttm0mksrk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-d464b72103d223d6cf72ca54",
               "headline": "\u00a3300,000 Convertible Loan Notes & Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0551K",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/163300000-convertible-loan-notes-corporate-update-wx7da4fsf02s0iz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-5bcd64995d2106aca2643a5a",
               "headline": "Change in Registered Office Address of Pineapple",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5297I",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/change-in-registered-office-address-of-pineapple-ems3dfmczffgop9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-e6ddd411391afc22eca2a9fc",
               "headline": "GM Statement",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3396F",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/gm-statement-9h87912ipzqwedy.html",
+              "time": "4:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-9a1d6a0beae1c27941a670e8",
               "headline": "Notice of GM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6766C",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-gm-lv8qzyagyv5qwf7.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Apr 2026",
+              "event_id": "rns-4f3e181f925605d6ad727580",
               "headline": "Annual Financial Report Delay",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-delay-przj5x2qwb0xjqm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7188B",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-delay-przj5x2qwb0xjqm.html",
+              "time": "6:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-d7be58b5bbd204a174c2b003",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/directorate-change-r7xqs2ohm39x450.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6748T",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/directorate-change-r7xqs2ohm39x450.html",
+              "time": "6:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-44e09778ce3bcded807f718d",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-i0twokljnybz5eq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4882B",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-i0twokljnybz5eq.html",
+              "time": "6:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2025",
+              "event_id": "rns-30cc8a7b2fc4eada6f67a47a",
               "headline": "Restoration of Listing",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/restoration-of-listing-c8cm176qehzhi0h.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9002X",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/restoration-of-listing-c8cm176qehzhi0h.html",
+              "time": "8:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2025",
+              "event_id": "rns-e0030112a9efd6167086651d",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-1u58h0nv9w1w03y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9728S",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-1u58h0nv9w1w03y.html",
+              "time": "8:06 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2025",
+              "event_id": "rns-592e274d6dbb7be1a413896f",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-dnm50dkvybyh0ne.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6431P",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-dnm50dkvybyh0ne.html",
+              "time": "5:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-04bd317e3083ba0fef9bcbdf",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ig8yw208atqlmxg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7999O",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ig8yw208atqlmxg.html",
+              "time": "5:30 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th May 2025",
+              "event_id": "rns-8fdec1a0b69f0b890168136d",
               "headline": "Appointment of Joint Broker",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-of-joint-broker-v17ufrnb2s1hacm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9534H",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/appointment-of-joint-broker-v17ufrnb2s1hacm.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd May 2025",
+              "event_id": "rns-0f7749ed681f0eb210d217a1",
               "headline": "Termination of Proposed Acquisition",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/termination-of-proposed-acquisition-qus4h3i75w8ilda.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1518H",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/termination-of-proposed-acquisition-qus4h3i75w8ilda.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2025",
+              "event_id": "rns-8070df557ccc29e69c5dc6c4",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-oobirkqu8prt798.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6927G",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-oobirkqu8prt798.html",
+              "time": "8:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2024",
+              "event_id": "rns-44858855b4f055b3070ac651",
               "headline": "Proposed Reverse Takeover of FUSE-AI GmbH",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/proposed-reverse-takeover-of-fuse-ai-gmbh-ycu343fan849fy7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1923R",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/proposed-reverse-takeover-of-fuse-ai-gmbh-ycu343fan849fy7.html",
+              "time": "6:27 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Sep 2024",
+              "event_id": "rns-4394b47fca868b1005782516",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-h4khr3h41rf2dhz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6544F",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/half-year-report-h4khr3h41rf2dhz.html",
+              "time": "5:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jun 2024",
+              "event_id": "rns-7baa93c975c91dd24b3d9715",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-hcpo4w17fk6eb9o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2440U",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/result-of-agm-hcpo4w17fk6eb9o.html",
+              "time": "6:18 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2024",
+              "event_id": "rns-96e2ed62cc106aa8b864ce83",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-zqz90b6xtpj3utr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8730Q",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/notice-of-agm-zqz90b6xtpj3utr.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2024",
+              "event_id": "rns-c52b99ea2eef154174edc7fe",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ponrgihdarizesk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4855M",
+              "source_url": "https://www.lse.co.uk/rns/PNPL/annual-financial-report-ponrgihdarizesk.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

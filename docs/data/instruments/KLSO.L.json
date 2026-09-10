@@ -21,96 +21,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.299999952316284,
                 "date": "2023-06-05",
                 "status": "EXACT"
               },
               "relative_activity": 2.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.62,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.299999952316284,
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.62,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.11,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2023-06-13",
                 "status": "EXACT"
               },
               "relative_activity": 2.11,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.89,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2023-06-14",
                 "status": "EXACT"
               },
               "relative_activity": 1.89,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.86,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2,
                 "date": "2023-10-04",
                 "status": "EXACT"
               },
               "relative_activity": 2.86,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-10-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -21074,141 +21094,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2026",
+              "event_id": "rns-4360acd95a4a2d5cbe6f92e7",
               "headline": "Update on Investment in NCC Group plc",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8645P",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-5b7aa0072a0c4f13bcff8181",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0706P",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html",
+              "time": "9:55 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jan 2026",
+              "event_id": "rns-97d606b98b487786c713b69a",
               "headline": "New investment in Saga plc",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7176N",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Dec 2025",
+              "event_id": "rns-96a972d4eefba85bf09fdde0",
               "headline": "Result of Placing and Subscription",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8424L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Dec 2025",
+              "event_id": "rns-074fa24cccc6b09605758bd4",
               "headline": "Upsizing of Placing and Subscription",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6628L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-10a952a2dd5f17fff734f1ab",
               "headline": "Proposed Placing and Subscription",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/proposed-placing-and-subscription-e9adr3gtgje0fv5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6402L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/proposed-placing-and-subscription-e9adr3gtgje0fv5.html",
+              "time": "4:35 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-c727579451116eecce2b6a5b",
               "headline": "Interim results for six months ended 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2025-if6lrahr6ranc9a.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2732B",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2025-if6lrahr6ranc9a.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-e54447890971d6c764876117",
               "headline": "AGM Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/agm-trading-update-9ouv4224jnrm4vy.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2636O",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/agm-trading-update-9ouv4224jnrm4vy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-950aaa1bd8ffb6d6e2458636",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-agm-w1b265bei7gthyy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4280O",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-agm-w1b265bei7gthyy.html",
+              "time": "4:17 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th May 2025",
+              "event_id": "rns-dc4cff86ae235fbe5d6cc2a7",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/notice-of-agm-ek2z79cflc52glr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7809K",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/notice-of-agm-ek2z79cflc52glr.html",
+              "time": "9:06 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd May 2025",
+              "event_id": "rns-76243ecb0c68686da09f681f",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/directorpdmr-shareholding-s8xdgwa2lzeihlo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9524J",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/directorpdmr-shareholding-s8xdgwa2lzeihlo.html",
+              "time": "7:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th May 2025",
+              "event_id": "rns-59da0edfffb7bacd3144e459",
               "headline": "Purchase of Shares & PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/purchase-of-shares-pdmr-shareholding-pjazii0dphizg7d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9203I",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/purchase-of-shares-pdmr-shareholding-pjazii0dphizg7d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Apr 2025",
+              "event_id": "rns-8a893e20d219076701d85416",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/transaction-in-own-shares-2hgo0f0uhhaotbd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9438F",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/transaction-in-own-shares-2hgo0f0uhhaotbd.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Apr 2025",
+              "event_id": "rns-713b6a79fba119231f615dbe",
               "headline": "FY24 Results",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/fy24-results-gzpjfhr6cjkr9kp.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7535F",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/fy24-results-gzpjfhr6cjkr9kp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Nov 2024",
+              "event_id": "rns-aeebd44922bfdb8c6fcd5f53",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/holdings-in-company-r24355vz4nssoz5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KLSO/holdings-in-company-r24355vz4nssoz5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Nov 2024",
+              "event_id": "rns-562e6c2d6535f981c0678435",
               "headline": "Oliver Hemsley Appointment & Selkirk IPO Update",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/oliver-hemsley-appointment-selkirk-ipo-update-du2gbw2i5svaenx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2640L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/oliver-hemsley-appointment-selkirk-ipo-update-du2gbw2i5svaenx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2024",
+              "event_id": "rns-d1723abe44f719a3ef30b28d",
               "headline": "Update on Kelso Investments",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-kelso-investments-bu5vmz1jeoi00ot.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5080I",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-kelso-investments-bu5vmz1jeoi00ot.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Oct 2024",
+              "event_id": "rns-1847e220d387060f28dc4df1",
               "headline": "Comment on THG Plc",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/comment-on-thg-plc-f97awjjxajgjcnu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7686H",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/comment-on-thg-plc-f97awjjxajgjcnu.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Oct 2024",
+              "event_id": "rns-c172729cf1feedbf5554ee23",
               "headline": "Listing Rule 9.6.14(1) announcement",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/listing-rule-96141-announcement-lstufh8yyq590jm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4161G",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/listing-rule-96141-announcement-lstufh8yyq590jm.html",
+              "time": "8:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2024",
+              "event_id": "rns-25e964e77dc1eecd9b13dddd",
               "headline": "Interim results for six months ended 30 June 2024",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2024-nqfkh4ac0po7eic.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1601G",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2024-nqfkh4ac0po7eic.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -21276,96 +21396,116 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.23,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.299999952316284,
             "date": "2023-06-05",
             "status": "EXACT"
           },
           "relative_activity": 2.23,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KLSO.L:2023-06-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.62,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.299999952316284,
             "date": "2023-06-09",
             "status": "EXACT"
           },
           "relative_activity": 1.62,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KLSO.L:2023-06-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-13",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.11,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.25,
             "date": "2023-06-13",
             "status": "EXACT"
           },
           "relative_activity": 2.11,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KLSO.L:2023-06-13",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-14",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.89,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.25,
             "date": "2023-06-14",
             "status": "EXACT"
           },
           "relative_activity": 1.89,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KLSO.L:2023-06-14",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.86,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2,
             "date": "2023-10-04",
             "status": "EXACT"
           },
           "relative_activity": 2.86,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KLSO.L:2023-10-04",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -31849,141 +31989,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-22",
+          "event_id": "rns-4360acd95a4a2d5cbe6f92e7",
           "headline": "Update on Investment in NCC Group plc",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8645P",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-15",
+          "event_id": "rns-5b7aa0072a0c4f13bcff8181",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0706P",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html",
+          "time": "9:55 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-06",
+          "event_id": "rns-97d606b98b487786c713b69a",
           "headline": "New investment in Saga plc",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7176N",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-17",
+          "event_id": "rns-96a972d4eefba85bf09fdde0",
           "headline": "Result of Placing and Subscription",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8424L",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-16",
+          "event_id": "rns-074fa24cccc6b09605758bd4",
           "headline": "Upsizing of Placing and Subscription",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6628L",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-15",
+          "event_id": "rns-10a952a2dd5f17fff734f1ab",
           "headline": "Proposed Placing and Subscription",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/proposed-placing-and-subscription-e9adr3gtgje0fv5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6402L",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/proposed-placing-and-subscription-e9adr3gtgje0fv5.html",
+          "time": "4:35 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-30",
+          "event_id": "rns-c727579451116eecce2b6a5b",
           "headline": "Interim results for six months ended 30 June 2025",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2025-if6lrahr6ranc9a.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2732B",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2025-if6lrahr6ranc9a.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-25",
+          "event_id": "rns-e54447890971d6c764876117",
           "headline": "AGM Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/agm-trading-update-9ouv4224jnrm4vy.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2636O",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/agm-trading-update-9ouv4224jnrm4vy.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-25",
+          "event_id": "rns-950aaa1bd8ffb6d6e2458636",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-agm-w1b265bei7gthyy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4280O",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-agm-w1b265bei7gthyy.html",
+          "time": "4:17 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-30",
+          "event_id": "rns-dc4cff86ae235fbe5d6cc2a7",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/notice-of-agm-ek2z79cflc52glr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7809K",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/notice-of-agm-ek2z79cflc52glr.html",
+          "time": "9:06 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-23",
+          "event_id": "rns-76243ecb0c68686da09f681f",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/directorpdmr-shareholding-s8xdgwa2lzeihlo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9524J",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/directorpdmr-shareholding-s8xdgwa2lzeihlo.html",
+          "time": "7:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-16",
+          "event_id": "rns-59da0edfffb7bacd3144e459",
           "headline": "Purchase of Shares & PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/purchase-of-shares-pdmr-shareholding-pjazii0dphizg7d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9203I",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/purchase-of-shares-pdmr-shareholding-pjazii0dphizg7d.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-24",
+          "event_id": "rns-8a893e20d219076701d85416",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/transaction-in-own-shares-2hgo0f0uhhaotbd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9438F",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/transaction-in-own-shares-2hgo0f0uhhaotbd.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-23",
+          "event_id": "rns-713b6a79fba119231f615dbe",
           "headline": "FY24 Results",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/fy24-results-gzpjfhr6cjkr9kp.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7535F",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/fy24-results-gzpjfhr6cjkr9kp.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-27",
+          "event_id": "rns-aeebd44922bfdb8c6fcd5f53",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/holdings-in-company-r24355vz4nssoz5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KLSO/holdings-in-company-r24355vz4nssoz5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-07",
+          "event_id": "rns-562e6c2d6535f981c0678435",
           "headline": "Oliver Hemsley Appointment & Selkirk IPO Update",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/oliver-hemsley-appointment-selkirk-ipo-update-du2gbw2i5svaenx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2640L",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/oliver-hemsley-appointment-selkirk-ipo-update-du2gbw2i5svaenx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-17",
+          "event_id": "rns-d1723abe44f719a3ef30b28d",
           "headline": "Update on Kelso Investments",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-kelso-investments-bu5vmz1jeoi00ot.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5080I",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-kelso-investments-bu5vmz1jeoi00ot.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-10",
+          "event_id": "rns-1847e220d387060f28dc4df1",
           "headline": "Comment on THG Plc",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/comment-on-thg-plc-f97awjjxajgjcnu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7686H",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/comment-on-thg-plc-f97awjjxajgjcnu.html",
+          "time": "5:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-01",
+          "event_id": "rns-c172729cf1feedbf5554ee23",
           "headline": "Listing Rule 9.6.14(1) announcement",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/listing-rule-96141-announcement-lstufh8yyq590jm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4161G",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/listing-rule-96141-announcement-lstufh8yyq590jm.html",
+          "time": "8:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-30",
+          "event_id": "rns-25e964e77dc1eecd9b13dddd",
           "headline": "Interim results for six months ended 30 June 2024",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2024-nqfkh4ac0po7eic.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1601G",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2024-nqfkh4ac0po7eic.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -31991,36 +32231,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-22",
+          "event_id": "rns-4360acd95a4a2d5cbe6f92e7",
           "headline": "Update on Investment in NCC Group plc",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8645P",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-15",
+          "event_id": "rns-5b7aa0072a0c4f13bcff8181",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0706P",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html",
+          "time": "9:55 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-06",
+          "event_id": "rns-97d606b98b487786c713b69a",
           "headline": "New investment in Saga plc",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7176N",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-17",
+          "event_id": "rns-96a972d4eefba85bf09fdde0",
           "headline": "Result of Placing and Subscription",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8424L",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-16",
+          "event_id": "rns-074fa24cccc6b09605758bd4",
           "headline": "Upsizing of Placing and Subscription",
-          "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6628L",
+          "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -32068,96 +32333,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.299999952316284,
                 "date": "2023-06-05",
                 "status": "EXACT"
               },
               "relative_activity": 2.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.62,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.299999952316284,
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.62,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.11,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2023-06-13",
                 "status": "EXACT"
               },
               "relative_activity": 2.11,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.89,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2023-06-14",
                 "status": "EXACT"
               },
               "relative_activity": 1.89,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-06-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.86,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2,
                 "date": "2023-10-04",
                 "status": "EXACT"
               },
               "relative_activity": 2.86,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KLSO.L:2023-10-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -53121,141 +53406,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2026",
+              "event_id": "rns-4360acd95a4a2d5cbe6f92e7",
               "headline": "Update on Investment in NCC Group plc",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8645P",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-investment-in-ncc-group-plc-dolkfig5laewzyr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-5b7aa0072a0c4f13bcff8181",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0706P",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/notification-of-major-holdings-zb29o0mzvh45y6p.html",
+              "time": "9:55 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jan 2026",
+              "event_id": "rns-97d606b98b487786c713b69a",
               "headline": "New investment in Saga plc",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7176N",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/new-investment-in-saga-plc-fts8df37liwt9vm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Dec 2025",
+              "event_id": "rns-96a972d4eefba85bf09fdde0",
               "headline": "Result of Placing and Subscription",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8424L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-placing-and-subscription-sxuh33s3wbeibxi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Dec 2025",
+              "event_id": "rns-074fa24cccc6b09605758bd4",
               "headline": "Upsizing of Placing and Subscription",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6628L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/upsizing-of-placing-and-subscription-frp3d1ljd9yda7h.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-10a952a2dd5f17fff734f1ab",
               "headline": "Proposed Placing and Subscription",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/proposed-placing-and-subscription-e9adr3gtgje0fv5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6402L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/proposed-placing-and-subscription-e9adr3gtgje0fv5.html",
+              "time": "4:35 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2025",
+              "event_id": "rns-c727579451116eecce2b6a5b",
               "headline": "Interim results for six months ended 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2025-if6lrahr6ranc9a.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2732B",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2025-if6lrahr6ranc9a.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-e54447890971d6c764876117",
               "headline": "AGM Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/agm-trading-update-9ouv4224jnrm4vy.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2636O",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/agm-trading-update-9ouv4224jnrm4vy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2025",
+              "event_id": "rns-950aaa1bd8ffb6d6e2458636",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-agm-w1b265bei7gthyy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4280O",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/result-of-agm-w1b265bei7gthyy.html",
+              "time": "4:17 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th May 2025",
+              "event_id": "rns-dc4cff86ae235fbe5d6cc2a7",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/notice-of-agm-ek2z79cflc52glr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7809K",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/notice-of-agm-ek2z79cflc52glr.html",
+              "time": "9:06 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd May 2025",
+              "event_id": "rns-76243ecb0c68686da09f681f",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/directorpdmr-shareholding-s8xdgwa2lzeihlo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9524J",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/directorpdmr-shareholding-s8xdgwa2lzeihlo.html",
+              "time": "7:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th May 2025",
+              "event_id": "rns-59da0edfffb7bacd3144e459",
               "headline": "Purchase of Shares & PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/purchase-of-shares-pdmr-shareholding-pjazii0dphizg7d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9203I",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/purchase-of-shares-pdmr-shareholding-pjazii0dphizg7d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Apr 2025",
+              "event_id": "rns-8a893e20d219076701d85416",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/transaction-in-own-shares-2hgo0f0uhhaotbd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9438F",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/transaction-in-own-shares-2hgo0f0uhhaotbd.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Apr 2025",
+              "event_id": "rns-713b6a79fba119231f615dbe",
               "headline": "FY24 Results",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/fy24-results-gzpjfhr6cjkr9kp.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7535F",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/fy24-results-gzpjfhr6cjkr9kp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Nov 2024",
+              "event_id": "rns-aeebd44922bfdb8c6fcd5f53",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/holdings-in-company-r24355vz4nssoz5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KLSO/holdings-in-company-r24355vz4nssoz5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Nov 2024",
+              "event_id": "rns-562e6c2d6535f981c0678435",
               "headline": "Oliver Hemsley Appointment & Selkirk IPO Update",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/oliver-hemsley-appointment-selkirk-ipo-update-du2gbw2i5svaenx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2640L",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/oliver-hemsley-appointment-selkirk-ipo-update-du2gbw2i5svaenx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2024",
+              "event_id": "rns-d1723abe44f719a3ef30b28d",
               "headline": "Update on Kelso Investments",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-kelso-investments-bu5vmz1jeoi00ot.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5080I",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/update-on-kelso-investments-bu5vmz1jeoi00ot.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Oct 2024",
+              "event_id": "rns-1847e220d387060f28dc4df1",
               "headline": "Comment on THG Plc",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/comment-on-thg-plc-f97awjjxajgjcnu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7686H",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/comment-on-thg-plc-f97awjjxajgjcnu.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Oct 2024",
+              "event_id": "rns-c172729cf1feedbf5554ee23",
               "headline": "Listing Rule 9.6.14(1) announcement",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/listing-rule-96141-announcement-lstufh8yyq590jm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4161G",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/listing-rule-96141-announcement-lstufh8yyq590jm.html",
+              "time": "8:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2024",
+              "event_id": "rns-25e964e77dc1eecd9b13dddd",
               "headline": "Interim results for six months ended 30 June 2024",
-              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2024-nqfkh4ac0po7eic.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1601G",
+              "source_url": "https://www.lse.co.uk/rns/KLSO/interim-results-for-six-months-ended-30-june-2024-nqfkh4ac0po7eic.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

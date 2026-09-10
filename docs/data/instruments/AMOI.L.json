@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-04-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.96,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2,
                 "date": "2022-04-01",
                 "status": "EXACT"
               },
               "relative_activity": 4.96,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AMOI.L:2022-04-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.8,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.8999999761581421,
                 "date": "2025-08-18",
                 "status": "EXACT"
               },
               "relative_activity": 3.8,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AMOI.L:2025-08-18",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-09-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 7.11,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.824999988079071,
                 "date": "2025-09-17",
                 "status": "EXACT"
               },
               "relative_activity": 7.11,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "AMOI.L:2025-09-17",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             }
@@ -23852,141 +23864,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-9a737e9d1d9d6d72d47df14b",
               "headline": "ID4 AG signs 3 year digital transformation contract",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-3f95260e8111c7bde9b6f2af",
               "headline": "AMOI announces pre-RTO Subscriptions",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-788913024ec4dff159a1b278",
               "headline": "Appointment of CFO",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-c5a57f2a0f5e950d401e9888",
               "headline": "Anemoi International Ltd: Results of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-5b8a5c10cc371d0cdefb1544",
               "headline": "Anemoi International Ltd: Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html",
+              "time": "10:17 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-103cac57e36ddc10974bca08",
               "headline": "Anemoi International Ltd: Final Results For Year Ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-final-results-for-year-ended-31-december-2025-fp7wjevwao7u2nq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-final-results-for-year-ended-31-december-2025-fp7wjevwao7u2nq.html",
+              "time": "10:40 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-35137c79bec482e6dbd03880",
               "headline": "Anemoi International Ltd: Appointment of Sponsor and Bookrunner",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-appointment-of-sponsor-and-bookrunner-wqcq8sxozrly85y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-appointment-of-sponsor-and-bookrunner-wqcq8sxozrly85y.html",
+              "time": "7:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-82af5b7f593e4311aa3439e0",
               "headline": "Anemoi enters into amended and updated binding Sale and Purchase Agreement to acquire Trasna, Share Consolidation and Warrantholder Surrender and Subscription Offer",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-amended-and-updated-binding-sale-and-purchase-agreement-to-acquire-trasna-share-c-l9s8gvy7qdioiwd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-amended-and-updated-binding-sale-and-purchase-agreement-to-acquire-trasna-share-c-l9s8gvy7qdioiwd.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Mar 2026",
+              "event_id": "rns-7c87f364ac9254f751a2e789",
               "headline": "Kigen / Trasna JV & Reverse Takeover Update",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/kigen-trasna-jv-reverse-takeover-update-qj49tvq87xnkq8z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/kigen-trasna-jv-reverse-takeover-update-qj49tvq87xnkq8z.html",
+              "time": "7:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-bf183367ab50a13897241244",
               "headline": "Cessation of Crypto Treasury Management Strategy",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/cessation-of-crypto-treasury-management-strategy-btio62yrvw7dzxm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/cessation-of-crypto-treasury-management-strategy-btio62yrvw7dzxm.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-8136213ec1185fad979048b0",
               "headline": "Admission to Trading on the American OTCQB Market",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/admission-to-trading-on-the-american-otcqb-market-x8l0dmufadk0cux.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/admission-to-trading-on-the-american-otcqb-market-x8l0dmufadk0cux.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-0f8a4b7ab70417a73e5fb782",
               "headline": "Anemoi International Ltd: Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-board-changes-q9ui312cwowmais.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-board-changes-q9ui312cwowmais.html",
+              "time": "10:18 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-2ca403cf8d606e6116ac41dc",
               "headline": "Anemoi International Ltd: Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-holdings-in-company-2ezwtzq8ngoq557.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-holdings-in-company-2ezwtzq8ngoq557.html",
+              "time": "7:31 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-a3d03e00aad8dfae2e76d521",
               "headline": "Anemoi International Ltd: KYC/AML subsidiary id4 signs new reseller contract",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-fkgvyee1pgnar5x.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-fkgvyee1pgnar5x.html",
+              "time": "7:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-74409667f438017a118ae70e",
               "headline": "Anemoi International Ltd: KYC/AML subsidiary id4 signs new reseller contract",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-x0zyd0qptqh5uoz.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-x0zyd0qptqh5uoz.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Dec 2025",
+              "event_id": "rns-3b5191fbacefe6ee981820c5",
               "headline": "Anemoi enters into binding Sale and Purchase Agreement to acquire Trasna",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-0nfvolmawwiv7lk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-0nfvolmawwiv7lk.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Dec 2025",
+              "event_id": "rns-b99bbee6333e15b87da31cf7",
               "headline": "Anemoi enters into binding Sale and Purchase Agreement to acquire Trasna",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-dbsmc6p5i3ro9l9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-dbsmc6p5i3ro9l9.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Nov 2025",
+              "event_id": "rns-3eead425058cf573b6f1978c",
               "headline": "Anemoi International Ltd: Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-trading-update-rkhx9yvmyjx1yam.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-trading-update-rkhx9yvmyjx1yam.html",
+              "time": "7:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Oct 2025",
+              "event_id": "rns-3123d8449d665b5296772dfd",
               "headline": "Anemoi International Ltd: ID4 and Azilen Announce Strategic Partnership",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-id4-and-azilen-announce-strategic-partnership-by1xgoer9rdun1j.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-id4-and-azilen-announce-strategic-partnership-by1xgoer9rdun1j.html",
+              "time": "7:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Oct 2025",
+              "event_id": "rns-cb6e8847c12cd98f19b646d8",
               "headline": "Anemoi International Ltd: Proposed Acquisition of Trasna Solutions Technologies Limited",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-proposed-acquisition-of-trasna-solutions-technologies-limited-flwm3u58sgg8ojy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-proposed-acquisition-of-trasna-solutions-technologies-limited-flwm3u58sgg8ojy.html",
+              "time": "7:16 am"
             }
           ],
           "status": "AVAILABLE",
@@ -24055,58 +24167,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-04-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.96,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2,
             "date": "2022-04-01",
             "status": "EXACT"
           },
           "relative_activity": 4.96,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AMOI.L:2022-04-01",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-08-18",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.8,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.8999999761581421,
             "date": "2025-08-18",
             "status": "EXACT"
           },
           "relative_activity": 3.8,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AMOI.L:2025-08-18",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2025-09-17",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 7.11,
-            "severity": "PURPLE",
+            "severity": "ELEVATED",
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.824999988079071,
             "date": "2025-09-17",
             "status": "EXACT"
           },
           "relative_activity": 7.11,
-          "severity": "PURPLE",
+          "severity": "ELEVATED",
           "signal_id": "AMOI.L:2025-09-17",
           "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
         }
@@ -35998,141 +36122,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-9a737e9d1d9d6d72d47df14b",
           "headline": "ID4 AG signs 3 year digital transformation contract",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-3f95260e8111c7bde9b6f2af",
           "headline": "AMOI announces pre-RTO Subscriptions",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-788913024ec4dff159a1b278",
           "headline": "Appointment of CFO",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-c5a57f2a0f5e950d401e9888",
           "headline": "Anemoi International Ltd: Results of AGM",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html",
+          "time": "3:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-14",
+          "event_id": "rns-5b8a5c10cc371d0cdefb1544",
           "headline": "Anemoi International Ltd: Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html",
+          "time": "10:17 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-103cac57e36ddc10974bca08",
           "headline": "Anemoi International Ltd: Final Results For Year Ended 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-final-results-for-year-ended-31-december-2025-fp7wjevwao7u2nq.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-final-results-for-year-ended-31-december-2025-fp7wjevwao7u2nq.html",
+          "time": "10:40 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-35137c79bec482e6dbd03880",
           "headline": "Anemoi International Ltd: Appointment of Sponsor and Bookrunner",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-appointment-of-sponsor-and-bookrunner-wqcq8sxozrly85y.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-appointment-of-sponsor-and-bookrunner-wqcq8sxozrly85y.html",
+          "time": "7:31 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-14",
+          "event_id": "rns-82af5b7f593e4311aa3439e0",
           "headline": "Anemoi enters into amended and updated binding Sale and Purchase Agreement to acquire Trasna, Share Consolidation and Warrantholder Surrender and Subscription Offer",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-amended-and-updated-binding-sale-and-purchase-agreement-to-acquire-trasna-share-c-l9s8gvy7qdioiwd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-amended-and-updated-binding-sale-and-purchase-agreement-to-acquire-trasna-share-c-l9s8gvy7qdioiwd.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-06",
+          "event_id": "rns-7c87f364ac9254f751a2e789",
           "headline": "Kigen / Trasna JV & Reverse Takeover Update",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/kigen-trasna-jv-reverse-takeover-update-qj49tvq87xnkq8z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/kigen-trasna-jv-reverse-takeover-update-qj49tvq87xnkq8z.html",
+          "time": "7:31 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-26",
+          "event_id": "rns-bf183367ab50a13897241244",
           "headline": "Cessation of Crypto Treasury Management Strategy",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/cessation-of-crypto-treasury-management-strategy-btio62yrvw7dzxm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/cessation-of-crypto-treasury-management-strategy-btio62yrvw7dzxm.html",
+          "time": "7:30 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-04",
+          "event_id": "rns-8136213ec1185fad979048b0",
           "headline": "Admission to Trading on the American OTCQB Market",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/admission-to-trading-on-the-american-otcqb-market-x8l0dmufadk0cux.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/admission-to-trading-on-the-american-otcqb-market-x8l0dmufadk0cux.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-28",
+          "event_id": "rns-0f8a4b7ab70417a73e5fb782",
           "headline": "Anemoi International Ltd: Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-board-changes-q9ui312cwowmais.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-board-changes-q9ui312cwowmais.html",
+          "time": "10:18 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-14",
+          "event_id": "rns-2ca403cf8d606e6116ac41dc",
           "headline": "Anemoi International Ltd: Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-holdings-in-company-2ezwtzq8ngoq557.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-holdings-in-company-2ezwtzq8ngoq557.html",
+          "time": "7:31 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-a3d03e00aad8dfae2e76d521",
           "headline": "Anemoi International Ltd: KYC/AML subsidiary id4 signs new reseller contract",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-fkgvyee1pgnar5x.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-fkgvyee1pgnar5x.html",
+          "time": "7:30 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-74409667f438017a118ae70e",
           "headline": "Anemoi International Ltd: KYC/AML subsidiary id4 signs new reseller contract",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-x0zyd0qptqh5uoz.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-x0zyd0qptqh5uoz.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-22",
+          "event_id": "rns-3b5191fbacefe6ee981820c5",
           "headline": "Anemoi enters into binding Sale and Purchase Agreement to acquire Trasna",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-0nfvolmawwiv7lk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-0nfvolmawwiv7lk.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-22",
+          "event_id": "rns-b99bbee6333e15b87da31cf7",
           "headline": "Anemoi enters into binding Sale and Purchase Agreement to acquire Trasna",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-dbsmc6p5i3ro9l9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-dbsmc6p5i3ro9l9.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-24",
+          "event_id": "rns-3eead425058cf573b6f1978c",
           "headline": "Anemoi International Ltd: Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-trading-update-rkhx9yvmyjx1yam.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-trading-update-rkhx9yvmyjx1yam.html",
+          "time": "7:30 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-28",
+          "event_id": "rns-3123d8449d665b5296772dfd",
           "headline": "Anemoi International Ltd: ID4 and Azilen Announce Strategic Partnership",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-id4-and-azilen-announce-strategic-partnership-by1xgoer9rdun1j.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-id4-and-azilen-announce-strategic-partnership-by1xgoer9rdun1j.html",
+          "time": "7:31 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-27",
+          "event_id": "rns-cb6e8847c12cd98f19b646d8",
           "headline": "Anemoi International Ltd: Proposed Acquisition of Trasna Solutions Technologies Limited",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-proposed-acquisition-of-trasna-solutions-technologies-limited-flwm3u58sgg8ojy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-proposed-acquisition-of-trasna-solutions-technologies-limited-flwm3u58sgg8ojy.html",
+          "time": "7:16 am"
         }
       ],
       "rns_initial": [
@@ -36140,36 +36364,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-9a737e9d1d9d6d72d47df14b",
           "headline": "ID4 AG signs 3 year digital transformation contract",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-3f95260e8111c7bde9b6f2af",
           "headline": "AMOI announces pre-RTO Subscriptions",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-788913024ec4dff159a1b278",
           "headline": "Appointment of CFO",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-c5a57f2a0f5e950d401e9888",
           "headline": "Anemoi International Ltd: Results of AGM",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html",
+          "time": "3:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-14",
+          "event_id": "rns-5b8a5c10cc371d0cdefb1544",
           "headline": "Anemoi International Ltd: Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html",
+          "time": "10:17 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -36217,58 +36466,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-04-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.96,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2,
                 "date": "2022-04-01",
                 "status": "EXACT"
               },
               "relative_activity": 4.96,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AMOI.L:2022-04-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.8,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.8999999761581421,
                 "date": "2025-08-18",
                 "status": "EXACT"
               },
               "relative_activity": 3.8,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AMOI.L:2025-08-18",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-09-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 7.11,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.824999988079071,
                 "date": "2025-09-17",
                 "status": "EXACT"
               },
               "relative_activity": 7.11,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "AMOI.L:2025-09-17",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             }
@@ -60048,141 +60309,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-9a737e9d1d9d6d72d47df14b",
               "headline": "ID4 AG signs 3 year digital transformation contract",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/id4-ag-signs-3-year-digital-transformation-contract-muautpo4wik2pzi.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-3f95260e8111c7bde9b6f2af",
               "headline": "AMOI announces pre-RTO Subscriptions",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/amoi-announces-pre-rto-subscriptions-256mfxg4f4sysku.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-788913024ec4dff159a1b278",
               "headline": "Appointment of CFO",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/appointment-of-cfo-23jvtnejsk31t09.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-c5a57f2a0f5e950d401e9888",
               "headline": "Anemoi International Ltd: Results of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-results-of-agm-fwnbbljrelai2yb.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-5b8a5c10cc371d0cdefb1544",
               "headline": "Anemoi International Ltd: Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-notice-of-agm-vrcx041clt0r3qk.html",
+              "time": "10:17 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-103cac57e36ddc10974bca08",
               "headline": "Anemoi International Ltd: Final Results For Year Ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-final-results-for-year-ended-31-december-2025-fp7wjevwao7u2nq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-final-results-for-year-ended-31-december-2025-fp7wjevwao7u2nq.html",
+              "time": "10:40 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-35137c79bec482e6dbd03880",
               "headline": "Anemoi International Ltd: Appointment of Sponsor and Bookrunner",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-appointment-of-sponsor-and-bookrunner-wqcq8sxozrly85y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-appointment-of-sponsor-and-bookrunner-wqcq8sxozrly85y.html",
+              "time": "7:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-82af5b7f593e4311aa3439e0",
               "headline": "Anemoi enters into amended and updated binding Sale and Purchase Agreement to acquire Trasna, Share Consolidation and Warrantholder Surrender and Subscription Offer",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-amended-and-updated-binding-sale-and-purchase-agreement-to-acquire-trasna-share-c-l9s8gvy7qdioiwd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-amended-and-updated-binding-sale-and-purchase-agreement-to-acquire-trasna-share-c-l9s8gvy7qdioiwd.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Mar 2026",
+              "event_id": "rns-7c87f364ac9254f751a2e789",
               "headline": "Kigen / Trasna JV & Reverse Takeover Update",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/kigen-trasna-jv-reverse-takeover-update-qj49tvq87xnkq8z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/kigen-trasna-jv-reverse-takeover-update-qj49tvq87xnkq8z.html",
+              "time": "7:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-bf183367ab50a13897241244",
               "headline": "Cessation of Crypto Treasury Management Strategy",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/cessation-of-crypto-treasury-management-strategy-btio62yrvw7dzxm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/cessation-of-crypto-treasury-management-strategy-btio62yrvw7dzxm.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-8136213ec1185fad979048b0",
               "headline": "Admission to Trading on the American OTCQB Market",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/admission-to-trading-on-the-american-otcqb-market-x8l0dmufadk0cux.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/admission-to-trading-on-the-american-otcqb-market-x8l0dmufadk0cux.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-0f8a4b7ab70417a73e5fb782",
               "headline": "Anemoi International Ltd: Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-board-changes-q9ui312cwowmais.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-board-changes-q9ui312cwowmais.html",
+              "time": "10:18 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-2ca403cf8d606e6116ac41dc",
               "headline": "Anemoi International Ltd: Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-holdings-in-company-2ezwtzq8ngoq557.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-holdings-in-company-2ezwtzq8ngoq557.html",
+              "time": "7:31 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-a3d03e00aad8dfae2e76d521",
               "headline": "Anemoi International Ltd: KYC/AML subsidiary id4 signs new reseller contract",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-fkgvyee1pgnar5x.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-fkgvyee1pgnar5x.html",
+              "time": "7:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-74409667f438017a118ae70e",
               "headline": "Anemoi International Ltd: KYC/AML subsidiary id4 signs new reseller contract",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-x0zyd0qptqh5uoz.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-kycaml-subsidiary-id4-signs-new-reseller-contract-x0zyd0qptqh5uoz.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Dec 2025",
+              "event_id": "rns-3b5191fbacefe6ee981820c5",
               "headline": "Anemoi enters into binding Sale and Purchase Agreement to acquire Trasna",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-0nfvolmawwiv7lk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-0nfvolmawwiv7lk.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Dec 2025",
+              "event_id": "rns-b99bbee6333e15b87da31cf7",
               "headline": "Anemoi enters into binding Sale and Purchase Agreement to acquire Trasna",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-dbsmc6p5i3ro9l9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-enters-into-binding-sale-and-purchase-agreement-to-acquire-trasna-dbsmc6p5i3ro9l9.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Nov 2025",
+              "event_id": "rns-3eead425058cf573b6f1978c",
               "headline": "Anemoi International Ltd: Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-trading-update-rkhx9yvmyjx1yam.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-trading-update-rkhx9yvmyjx1yam.html",
+              "time": "7:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Oct 2025",
+              "event_id": "rns-3123d8449d665b5296772dfd",
               "headline": "Anemoi International Ltd: ID4 and Azilen Announce Strategic Partnership",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-id4-and-azilen-announce-strategic-partnership-by1xgoer9rdun1j.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-id4-and-azilen-announce-strategic-partnership-by1xgoer9rdun1j.html",
+              "time": "7:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Oct 2025",
+              "event_id": "rns-cb6e8847c12cd98f19b646d8",
               "headline": "Anemoi International Ltd: Proposed Acquisition of Trasna Solutions Technologies Limited",
-              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-proposed-acquisition-of-trasna-solutions-technologies-limited-flwm3u58sgg8ojy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/AMOI/anemoi-international-ltd-proposed-acquisition-of-trasna-solutions-technologies-limited-flwm3u58sgg8ojy.html",
+              "time": "7:16 am"
             }
           ],
           "status": "AVAILABLE",

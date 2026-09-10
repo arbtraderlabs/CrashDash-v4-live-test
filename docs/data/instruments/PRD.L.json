@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.54,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.1500000953674316,
                 "date": "2025-03-26",
                 "status": "EXACT"
               },
               "relative_activity": 2.54,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PRD.L:2025-03-26",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-477a093c645524368683e197",
               "headline": "Total Voting Rights & Admission to Trading",
-              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6251S",
+              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-a5a606dd49733d6d9c2afb40",
               "headline": "Update on Sales Revenues and Drilling Plans",
-              "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3196S",
+              "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-810e2e147eff2222014f5972",
               "headline": "Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2081R",
+              "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-e5aa6dc649824b95be820264",
               "headline": "PDMR Notifications",
-              "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2092R",
+              "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-29a649b9c7219652b62dfce7",
               "headline": "Snowcap -3 rig contract",
-              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8431Q",
+              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-bbb800f948316ad58556400a",
               "headline": "Snowcap-3 Update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-update-w8xz9wlgep2tlk0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2648Q",
+              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-update-w8xz9wlgep2tlk0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-d9ccd0ef5858046ce1811b29",
               "headline": "Execution of Amendment rig contract to drill MOU-6",
-              "source_url": "https://www.lse.co.uk/rns/PRD/execution-of-amendment-rig-contract-to-drill-mou-6-6cg4nvwtgsgady0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2553O",
+              "source_url": "https://www.lse.co.uk/rns/PRD/execution-of-amendment-rig-contract-to-drill-mou-6-6cg4nvwtgsgady0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Jun 2026",
+              "event_id": "rns-3276f8e3d548a8946d524c8d",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/operational-update-xzh3t3ero9aorgm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8473H",
+              "source_url": "https://www.lse.co.uk/rns/PRD/operational-update-xzh3t3ero9aorgm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-496618bffdb90279ad920db0",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-szouilgpcv3w96w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0764G",
+              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-szouilgpcv3w96w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2026",
+              "event_id": "rns-227830e4aed7503f5abe198c",
               "headline": "Placing to Raise \u00a33 Million",
-              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-1633-million-uop3mqpyg4sk0fv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4317E",
+              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-1633-million-uop3mqpyg4sk0fv.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-0cbcc9aa6b63b9408bcbdb8a",
               "headline": "Financial Statements Year Ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/PRD/financial-statements-year-ended-31-december-2025-xhiutknevts1u41.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4773C",
+              "source_url": "https://www.lse.co.uk/rns/PRD/financial-statements-year-ended-31-december-2025-xhiutknevts1u41.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-074e98cb27ca524adacf459c",
               "headline": "Snowcap-3 (SC-3) drilling update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-sc-3-drilling-update-ibqzd6oegl0xnx3.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4788A",
+              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-sc-3-drilling-update-ibqzd6oegl0xnx3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Mar 2026",
+              "event_id": "rns-69dd8b8230579d7560a03724",
               "headline": "February oil sales and strengthening oil price",
-              "source_url": "https://www.lse.co.uk/rns/PRD/february-oil-sales-and-strengthening-oil-price-v4gdoifawvlyh28.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5763X",
+              "source_url": "https://www.lse.co.uk/rns/PRD/february-oil-sales-and-strengthening-oil-price-v4gdoifawvlyh28.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-51c65ba4763bd7af32d55ae2",
               "headline": "Technical Report for Cory Moruga onshore Trinidad",
-              "source_url": "https://www.lse.co.uk/rns/PRD/technical-report-for-cory-moruga-onshore-trinidad-gbamxe4q9m1ue0c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3926V",
+              "source_url": "https://www.lse.co.uk/rns/PRD/technical-report-for-cory-moruga-onshore-trinidad-gbamxe4q9m1ue0c.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-46a48f69d2261729a2f3b393",
               "headline": "Operations Update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/operations-update-uj8usliggpqo17m.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2288U",
+              "source_url": "https://www.lse.co.uk/rns/PRD/operations-update-uj8usliggpqo17m.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jan 2026",
+              "event_id": "rns-bf471e460a9b6635f0689a3c",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-xxpekp2azr429uq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1675R",
+              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-xxpekp2azr429uq.html",
+              "time": "4:25 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jan 2026",
+              "event_id": "rns-3c3494480480bdccc3d2123e",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/PRD/notification-of-major-holdings-j8cnya4xw708xp0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2388Q",
+              "source_url": "https://www.lse.co.uk/rns/PRD/notification-of-major-holdings-j8cnya4xw708xp0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2026",
+              "event_id": "rns-1a2c6f6ad128004f5378ea52",
               "headline": "Commencement of Trinidad drilling programme",
-              "source_url": "https://www.lse.co.uk/rns/PRD/commencement-of-trinidad-drilling-programme-i2grdssr5637u84.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8537P",
+              "source_url": "https://www.lse.co.uk/rns/PRD/commencement-of-trinidad-drilling-programme-i2grdssr5637u84.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-ef5ef9627c598c3fd5c58b10",
               "headline": "Placing to Raise \u00a34.5 Million",
-              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-16345-million-4kmkrtptzy7vhhd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5129P",
+              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-16345-million-4kmkrtptzy7vhhd.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jan 2026",
+              "event_id": "rns-d386252626a0ddb75df437d6",
               "headline": "Trinidad Increased Production",
-              "source_url": "https://www.lse.co.uk/rns/PRD/trinidad-increased-production-bwjbcypzbenzjf1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8975N",
+              "source_url": "https://www.lse.co.uk/rns/PRD/trinidad-increased-production-bwjbcypzbenzjf1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-26",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.54,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.1500000953674316,
             "date": "2025-03-26",
             "status": "EXACT"
           },
           "relative_activity": 2.54,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PRD.L:2025-03-26",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-477a093c645524368683e197",
           "headline": "Total Voting Rights & Admission to Trading",
-          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6251S",
+          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html",
+          "time": "2:00 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-a5a606dd49733d6d9c2afb40",
           "headline": "Update on Sales Revenues and Drilling Plans",
-          "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3196S",
+          "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-810e2e147eff2222014f5972",
           "headline": "Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2081R",
+          "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-e5aa6dc649824b95be820264",
           "headline": "PDMR Notifications",
-          "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2092R",
+          "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-29a649b9c7219652b62dfce7",
           "headline": "Snowcap -3 rig contract",
-          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8431Q",
+          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-bbb800f948316ad58556400a",
           "headline": "Snowcap-3 Update",
-          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-update-w8xz9wlgep2tlk0.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2648Q",
+          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-update-w8xz9wlgep2tlk0.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-d9ccd0ef5858046ce1811b29",
           "headline": "Execution of Amendment rig contract to drill MOU-6",
-          "source_url": "https://www.lse.co.uk/rns/PRD/execution-of-amendment-rig-contract-to-drill-mou-6-6cg4nvwtgsgady0.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2553O",
+          "source_url": "https://www.lse.co.uk/rns/PRD/execution-of-amendment-rig-contract-to-drill-mou-6-6cg4nvwtgsgady0.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-11",
+          "event_id": "rns-3276f8e3d548a8946d524c8d",
           "headline": "Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/PRD/operational-update-xzh3t3ero9aorgm.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8473H",
+          "source_url": "https://www.lse.co.uk/rns/PRD/operational-update-xzh3t3ero9aorgm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-29",
+          "event_id": "rns-496618bffdb90279ad920db0",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-szouilgpcv3w96w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0764G",
+          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-szouilgpcv3w96w.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-15",
+          "event_id": "rns-227830e4aed7503f5abe198c",
           "headline": "Placing to Raise \u00a33 Million",
-          "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-1633-million-uop3mqpyg4sk0fv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4317E",
+          "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-1633-million-uop3mqpyg4sk0fv.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-0cbcc9aa6b63b9408bcbdb8a",
           "headline": "Financial Statements Year Ended 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/PRD/financial-statements-year-ended-31-december-2025-xhiutknevts1u41.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4773C",
+          "source_url": "https://www.lse.co.uk/rns/PRD/financial-statements-year-ended-31-december-2025-xhiutknevts1u41.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-15",
+          "event_id": "rns-074e98cb27ca524adacf459c",
           "headline": "Snowcap-3 (SC-3) drilling update",
-          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-sc-3-drilling-update-ibqzd6oegl0xnx3.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4788A",
+          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-sc-3-drilling-update-ibqzd6oegl0xnx3.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-23",
+          "event_id": "rns-69dd8b8230579d7560a03724",
           "headline": "February oil sales and strengthening oil price",
-          "source_url": "https://www.lse.co.uk/rns/PRD/february-oil-sales-and-strengthening-oil-price-v4gdoifawvlyh28.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5763X",
+          "source_url": "https://www.lse.co.uk/rns/PRD/february-oil-sales-and-strengthening-oil-price-v4gdoifawvlyh28.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-05",
+          "event_id": "rns-51c65ba4763bd7af32d55ae2",
           "headline": "Technical Report for Cory Moruga onshore Trinidad",
-          "source_url": "https://www.lse.co.uk/rns/PRD/technical-report-for-cory-moruga-onshore-trinidad-gbamxe4q9m1ue0c.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3926V",
+          "source_url": "https://www.lse.co.uk/rns/PRD/technical-report-for-cory-moruga-onshore-trinidad-gbamxe4q9m1ue0c.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-25",
+          "event_id": "rns-46a48f69d2261729a2f3b393",
           "headline": "Operations Update",
-          "source_url": "https://www.lse.co.uk/rns/PRD/operations-update-uj8usliggpqo17m.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2288U",
+          "source_url": "https://www.lse.co.uk/rns/PRD/operations-update-uj8usliggpqo17m.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-30",
+          "event_id": "rns-bf471e460a9b6635f0689a3c",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-xxpekp2azr429uq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1675R",
+          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-xxpekp2azr429uq.html",
+          "time": "4:25 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-26",
+          "event_id": "rns-3c3494480480bdccc3d2123e",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/PRD/notification-of-major-holdings-j8cnya4xw708xp0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2388Q",
+          "source_url": "https://www.lse.co.uk/rns/PRD/notification-of-major-holdings-j8cnya4xw708xp0.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-22",
+          "event_id": "rns-1a2c6f6ad128004f5378ea52",
           "headline": "Commencement of Trinidad drilling programme",
-          "source_url": "https://www.lse.co.uk/rns/PRD/commencement-of-trinidad-drilling-programme-i2grdssr5637u84.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8537P",
+          "source_url": "https://www.lse.co.uk/rns/PRD/commencement-of-trinidad-drilling-programme-i2grdssr5637u84.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-20",
+          "event_id": "rns-ef5ef9627c598c3fd5c58b10",
           "headline": "Placing to Raise \u00a34.5 Million",
-          "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-16345-million-4kmkrtptzy7vhhd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5129P",
+          "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-16345-million-4kmkrtptzy7vhhd.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-07",
+          "event_id": "rns-d386252626a0ddb75df437d6",
           "headline": "Trinidad Increased Production",
-          "source_url": "https://www.lse.co.uk/rns/PRD/trinidad-increased-production-bwjbcypzbenzjf1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8975N",
+          "source_url": "https://www.lse.co.uk/rns/PRD/trinidad-increased-production-bwjbcypzbenzjf1.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-477a093c645524368683e197",
           "headline": "Total Voting Rights & Admission to Trading",
-          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6251S",
+          "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html",
+          "time": "2:00 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-a5a606dd49733d6d9c2afb40",
           "headline": "Update on Sales Revenues and Drilling Plans",
-          "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3196S",
+          "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-810e2e147eff2222014f5972",
           "headline": "Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2081R",
+          "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-e5aa6dc649824b95be820264",
           "headline": "PDMR Notifications",
-          "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2092R",
+          "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-29a649b9c7219652b62dfce7",
           "headline": "Snowcap -3 rig contract",
-          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8431Q",
+          "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.54,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.1500000953674316,
                 "date": "2025-03-26",
                 "status": "EXACT"
               },
               "relative_activity": 2.54,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PRD.L:2025-03-26",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-477a093c645524368683e197",
               "headline": "Total Voting Rights & Admission to Trading",
-              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6251S",
+              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-admission-to-trading-d9wwe6bear5340s.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-a5a606dd49733d6d9c2afb40",
               "headline": "Update on Sales Revenues and Drilling Plans",
-              "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3196S",
+              "source_url": "https://www.lse.co.uk/rns/PRD/update-on-sales-revenues-and-drilling-plans-hwh7fjvamv5prqp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-810e2e147eff2222014f5972",
               "headline": "Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2081R",
+              "source_url": "https://www.lse.co.uk/rns/PRD/issue-of-equity-taf8czlk5n8e4zk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-e5aa6dc649824b95be820264",
               "headline": "PDMR Notifications",
-              "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2092R",
+              "source_url": "https://www.lse.co.uk/rns/PRD/pdmr-notifications-d9kvlxkhfhctbcl.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-29a649b9c7219652b62dfce7",
               "headline": "Snowcap -3 rig contract",
-              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8431Q",
+              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-rig-contract-4kgts93i39ax2pt.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-bbb800f948316ad58556400a",
               "headline": "Snowcap-3 Update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-update-w8xz9wlgep2tlk0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2648Q",
+              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-update-w8xz9wlgep2tlk0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-d9ccd0ef5858046ce1811b29",
               "headline": "Execution of Amendment rig contract to drill MOU-6",
-              "source_url": "https://www.lse.co.uk/rns/PRD/execution-of-amendment-rig-contract-to-drill-mou-6-6cg4nvwtgsgady0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2553O",
+              "source_url": "https://www.lse.co.uk/rns/PRD/execution-of-amendment-rig-contract-to-drill-mou-6-6cg4nvwtgsgady0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Jun 2026",
+              "event_id": "rns-3276f8e3d548a8946d524c8d",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/operational-update-xzh3t3ero9aorgm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8473H",
+              "source_url": "https://www.lse.co.uk/rns/PRD/operational-update-xzh3t3ero9aorgm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-496618bffdb90279ad920db0",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-szouilgpcv3w96w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0764G",
+              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-szouilgpcv3w96w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2026",
+              "event_id": "rns-227830e4aed7503f5abe198c",
               "headline": "Placing to Raise \u00a33 Million",
-              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-1633-million-uop3mqpyg4sk0fv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4317E",
+              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-1633-million-uop3mqpyg4sk0fv.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-0cbcc9aa6b63b9408bcbdb8a",
               "headline": "Financial Statements Year Ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/PRD/financial-statements-year-ended-31-december-2025-xhiutknevts1u41.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4773C",
+              "source_url": "https://www.lse.co.uk/rns/PRD/financial-statements-year-ended-31-december-2025-xhiutknevts1u41.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-074e98cb27ca524adacf459c",
               "headline": "Snowcap-3 (SC-3) drilling update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-sc-3-drilling-update-ibqzd6oegl0xnx3.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4788A",
+              "source_url": "https://www.lse.co.uk/rns/PRD/snowcap-3-sc-3-drilling-update-ibqzd6oegl0xnx3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Mar 2026",
+              "event_id": "rns-69dd8b8230579d7560a03724",
               "headline": "February oil sales and strengthening oil price",
-              "source_url": "https://www.lse.co.uk/rns/PRD/february-oil-sales-and-strengthening-oil-price-v4gdoifawvlyh28.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5763X",
+              "source_url": "https://www.lse.co.uk/rns/PRD/february-oil-sales-and-strengthening-oil-price-v4gdoifawvlyh28.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-51c65ba4763bd7af32d55ae2",
               "headline": "Technical Report for Cory Moruga onshore Trinidad",
-              "source_url": "https://www.lse.co.uk/rns/PRD/technical-report-for-cory-moruga-onshore-trinidad-gbamxe4q9m1ue0c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3926V",
+              "source_url": "https://www.lse.co.uk/rns/PRD/technical-report-for-cory-moruga-onshore-trinidad-gbamxe4q9m1ue0c.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-46a48f69d2261729a2f3b393",
               "headline": "Operations Update",
-              "source_url": "https://www.lse.co.uk/rns/PRD/operations-update-uj8usliggpqo17m.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2288U",
+              "source_url": "https://www.lse.co.uk/rns/PRD/operations-update-uj8usliggpqo17m.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jan 2026",
+              "event_id": "rns-bf471e460a9b6635f0689a3c",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-xxpekp2azr429uq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1675R",
+              "source_url": "https://www.lse.co.uk/rns/PRD/total-voting-rights-xxpekp2azr429uq.html",
+              "time": "4:25 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jan 2026",
+              "event_id": "rns-3c3494480480bdccc3d2123e",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/PRD/notification-of-major-holdings-j8cnya4xw708xp0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2388Q",
+              "source_url": "https://www.lse.co.uk/rns/PRD/notification-of-major-holdings-j8cnya4xw708xp0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2026",
+              "event_id": "rns-1a2c6f6ad128004f5378ea52",
               "headline": "Commencement of Trinidad drilling programme",
-              "source_url": "https://www.lse.co.uk/rns/PRD/commencement-of-trinidad-drilling-programme-i2grdssr5637u84.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8537P",
+              "source_url": "https://www.lse.co.uk/rns/PRD/commencement-of-trinidad-drilling-programme-i2grdssr5637u84.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-ef5ef9627c598c3fd5c58b10",
               "headline": "Placing to Raise \u00a34.5 Million",
-              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-16345-million-4kmkrtptzy7vhhd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5129P",
+              "source_url": "https://www.lse.co.uk/rns/PRD/placing-to-raise-16345-million-4kmkrtptzy7vhhd.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jan 2026",
+              "event_id": "rns-d386252626a0ddb75df437d6",
               "headline": "Trinidad Increased Production",
-              "source_url": "https://www.lse.co.uk/rns/PRD/trinidad-increased-production-bwjbcypzbenzjf1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8975N",
+              "source_url": "https://www.lse.co.uk/rns/PRD/trinidad-increased-production-bwjbcypzbenzjf1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

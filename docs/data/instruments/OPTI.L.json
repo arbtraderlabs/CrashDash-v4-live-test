@@ -21,77 +21,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.4,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.550000190734863,
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.4,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "OPTI.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.75,
                 "date": "2023-06-27",
                 "status": "EXACT"
               },
               "relative_activity": 1.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "OPTI.L:2023-06-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 4.51,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6,
                 "date": "2023-06-28",
                 "status": "EXACT"
               },
               "relative_activity": 4.51,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "OPTI.L:2023-06-28",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.07,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.400000095367432,
                 "date": "2023-06-29",
                 "status": "EXACT"
               },
               "relative_activity": 7.07,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "OPTI.L:2023-06-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27183,141 +27199,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-3f3b9c0167ed27ef54f58157",
               "headline": "SweetBiotix\u00ae Update",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7466T",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2026",
+              "event_id": "rns-6ea4e785cd4126ebe809f9c8",
               "headline": "H&B launches FORMI\u2122 Product containing SlimBiome\u00ae",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9743S",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-b50f700c15c5925de082b7b9",
               "headline": "Investor presentation and Q&A",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0184K",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-6413b2d109aa3cc7610d6ea1",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4469J",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html",
+              "time": "4:25 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-39d1d646384df63c199b3e0c",
               "headline": "Investor presentation and SweetBiotix\u00ae Sampling",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5284G",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-c0ae73f6647657a96cfec784",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/directorpdmr-shareholding-cvlnlzjc487c9c0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1387G",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/directorpdmr-shareholding-cvlnlzjc487c9c0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2026",
+              "event_id": "rns-dce19897c452aed2a001995b",
               "headline": "Final Results & Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/final-results-notice-of-agm-v1jcjeroil7flif.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9539F",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/final-results-notice-of-agm-v1jcjeroil7flif.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-f81108f9435b362ef22e342c",
               "headline": "SweetBiotix\u00ae Sampling",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-sampling-mbeblg4xupwryfn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2407E",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-sampling-mbeblg4xupwryfn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-91628c32a54f5c7879c65c4c",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-b3jwbayjrw2nss4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1034D",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-b3jwbayjrw2nss4.html",
+              "time": "2:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-ea0eebb7665f2c941988e86e",
               "headline": "Partial Disposal of Shares in SkinBioTherapeutics",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/partial-disposal-of-shares-in-skinbiotherapeutics-9j1pas7sn7sy8c9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6718C",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/partial-disposal-of-shares-in-skinbiotherapeutics-9j1pas7sn7sy8c9.html",
+              "time": "12:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-dbc4025f4422123e4d2e4d14",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/trading-update-tnaykbz9g8d67jy.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9382Y",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/trading-update-tnaykbz9g8d67jy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Feb 2026",
+              "event_id": "rns-7a730da9473c8b8d71951b34",
               "headline": "WellBiome\u00ae clinical trial on surgical outcomes",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/wellbiome174-clinical-trial-on-surgical-outcomes-q2gz9suh1klkfto.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0691U",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/wellbiome174-clinical-trial-on-surgical-outcomes-q2gz9suh1klkfto.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-723eb5010cd9a1c268db7330",
               "headline": "Statement: SkinBioTherapeutics Announcement",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/statement-skinbiotherapeutics-announcement-qyu1qclyqqr8v52.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2389T",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/statement-skinbiotherapeutics-announcement-qyu1qclyqqr8v52.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-d538110aa2af5a8fcc7682d4",
               "headline": "Large Order and Record Early Orders for 2026",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/large-order-and-record-early-orders-for-2026-14su4lbqgvuq5rj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6737P",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/large-order-and-record-early-orders-for-2026-14su4lbqgvuq5rj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-07968a04330453ef1c571aff",
               "headline": "New Investor Website",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/new-investor-website-rrq15mnezam0mcf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5070P",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/new-investor-website-rrq15mnezam0mcf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jan 2026",
+              "event_id": "rns-72bdee4cfb856e2b2a10c36b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-4h4vkr3ls204x8g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3675N",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-4h4vkr3ls204x8g.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jan 2026",
+              "event_id": "rns-72bdee4cfb856e2b2a10c36b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-ch1kz052qaluui1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3675N",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-ch1kz052qaluui1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Nov 2025",
+              "event_id": "rns-860ff160ed5e12fdf3c82993",
               "headline": "SweetBiotix Overview and Update",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix-overview-and-update-6mzgvfsbbg2nnag.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6314I",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix-overview-and-update-6mzgvfsbbg2nnag.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-e3cf9ec0dc603556806c9bf5",
               "headline": "Order with well-known Weight Management Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/order-with-well-known-weight-management-company-17qfj3u80gn9vge.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7302H",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/order-with-well-known-weight-management-company-17qfj3u80gn9vge.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Oct 2025",
+              "event_id": "rns-1886e86e36d774b2c1ca4559",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-atsmtiwrocjb43l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1594D",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-atsmtiwrocjb43l.html",
+              "time": "3:31 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27386,77 +27502,93 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.4,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.550000190734863,
             "date": "2023-06-09",
             "status": "EXACT"
           },
           "relative_activity": 1.4,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "OPTI.L:2023-06-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.85,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.75,
             "date": "2023-06-27",
             "status": "EXACT"
           },
           "relative_activity": 1.85,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "OPTI.L:2023-06-27",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-28",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 4.51,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6,
             "date": "2023-06-28",
             "status": "EXACT"
           },
           "relative_activity": 4.51,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "OPTI.L:2023-06-28",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 7.07,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.400000095367432,
             "date": "2023-06-29",
             "status": "EXACT"
           },
           "relative_activity": 7.07,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "OPTI.L:2023-06-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -41004,141 +41136,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-3f3b9c0167ed27ef54f58157",
           "headline": "SweetBiotix\u00ae Update",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7466T",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-02",
+          "event_id": "rns-6ea4e785cd4126ebe809f9c8",
           "headline": "H&B launches FORMI\u2122 Product containing SlimBiome\u00ae",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9743S",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-26",
+          "event_id": "rns-b50f700c15c5925de082b7b9",
           "headline": "Investor presentation and Q&A",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0184K",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-23",
+          "event_id": "rns-6413b2d109aa3cc7610d6ea1",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4469J",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html",
+          "time": "4:25 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-39d1d646384df63c199b3e0c",
           "headline": "Investor presentation and SweetBiotix\u00ae Sampling",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5284G",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-29",
+          "event_id": "rns-c0ae73f6647657a96cfec784",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/directorpdmr-shareholding-cvlnlzjc487c9c0.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1387G",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/directorpdmr-shareholding-cvlnlzjc487c9c0.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-28",
+          "event_id": "rns-dce19897c452aed2a001995b",
           "headline": "Final Results & Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/final-results-notice-of-agm-v1jcjeroil7flif.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9539F",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/final-results-notice-of-agm-v1jcjeroil7flif.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-14",
+          "event_id": "rns-f81108f9435b362ef22e342c",
           "headline": "SweetBiotix\u00ae Sampling",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-sampling-mbeblg4xupwryfn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2407E",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-sampling-mbeblg4xupwryfn.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-05",
+          "event_id": "rns-91628c32a54f5c7879c65c4c",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-b3jwbayjrw2nss4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1034D",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-b3jwbayjrw2nss4.html",
+          "time": "2:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-ea0eebb7665f2c941988e86e",
           "headline": "Partial Disposal of Shares in SkinBioTherapeutics",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/partial-disposal-of-shares-in-skinbiotherapeutics-9j1pas7sn7sy8c9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6718C",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/partial-disposal-of-shares-in-skinbiotherapeutics-9j1pas7sn7sy8c9.html",
+          "time": "12:00 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-dbc4025f4422123e4d2e4d14",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/trading-update-tnaykbz9g8d67jy.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9382Y",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/trading-update-tnaykbz9g8d67jy.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-24",
+          "event_id": "rns-7a730da9473c8b8d71951b34",
           "headline": "WellBiome\u00ae clinical trial on surgical outcomes",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/wellbiome174-clinical-trial-on-surgical-outcomes-q2gz9suh1klkfto.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0691U",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/wellbiome174-clinical-trial-on-surgical-outcomes-q2gz9suh1klkfto.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-17",
+          "event_id": "rns-723eb5010cd9a1c268db7330",
           "headline": "Statement: SkinBioTherapeutics Announcement",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/statement-skinbiotherapeutics-announcement-qyu1qclyqqr8v52.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2389T",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/statement-skinbiotherapeutics-announcement-qyu1qclyqqr8v52.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21",
+          "event_id": "rns-d538110aa2af5a8fcc7682d4",
           "headline": "Large Order and Record Early Orders for 2026",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/large-order-and-record-early-orders-for-2026-14su4lbqgvuq5rj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6737P",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/large-order-and-record-early-orders-for-2026-14su4lbqgvuq5rj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-20",
+          "event_id": "rns-07968a04330453ef1c571aff",
           "headline": "New Investor Website",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/new-investor-website-rrq15mnezam0mcf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5070P",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/new-investor-website-rrq15mnezam0mcf.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-02",
+          "event_id": "rns-72bdee4cfb856e2b2a10c36b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-4h4vkr3ls204x8g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3675N",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-4h4vkr3ls204x8g.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-02",
+          "event_id": "rns-72bdee4cfb856e2b2a10c36b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-ch1kz052qaluui1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3675N",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-ch1kz052qaluui1.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-24",
+          "event_id": "rns-860ff160ed5e12fdf3c82993",
           "headline": "SweetBiotix Overview and Update",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix-overview-and-update-6mzgvfsbbg2nnag.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6314I",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix-overview-and-update-6mzgvfsbbg2nnag.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-17",
+          "event_id": "rns-e3cf9ec0dc603556806c9bf5",
           "headline": "Order with well-known Weight Management Company",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/order-with-well-known-weight-management-company-17qfj3u80gn9vge.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7302H",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/order-with-well-known-weight-management-company-17qfj3u80gn9vge.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-13",
+          "event_id": "rns-1886e86e36d774b2c1ca4559",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-atsmtiwrocjb43l.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1594D",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-atsmtiwrocjb43l.html",
+          "time": "3:31 pm"
         }
       ],
       "rns_initial": [
@@ -41146,36 +41378,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-3f3b9c0167ed27ef54f58157",
           "headline": "SweetBiotix\u00ae Update",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7466T",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-02",
+          "event_id": "rns-6ea4e785cd4126ebe809f9c8",
           "headline": "H&B launches FORMI\u2122 Product containing SlimBiome\u00ae",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9743S",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-26",
+          "event_id": "rns-b50f700c15c5925de082b7b9",
           "headline": "Investor presentation and Q&A",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0184K",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-23",
+          "event_id": "rns-6413b2d109aa3cc7610d6ea1",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4469J",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html",
+          "time": "4:25 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-39d1d646384df63c199b3e0c",
           "headline": "Investor presentation and SweetBiotix\u00ae Sampling",
-          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5284G",
+          "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41223,77 +41480,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.4,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.550000190734863,
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
               "relative_activity": 1.4,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "OPTI.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.75,
                 "date": "2023-06-27",
                 "status": "EXACT"
               },
               "relative_activity": 1.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "OPTI.L:2023-06-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 4.51,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6,
                 "date": "2023-06-28",
                 "status": "EXACT"
               },
               "relative_activity": 4.51,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "OPTI.L:2023-06-28",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.07,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.400000095367432,
                 "date": "2023-06-29",
                 "status": "EXACT"
               },
               "relative_activity": 7.07,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "OPTI.L:2023-06-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68385,141 +68658,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-3f3b9c0167ed27ef54f58157",
               "headline": "SweetBiotix\u00ae Update",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7466T",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-update-u0kdwoec2l2bsho.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2026",
+              "event_id": "rns-6ea4e785cd4126ebe809f9c8",
               "headline": "H&B launches FORMI\u2122 Product containing SlimBiome\u00ae",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9743S",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/hb-launches-formi8482-product-containing-slimbiome174-div3e3vhvrdnvaw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-b50f700c15c5925de082b7b9",
               "headline": "Investor presentation and Q&A",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0184K",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-qa-k4zj27vo1jx3t92.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-6413b2d109aa3cc7610d6ea1",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4469J",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/result-of-agm-u9wq2dml01ecu9k.html",
+              "time": "4:25 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-39d1d646384df63c199b3e0c",
               "headline": "Investor presentation and SweetBiotix\u00ae Sampling",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5284G",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/investor-presentation-and-sweetbiotix174-sampling-kirc1zxhs8hnovi.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-c0ae73f6647657a96cfec784",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/directorpdmr-shareholding-cvlnlzjc487c9c0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1387G",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/directorpdmr-shareholding-cvlnlzjc487c9c0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2026",
+              "event_id": "rns-dce19897c452aed2a001995b",
               "headline": "Final Results & Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/final-results-notice-of-agm-v1jcjeroil7flif.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9539F",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/final-results-notice-of-agm-v1jcjeroil7flif.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-f81108f9435b362ef22e342c",
               "headline": "SweetBiotix\u00ae Sampling",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-sampling-mbeblg4xupwryfn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2407E",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix174-sampling-mbeblg4xupwryfn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-91628c32a54f5c7879c65c4c",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-b3jwbayjrw2nss4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1034D",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-b3jwbayjrw2nss4.html",
+              "time": "2:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-ea0eebb7665f2c941988e86e",
               "headline": "Partial Disposal of Shares in SkinBioTherapeutics",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/partial-disposal-of-shares-in-skinbiotherapeutics-9j1pas7sn7sy8c9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6718C",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/partial-disposal-of-shares-in-skinbiotherapeutics-9j1pas7sn7sy8c9.html",
+              "time": "12:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-dbc4025f4422123e4d2e4d14",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/trading-update-tnaykbz9g8d67jy.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9382Y",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/trading-update-tnaykbz9g8d67jy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Feb 2026",
+              "event_id": "rns-7a730da9473c8b8d71951b34",
               "headline": "WellBiome\u00ae clinical trial on surgical outcomes",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/wellbiome174-clinical-trial-on-surgical-outcomes-q2gz9suh1klkfto.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0691U",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/wellbiome174-clinical-trial-on-surgical-outcomes-q2gz9suh1klkfto.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-723eb5010cd9a1c268db7330",
               "headline": "Statement: SkinBioTherapeutics Announcement",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/statement-skinbiotherapeutics-announcement-qyu1qclyqqr8v52.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2389T",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/statement-skinbiotherapeutics-announcement-qyu1qclyqqr8v52.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-d538110aa2af5a8fcc7682d4",
               "headline": "Large Order and Record Early Orders for 2026",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/large-order-and-record-early-orders-for-2026-14su4lbqgvuq5rj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6737P",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/large-order-and-record-early-orders-for-2026-14su4lbqgvuq5rj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-07968a04330453ef1c571aff",
               "headline": "New Investor Website",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/new-investor-website-rrq15mnezam0mcf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5070P",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/new-investor-website-rrq15mnezam0mcf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jan 2026",
+              "event_id": "rns-72bdee4cfb856e2b2a10c36b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-4h4vkr3ls204x8g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3675N",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-4h4vkr3ls204x8g.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jan 2026",
+              "event_id": "rns-72bdee4cfb856e2b2a10c36b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-ch1kz052qaluui1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3675N",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-ch1kz052qaluui1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Nov 2025",
+              "event_id": "rns-860ff160ed5e12fdf3c82993",
               "headline": "SweetBiotix Overview and Update",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix-overview-and-update-6mzgvfsbbg2nnag.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6314I",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/sweetbiotix-overview-and-update-6mzgvfsbbg2nnag.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-e3cf9ec0dc603556806c9bf5",
               "headline": "Order with well-known Weight Management Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/order-with-well-known-weight-management-company-17qfj3u80gn9vge.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7302H",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/order-with-well-known-weight-management-company-17qfj3u80gn9vge.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Oct 2025",
+              "event_id": "rns-1886e86e36d774b2c1ca4559",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-atsmtiwrocjb43l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1594D",
+              "source_url": "https://www.lse.co.uk/rns/OPTI/holdings-in-company-atsmtiwrocjb43l.html",
+              "time": "3:31 pm"
             }
           ],
           "status": "AVAILABLE",

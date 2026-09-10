@@ -13640,20 +13640,24 @@
       "current_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": true,
           "date": "2026-07-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.72,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 968.0700073242188,
             "date": "2026-07-29",
             "status": "EXACT"
           },
           "relative_activity": 1.72,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "BC94.L:2026-07-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }

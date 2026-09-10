@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-05-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.97,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.6100000143051147,
                 "date": "2026-05-29",
                 "status": "EXACT"
               },
               "relative_activity": 3.97,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MTC.L:2026-05-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-7a574ec1aed1b4ab4763778b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html",
+              "time": "2:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-c3bbab2107cca86a5d944d2b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html",
+              "time": "2:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-d66ceb3136020b0367f165bd",
               "headline": "Admission to Trading",
-              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html",
+              "time": "8:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-18ad306b80f4447496e715ac",
               "headline": "Admission to Trading",
-              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html",
+              "time": "8:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-59d74687f9f0416daec04cd0",
               "headline": "Annual Financial Report and Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html",
+              "time": "10:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-c941e90a52447ca1c51cef34",
               "headline": "Annual Financial Report and Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-gdpci675kerh3wa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-gdpci675kerh3wa.html",
+              "time": "10:01 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-bec12a4d8523ef4b0fd7ec37",
               "headline": "Full Year Results 2026",
-              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-0ka8t9g0omha637.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-0ka8t9g0omha637.html",
+              "time": "9:35 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-077d47242daf53de454e7b55",
               "headline": "Full Year Results 2026",
-              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-pcy2yqkdfo3apso.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-pcy2yqkdfo3apso.html",
+              "time": "9:35 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-0e95911595fe8476a9e686de",
               "headline": "Additional Loan Drawdown",
-              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-5vwav6633gywtsd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-5vwav6633gywtsd.html",
+              "time": "1:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-daa4cbe1e87ea68dc5b1f78b",
               "headline": "Additional Loan Drawdown",
-              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-usltekfstshlbgi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-usltekfstshlbgi.html",
+              "time": "1:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-0a5ba1dffdcec32595900b17",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-div0pawv078recn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-div0pawv078recn.html",
+              "time": "2:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-6b2a496e5b6dc6d6d55b374e",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-ohuw8elu1drfljo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-ohuw8elu1drfljo.html",
+              "time": "2:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-59b1447592e6ebee906af3da",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-dmvn57maefwf9dz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-dmvn57maefwf9dz.html",
+              "time": "12:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-9bafa079791c666e84baba9f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-tvy19yp66bqg73s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-tvy19yp66bqg73s.html",
+              "time": "12:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-c34bfc7690e07b5cffc1b36a",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-f4fulpukzdfvyvu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-f4fulpukzdfvyvu.html",
+              "time": "12:26 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-300589bb953168fe7f767840",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-x1opg9fw5ljfbh4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-x1opg9fw5ljfbh4.html",
+              "time": "12:26 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-d777cc8fb9459e5bc0479587",
               "headline": "Pre-close trading update",
-              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-64jq66usraz2qlm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-64jq66usraz2qlm.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-00a50a32c039fd3bb849a54d",
               "headline": "Pre-close trading update",
-              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-7iuj8qbh07ra8i2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-7iuj8qbh07ra8i2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-a08d0c355c63835991f8905f",
               "headline": "Block listing six monthly return",
-              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-5ltk4nnhh56777q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-5ltk4nnhh56777q.html",
+              "time": "7:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-af9056118ceef8d76e42ae9b",
               "headline": "Block listing six monthly return",
-              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-kzr38h7nk5q7a9z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-kzr38h7nk5q7a9z.html",
+              "time": "7:43 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2026-05-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.97,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.6100000143051147,
             "date": "2026-05-29",
             "status": "EXACT"
           },
           "relative_activity": 3.97,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "MTC.L:2026-05-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-7a574ec1aed1b4ab4763778b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html",
+          "time": "2:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-c3bbab2107cca86a5d944d2b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html",
+          "time": "2:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-d66ceb3136020b0367f165bd",
           "headline": "Admission to Trading",
-          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html",
+          "time": "8:05 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-18ad306b80f4447496e715ac",
           "headline": "Admission to Trading",
-          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html",
+          "time": "8:05 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-59d74687f9f0416daec04cd0",
           "headline": "Annual Financial Report and Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html",
+          "time": "10:01 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-c941e90a52447ca1c51cef34",
           "headline": "Annual Financial Report and Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-gdpci675kerh3wa.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-gdpci675kerh3wa.html",
+          "time": "10:01 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-14",
+          "event_id": "rns-bec12a4d8523ef4b0fd7ec37",
           "headline": "Full Year Results 2026",
-          "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-0ka8t9g0omha637.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-0ka8t9g0omha637.html",
+          "time": "9:35 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-14",
+          "event_id": "rns-077d47242daf53de454e7b55",
           "headline": "Full Year Results 2026",
-          "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-pcy2yqkdfo3apso.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-pcy2yqkdfo3apso.html",
+          "time": "9:35 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-31",
+          "event_id": "rns-0e95911595fe8476a9e686de",
           "headline": "Additional Loan Drawdown",
-          "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-5vwav6633gywtsd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-5vwav6633gywtsd.html",
+          "time": "1:35 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-31",
+          "event_id": "rns-daa4cbe1e87ea68dc5b1f78b",
           "headline": "Additional Loan Drawdown",
-          "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-usltekfstshlbgi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-usltekfstshlbgi.html",
+          "time": "1:35 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-15",
+          "event_id": "rns-0a5ba1dffdcec32595900b17",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-div0pawv078recn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-div0pawv078recn.html",
+          "time": "2:01 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-15",
+          "event_id": "rns-6b2a496e5b6dc6d6d55b374e",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-ohuw8elu1drfljo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-ohuw8elu1drfljo.html",
+          "time": "2:01 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-03",
+          "event_id": "rns-59b1447592e6ebee906af3da",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-dmvn57maefwf9dz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-dmvn57maefwf9dz.html",
+          "time": "12:49 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-03",
+          "event_id": "rns-9bafa079791c666e84baba9f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-tvy19yp66bqg73s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-tvy19yp66bqg73s.html",
+          "time": "12:49 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-22",
+          "event_id": "rns-c34bfc7690e07b5cffc1b36a",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-f4fulpukzdfvyvu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-f4fulpukzdfvyvu.html",
+          "time": "12:26 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-22",
+          "event_id": "rns-300589bb953168fe7f767840",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-x1opg9fw5ljfbh4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-x1opg9fw5ljfbh4.html",
+          "time": "12:26 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-13",
+          "event_id": "rns-d777cc8fb9459e5bc0479587",
           "headline": "Pre-close trading update",
-          "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-64jq66usraz2qlm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-64jq66usraz2qlm.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-13",
+          "event_id": "rns-00a50a32c039fd3bb849a54d",
           "headline": "Pre-close trading update",
-          "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-7iuj8qbh07ra8i2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-7iuj8qbh07ra8i2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-13",
+          "event_id": "rns-a08d0c355c63835991f8905f",
           "headline": "Block listing six monthly return",
-          "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-5ltk4nnhh56777q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-5ltk4nnhh56777q.html",
+          "time": "7:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-13",
+          "event_id": "rns-af9056118ceef8d76e42ae9b",
           "headline": "Block listing six monthly return",
-          "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-kzr38h7nk5q7a9z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-kzr38h7nk5q7a9z.html",
+          "time": "7:43 am"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-7a574ec1aed1b4ab4763778b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html",
+          "time": "2:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-c3bbab2107cca86a5d944d2b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html",
+          "time": "2:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-d66ceb3136020b0367f165bd",
           "headline": "Admission to Trading",
-          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html",
+          "time": "8:05 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-18ad306b80f4447496e715ac",
           "headline": "Admission to Trading",
-          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html",
+          "time": "8:05 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-59d74687f9f0416daec04cd0",
           "headline": "Annual Financial Report and Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html",
+          "time": "10:01 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-05-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.97,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.6100000143051147,
                 "date": "2026-05-29",
                 "status": "EXACT"
               },
               "relative_activity": 3.97,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MTC.L:2026-05-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-7a574ec1aed1b4ab4763778b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-rvffns1x331wljj.html",
+              "time": "2:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-c3bbab2107cca86a5d944d2b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-xe0w94xey2fiqwq.html",
+              "time": "2:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-d66ceb3136020b0367f165bd",
               "headline": "Admission to Trading",
-              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-697ipr2uwgez9jc.html",
+              "time": "8:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-18ad306b80f4447496e715ac",
               "headline": "Admission to Trading",
-              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/admission-to-trading-kz7u35lxiych0rg.html",
+              "time": "8:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-59d74687f9f0416daec04cd0",
               "headline": "Annual Financial Report and Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-4gbggi262wg9bf3.html",
+              "time": "10:01 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-c941e90a52447ca1c51cef34",
               "headline": "Annual Financial Report and Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-gdpci675kerh3wa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/annual-financial-report-and-notice-of-annual-general-meeting-gdpci675kerh3wa.html",
+              "time": "10:01 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-bec12a4d8523ef4b0fd7ec37",
               "headline": "Full Year Results 2026",
-              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-0ka8t9g0omha637.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-0ka8t9g0omha637.html",
+              "time": "9:35 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-077d47242daf53de454e7b55",
               "headline": "Full Year Results 2026",
-              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-pcy2yqkdfo3apso.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/full-year-results-2026-pcy2yqkdfo3apso.html",
+              "time": "9:35 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-0e95911595fe8476a9e686de",
               "headline": "Additional Loan Drawdown",
-              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-5vwav6633gywtsd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-5vwav6633gywtsd.html",
+              "time": "1:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-daa4cbe1e87ea68dc5b1f78b",
               "headline": "Additional Loan Drawdown",
-              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-usltekfstshlbgi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/additional-loan-drawdown-usltekfstshlbgi.html",
+              "time": "1:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-0a5ba1dffdcec32595900b17",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-div0pawv078recn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-div0pawv078recn.html",
+              "time": "2:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-6b2a496e5b6dc6d6d55b374e",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-ohuw8elu1drfljo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-ohuw8elu1drfljo.html",
+              "time": "2:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-59b1447592e6ebee906af3da",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-dmvn57maefwf9dz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-dmvn57maefwf9dz.html",
+              "time": "12:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-9bafa079791c666e84baba9f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-tvy19yp66bqg73s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-tvy19yp66bqg73s.html",
+              "time": "12:49 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-c34bfc7690e07b5cffc1b36a",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-f4fulpukzdfvyvu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-f4fulpukzdfvyvu.html",
+              "time": "12:26 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-300589bb953168fe7f767840",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-x1opg9fw5ljfbh4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/holdings-in-company-x1opg9fw5ljfbh4.html",
+              "time": "12:26 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-d777cc8fb9459e5bc0479587",
               "headline": "Pre-close trading update",
-              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-64jq66usraz2qlm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-64jq66usraz2qlm.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-00a50a32c039fd3bb849a54d",
               "headline": "Pre-close trading update",
-              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-7iuj8qbh07ra8i2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/pre-close-trading-update-7iuj8qbh07ra8i2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-a08d0c355c63835991f8905f",
               "headline": "Block listing six monthly return",
-              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-5ltk4nnhh56777q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-5ltk4nnhh56777q.html",
+              "time": "7:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-af9056118ceef8d76e42ae9b",
               "headline": "Block listing six monthly return",
-              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-kzr38h7nk5q7a9z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MTC/block-listing-six-monthly-return-kzr38h7nk5q7a9z.html",
+              "time": "7:43 am"
             }
           ],
           "status": "AVAILABLE",

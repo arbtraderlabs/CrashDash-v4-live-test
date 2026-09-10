@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-20",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 11.53,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.190000057220459,
                 "date": "2023-06-20",
                 "status": "EXACT"
               },
               "relative_activity": 11.53,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CMET.L:2023-06-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.0750000476837158,
                 "date": "2023-06-28",
                 "status": "EXACT"
               },
               "relative_activity": 1.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CMET.L:2023-06-28",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -22953,141 +22961,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-3d3d0ffeedbc07096fe8a54c",
               "headline": "Final Results for the Year Ended 31 March 2026",
-              "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8452T",
+              "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html",
+              "time": "7:58 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-08eb3cec85b18a84d80545e4",
               "headline": "Sri Lanka Mineral Sands Conference",
-              "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5408I",
+              "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-06116197e29852aa57350dd2",
               "headline": "Issue of Equity/Options Grant/TVR",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2995I",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html",
+              "time": "8:54 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-2fabc6341623f6f8ed764852",
               "headline": "Issue of Equity & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4079W",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html",
+              "time": "9:14 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-2fabc6341623f6f8ed764852",
               "headline": "Issue of Equity & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4079W",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html",
+              "time": "9:14 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-9d4f6be7edcd49a10830bb1e",
               "headline": "Project Updates & Notice of Investor Webinar",
-              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-notice-of-investor-webinar-hxq1y4ee2ryiqge.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8139U",
+              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-notice-of-investor-webinar-hxq1y4ee2ryiqge.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-c8fe2e26d380bd7106a9e1b4",
               "headline": "Publication of New National Minerals Policy",
-              "source_url": "https://www.lse.co.uk/rns/CMET/publication-of-new-national-minerals-policy-krgurjwgv8b2xf6.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5963S",
+              "source_url": "https://www.lse.co.uk/rns/CMET/publication-of-new-national-minerals-policy-krgurjwgv8b2xf6.html",
+              "time": "9:06 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2026",
+              "event_id": "rns-ce8fe63e7fee47247b8352ba",
               "headline": "Holding in Company & Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-directorate-change-dxlx479qp04ux0v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9484R",
+              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-directorate-change-dxlx479qp04ux0v.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-72693958700d338a995da14d",
               "headline": "Holding in Company",
-              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-rup1qm0kdnkbagr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7023Q",
+              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-rup1qm0kdnkbagr.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jan 2026",
+              "event_id": "rns-79e523596aa87ab1341e6058",
               "headline": "Issue of Equity & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-r2l5s2kcwfjx8sq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4545P",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-r2l5s2kcwfjx8sq.html",
+              "time": "11:29 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Dec 2025",
+              "event_id": "rns-8f980bc2726f4e07c12b9df5",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/CMET/half-year-report-ca4ubltd4yv0wu6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0226M",
+              "source_url": "https://www.lse.co.uk/rns/CMET/half-year-report-ca4ubltd4yv0wu6.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-74e5e496837ffc501eb8fcfd",
               "headline": "Cyclone Ditwah - Update on Sri Lanka Operations",
-              "source_url": "https://www.lse.co.uk/rns/CMET/cyclone-ditwah-update-on-sri-lanka-operations-jq8xjug526o2hzb.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0390L",
+              "source_url": "https://www.lse.co.uk/rns/CMET/cyclone-ditwah-update-on-sri-lanka-operations-jq8xjug526o2hzb.html",
+              "time": "11:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-4e7ae36cba880e4bb6302092",
               "headline": "Mineral Resource Upgrade",
-              "source_url": "https://www.lse.co.uk/rns/CMET/mineral-resource-upgrade-d6qie62xfa8q6e9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6937H",
+              "source_url": "https://www.lse.co.uk/rns/CMET/mineral-resource-upgrade-d6qie62xfa8q6e9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-ffb6b1c17cb9ba7e5733d6af",
               "headline": "Notice of Investor Webcast",
-              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-hryh797a9l6kcw0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8506H",
+              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-hryh797a9l6kcw0.html",
+              "time": "2:17 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Nov 2025",
+              "event_id": "rns-ad50e3a1abf9b9b1ef3dcdf5",
               "headline": "Industry Conference Presentation",
-              "source_url": "https://www.lse.co.uk/rns/CMET/industry-conference-presentation-7aqa3ijhtgq8i5b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3966G",
+              "source_url": "https://www.lse.co.uk/rns/CMET/industry-conference-presentation-7aqa3ijhtgq8i5b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2025",
+              "event_id": "rns-75a53ab7789e7e26033d2e90",
               "headline": "Issue of Equity and Warrants; Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-and-warrants-total-voting-rights-v8crgl2mj0flxbg.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3414D",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-and-warrants-total-voting-rights-v8crgl2mj0flxbg.html",
+              "time": "2:26 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Oct 2025",
+              "event_id": "rns-7317a506927746f83666cb46",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CMET/holdings-in-company-ftv9t10vlvoqdvc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6001B",
+              "source_url": "https://www.lse.co.uk/rns/CMET/holdings-in-company-ftv9t10vlvoqdvc.html",
+              "time": "9:15 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Sep 2025",
+              "event_id": "rns-92dd2e826dbf32f52cbdf7db",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/CMET/result-of-annual-general-meeting-34001fpzrk9xotp.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4897A",
+              "source_url": "https://www.lse.co.uk/rns/CMET/result-of-annual-general-meeting-34001fpzrk9xotp.html",
+              "time": "1:56 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2025",
+              "event_id": "rns-47aa1742dc41e7de44ccbcb2",
               "headline": "Notice of Investor Webcast & Updated Presentation",
-              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-updated-presentation-mtwpn7l4dvopuai.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1225A",
+              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-updated-presentation-mtwpn7l4dvopuai.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-bc7f945ea47c6bea940a9beb",
               "headline": "Project Updates",
-              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-31k6wgxj6chigxq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8578Z",
+              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-31k6wgxj6chigxq.html",
+              "time": "7:36 am"
             }
           ],
           "status": "AVAILABLE",
@@ -23155,39 +23263,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-20",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 11.53,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.190000057220459,
             "date": "2023-06-20",
             "status": "EXACT"
           },
           "relative_activity": 11.53,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "CMET.L:2023-06-20",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-28",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.23,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.0750000476837158,
             "date": "2023-06-28",
             "status": "EXACT"
           },
           "relative_activity": 1.23,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "CMET.L:2023-06-28",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -34639,141 +34755,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-3d3d0ffeedbc07096fe8a54c",
           "headline": "Final Results for the Year Ended 31 March 2026",
-          "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8452T",
+          "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html",
+          "time": "7:58 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-08eb3cec85b18a84d80545e4",
           "headline": "Sri Lanka Mineral Sands Conference",
-          "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5408I",
+          "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-15",
+          "event_id": "rns-06116197e29852aa57350dd2",
           "headline": "Issue of Equity/Options Grant/TVR",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2995I",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html",
+          "time": "8:54 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-2fabc6341623f6f8ed764852",
           "headline": "Issue of Equity & Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4079W",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html",
+          "time": "9:14 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-2fabc6341623f6f8ed764852",
           "headline": "Issue of Equity & Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4079W",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html",
+          "time": "9:14 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-02",
+          "event_id": "rns-9d4f6be7edcd49a10830bb1e",
           "headline": "Project Updates & Notice of Investor Webinar",
-          "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-notice-of-investor-webinar-hxq1y4ee2ryiqge.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8139U",
+          "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-notice-of-investor-webinar-hxq1y4ee2ryiqge.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-11",
+          "event_id": "rns-c8fe2e26d380bd7106a9e1b4",
           "headline": "Publication of New National Minerals Policy",
-          "source_url": "https://www.lse.co.uk/rns/CMET/publication-of-new-national-minerals-policy-krgurjwgv8b2xf6.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5963S",
+          "source_url": "https://www.lse.co.uk/rns/CMET/publication-of-new-national-minerals-policy-krgurjwgv8b2xf6.html",
+          "time": "9:06 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-06",
+          "event_id": "rns-ce8fe63e7fee47247b8352ba",
           "headline": "Holding in Company & Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-directorate-change-dxlx479qp04ux0v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9484R",
+          "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-directorate-change-dxlx479qp04ux0v.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-28",
+          "event_id": "rns-72693958700d338a995da14d",
           "headline": "Holding in Company",
-          "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-rup1qm0kdnkbagr.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7023Q",
+          "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-rup1qm0kdnkbagr.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-19",
+          "event_id": "rns-79e523596aa87ab1341e6058",
           "headline": "Issue of Equity & Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-r2l5s2kcwfjx8sq.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4545P",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-r2l5s2kcwfjx8sq.html",
+          "time": "11:29 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-18",
+          "event_id": "rns-8f980bc2726f4e07c12b9df5",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/CMET/half-year-report-ca4ubltd4yv0wu6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0226M",
+          "source_url": "https://www.lse.co.uk/rns/CMET/half-year-report-ca4ubltd4yv0wu6.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-10",
+          "event_id": "rns-74e5e496837ffc501eb8fcfd",
           "headline": "Cyclone Ditwah - Update on Sri Lanka Operations",
-          "source_url": "https://www.lse.co.uk/rns/CMET/cyclone-ditwah-update-on-sri-lanka-operations-jq8xjug526o2hzb.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0390L",
+          "source_url": "https://www.lse.co.uk/rns/CMET/cyclone-ditwah-update-on-sri-lanka-operations-jq8xjug526o2hzb.html",
+          "time": "11:30 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-17",
+          "event_id": "rns-4e7ae36cba880e4bb6302092",
           "headline": "Mineral Resource Upgrade",
-          "source_url": "https://www.lse.co.uk/rns/CMET/mineral-resource-upgrade-d6qie62xfa8q6e9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6937H",
+          "source_url": "https://www.lse.co.uk/rns/CMET/mineral-resource-upgrade-d6qie62xfa8q6e9.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-17",
+          "event_id": "rns-ffb6b1c17cb9ba7e5733d6af",
           "headline": "Notice of Investor Webcast",
-          "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-hryh797a9l6kcw0.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8506H",
+          "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-hryh797a9l6kcw0.html",
+          "time": "2:17 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-06",
+          "event_id": "rns-ad50e3a1abf9b9b1ef3dcdf5",
           "headline": "Industry Conference Presentation",
-          "source_url": "https://www.lse.co.uk/rns/CMET/industry-conference-presentation-7aqa3ijhtgq8i5b.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3966G",
+          "source_url": "https://www.lse.co.uk/rns/CMET/industry-conference-presentation-7aqa3ijhtgq8i5b.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-14",
+          "event_id": "rns-75a53ab7789e7e26033d2e90",
           "headline": "Issue of Equity and Warrants; Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-and-warrants-total-voting-rights-v8crgl2mj0flxbg.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3414D",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-and-warrants-total-voting-rights-v8crgl2mj0flxbg.html",
+          "time": "2:26 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-01",
+          "event_id": "rns-7317a506927746f83666cb46",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/CMET/holdings-in-company-ftv9t10vlvoqdvc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6001B",
+          "source_url": "https://www.lse.co.uk/rns/CMET/holdings-in-company-ftv9t10vlvoqdvc.html",
+          "time": "9:15 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-23",
+          "event_id": "rns-92dd2e826dbf32f52cbdf7db",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/CMET/result-of-annual-general-meeting-34001fpzrk9xotp.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4897A",
+          "source_url": "https://www.lse.co.uk/rns/CMET/result-of-annual-general-meeting-34001fpzrk9xotp.html",
+          "time": "1:56 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-22",
+          "event_id": "rns-47aa1742dc41e7de44ccbcb2",
           "headline": "Notice of Investor Webcast & Updated Presentation",
-          "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-updated-presentation-mtwpn7l4dvopuai.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1225A",
+          "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-updated-presentation-mtwpn7l4dvopuai.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-18",
+          "event_id": "rns-bc7f945ea47c6bea940a9beb",
           "headline": "Project Updates",
-          "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-31k6wgxj6chigxq.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8578Z",
+          "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-31k6wgxj6chigxq.html",
+          "time": "7:36 am"
         }
       ],
       "rns_initial": [
@@ -34781,36 +34997,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-08",
+          "event_id": "rns-3d3d0ffeedbc07096fe8a54c",
           "headline": "Final Results for the Year Ended 31 March 2026",
-          "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8452T",
+          "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html",
+          "time": "7:58 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-08eb3cec85b18a84d80545e4",
           "headline": "Sri Lanka Mineral Sands Conference",
-          "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5408I",
+          "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-15",
+          "event_id": "rns-06116197e29852aa57350dd2",
           "headline": "Issue of Equity/Options Grant/TVR",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2995I",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html",
+          "time": "8:54 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-2fabc6341623f6f8ed764852",
           "headline": "Issue of Equity & Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4079W",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html",
+          "time": "9:14 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-2fabc6341623f6f8ed764852",
           "headline": "Issue of Equity & Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4079W",
+          "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html",
+          "time": "9:14 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -34858,39 +35099,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-20",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 11.53,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.190000057220459,
                 "date": "2023-06-20",
                 "status": "EXACT"
               },
               "relative_activity": 11.53,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CMET.L:2023-06-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.0750000476837158,
                 "date": "2023-06-28",
                 "status": "EXACT"
               },
               "relative_activity": 1.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CMET.L:2023-06-28",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -57790,141 +58039,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2026",
+              "event_id": "rns-3d3d0ffeedbc07096fe8a54c",
               "headline": "Final Results for the Year Ended 31 March 2026",
-              "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8452T",
+              "source_url": "https://www.lse.co.uk/rns/CMET/final-results-for-the-year-ended-31-march-2026-3faxvhddd93pgvp.html",
+              "time": "7:58 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-08eb3cec85b18a84d80545e4",
               "headline": "Sri Lanka Mineral Sands Conference",
-              "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5408I",
+              "source_url": "https://www.lse.co.uk/rns/CMET/sri-lanka-mineral-sands-conference-0ft1101pegurfxj.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-06116197e29852aa57350dd2",
               "headline": "Issue of Equity/Options Grant/TVR",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2995I",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equityoptions-granttvr-f8jewh62qo611z1.html",
+              "time": "8:54 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-2fabc6341623f6f8ed764852",
               "headline": "Issue of Equity & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4079W",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-6ft6gr1guqsels2.html",
+              "time": "9:14 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-2fabc6341623f6f8ed764852",
               "headline": "Issue of Equity & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4079W",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-p7ngb2qebh8jx4v.html",
+              "time": "9:14 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-9d4f6be7edcd49a10830bb1e",
               "headline": "Project Updates & Notice of Investor Webinar",
-              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-notice-of-investor-webinar-hxq1y4ee2ryiqge.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8139U",
+              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-notice-of-investor-webinar-hxq1y4ee2ryiqge.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-c8fe2e26d380bd7106a9e1b4",
               "headline": "Publication of New National Minerals Policy",
-              "source_url": "https://www.lse.co.uk/rns/CMET/publication-of-new-national-minerals-policy-krgurjwgv8b2xf6.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5963S",
+              "source_url": "https://www.lse.co.uk/rns/CMET/publication-of-new-national-minerals-policy-krgurjwgv8b2xf6.html",
+              "time": "9:06 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2026",
+              "event_id": "rns-ce8fe63e7fee47247b8352ba",
               "headline": "Holding in Company & Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-directorate-change-dxlx479qp04ux0v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9484R",
+              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-directorate-change-dxlx479qp04ux0v.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-72693958700d338a995da14d",
               "headline": "Holding in Company",
-              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-rup1qm0kdnkbagr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7023Q",
+              "source_url": "https://www.lse.co.uk/rns/CMET/holding-in-company-rup1qm0kdnkbagr.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jan 2026",
+              "event_id": "rns-79e523596aa87ab1341e6058",
               "headline": "Issue of Equity & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-r2l5s2kcwfjx8sq.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4545P",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-total-voting-rights-r2l5s2kcwfjx8sq.html",
+              "time": "11:29 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Dec 2025",
+              "event_id": "rns-8f980bc2726f4e07c12b9df5",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/CMET/half-year-report-ca4ubltd4yv0wu6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0226M",
+              "source_url": "https://www.lse.co.uk/rns/CMET/half-year-report-ca4ubltd4yv0wu6.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-74e5e496837ffc501eb8fcfd",
               "headline": "Cyclone Ditwah - Update on Sri Lanka Operations",
-              "source_url": "https://www.lse.co.uk/rns/CMET/cyclone-ditwah-update-on-sri-lanka-operations-jq8xjug526o2hzb.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0390L",
+              "source_url": "https://www.lse.co.uk/rns/CMET/cyclone-ditwah-update-on-sri-lanka-operations-jq8xjug526o2hzb.html",
+              "time": "11:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-4e7ae36cba880e4bb6302092",
               "headline": "Mineral Resource Upgrade",
-              "source_url": "https://www.lse.co.uk/rns/CMET/mineral-resource-upgrade-d6qie62xfa8q6e9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6937H",
+              "source_url": "https://www.lse.co.uk/rns/CMET/mineral-resource-upgrade-d6qie62xfa8q6e9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-ffb6b1c17cb9ba7e5733d6af",
               "headline": "Notice of Investor Webcast",
-              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-hryh797a9l6kcw0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8506H",
+              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-hryh797a9l6kcw0.html",
+              "time": "2:17 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Nov 2025",
+              "event_id": "rns-ad50e3a1abf9b9b1ef3dcdf5",
               "headline": "Industry Conference Presentation",
-              "source_url": "https://www.lse.co.uk/rns/CMET/industry-conference-presentation-7aqa3ijhtgq8i5b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3966G",
+              "source_url": "https://www.lse.co.uk/rns/CMET/industry-conference-presentation-7aqa3ijhtgq8i5b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2025",
+              "event_id": "rns-75a53ab7789e7e26033d2e90",
               "headline": "Issue of Equity and Warrants; Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-and-warrants-total-voting-rights-v8crgl2mj0flxbg.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3414D",
+              "source_url": "https://www.lse.co.uk/rns/CMET/issue-of-equity-and-warrants-total-voting-rights-v8crgl2mj0flxbg.html",
+              "time": "2:26 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Oct 2025",
+              "event_id": "rns-7317a506927746f83666cb46",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CMET/holdings-in-company-ftv9t10vlvoqdvc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6001B",
+              "source_url": "https://www.lse.co.uk/rns/CMET/holdings-in-company-ftv9t10vlvoqdvc.html",
+              "time": "9:15 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Sep 2025",
+              "event_id": "rns-92dd2e826dbf32f52cbdf7db",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/CMET/result-of-annual-general-meeting-34001fpzrk9xotp.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4897A",
+              "source_url": "https://www.lse.co.uk/rns/CMET/result-of-annual-general-meeting-34001fpzrk9xotp.html",
+              "time": "1:56 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Sep 2025",
+              "event_id": "rns-47aa1742dc41e7de44ccbcb2",
               "headline": "Notice of Investor Webcast & Updated Presentation",
-              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-updated-presentation-mtwpn7l4dvopuai.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1225A",
+              "source_url": "https://www.lse.co.uk/rns/CMET/notice-of-investor-webcast-updated-presentation-mtwpn7l4dvopuai.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Sep 2025",
+              "event_id": "rns-bc7f945ea47c6bea940a9beb",
               "headline": "Project Updates",
-              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-31k6wgxj6chigxq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8578Z",
+              "source_url": "https://www.lse.co.uk/rns/CMET/project-updates-31k6wgxj6chigxq.html",
+              "time": "7:36 am"
             }
           ],
           "status": "AVAILABLE",

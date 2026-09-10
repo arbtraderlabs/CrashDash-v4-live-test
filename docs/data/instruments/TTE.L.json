@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-07-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.18,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 28.04343032836914,
                 "date": "2021-07-07",
                 "status": "EXACT"
               },
               "relative_activity": 3.18,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TTE.L:2021-07-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2021-07-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 4.18,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 27.505794525146484,
                 "date": "2021-07-15",
                 "status": "EXACT"
               },
               "relative_activity": 4.18,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "TTE.L:2021-07-15",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2021-07-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 3.13,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 27.123628616333008,
                 "date": "2021-07-16",
                 "status": "EXACT"
               },
               "relative_activity": 3.13,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "TTE.L:2021-07-16",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             }
@@ -27148,141 +27160,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-7c71c2e0b3a9bb17eef11b85",
               "headline": "Admission of securities to the official list",
-              "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1625O",
+              "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-9a22de5194e2f9a41fbb8e7a",
               "headline": "Capital decrease by way of shares cancellation",
-              "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9664N",
+              "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html",
+              "time": "8:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-a67a9b8813fc3bf65b7e3f2f",
               "headline": "TotalEnergies - Angola: Start-up of the New Gas Consortium Quiluma Offshore Gas Field",
-              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html",
+              "time": "8:26 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-9c3008429c9c36c50af48fae",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Mar 2026",
+              "event_id": "rns-73bc115b62d482b6f4321f03",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html",
+              "time": "4:33 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Mar 2026",
+              "event_id": "rns-4367797f26b593be3aae5b02",
               "headline": "Impact of Middle East Conflict on TotalEnergies Activities",
-              "source_url": "https://www.lse.co.uk/rns/TTE/impact-of-middle-east-conflict-on-totalenergies-activities-duzp468esd160qn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/impact-of-middle-east-conflict-on-totalenergies-activities-duzp468esd160qn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-d0bbc0129f079e65b9bc4148",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-clme983yseplhdb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-clme983yseplhdb.html",
+              "time": "4:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-7801f901e123a783dd14ab58",
               "headline": "Libya: TotalEnergies Announces the Restart of Production at the Mabruk Field",
-              "source_url": "https://www.lse.co.uk/rns/TTE/libya-totalenergies-announces-the-restart-of-production-at-the-mabruk-field-dmibsql68y4ooqy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/libya-totalenergies-announces-the-restart-of-production-at-the-mabruk-field-dmibsql68y4ooqy.html",
+              "time": "9:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Feb 2026",
+              "event_id": "rns-91e2b9d7156c0c5c53023c40",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-oha8j0y5wozumd0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-oha8j0y5wozumd0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-36ffb1a0aa9b1c0a915c50f0",
               "headline": "Stabilisation Notice-TotalEnergies SE",
-              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-7styk2182wkj6cn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6617T",
+              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-7styk2182wkj6cn.html",
+              "time": "8:11 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-e36113204c0f9c5fb20eda06",
               "headline": "Stabilisation Notice-TotalEnergies SE",
-              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-w4hmnhdfn15dekf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7237T",
+              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-w4hmnhdfn15dekf.html",
+              "time": "3:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Feb 2026",
+              "event_id": "rns-9596650350cdb91959ba3ec6",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-3q37tc5f1fb3pw3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-3q37tc5f1fb3pw3.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-c41748aa2e4936c88f27502a",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/TTE/final-results-orvt2vouusmwq4b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/final-results-orvt2vouusmwq4b.html",
+              "time": "11:44 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2026",
+              "event_id": "rns-b45b4d3a45a820b80c59cd89",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/TTE/total-voting-rights-yruxhmof96w8ug5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/total-voting-rights-yruxhmof96w8ug5.html",
+              "time": "4:56 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-5453271259cfcabb460fa462",
               "headline": "United States: TotalEnergies to Provide 1 GW of Solar Capacity to Power Google\u2019s Data Centers in Texas for 15 Years",
-              "source_url": "https://www.lse.co.uk/rns/TTE/united-states-totalenergies-to-provide-1-gw-of-solar-capacity-to-power-google8217s-data-centers-in-texas-for-15-years-rowzjbrp37olmex.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/united-states-totalenergies-to-provide-1-gw-of-solar-capacity-to-power-google8217s-data-centers-in-texas-for-15-years-rowzjbrp37olmex.html",
+              "time": "10:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2026",
+              "event_id": "rns-fb9c96cd38f2b2c9e452ef92",
               "headline": "Namibia: TotalEnergies Expands its Exploration Portfolio as Operator of PEL104 License",
-              "source_url": "https://www.lse.co.uk/rns/TTE/namibia-totalenergies-expands-its-exploration-portfolio-as-operator-of-pel104-license-kwbdj2edgtj0myg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/namibia-totalenergies-expands-its-exploration-portfolio-as-operator-of-pel104-license-kwbdj2edgtj0myg.html",
+              "time": "8:48 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-97ed10e554cf37828ee5d6c9",
               "headline": "Europe: TotalEnergies to Supply Renewable Electricity to Airbus in Germany and the United Kingdom",
-              "source_url": "https://www.lse.co.uk/rns/TTE/europe-totalenergies-to-supply-renewable-electricity-to-airbus-in-germany-and-the-united-kingdom-ctwye5tg0vdnyn2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/europe-totalenergies-to-supply-renewable-electricity-to-airbus-in-germany-and-the-united-kingdom-ctwye5tg0vdnyn2.html",
+              "time": "9:02 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-8402e2094fd3c41aa8f093cf",
               "headline": "Electric mobility: TotalEnergies and Tikehau Capital Join Forces to Develop Public Charging Networks in Belgium and the Netherlands",
-              "source_url": "https://www.lse.co.uk/rns/TTE/electric-mobility-totalenergies-and-tikehau-capital-join-forces-to-develop-public-charging-networks-in-belgium-and-the-netherlands-0jd1bs7memxhi7k.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/electric-mobility-totalenergies-and-tikehau-capital-join-forces-to-develop-public-charging-networks-in-belgium-and-the-netherlands-0jd1bs7memxhi7k.html",
+              "time": "12:41 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Feb 2026",
+              "event_id": "rns-ca24459e6bddccee667fc5cd",
               "headline": "Kuwait: TotalEnergies and Kuwait Oil Company Sign Technical Cooperation Agreement",
-              "source_url": "https://www.lse.co.uk/rns/TTE/kuwait-totalenergies-and-kuwait-oil-company-sign-technical-cooperation-agreement-zaqziknxuesd34o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/kuwait-totalenergies-and-kuwait-oil-company-sign-technical-cooperation-agreement-zaqziknxuesd34o.html",
+              "time": "1:17 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jan 2026",
+              "event_id": "rns-b64a66397c832ce9b2f6d5af",
               "headline": "TotalEnergies and Galp Reinforce Their Long-Term Commitment to Namibia in High\u2011Level Presidential Meeting",
-              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-and-galp-reinforce-their-long-term-commitment-to-namibia-in-high8209level-presidential-meeting-9oneytsiptufosl.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-and-galp-reinforce-their-long-term-commitment-to-namibia-in-high8209level-presidential-meeting-9oneytsiptufosl.html",
+              "time": "12:47 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27351,58 +27463,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-07-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.18,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 28.04343032836914,
             "date": "2021-07-07",
             "status": "EXACT"
           },
           "relative_activity": 3.18,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TTE.L:2021-07-07",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2021-07-15",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 4.18,
-            "severity": "PURPLE",
+            "severity": "ELEVATED",
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 27.505794525146484,
             "date": "2021-07-15",
             "status": "EXACT"
           },
           "relative_activity": 4.18,
-          "severity": "PURPLE",
+          "severity": "ELEVATED",
           "signal_id": "TTE.L:2021-07-15",
           "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2021-07-16",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 3.13,
-            "severity": "PURPLE",
+            "severity": "ELEVATED",
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 27.123628616333008,
             "date": "2021-07-16",
             "status": "EXACT"
           },
           "relative_activity": 3.13,
-          "severity": "PURPLE",
+          "severity": "ELEVATED",
           "signal_id": "TTE.L:2021-07-16",
           "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
         }
@@ -40942,141 +41066,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-7c71c2e0b3a9bb17eef11b85",
           "headline": "Admission of securities to the official list",
-          "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1625O",
+          "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-28",
+          "event_id": "rns-9a22de5194e2f9a41fbb8e7a",
           "headline": "Capital decrease by way of shares cancellation",
-          "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9664N",
+          "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html",
+          "time": "8:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-a67a9b8813fc3bf65b7e3f2f",
           "headline": "TotalEnergies - Angola: Start-up of the New Gas Consortium Quiluma Offshore Gas Field",
-          "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html",
+          "time": "8:26 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-9c3008429c9c36c50af48fae",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-16",
+          "event_id": "rns-73bc115b62d482b6f4321f03",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html",
+          "time": "4:33 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-16",
+          "event_id": "rns-4367797f26b593be3aae5b02",
           "headline": "Impact of Middle East Conflict on TotalEnergies Activities",
-          "source_url": "https://www.lse.co.uk/rns/TTE/impact-of-middle-east-conflict-on-totalenergies-activities-duzp468esd160qn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/impact-of-middle-east-conflict-on-totalenergies-activities-duzp468esd160qn.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-d0bbc0129f079e65b9bc4148",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-clme983yseplhdb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-clme983yseplhdb.html",
+          "time": "4:59 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-7801f901e123a783dd14ab58",
           "headline": "Libya: TotalEnergies Announces the Restart of Production at the Mabruk Field",
-          "source_url": "https://www.lse.co.uk/rns/TTE/libya-totalenergies-announces-the-restart-of-production-at-the-mabruk-field-dmibsql68y4ooqy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/libya-totalenergies-announces-the-restart-of-production-at-the-mabruk-field-dmibsql68y4ooqy.html",
+          "time": "9:41 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-24",
+          "event_id": "rns-91e2b9d7156c0c5c53023c40",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-oha8j0y5wozumd0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-oha8j0y5wozumd0.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-19",
+          "event_id": "rns-36ffb1a0aa9b1c0a915c50f0",
           "headline": "Stabilisation Notice-TotalEnergies SE",
-          "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-7styk2182wkj6cn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6617T",
+          "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-7styk2182wkj6cn.html",
+          "time": "8:11 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-19",
+          "event_id": "rns-e36113204c0f9c5fb20eda06",
           "headline": "Stabilisation Notice-TotalEnergies SE",
-          "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-w4hmnhdfn15dekf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7237T",
+          "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-w4hmnhdfn15dekf.html",
+          "time": "3:55 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-18",
+          "event_id": "rns-9596650350cdb91959ba3ec6",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-3q37tc5f1fb3pw3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-3q37tc5f1fb3pw3.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-11",
+          "event_id": "rns-c41748aa2e4936c88f27502a",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/TTE/final-results-orvt2vouusmwq4b.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/final-results-orvt2vouusmwq4b.html",
+          "time": "11:44 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-10",
+          "event_id": "rns-b45b4d3a45a820b80c59cd89",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/TTE/total-voting-rights-yruxhmof96w8ug5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/total-voting-rights-yruxhmof96w8ug5.html",
+          "time": "4:56 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-09",
+          "event_id": "rns-5453271259cfcabb460fa462",
           "headline": "United States: TotalEnergies to Provide 1 GW of Solar Capacity to Power Google\u2019s Data Centers in Texas for 15 Years",
-          "source_url": "https://www.lse.co.uk/rns/TTE/united-states-totalenergies-to-provide-1-gw-of-solar-capacity-to-power-google8217s-data-centers-in-texas-for-15-years-rowzjbrp37olmex.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/united-states-totalenergies-to-provide-1-gw-of-solar-capacity-to-power-google8217s-data-centers-in-texas-for-15-years-rowzjbrp37olmex.html",
+          "time": "10:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-06",
+          "event_id": "rns-fb9c96cd38f2b2c9e452ef92",
           "headline": "Namibia: TotalEnergies Expands its Exploration Portfolio as Operator of PEL104 License",
-          "source_url": "https://www.lse.co.uk/rns/TTE/namibia-totalenergies-expands-its-exploration-portfolio-as-operator-of-pel104-license-kwbdj2edgtj0myg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/namibia-totalenergies-expands-its-exploration-portfolio-as-operator-of-pel104-license-kwbdj2edgtj0myg.html",
+          "time": "8:48 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-05",
+          "event_id": "rns-97ed10e554cf37828ee5d6c9",
           "headline": "Europe: TotalEnergies to Supply Renewable Electricity to Airbus in Germany and the United Kingdom",
-          "source_url": "https://www.lse.co.uk/rns/TTE/europe-totalenergies-to-supply-renewable-electricity-to-airbus-in-germany-and-the-united-kingdom-ctwye5tg0vdnyn2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/europe-totalenergies-to-supply-renewable-electricity-to-airbus-in-germany-and-the-united-kingdom-ctwye5tg0vdnyn2.html",
+          "time": "9:02 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-04",
+          "event_id": "rns-8402e2094fd3c41aa8f093cf",
           "headline": "Electric mobility: TotalEnergies and Tikehau Capital Join Forces to Develop Public Charging Networks in Belgium and the Netherlands",
-          "source_url": "https://www.lse.co.uk/rns/TTE/electric-mobility-totalenergies-and-tikehau-capital-join-forces-to-develop-public-charging-networks-in-belgium-and-the-netherlands-0jd1bs7memxhi7k.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/electric-mobility-totalenergies-and-tikehau-capital-join-forces-to-develop-public-charging-networks-in-belgium-and-the-netherlands-0jd1bs7memxhi7k.html",
+          "time": "12:41 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-03",
+          "event_id": "rns-ca24459e6bddccee667fc5cd",
           "headline": "Kuwait: TotalEnergies and Kuwait Oil Company Sign Technical Cooperation Agreement",
-          "source_url": "https://www.lse.co.uk/rns/TTE/kuwait-totalenergies-and-kuwait-oil-company-sign-technical-cooperation-agreement-zaqziknxuesd34o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/kuwait-totalenergies-and-kuwait-oil-company-sign-technical-cooperation-agreement-zaqziknxuesd34o.html",
+          "time": "1:17 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-30",
+          "event_id": "rns-b64a66397c832ce9b2f6d5af",
           "headline": "TotalEnergies and Galp Reinforce Their Long-Term Commitment to Namibia in High\u2011Level Presidential Meeting",
-          "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-and-galp-reinforce-their-long-term-commitment-to-namibia-in-high8209level-presidential-meeting-9oneytsiptufosl.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-and-galp-reinforce-their-long-term-commitment-to-namibia-in-high8209level-presidential-meeting-9oneytsiptufosl.html",
+          "time": "12:47 pm"
         }
       ],
       "rns_initial": [
@@ -41084,36 +41308,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-7c71c2e0b3a9bb17eef11b85",
           "headline": "Admission of securities to the official list",
-          "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1625O",
+          "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-28",
+          "event_id": "rns-9a22de5194e2f9a41fbb8e7a",
           "headline": "Capital decrease by way of shares cancellation",
-          "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9664N",
+          "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html",
+          "time": "8:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-a67a9b8813fc3bf65b7e3f2f",
           "headline": "TotalEnergies - Angola: Start-up of the New Gas Consortium Quiluma Offshore Gas Field",
-          "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html",
+          "time": "8:26 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-9c3008429c9c36c50af48fae",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-16",
+          "event_id": "rns-73bc115b62d482b6f4321f03",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html",
+          "time": "4:33 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41161,58 +41410,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-07-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.18,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 28.04343032836914,
                 "date": "2021-07-07",
                 "status": "EXACT"
               },
               "relative_activity": 3.18,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TTE.L:2021-07-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2021-07-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 4.18,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 27.505794525146484,
                 "date": "2021-07-15",
                 "status": "EXACT"
               },
               "relative_activity": 4.18,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "TTE.L:2021-07-15",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2021-07-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 3.13,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 27.123628616333008,
                 "date": "2021-07-16",
                 "status": "EXACT"
               },
               "relative_activity": 3.13,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "TTE.L:2021-07-16",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             }
@@ -68288,141 +68549,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-7c71c2e0b3a9bb17eef11b85",
               "headline": "Admission of securities to the official list",
-              "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1625O",
+              "source_url": "https://www.lse.co.uk/rns/TTE/admission-of-securities-to-the-official-list-cnrzhrqpw07zvah.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-9a22de5194e2f9a41fbb8e7a",
               "headline": "Capital decrease by way of shares cancellation",
-              "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9664N",
+              "source_url": "https://www.lse.co.uk/rns/TTE/capital-decrease-by-way-of-shares-cancellation-dfh16w1p24u37sk.html",
+              "time": "8:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-a67a9b8813fc3bf65b7e3f2f",
               "headline": "TotalEnergies - Angola: Start-up of the New Gas Consortium Quiluma Offshore Gas Field",
-              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-angola-start-up-of-the-new-gas-consortium-quiluma-offshore-gas-field-m0lxca04ngc0b9m.html",
+              "time": "8:26 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-9c3008429c9c36c50af48fae",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-7y5wbnd7w06rxwm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Mar 2026",
+              "event_id": "rns-73bc115b62d482b6f4321f03",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-iprzrarqiy476uv.html",
+              "time": "4:33 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Mar 2026",
+              "event_id": "rns-4367797f26b593be3aae5b02",
               "headline": "Impact of Middle East Conflict on TotalEnergies Activities",
-              "source_url": "https://www.lse.co.uk/rns/TTE/impact-of-middle-east-conflict-on-totalenergies-activities-duzp468esd160qn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/impact-of-middle-east-conflict-on-totalenergies-activities-duzp468esd160qn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-d0bbc0129f079e65b9bc4148",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-clme983yseplhdb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/directorpdmr-shareholding-clme983yseplhdb.html",
+              "time": "4:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-7801f901e123a783dd14ab58",
               "headline": "Libya: TotalEnergies Announces the Restart of Production at the Mabruk Field",
-              "source_url": "https://www.lse.co.uk/rns/TTE/libya-totalenergies-announces-the-restart-of-production-at-the-mabruk-field-dmibsql68y4ooqy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/libya-totalenergies-announces-the-restart-of-production-at-the-mabruk-field-dmibsql68y4ooqy.html",
+              "time": "9:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Feb 2026",
+              "event_id": "rns-91e2b9d7156c0c5c53023c40",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-oha8j0y5wozumd0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-oha8j0y5wozumd0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-36ffb1a0aa9b1c0a915c50f0",
               "headline": "Stabilisation Notice-TotalEnergies SE",
-              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-7styk2182wkj6cn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6617T",
+              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-7styk2182wkj6cn.html",
+              "time": "8:11 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-e36113204c0f9c5fb20eda06",
               "headline": "Stabilisation Notice-TotalEnergies SE",
-              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-w4hmnhdfn15dekf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7237T",
+              "source_url": "https://www.lse.co.uk/rns/TTE/stabilisation-notice-totalenergies-se-w4hmnhdfn15dekf.html",
+              "time": "3:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Feb 2026",
+              "event_id": "rns-9596650350cdb91959ba3ec6",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-3q37tc5f1fb3pw3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/transaction-in-own-shares-3q37tc5f1fb3pw3.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-c41748aa2e4936c88f27502a",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/TTE/final-results-orvt2vouusmwq4b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/final-results-orvt2vouusmwq4b.html",
+              "time": "11:44 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2026",
+              "event_id": "rns-b45b4d3a45a820b80c59cd89",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/TTE/total-voting-rights-yruxhmof96w8ug5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/total-voting-rights-yruxhmof96w8ug5.html",
+              "time": "4:56 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-5453271259cfcabb460fa462",
               "headline": "United States: TotalEnergies to Provide 1 GW of Solar Capacity to Power Google\u2019s Data Centers in Texas for 15 Years",
-              "source_url": "https://www.lse.co.uk/rns/TTE/united-states-totalenergies-to-provide-1-gw-of-solar-capacity-to-power-google8217s-data-centers-in-texas-for-15-years-rowzjbrp37olmex.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/united-states-totalenergies-to-provide-1-gw-of-solar-capacity-to-power-google8217s-data-centers-in-texas-for-15-years-rowzjbrp37olmex.html",
+              "time": "10:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2026",
+              "event_id": "rns-fb9c96cd38f2b2c9e452ef92",
               "headline": "Namibia: TotalEnergies Expands its Exploration Portfolio as Operator of PEL104 License",
-              "source_url": "https://www.lse.co.uk/rns/TTE/namibia-totalenergies-expands-its-exploration-portfolio-as-operator-of-pel104-license-kwbdj2edgtj0myg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/namibia-totalenergies-expands-its-exploration-portfolio-as-operator-of-pel104-license-kwbdj2edgtj0myg.html",
+              "time": "8:48 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-97ed10e554cf37828ee5d6c9",
               "headline": "Europe: TotalEnergies to Supply Renewable Electricity to Airbus in Germany and the United Kingdom",
-              "source_url": "https://www.lse.co.uk/rns/TTE/europe-totalenergies-to-supply-renewable-electricity-to-airbus-in-germany-and-the-united-kingdom-ctwye5tg0vdnyn2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/europe-totalenergies-to-supply-renewable-electricity-to-airbus-in-germany-and-the-united-kingdom-ctwye5tg0vdnyn2.html",
+              "time": "9:02 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-8402e2094fd3c41aa8f093cf",
               "headline": "Electric mobility: TotalEnergies and Tikehau Capital Join Forces to Develop Public Charging Networks in Belgium and the Netherlands",
-              "source_url": "https://www.lse.co.uk/rns/TTE/electric-mobility-totalenergies-and-tikehau-capital-join-forces-to-develop-public-charging-networks-in-belgium-and-the-netherlands-0jd1bs7memxhi7k.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/electric-mobility-totalenergies-and-tikehau-capital-join-forces-to-develop-public-charging-networks-in-belgium-and-the-netherlands-0jd1bs7memxhi7k.html",
+              "time": "12:41 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Feb 2026",
+              "event_id": "rns-ca24459e6bddccee667fc5cd",
               "headline": "Kuwait: TotalEnergies and Kuwait Oil Company Sign Technical Cooperation Agreement",
-              "source_url": "https://www.lse.co.uk/rns/TTE/kuwait-totalenergies-and-kuwait-oil-company-sign-technical-cooperation-agreement-zaqziknxuesd34o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/kuwait-totalenergies-and-kuwait-oil-company-sign-technical-cooperation-agreement-zaqziknxuesd34o.html",
+              "time": "1:17 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jan 2026",
+              "event_id": "rns-b64a66397c832ce9b2f6d5af",
               "headline": "TotalEnergies and Galp Reinforce Their Long-Term Commitment to Namibia in High\u2011Level Presidential Meeting",
-              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-and-galp-reinforce-their-long-term-commitment-to-namibia-in-high8209level-presidential-meeting-9oneytsiptufosl.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/TTE/totalenergies-and-galp-reinforce-their-long-term-commitment-to-namibia-in-high8209level-presidential-meeting-9oneytsiptufosl.html",
+              "time": "12:47 pm"
             }
           ],
           "status": "AVAILABLE",

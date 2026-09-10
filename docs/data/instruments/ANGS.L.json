@@ -21,77 +21,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.6,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.375,
                 "date": "2024-02-05",
                 "status": "EXACT"
               },
               "relative_activity": 4.6,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-02-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.82,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.3499999940395355,
                 "date": "2024-02-07",
                 "status": "EXACT"
               },
               "relative_activity": 1.82,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-02-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-03-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.32499998807907104,
                 "date": "2024-03-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-03-04",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-04-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.32,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.32499998807907104,
                 "date": "2024-04-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.32,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-04-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27183,141 +27199,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-0d11e688ecacbea468dbc0b7",
               "headline": "Accelerated Debt Reduction",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8961P",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-172fd4f4a7ce13cef13c84ab",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4816P",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-4f7068d2be18fd7d20bb52fe",
               "headline": "Annual Maintenance Shutdown Completion",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2837P",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-b272c02f32ca0340eabfdc3e",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4765N",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-567e616ea4624bf0e6247832",
               "headline": "Production, Operations, Corporate ,Finance Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3519M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-74643263081f2b623473c950",
               "headline": "Appointment of Director",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/appointment-of-director-sc0909bf8xofvj8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1582M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/appointment-of-director-sc0909bf8xofvj8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-2cb5a2b66cfa115dd47af482",
               "headline": "Restoration - Angus Energy Plc",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/restoration-angus-energy-plc-9ckkm31e5pwlffy.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1544M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/restoration-angus-energy-plc-9ckkm31e5pwlffy.html",
+              "time": "7:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-3f51180245c07393896e11fd",
               "headline": "Result of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/result-of-general-meeting-uuqe0d6349zlfzh.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1506M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/result-of-general-meeting-uuqe0d6349zlfzh.html",
+              "time": "4:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-cd8805cde871b9fbbcb01948",
               "headline": "Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/investor-presentation-g4weq5963h4brx1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6051K",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/investor-presentation-g4weq5963h4brx1.html",
+              "time": "10:07 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-c20a600a4095e13a8320ddd5",
               "headline": "Posting of Circular and Notice of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/posting-of-circular-and-notice-of-general-meeting-1w8jkz5qcs3qqbx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8225J",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/posting-of-circular-and-notice-of-general-meeting-1w8jkz5qcs3qqbx.html",
+              "time": "2:36 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-1307a18e200661b8b890abb6",
               "headline": "Proposed Restructuring Fundraising Notice of GM",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/proposed-restructuring-fundraising-notice-of-gm-phe08qkp416vifo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6013J",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/proposed-restructuring-fundraising-notice-of-gm-phe08qkp416vifo.html",
+              "time": "11:35 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-5c9fd42c60b6444adb3eeca2",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/interim-results-72s27e5ymx1yt97.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2857J",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/interim-results-72s27e5ymx1yt97.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-2212e13ab917a1ea29817db6",
               "headline": "Financial Restructuring Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/financial-restructuring-update-4ydbrsj1qgpkfe1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9086G",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/financial-restructuring-update-4ydbrsj1qgpkfe1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-d5fba1b19a4c32d5a40e455d",
               "headline": "Results of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/results-of-annual-general-meeting-d7trlw3xd1d5iwt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5075D",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/results-of-annual-general-meeting-d7trlw3xd1d5iwt.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Apr 2026",
+              "event_id": "rns-9da05f2f9b5d4fcaf1a7a150",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/corporate-update-rdgy6qdkfftp8uq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0222B",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/corporate-update-rdgy6qdkfftp8uq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Apr 2026",
+              "event_id": "rns-b451b961c3dd081117a50632",
               "headline": "Annual Report and Accounts and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-report-and-accounts-and-notice-of-agm-245repec072ajkc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7154Z",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-report-and-accounts-and-notice-of-agm-245repec072ajkc.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Mar 2026",
+              "event_id": "rns-69f978910de8f29259ebbf88",
               "headline": "Update on Audit and Expected Timing of Results",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/update-on-audit-and-expected-timing-of-results-sz89mrvdfgohyi7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1603Y",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/update-on-audit-and-expected-timing-of-results-sz89mrvdfgohyi7.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2026",
+              "event_id": "rns-c49192f231c9b43ddb9ed82c",
               "headline": "Company Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/company-update-2xwwb7py68ztmro.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2161X",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/company-update-2xwwb7py68ztmro.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-eff626b0ccd7c1ed0570dd01",
               "headline": "Hedging Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/hedging-update-psogp2tr19naokb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9445V",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/hedging-update-psogp2tr19naokb.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-b86574c4f0c3b6a520ecdb5b",
               "headline": "Operations and Finance Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/operations-and-finance-update-3432awiuryoxxu1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5556T",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/operations-and-finance-update-3432awiuryoxxu1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27385,77 +27501,93 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-02-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.6,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.375,
             "date": "2024-02-05",
             "status": "EXACT"
           },
           "relative_activity": 4.6,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ANGS.L:2024-02-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-02-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.82,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.3499999940395355,
             "date": "2024-02-07",
             "status": "EXACT"
           },
           "relative_activity": 1.82,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ANGS.L:2024-02-07",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-03-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.88,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.32499998807907104,
             "date": "2024-03-04",
             "status": "EXACT"
           },
           "relative_activity": 1.88,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ANGS.L:2024-03-04",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-04-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.32,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.32499998807907104,
             "date": "2024-04-04",
             "status": "EXACT"
           },
           "relative_activity": 1.32,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ANGS.L:2024-04-04",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -41003,141 +41135,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-0d11e688ecacbea468dbc0b7",
           "headline": "Accelerated Debt Reduction",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8961P",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-172fd4f4a7ce13cef13c84ab",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4816P",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-4f7068d2be18fd7d20bb52fe",
           "headline": "Annual Maintenance Shutdown Completion",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2837P",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-b272c02f32ca0340eabfdc3e",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4765N",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-15",
+          "event_id": "rns-567e616ea4624bf0e6247832",
           "headline": "Production, Operations, Corporate ,Finance Update",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3519M",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-14",
+          "event_id": "rns-74643263081f2b623473c950",
           "headline": "Appointment of Director",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/appointment-of-director-sc0909bf8xofvj8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1582M",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/appointment-of-director-sc0909bf8xofvj8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-14",
+          "event_id": "rns-2cb5a2b66cfa115dd47af482",
           "headline": "Restoration - Angus Energy Plc",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/restoration-angus-energy-plc-9ckkm31e5pwlffy.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1544M",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/restoration-angus-energy-plc-9ckkm31e5pwlffy.html",
+          "time": "7:30 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-3f51180245c07393896e11fd",
           "headline": "Result of General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/result-of-general-meeting-uuqe0d6349zlfzh.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1506M",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/result-of-general-meeting-uuqe0d6349zlfzh.html",
+          "time": "4:31 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-cd8805cde871b9fbbcb01948",
           "headline": "Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/investor-presentation-g4weq5963h4brx1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6051K",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/investor-presentation-g4weq5963h4brx1.html",
+          "time": "10:07 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-c20a600a4095e13a8320ddd5",
           "headline": "Posting of Circular and Notice of General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/posting-of-circular-and-notice-of-general-meeting-1w8jkz5qcs3qqbx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8225J",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/posting-of-circular-and-notice-of-general-meeting-1w8jkz5qcs3qqbx.html",
+          "time": "2:36 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-24",
+          "event_id": "rns-1307a18e200661b8b890abb6",
           "headline": "Proposed Restructuring Fundraising Notice of GM",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/proposed-restructuring-fundraising-notice-of-gm-phe08qkp416vifo.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6013J",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/proposed-restructuring-fundraising-notice-of-gm-phe08qkp416vifo.html",
+          "time": "11:35 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-23",
+          "event_id": "rns-5c9fd42c60b6444adb3eeca2",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/interim-results-72s27e5ymx1yt97.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2857J",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/interim-results-72s27e5ymx1yt97.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-04",
+          "event_id": "rns-2212e13ab917a1ea29817db6",
           "headline": "Financial Restructuring Update",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/financial-restructuring-update-4ydbrsj1qgpkfe1.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9086G",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/financial-restructuring-update-4ydbrsj1qgpkfe1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-08",
+          "event_id": "rns-d5fba1b19a4c32d5a40e455d",
           "headline": "Results of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/results-of-annual-general-meeting-d7trlw3xd1d5iwt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5075D",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/results-of-annual-general-meeting-d7trlw3xd1d5iwt.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-20",
+          "event_id": "rns-9da05f2f9b5d4fcaf1a7a150",
           "headline": "Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/corporate-update-rdgy6qdkfftp8uq.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0222B",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/corporate-update-rdgy6qdkfftp8uq.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-09",
+          "event_id": "rns-b451b961c3dd081117a50632",
           "headline": "Annual Report and Accounts and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/annual-report-and-accounts-and-notice-of-agm-245repec072ajkc.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7154Z",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/annual-report-and-accounts-and-notice-of-agm-245repec072ajkc.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-26",
+          "event_id": "rns-69f978910de8f29259ebbf88",
           "headline": "Update on Audit and Expected Timing of Results",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/update-on-audit-and-expected-timing-of-results-sz89mrvdfgohyi7.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1603Y",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/update-on-audit-and-expected-timing-of-results-sz89mrvdfgohyi7.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-19",
+          "event_id": "rns-c49192f231c9b43ddb9ed82c",
           "headline": "Company Update",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/company-update-2xwwb7py68ztmro.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2161X",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/company-update-2xwwb7py68ztmro.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-10",
+          "event_id": "rns-eff626b0ccd7c1ed0570dd01",
           "headline": "Hedging Update",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/hedging-update-psogp2tr19naokb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9445V",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/hedging-update-psogp2tr19naokb.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-19",
+          "event_id": "rns-b86574c4f0c3b6a520ecdb5b",
           "headline": "Operations and Finance Update",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/operations-and-finance-update-3432awiuryoxxu1.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5556T",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/operations-and-finance-update-3432awiuryoxxu1.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41145,36 +41377,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-0d11e688ecacbea468dbc0b7",
           "headline": "Accelerated Debt Reduction",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8961P",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-172fd4f4a7ce13cef13c84ab",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4816P",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-4f7068d2be18fd7d20bb52fe",
           "headline": "Annual Maintenance Shutdown Completion",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2837P",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-b272c02f32ca0340eabfdc3e",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4765N",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-15",
+          "event_id": "rns-567e616ea4624bf0e6247832",
           "headline": "Production, Operations, Corporate ,Finance Update",
-          "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3519M",
+          "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41222,77 +41479,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.6,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.375,
                 "date": "2024-02-05",
                 "status": "EXACT"
               },
               "relative_activity": 4.6,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-02-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.82,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.3499999940395355,
                 "date": "2024-02-07",
                 "status": "EXACT"
               },
               "relative_activity": 1.82,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-02-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-03-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.32499998807907104,
                 "date": "2024-03-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-03-04",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-04-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.32,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.32499998807907104,
                 "date": "2024-04-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.32,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ANGS.L:2024-04-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68384,141 +68657,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-0d11e688ecacbea468dbc0b7",
               "headline": "Accelerated Debt Reduction",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8961P",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/accelerated-debt-reduction-uzgrgbzigwnzje9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-172fd4f4a7ce13cef13c84ab",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4816P",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/directorpdmr-shareholding-ufh49zyla3iuhkx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-4f7068d2be18fd7d20bb52fe",
               "headline": "Annual Maintenance Shutdown Completion",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2837P",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-maintenance-shutdown-completion-yem8jvrge614ftl.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-b272c02f32ca0340eabfdc3e",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4765N",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/notification-of-major-holdings-ytj1oyqh7c8whq6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-567e616ea4624bf0e6247832",
               "headline": "Production, Operations, Corporate ,Finance Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3519M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/production-operations-corporate-finance-update-drje6fd3ekl9stc.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-74643263081f2b623473c950",
               "headline": "Appointment of Director",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/appointment-of-director-sc0909bf8xofvj8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1582M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/appointment-of-director-sc0909bf8xofvj8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-2cb5a2b66cfa115dd47af482",
               "headline": "Restoration - Angus Energy Plc",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/restoration-angus-energy-plc-9ckkm31e5pwlffy.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1544M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/restoration-angus-energy-plc-9ckkm31e5pwlffy.html",
+              "time": "7:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-3f51180245c07393896e11fd",
               "headline": "Result of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/result-of-general-meeting-uuqe0d6349zlfzh.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1506M",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/result-of-general-meeting-uuqe0d6349zlfzh.html",
+              "time": "4:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-cd8805cde871b9fbbcb01948",
               "headline": "Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/investor-presentation-g4weq5963h4brx1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6051K",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/investor-presentation-g4weq5963h4brx1.html",
+              "time": "10:07 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-c20a600a4095e13a8320ddd5",
               "headline": "Posting of Circular and Notice of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/posting-of-circular-and-notice-of-general-meeting-1w8jkz5qcs3qqbx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8225J",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/posting-of-circular-and-notice-of-general-meeting-1w8jkz5qcs3qqbx.html",
+              "time": "2:36 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-1307a18e200661b8b890abb6",
               "headline": "Proposed Restructuring Fundraising Notice of GM",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/proposed-restructuring-fundraising-notice-of-gm-phe08qkp416vifo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6013J",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/proposed-restructuring-fundraising-notice-of-gm-phe08qkp416vifo.html",
+              "time": "11:35 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-5c9fd42c60b6444adb3eeca2",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/interim-results-72s27e5ymx1yt97.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2857J",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/interim-results-72s27e5ymx1yt97.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-2212e13ab917a1ea29817db6",
               "headline": "Financial Restructuring Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/financial-restructuring-update-4ydbrsj1qgpkfe1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9086G",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/financial-restructuring-update-4ydbrsj1qgpkfe1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-d5fba1b19a4c32d5a40e455d",
               "headline": "Results of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/results-of-annual-general-meeting-d7trlw3xd1d5iwt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5075D",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/results-of-annual-general-meeting-d7trlw3xd1d5iwt.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Apr 2026",
+              "event_id": "rns-9da05f2f9b5d4fcaf1a7a150",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/corporate-update-rdgy6qdkfftp8uq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0222B",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/corporate-update-rdgy6qdkfftp8uq.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Apr 2026",
+              "event_id": "rns-b451b961c3dd081117a50632",
               "headline": "Annual Report and Accounts and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-report-and-accounts-and-notice-of-agm-245repec072ajkc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7154Z",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/annual-report-and-accounts-and-notice-of-agm-245repec072ajkc.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Mar 2026",
+              "event_id": "rns-69f978910de8f29259ebbf88",
               "headline": "Update on Audit and Expected Timing of Results",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/update-on-audit-and-expected-timing-of-results-sz89mrvdfgohyi7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1603Y",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/update-on-audit-and-expected-timing-of-results-sz89mrvdfgohyi7.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2026",
+              "event_id": "rns-c49192f231c9b43ddb9ed82c",
               "headline": "Company Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/company-update-2xwwb7py68ztmro.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2161X",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/company-update-2xwwb7py68ztmro.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Mar 2026",
+              "event_id": "rns-eff626b0ccd7c1ed0570dd01",
               "headline": "Hedging Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/hedging-update-psogp2tr19naokb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9445V",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/hedging-update-psogp2tr19naokb.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-b86574c4f0c3b6a520ecdb5b",
               "headline": "Operations and Finance Update",
-              "source_url": "https://www.lse.co.uk/rns/ANGS/operations-and-finance-update-3432awiuryoxxu1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5556T",
+              "source_url": "https://www.lse.co.uk/rns/ANGS/operations-and-finance-update-3432awiuryoxxu1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

@@ -21,96 +21,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 9.17,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 5.039999961853027,
                 "date": "2025-11-21",
                 "status": "EXACT"
               },
               "relative_activity": 9.17,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TLW.L:2025-11-21",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 5.35,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.085000038146973,
                 "date": "2025-11-24",
                 "status": "EXACT"
               },
               "relative_activity": 5.35,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "TLW.L:2025-11-24",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 5.04,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 3.9000000953674316,
                 "date": "2025-11-25",
                 "status": "EXACT"
               },
               "relative_activity": 5.04,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "TLW.L:2025-11-25",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.39,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.800000190734863,
                 "date": "2025-11-26",
                 "status": "EXACT"
               },
               "relative_activity": 3.39,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TLW.L:2025-11-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.49,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.829999923706055,
                 "date": "2025-11-27",
                 "status": "EXACT"
               },
               "relative_activity": 1.49,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TLW.L:2025-11-27",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27202,141 +27222,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-9d03a330f1166747f523f548",
               "headline": "Trading Statement",
-              "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2836P",
+              "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-38cbac42714ac49a07ff3838",
               "headline": "Royalty Deed and Back-in Rights for the Kenya SPA",
-              "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1474M",
+              "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html",
+              "time": "3:42 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-6bbd11e248309399ef6ba92e",
               "headline": "Non-Executive Director External Appointment",
-              "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7702L",
+              "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html",
+              "time": "3:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-0e3f1f79142e89f4547b2f16",
               "headline": "Block Listing Interim Review",
-              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6688K",
+              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-62bc48afbed6a0163ec1352b",
               "headline": "Repayment of c.$48 million of Senior Notes",
-              "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5622J",
+              "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html",
+              "time": "9:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-f63e60b0659fdb2ede4389b1",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-w523ykh417cdpc5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6848I",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-w523ykh417cdpc5.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-3ad313acb9e1f9b3c324af1d",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-867ev0civoqto7c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3085I",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-867ev0civoqto7c.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-a9d3e0b50fc1734b45670d75",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-ch34vim7fjmgdyw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3647I",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-ch34vim7fjmgdyw.html",
+              "time": "3:46 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2026",
+              "event_id": "rns-3df52ea17397a5da0777dd3f",
               "headline": "AGM Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TLW/agm-trading-update-0eoc9uol43kdfs5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7308H",
+              "source_url": "https://www.lse.co.uk/rns/TLW/agm-trading-update-0eoc9uol43kdfs5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2026",
+              "event_id": "rns-46a67a8a20cc7e8d8fa2fe1b",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TLW/result-of-agm-acehczbkzjs8xrr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8036H",
+              "source_url": "https://www.lse.co.uk/rns/TLW/result-of-agm-acehczbkzjs8xrr.html",
+              "time": "1:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jun 2026",
+              "event_id": "rns-aa079d04947f4a6d7f7dc965",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-b5ajvuy04y3bf2x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4675G",
+              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-b5ajvuy04y3bf2x.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th May 2026",
+              "event_id": "rns-3591aab3f8ae394bdcecee29",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-nndn364m3orulwn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7401F",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-nndn364m3orulwn.html",
+              "time": "12:45 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-9f72b1d68644c9ed635b2678",
               "headline": "Block Listing Application",
-              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-application-r7x2uf915rmap2w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3035F",
+              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-application-r7x2uf915rmap2w.html",
+              "time": "11:22 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-2f10bcd496b8b2ee0a60736d",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-semj86xnefg6k5z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9420C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-semj86xnefg6k5z.html",
+              "time": "10:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-b465abf1db27217705efdfe5",
               "headline": "Publication of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TLW/publication-of-annual-report-and-notice-of-agm-hr97eba740g9vw5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4831C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/publication-of-annual-report-and-notice-of-agm-hr97eba740g9vw5.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-a8a8de8ab29235422fad37be",
               "headline": "Full Year Results",
-              "source_url": "https://www.lse.co.uk/rns/TLW/full-year-results-3jy6tzfwibkksd8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1115C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/full-year-results-3jy6tzfwibkksd8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Apr 2026",
+              "event_id": "rns-a9cfb8271d6ef95f27c08757",
               "headline": "Refinancing Transaction successfully completed",
-              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-successfully-completed-hbkkvn8ljj2fhqt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0763C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-successfully-completed-hbkkvn8ljj2fhqt.html",
+              "time": "3:47 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-65f6e2531851add65548c15b",
               "headline": "Refinancing Transaction Update",
-              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-7x2xuqt139f5vu9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5280B",
+              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-7x2xuqt139f5vu9.html",
+              "time": "1:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2026",
+              "event_id": "rns-ae59c08fb3d09da1b51c07dd",
               "headline": "Appointment of four Independent NEDs",
-              "source_url": "https://www.lse.co.uk/rns/TLW/appointment-of-four-independent-neds-bwdv2ac8oauqr4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5225Z",
+              "source_url": "https://www.lse.co.uk/rns/TLW/appointment-of-four-independent-neds-bwdv2ac8oauqr4o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2026",
+              "event_id": "rns-327b19e5f252e3afacab245e",
               "headline": "Refinancing Transaction Update",
-              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-0ugn8ngetj79oy0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6291Z",
+              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-0ugn8ngetj79oy0.html",
+              "time": "9:24 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27405,96 +27525,116 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-21",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 9.17,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 5.039999961853027,
             "date": "2025-11-21",
             "status": "EXACT"
           },
           "relative_activity": 9.17,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TLW.L:2025-11-21",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 5.35,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4.085000038146973,
             "date": "2025-11-24",
             "status": "EXACT"
           },
           "relative_activity": 5.35,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "TLW.L:2025-11-24",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 5.04,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 3.9000000953674316,
             "date": "2025-11-25",
             "status": "EXACT"
           },
           "relative_activity": 5.04,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "TLW.L:2025-11-25",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-26",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.39,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4.800000190734863,
             "date": "2025-11-26",
             "status": "EXACT"
           },
           "relative_activity": 3.39,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TLW.L:2025-11-26",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.49,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4.829999923706055,
             "date": "2025-11-27",
             "status": "EXACT"
           },
           "relative_activity": 1.49,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TLW.L:2025-11-27",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -41042,141 +41182,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-9d03a330f1166747f523f548",
           "headline": "Trading Statement",
-          "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2836P",
+          "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-38cbac42714ac49a07ff3838",
           "headline": "Royalty Deed and Back-in Rights for the Kenya SPA",
-          "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1474M",
+          "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html",
+          "time": "3:42 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-09",
+          "event_id": "rns-6bbd11e248309399ef6ba92e",
           "headline": "Non-Executive Director External Appointment",
-          "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7702L",
+          "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html",
+          "time": "3:10 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-0e3f1f79142e89f4547b2f16",
           "headline": "Block Listing Interim Review",
-          "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6688K",
+          "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-24",
+          "event_id": "rns-62bc48afbed6a0163ec1352b",
           "headline": "Repayment of c.$48 million of Senior Notes",
-          "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5622J",
+          "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html",
+          "time": "9:32 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-f63e60b0659fdb2ede4389b1",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-w523ykh417cdpc5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6848I",
+          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-w523ykh417cdpc5.html",
+          "time": "11:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-15",
+          "event_id": "rns-3ad313acb9e1f9b3c324af1d",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-867ev0civoqto7c.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3085I",
+          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-867ev0civoqto7c.html",
+          "time": "9:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-15",
+          "event_id": "rns-a9d3e0b50fc1734b45670d75",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-ch34vim7fjmgdyw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3647I",
+          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-ch34vim7fjmgdyw.html",
+          "time": "3:46 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-10",
+          "event_id": "rns-3df52ea17397a5da0777dd3f",
           "headline": "AGM Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/TLW/agm-trading-update-0eoc9uol43kdfs5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7308H",
+          "source_url": "https://www.lse.co.uk/rns/TLW/agm-trading-update-0eoc9uol43kdfs5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-10",
+          "event_id": "rns-46a67a8a20cc7e8d8fa2fe1b",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/TLW/result-of-agm-acehczbkzjs8xrr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8036H",
+          "source_url": "https://www.lse.co.uk/rns/TLW/result-of-agm-acehczbkzjs8xrr.html",
+          "time": "1:28 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-01",
+          "event_id": "rns-aa079d04947f4a6d7f7dc965",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-b5ajvuy04y3bf2x.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4675G",
+          "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-b5ajvuy04y3bf2x.html",
+          "time": "11:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-26",
+          "event_id": "rns-3591aab3f8ae394bdcecee29",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-nndn364m3orulwn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7401F",
+          "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-nndn364m3orulwn.html",
+          "time": "12:45 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-9f72b1d68644c9ed635b2678",
           "headline": "Block Listing Application",
-          "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-application-r7x2uf915rmap2w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3035F",
+          "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-application-r7x2uf915rmap2w.html",
+          "time": "11:22 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-05",
+          "event_id": "rns-2f10bcd496b8b2ee0a60736d",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-semj86xnefg6k5z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9420C",
+          "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-semj86xnefg6k5z.html",
+          "time": "10:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-b465abf1db27217705efdfe5",
           "headline": "Publication of Annual Report and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/TLW/publication-of-annual-report-and-notice-of-agm-hr97eba740g9vw5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4831C",
+          "source_url": "https://www.lse.co.uk/rns/TLW/publication-of-annual-report-and-notice-of-agm-hr97eba740g9vw5.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-a8a8de8ab29235422fad37be",
           "headline": "Full Year Results",
-          "source_url": "https://www.lse.co.uk/rns/TLW/full-year-results-3jy6tzfwibkksd8.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1115C",
+          "source_url": "https://www.lse.co.uk/rns/TLW/full-year-results-3jy6tzfwibkksd8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-27",
+          "event_id": "rns-a9cfb8271d6ef95f27c08757",
           "headline": "Refinancing Transaction successfully completed",
-          "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-successfully-completed-hbkkvn8ljj2fhqt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0763C",
+          "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-successfully-completed-hbkkvn8ljj2fhqt.html",
+          "time": "3:47 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-22",
+          "event_id": "rns-65f6e2531851add65548c15b",
           "headline": "Refinancing Transaction Update",
-          "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-7x2xuqt139f5vu9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5280B",
+          "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-7x2xuqt139f5vu9.html",
+          "time": "1:31 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-08",
+          "event_id": "rns-ae59c08fb3d09da1b51c07dd",
           "headline": "Appointment of four Independent NEDs",
-          "source_url": "https://www.lse.co.uk/rns/TLW/appointment-of-four-independent-neds-bwdv2ac8oauqr4o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5225Z",
+          "source_url": "https://www.lse.co.uk/rns/TLW/appointment-of-four-independent-neds-bwdv2ac8oauqr4o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-08",
+          "event_id": "rns-327b19e5f252e3afacab245e",
           "headline": "Refinancing Transaction Update",
-          "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-0ugn8ngetj79oy0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6291Z",
+          "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-0ugn8ngetj79oy0.html",
+          "time": "9:24 am"
         }
       ],
       "rns_initial": [
@@ -41184,36 +41424,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-9d03a330f1166747f523f548",
           "headline": "Trading Statement",
-          "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2836P",
+          "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-38cbac42714ac49a07ff3838",
           "headline": "Royalty Deed and Back-in Rights for the Kenya SPA",
-          "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1474M",
+          "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html",
+          "time": "3:42 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-09",
+          "event_id": "rns-6bbd11e248309399ef6ba92e",
           "headline": "Non-Executive Director External Appointment",
-          "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7702L",
+          "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html",
+          "time": "3:10 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-0e3f1f79142e89f4547b2f16",
           "headline": "Block Listing Interim Review",
-          "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6688K",
+          "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-24",
+          "event_id": "rns-62bc48afbed6a0163ec1352b",
           "headline": "Repayment of c.$48 million of Senior Notes",
-          "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5622J",
+          "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html",
+          "time": "9:32 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41261,96 +41526,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 9.17,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 5.039999961853027,
                 "date": "2025-11-21",
                 "status": "EXACT"
               },
               "relative_activity": 9.17,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TLW.L:2025-11-21",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 5.35,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.085000038146973,
                 "date": "2025-11-24",
                 "status": "EXACT"
               },
               "relative_activity": 5.35,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "TLW.L:2025-11-24",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 5.04,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 3.9000000953674316,
                 "date": "2025-11-25",
                 "status": "EXACT"
               },
               "relative_activity": 5.04,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "TLW.L:2025-11-25",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.39,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.800000190734863,
                 "date": "2025-11-26",
                 "status": "EXACT"
               },
               "relative_activity": 3.39,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TLW.L:2025-11-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.49,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4.829999923706055,
                 "date": "2025-11-27",
                 "status": "EXACT"
               },
               "relative_activity": 1.49,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TLW.L:2025-11-27",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68442,141 +68727,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-9d03a330f1166747f523f548",
               "headline": "Trading Statement",
-              "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2836P",
+              "source_url": "https://www.lse.co.uk/rns/TLW/trading-statement-ipspw386t8psxvj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-38cbac42714ac49a07ff3838",
               "headline": "Royalty Deed and Back-in Rights for the Kenya SPA",
-              "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1474M",
+              "source_url": "https://www.lse.co.uk/rns/TLW/royalty-deed-and-back-in-rights-for-the-kenya-spa-c1sfnxun2151mq9.html",
+              "time": "3:42 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-6bbd11e248309399ef6ba92e",
               "headline": "Non-Executive Director External Appointment",
-              "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7702L",
+              "source_url": "https://www.lse.co.uk/rns/TLW/non-executive-director-external-appointment-c0vxhhjjb7wwa4o.html",
+              "time": "3:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-0e3f1f79142e89f4547b2f16",
               "headline": "Block Listing Interim Review",
-              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6688K",
+              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-interim-review-dgh4laik7fpuyhg.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-62bc48afbed6a0163ec1352b",
               "headline": "Repayment of c.$48 million of Senior Notes",
-              "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5622J",
+              "source_url": "https://www.lse.co.uk/rns/TLW/repayment-of-c48-million-of-senior-notes-lg663x4d2bt4usk.html",
+              "time": "9:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-f63e60b0659fdb2ede4389b1",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-w523ykh417cdpc5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6848I",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-w523ykh417cdpc5.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-3ad313acb9e1f9b3c324af1d",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-867ev0civoqto7c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3085I",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-867ev0civoqto7c.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-a9d3e0b50fc1734b45670d75",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-ch34vim7fjmgdyw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3647I",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-ch34vim7fjmgdyw.html",
+              "time": "3:46 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2026",
+              "event_id": "rns-3df52ea17397a5da0777dd3f",
               "headline": "AGM Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TLW/agm-trading-update-0eoc9uol43kdfs5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7308H",
+              "source_url": "https://www.lse.co.uk/rns/TLW/agm-trading-update-0eoc9uol43kdfs5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2026",
+              "event_id": "rns-46a67a8a20cc7e8d8fa2fe1b",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TLW/result-of-agm-acehczbkzjs8xrr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8036H",
+              "source_url": "https://www.lse.co.uk/rns/TLW/result-of-agm-acehczbkzjs8xrr.html",
+              "time": "1:28 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jun 2026",
+              "event_id": "rns-aa079d04947f4a6d7f7dc965",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-b5ajvuy04y3bf2x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4675G",
+              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-b5ajvuy04y3bf2x.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th May 2026",
+              "event_id": "rns-3591aab3f8ae394bdcecee29",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-nndn364m3orulwn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7401F",
+              "source_url": "https://www.lse.co.uk/rns/TLW/directorpdmr-shareholding-nndn364m3orulwn.html",
+              "time": "12:45 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-9f72b1d68644c9ed635b2678",
               "headline": "Block Listing Application",
-              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-application-r7x2uf915rmap2w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3035F",
+              "source_url": "https://www.lse.co.uk/rns/TLW/block-listing-application-r7x2uf915rmap2w.html",
+              "time": "11:22 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-2f10bcd496b8b2ee0a60736d",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-semj86xnefg6k5z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9420C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/total-voting-rights-semj86xnefg6k5z.html",
+              "time": "10:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-b465abf1db27217705efdfe5",
               "headline": "Publication of Annual Report and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TLW/publication-of-annual-report-and-notice-of-agm-hr97eba740g9vw5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4831C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/publication-of-annual-report-and-notice-of-agm-hr97eba740g9vw5.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-a8a8de8ab29235422fad37be",
               "headline": "Full Year Results",
-              "source_url": "https://www.lse.co.uk/rns/TLW/full-year-results-3jy6tzfwibkksd8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1115C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/full-year-results-3jy6tzfwibkksd8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Apr 2026",
+              "event_id": "rns-a9cfb8271d6ef95f27c08757",
               "headline": "Refinancing Transaction successfully completed",
-              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-successfully-completed-hbkkvn8ljj2fhqt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0763C",
+              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-successfully-completed-hbkkvn8ljj2fhqt.html",
+              "time": "3:47 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-65f6e2531851add65548c15b",
               "headline": "Refinancing Transaction Update",
-              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-7x2xuqt139f5vu9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5280B",
+              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-7x2xuqt139f5vu9.html",
+              "time": "1:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2026",
+              "event_id": "rns-ae59c08fb3d09da1b51c07dd",
               "headline": "Appointment of four Independent NEDs",
-              "source_url": "https://www.lse.co.uk/rns/TLW/appointment-of-four-independent-neds-bwdv2ac8oauqr4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5225Z",
+              "source_url": "https://www.lse.co.uk/rns/TLW/appointment-of-four-independent-neds-bwdv2ac8oauqr4o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2026",
+              "event_id": "rns-327b19e5f252e3afacab245e",
               "headline": "Refinancing Transaction Update",
-              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-0ugn8ngetj79oy0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6291Z",
+              "source_url": "https://www.lse.co.uk/rns/TLW/refinancing-transaction-update-0ugn8ngetj79oy0.html",
+              "time": "9:24 am"
             }
           ],
           "status": "AVAILABLE",

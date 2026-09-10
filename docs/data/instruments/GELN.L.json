@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 52.5,
                 "date": "2022-12-05",
                 "status": "EXACT"
               },
               "relative_activity": 2.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GELN.L:2022-12-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.74,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 52,
                 "date": "2022-12-06",
                 "status": "EXACT"
               },
               "relative_activity": 7.74,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GELN.L:2022-12-06",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.33,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 51.5,
                 "date": "2022-12-07",
                 "status": "EXACT"
               },
               "relative_activity": 6.33,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GELN.L:2022-12-07",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -19404,141 +19416,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Aug 2026",
+              "event_id": "rns-9b8d33043c8fe9cbc49b9476",
               "headline": "Successful completion of drone mission testing",
-              "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1395S",
+              "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Aug 2026",
+              "event_id": "rns-20fd792288076fb69f4a9c7b",
               "headline": "Funded development and scale-up agreement",
-              "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7481P",
+              "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-0a10417bb7dac501eff8fbbf",
               "headline": "Block Admission Return",
-              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9483N",
+              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html",
+              "time": "7:37 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-7bc6847fe5a2ee921748fee2",
               "headline": "Issue of Q2 Newsletter",
-              "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0555M",
+              "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-359ff1c9ee5217634b2454a8",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2606K",
+              "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-2751cf77ba0c372c4c35b8b2",
               "headline": "US market entry and Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/GELN/us-market-entry-and-investor-presentation-ctxea0ovbb35ghw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3410K",
+              "source_url": "https://www.lse.co.uk/rns/GELN/us-market-entry-and-investor-presentation-ctxea0ovbb35ghw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-118050caf3543d033f18ee86",
               "headline": "Exclusive Licence Agreement",
-              "source_url": "https://www.lse.co.uk/rns/GELN/exclusive-licence-agreement-6pity0zwduboka6.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4591I",
+              "source_url": "https://www.lse.co.uk/rns/GELN/exclusive-licence-agreement-6pity0zwduboka6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-581582e40081acda3f2a7014",
               "headline": "Publication of Research Report",
-              "source_url": "https://www.lse.co.uk/rns/GELN/publication-of-research-report-vzv7f7emmamfbxh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0503H",
+              "source_url": "https://www.lse.co.uk/rns/GELN/publication-of-research-report-vzv7f7emmamfbxh.html",
+              "time": "12:53 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-2c0294a169fc3ac7d78f6447",
               "headline": "Nissan Project, Grant Award, Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/GELN/nissan-project-grant-award-investor-presentation-ljvzdl4kuwvn0cf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5480G",
+              "source_url": "https://www.lse.co.uk/rns/GELN/nissan-project-grant-award-investor-presentation-ljvzdl4kuwvn0cf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-faf086d823f413152fc070d1",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/GELN/holdings-in-company-dl29ix2y2w1qbeu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2491F",
+              "source_url": "https://www.lse.co.uk/rns/GELN/holdings-in-company-dl29ix2y2w1qbeu.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-f78728a57c561a7d20425812",
               "headline": "Q1 2026 Newsletter",
-              "source_url": "https://www.lse.co.uk/rns/GELN/q1-2026-newsletter-65zcnrdply29b2b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1589A",
+              "source_url": "https://www.lse.co.uk/rns/GELN/q1-2026-newsletter-65zcnrdply29b2b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Mar 2026",
+              "event_id": "rns-83c0f42713f64a768885083d",
               "headline": "Exceptional Technical Results",
-              "source_url": "https://www.lse.co.uk/rns/GELN/exceptional-technical-results-4k2lq0ia5c5arm5.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8159Y",
+              "source_url": "https://www.lse.co.uk/rns/GELN/exceptional-technical-results-4k2lq0ia5c5arm5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Mar 2026",
+              "event_id": "rns-87018aabe0f341517a01d75c",
               "headline": "Director/PDMR Shareholding - Grant of options",
-              "source_url": "https://www.lse.co.uk/rns/GELN/directorpdmr-shareholding-grant-of-options-o149abx7xgwk1zq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1102V",
+              "source_url": "https://www.lse.co.uk/rns/GELN/directorpdmr-shareholding-grant-of-options-o149abx7xgwk1zq.html",
+              "time": "8:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-7e24d67eabe50bfb7b891970",
               "headline": "Half year results to 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/GELN/half-year-results-to-31-december-2025-jyro0ypr0c9oqo6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8900U",
+              "source_url": "https://www.lse.co.uk/rns/GELN/half-year-results-to-31-december-2025-jyro0ypr0c9oqo6.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-210288e2261affd272e65e1e",
               "headline": "Business Update, Notice of Results & IMC",
-              "source_url": "https://www.lse.co.uk/rns/GELN/business-update-notice-of-results-imc-qjquh1ti6r6czmv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5727S",
+              "source_url": "https://www.lse.co.uk/rns/GELN/business-update-notice-of-results-imc-qjquh1ti6r6czmv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-a61e0861df5944d32a4ac78d",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/GELN/change-of-registered-office-at2prsw5nerc5zb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5893R",
+              "source_url": "https://www.lse.co.uk/rns/GELN/change-of-registered-office-at2prsw5nerc5zb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jan 2026",
+              "event_id": "rns-c577d43c95fc3b26450e42e7",
               "headline": "Block Admission Return",
-              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-53ahj4dq4centd7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5187Q",
+              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-53ahj4dq4centd7.html",
+              "time": "8:02 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-5e5a89ad285f3464ea9a95d3",
               "headline": "Prof. Rachid Yazami Appointed Technology Advisor",
-              "source_url": "https://www.lse.co.uk/rns/GELN/prof-rachid-yazami-appointed-technology-advisor-7iyib7itso2u2br.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0353P",
+              "source_url": "https://www.lse.co.uk/rns/GELN/prof-rachid-yazami-appointed-technology-advisor-7iyib7itso2u2br.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-ef3cfc81104ed2722ffa931b",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-cwnsedbsilig9p6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0027N",
+              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-cwnsedbsilig9p6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-ef3cfc81104ed2722ffa931b",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-qwaspv5c0kuzbxj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0027N",
+              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-qwaspv5c0kuzbxj.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -19606,58 +19718,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-12-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.23,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 52.5,
             "date": "2022-12-05",
             "status": "EXACT"
           },
           "relative_activity": 2.23,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GELN.L:2022-12-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-12-06",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 7.74,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 52,
             "date": "2022-12-06",
             "status": "EXACT"
           },
           "relative_activity": 7.74,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GELN.L:2022-12-06",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-12-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 6.33,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 51.5,
             "date": "2022-12-07",
             "status": "EXACT"
           },
           "relative_activity": 6.33,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GELN.L:2022-12-07",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -29325,141 +29449,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-26",
+          "event_id": "rns-9b8d33043c8fe9cbc49b9476",
           "headline": "Successful completion of drone mission testing",
-          "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1395S",
+          "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-07",
+          "event_id": "rns-20fd792288076fb69f4a9c7b",
           "headline": "Funded development and scale-up agreement",
-          "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7481P",
+          "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-0a10417bb7dac501eff8fbbf",
           "headline": "Block Admission Return",
-          "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9483N",
+          "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html",
+          "time": "7:37 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-7bc6847fe5a2ee921748fee2",
           "headline": "Issue of Q2 Newsletter",
-          "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0555M",
+          "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-359ff1c9ee5217634b2454a8",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2606K",
+          "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html",
+          "time": "7:01 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-2751cf77ba0c372c4c35b8b2",
           "headline": "US market entry and Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/GELN/us-market-entry-and-investor-presentation-ctxea0ovbb35ghw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3410K",
+          "source_url": "https://www.lse.co.uk/rns/GELN/us-market-entry-and-investor-presentation-ctxea0ovbb35ghw.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-16",
+          "event_id": "rns-118050caf3543d033f18ee86",
           "headline": "Exclusive Licence Agreement",
-          "source_url": "https://www.lse.co.uk/rns/GELN/exclusive-licence-agreement-6pity0zwduboka6.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4591I",
+          "source_url": "https://www.lse.co.uk/rns/GELN/exclusive-licence-agreement-6pity0zwduboka6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-04",
+          "event_id": "rns-581582e40081acda3f2a7014",
           "headline": "Publication of Research Report",
-          "source_url": "https://www.lse.co.uk/rns/GELN/publication-of-research-report-vzv7f7emmamfbxh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0503H",
+          "source_url": "https://www.lse.co.uk/rns/GELN/publication-of-research-report-vzv7f7emmamfbxh.html",
+          "time": "12:53 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-2c0294a169fc3ac7d78f6447",
           "headline": "Nissan Project, Grant Award, Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/GELN/nissan-project-grant-award-investor-presentation-ljvzdl4kuwvn0cf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5480G",
+          "source_url": "https://www.lse.co.uk/rns/GELN/nissan-project-grant-award-investor-presentation-ljvzdl4kuwvn0cf.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-faf086d823f413152fc070d1",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/GELN/holdings-in-company-dl29ix2y2w1qbeu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2491F",
+          "source_url": "https://www.lse.co.uk/rns/GELN/holdings-in-company-dl29ix2y2w1qbeu.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-13",
+          "event_id": "rns-f78728a57c561a7d20425812",
           "headline": "Q1 2026 Newsletter",
-          "source_url": "https://www.lse.co.uk/rns/GELN/q1-2026-newsletter-65zcnrdply29b2b.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1589A",
+          "source_url": "https://www.lse.co.uk/rns/GELN/q1-2026-newsletter-65zcnrdply29b2b.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-31",
+          "event_id": "rns-83c0f42713f64a768885083d",
           "headline": "Exceptional Technical Results",
-          "source_url": "https://www.lse.co.uk/rns/GELN/exceptional-technical-results-4k2lq0ia5c5arm5.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8159Y",
+          "source_url": "https://www.lse.co.uk/rns/GELN/exceptional-technical-results-4k2lq0ia5c5arm5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-03",
+          "event_id": "rns-87018aabe0f341517a01d75c",
           "headline": "Director/PDMR Shareholding - Grant of options",
-          "source_url": "https://www.lse.co.uk/rns/GELN/directorpdmr-shareholding-grant-of-options-o149abx7xgwk1zq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1102V",
+          "source_url": "https://www.lse.co.uk/rns/GELN/directorpdmr-shareholding-grant-of-options-o149abx7xgwk1zq.html",
+          "time": "8:32 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-02",
+          "event_id": "rns-7e24d67eabe50bfb7b891970",
           "headline": "Half year results to 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/GELN/half-year-results-to-31-december-2025-jyro0ypr0c9oqo6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8900U",
+          "source_url": "https://www.lse.co.uk/rns/GELN/half-year-results-to-31-december-2025-jyro0ypr0c9oqo6.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-11",
+          "event_id": "rns-210288e2261affd272e65e1e",
           "headline": "Business Update, Notice of Results & IMC",
-          "source_url": "https://www.lse.co.uk/rns/GELN/business-update-notice-of-results-imc-qjquh1ti6r6czmv.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5727S",
+          "source_url": "https://www.lse.co.uk/rns/GELN/business-update-notice-of-results-imc-qjquh1ti6r6czmv.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-04",
+          "event_id": "rns-a61e0861df5944d32a4ac78d",
           "headline": "Change of Registered Office",
-          "source_url": "https://www.lse.co.uk/rns/GELN/change-of-registered-office-at2prsw5nerc5zb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5893R",
+          "source_url": "https://www.lse.co.uk/rns/GELN/change-of-registered-office-at2prsw5nerc5zb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-27",
+          "event_id": "rns-c577d43c95fc3b26450e42e7",
           "headline": "Block Admission Return",
-          "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-53ahj4dq4centd7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5187Q",
+          "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-53ahj4dq4centd7.html",
+          "time": "8:02 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-15",
+          "event_id": "rns-5e5a89ad285f3464ea9a95d3",
           "headline": "Prof. Rachid Yazami Appointed Technology Advisor",
-          "source_url": "https://www.lse.co.uk/rns/GELN/prof-rachid-yazami-appointed-technology-advisor-7iyib7itso2u2br.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0353P",
+          "source_url": "https://www.lse.co.uk/rns/GELN/prof-rachid-yazami-appointed-technology-advisor-7iyib7itso2u2br.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-ef3cfc81104ed2722ffa931b",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-cwnsedbsilig9p6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0027N",
+          "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-cwnsedbsilig9p6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-ef3cfc81104ed2722ffa931b",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-qwaspv5c0kuzbxj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0027N",
+          "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-qwaspv5c0kuzbxj.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -29467,36 +29691,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-26",
+          "event_id": "rns-9b8d33043c8fe9cbc49b9476",
           "headline": "Successful completion of drone mission testing",
-          "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1395S",
+          "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-07",
+          "event_id": "rns-20fd792288076fb69f4a9c7b",
           "headline": "Funded development and scale-up agreement",
-          "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7481P",
+          "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-0a10417bb7dac501eff8fbbf",
           "headline": "Block Admission Return",
-          "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9483N",
+          "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html",
+          "time": "7:37 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-7bc6847fe5a2ee921748fee2",
           "headline": "Issue of Q2 Newsletter",
-          "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0555M",
+          "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-359ff1c9ee5217634b2454a8",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2606K",
+          "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html",
+          "time": "7:01 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -29544,58 +29793,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 52.5,
                 "date": "2022-12-05",
                 "status": "EXACT"
               },
               "relative_activity": 2.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GELN.L:2022-12-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.74,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 52,
                 "date": "2022-12-06",
                 "status": "EXACT"
               },
               "relative_activity": 7.74,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GELN.L:2022-12-06",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-12-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.33,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 51.5,
                 "date": "2022-12-07",
                 "status": "EXACT"
               },
               "relative_activity": 6.33,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GELN.L:2022-12-07",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -48927,141 +49188,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Aug 2026",
+              "event_id": "rns-9b8d33043c8fe9cbc49b9476",
               "headline": "Successful completion of drone mission testing",
-              "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1395S",
+              "source_url": "https://www.lse.co.uk/rns/GELN/successful-completion-of-drone-mission-testing-20zf0v83lvvw94e.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Aug 2026",
+              "event_id": "rns-20fd792288076fb69f4a9c7b",
               "headline": "Funded development and scale-up agreement",
-              "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7481P",
+              "source_url": "https://www.lse.co.uk/rns/GELN/funded-development-and-scale-up-agreement-kji0174dk4pmjgh.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-0a10417bb7dac501eff8fbbf",
               "headline": "Block Admission Return",
-              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9483N",
+              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-e8tfktj5vyzq9gv.html",
+              "time": "7:37 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-7bc6847fe5a2ee921748fee2",
               "headline": "Issue of Q2 Newsletter",
-              "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0555M",
+              "source_url": "https://www.lse.co.uk/rns/GELN/issue-of-q2-newsletter-fuyxte6bfleuk2p.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-359ff1c9ee5217634b2454a8",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2606K",
+              "source_url": "https://www.lse.co.uk/rns/GELN/directorate-change-01q5jocsj9dd74g.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-2751cf77ba0c372c4c35b8b2",
               "headline": "US market entry and Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/GELN/us-market-entry-and-investor-presentation-ctxea0ovbb35ghw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3410K",
+              "source_url": "https://www.lse.co.uk/rns/GELN/us-market-entry-and-investor-presentation-ctxea0ovbb35ghw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-118050caf3543d033f18ee86",
               "headline": "Exclusive Licence Agreement",
-              "source_url": "https://www.lse.co.uk/rns/GELN/exclusive-licence-agreement-6pity0zwduboka6.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4591I",
+              "source_url": "https://www.lse.co.uk/rns/GELN/exclusive-licence-agreement-6pity0zwduboka6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-581582e40081acda3f2a7014",
               "headline": "Publication of Research Report",
-              "source_url": "https://www.lse.co.uk/rns/GELN/publication-of-research-report-vzv7f7emmamfbxh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0503H",
+              "source_url": "https://www.lse.co.uk/rns/GELN/publication-of-research-report-vzv7f7emmamfbxh.html",
+              "time": "12:53 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-2c0294a169fc3ac7d78f6447",
               "headline": "Nissan Project, Grant Award, Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/GELN/nissan-project-grant-award-investor-presentation-ljvzdl4kuwvn0cf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5480G",
+              "source_url": "https://www.lse.co.uk/rns/GELN/nissan-project-grant-award-investor-presentation-ljvzdl4kuwvn0cf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-faf086d823f413152fc070d1",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/GELN/holdings-in-company-dl29ix2y2w1qbeu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2491F",
+              "source_url": "https://www.lse.co.uk/rns/GELN/holdings-in-company-dl29ix2y2w1qbeu.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-f78728a57c561a7d20425812",
               "headline": "Q1 2026 Newsletter",
-              "source_url": "https://www.lse.co.uk/rns/GELN/q1-2026-newsletter-65zcnrdply29b2b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1589A",
+              "source_url": "https://www.lse.co.uk/rns/GELN/q1-2026-newsletter-65zcnrdply29b2b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Mar 2026",
+              "event_id": "rns-83c0f42713f64a768885083d",
               "headline": "Exceptional Technical Results",
-              "source_url": "https://www.lse.co.uk/rns/GELN/exceptional-technical-results-4k2lq0ia5c5arm5.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8159Y",
+              "source_url": "https://www.lse.co.uk/rns/GELN/exceptional-technical-results-4k2lq0ia5c5arm5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Mar 2026",
+              "event_id": "rns-87018aabe0f341517a01d75c",
               "headline": "Director/PDMR Shareholding - Grant of options",
-              "source_url": "https://www.lse.co.uk/rns/GELN/directorpdmr-shareholding-grant-of-options-o149abx7xgwk1zq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1102V",
+              "source_url": "https://www.lse.co.uk/rns/GELN/directorpdmr-shareholding-grant-of-options-o149abx7xgwk1zq.html",
+              "time": "8:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-7e24d67eabe50bfb7b891970",
               "headline": "Half year results to 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/GELN/half-year-results-to-31-december-2025-jyro0ypr0c9oqo6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8900U",
+              "source_url": "https://www.lse.co.uk/rns/GELN/half-year-results-to-31-december-2025-jyro0ypr0c9oqo6.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-210288e2261affd272e65e1e",
               "headline": "Business Update, Notice of Results & IMC",
-              "source_url": "https://www.lse.co.uk/rns/GELN/business-update-notice-of-results-imc-qjquh1ti6r6czmv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5727S",
+              "source_url": "https://www.lse.co.uk/rns/GELN/business-update-notice-of-results-imc-qjquh1ti6r6czmv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-a61e0861df5944d32a4ac78d",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/GELN/change-of-registered-office-at2prsw5nerc5zb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5893R",
+              "source_url": "https://www.lse.co.uk/rns/GELN/change-of-registered-office-at2prsw5nerc5zb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jan 2026",
+              "event_id": "rns-c577d43c95fc3b26450e42e7",
               "headline": "Block Admission Return",
-              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-53ahj4dq4centd7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5187Q",
+              "source_url": "https://www.lse.co.uk/rns/GELN/block-admission-return-53ahj4dq4centd7.html",
+              "time": "8:02 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-5e5a89ad285f3464ea9a95d3",
               "headline": "Prof. Rachid Yazami Appointed Technology Advisor",
-              "source_url": "https://www.lse.co.uk/rns/GELN/prof-rachid-yazami-appointed-technology-advisor-7iyib7itso2u2br.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0353P",
+              "source_url": "https://www.lse.co.uk/rns/GELN/prof-rachid-yazami-appointed-technology-advisor-7iyib7itso2u2br.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-ef3cfc81104ed2722ffa931b",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-cwnsedbsilig9p6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0027N",
+              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-cwnsedbsilig9p6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-ef3cfc81104ed2722ffa931b",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-qwaspv5c0kuzbxj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0027N",
+              "source_url": "https://www.lse.co.uk/rns/GELN/total-voting-rights-qwaspv5c0kuzbxj.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

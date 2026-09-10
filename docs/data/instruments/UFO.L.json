@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-08-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.72,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.1899999976158142,
                 "date": "2023-08-16",
                 "status": "EXACT"
               },
               "relative_activity": 1.72,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "UFO.L:2023-08-16",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-08-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.98,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.19300000369548798,
                 "date": "2023-08-18",
                 "status": "EXACT"
               },
               "relative_activity": 1.98,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "UFO.L:2023-08-18",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-8d0bdc60f3b372857d9c47d3",
               "headline": "West Coast Silver A$6 million placement",
-              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8552S",
+              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-8e34a8e3b6a7fa6705a663bc",
               "headline": "Elizabeth Hill Diamond Drilling Confirms Silver",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3323S",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-8c65b5a217a7ece4ac33a786",
               "headline": "12-Month Programme to Advance Georgina IOCG Target",
-              "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8446Q",
+              "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-05189cb6332df0652c2f0ef1",
               "headline": "Drilling Extends Silver Zone at Elizabeth Hill",
-              "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4633Q",
+              "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-0436d468630e757d61b46774",
               "headline": "GreenTech Begins Munni Munni Heritage Survey",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2808Q",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-04a45fbd585d23c84338cc86",
               "headline": "WCE Appointments and Alien Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/UFO/wce-appointments-and-alien-directorate-change-i3nkt2cta210699.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4786P",
+              "source_url": "https://www.lse.co.uk/rns/UFO/wce-appointments-and-alien-directorate-change-i3nkt2cta210699.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-3f23353cbd02892b8be3ae8a",
               "headline": "Corporate and Strategic Update",
-              "source_url": "https://www.lse.co.uk/rns/UFO/corporate-and-strategic-update-b0rtinwwup3gamm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9198O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/corporate-and-strategic-update-b0rtinwwup3gamm.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-ca62a656cc23dfcab09dd1f7",
               "headline": "GreenTech commences drill program",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-commences-drill-program-ocbm7lnsortt7lr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8949O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-commences-drill-program-ocbm7lnsortt7lr.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2026",
+              "event_id": "rns-1cef7b27251a139ed1c10f9d",
               "headline": "Elizabeth Hill Diamond Drilling Complete",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-complete-f0yft47q9g1qrwg.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4179O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-complete-f0yft47q9g1qrwg.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-8a2fabbff1755980e67be947",
               "headline": "GreenTech Metals Quarterly Activities Report",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-metals-quarterly-activities-report-kiy44aso9p50q2b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0745O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-metals-quarterly-activities-report-kiy44aso9p50q2b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-29dfcebe9feacc67a57095ee",
               "headline": "West Coast Silver Quarterly Activities Report",
-              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-quarterly-activities-report-6ppqrkam4g5yxke.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6437N",
+              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-quarterly-activities-report-6ppqrkam4g5yxke.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jul 2026",
+              "event_id": "rns-84d0bb3701cf7938dbf73b0a",
               "headline": "Completion of the acquisition of Knox Resources",
-              "source_url": "https://www.lse.co.uk/rns/UFO/completion-of-the-acquisition-of-knox-resources-s2pd80xqdv2ci2d.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5317M",
+              "source_url": "https://www.lse.co.uk/rns/UFO/completion-of-the-acquisition-of-knox-resources-s2pd80xqdv2ci2d.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-cd08042f57a79a47d8fd6170",
               "headline": "Iron Mineralisation Confirmed at Pilbara Projects",
-              "source_url": "https://www.lse.co.uk/rns/UFO/iron-mineralisation-confirmed-at-pilbara-projects-gef2y9u2uxhjxu3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1271M",
+              "source_url": "https://www.lse.co.uk/rns/UFO/iron-mineralisation-confirmed-at-pilbara-projects-gef2y9u2uxhjxu3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-c0206a0c7253cb91bf96f7a2",
               "headline": "Geochemical Review Confirms Munni Munni Targets",
-              "source_url": "https://www.lse.co.uk/rns/UFO/geochemical-review-confirms-munni-munni-targets-1k4jdu67dj87w69.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9761L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/geochemical-review-confirms-munni-munni-targets-1k4jdu67dj87w69.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-963bab868e742f3fba56f255",
               "headline": "Elizabeth Hill high-grade silver discovery",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-high-grade-silver-discovery-pelqiwgdnvf2p3o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5751L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-high-grade-silver-discovery-pelqiwgdnvf2p3o.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jul 2026",
+              "event_id": "rns-ad445d2406fe2c38aa83055a",
               "headline": "Acquisition of Georgina Basin Copper-Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/UFO/acquisition-of-georgina-basin-copper-gold-project-b8rpuxi0aanv6bn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3057L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/acquisition-of-georgina-basin-copper-gold-project-b8rpuxi0aanv6bn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-cde0739d133847c86fdf87c9",
               "headline": "GreenTech Appoints Chief Geologist",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-appoints-chief-geologist-5457oeqwmr1n01u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0391L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-appoints-chief-geologist-5457oeqwmr1n01u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2026",
+              "event_id": "rns-27bc1065e691c1014e5895f8",
               "headline": "Munni Munni and Whundo Drill Update",
-              "source_url": "https://www.lse.co.uk/rns/UFO/munni-munni-and-whundo-drill-update-1ly64fedqhr8mv4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8778K",
+              "source_url": "https://www.lse.co.uk/rns/UFO/munni-munni-and-whundo-drill-update-1ly64fedqhr8mv4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-2dce41a7b856092dff9c0947",
               "headline": "Geophysics Program Starts at Elizabeth Hill",
-              "source_url": "https://www.lse.co.uk/rns/UFO/geophysics-program-starts-at-elizabeth-hill-766a1g5fnkqiumr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1717K",
+              "source_url": "https://www.lse.co.uk/rns/UFO/geophysics-program-starts-at-elizabeth-hill-766a1g5fnkqiumr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-1259daa52f9440183f041ed5",
               "headline": "Elizabeth Hill District Exploration Model Update",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-district-exploration-model-update-ivu7f43ewoj4rhy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8693I",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-district-exploration-model-update-ivu7f43ewoj4rhy.html",
+              "time": "11:07 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27347,39 +27455,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-08-16",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.72,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.1899999976158142,
             "date": "2023-08-16",
             "status": "EXACT"
           },
           "relative_activity": 1.72,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "UFO.L:2023-08-16",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-08-18",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.98,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.19300000369548798,
             "date": "2023-08-18",
             "status": "EXACT"
           },
           "relative_activity": 1.98,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "UFO.L:2023-08-18",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40927,141 +41043,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-8d0bdc60f3b372857d9c47d3",
           "headline": "West Coast Silver A$6 million placement",
-          "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8552S",
+          "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-8e34a8e3b6a7fa6705a663bc",
           "headline": "Elizabeth Hill Diamond Drilling Confirms Silver",
-          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3323S",
+          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-8c65b5a217a7ece4ac33a786",
           "headline": "12-Month Programme to Advance Georgina IOCG Target",
-          "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8446Q",
+          "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-05189cb6332df0652c2f0ef1",
           "headline": "Drilling Extends Silver Zone at Elizabeth Hill",
-          "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4633Q",
+          "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-0436d468630e757d61b46774",
           "headline": "GreenTech Begins Munni Munni Heritage Survey",
-          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2808Q",
+          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-04a45fbd585d23c84338cc86",
           "headline": "WCE Appointments and Alien Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/UFO/wce-appointments-and-alien-directorate-change-i3nkt2cta210699.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4786P",
+          "source_url": "https://www.lse.co.uk/rns/UFO/wce-appointments-and-alien-directorate-change-i3nkt2cta210699.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-3f23353cbd02892b8be3ae8a",
           "headline": "Corporate and Strategic Update",
-          "source_url": "https://www.lse.co.uk/rns/UFO/corporate-and-strategic-update-b0rtinwwup3gamm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9198O",
+          "source_url": "https://www.lse.co.uk/rns/UFO/corporate-and-strategic-update-b0rtinwwup3gamm.html",
+          "time": "7:01 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-ca62a656cc23dfcab09dd1f7",
           "headline": "GreenTech commences drill program",
-          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-commences-drill-program-ocbm7lnsortt7lr.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8949O",
+          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-commences-drill-program-ocbm7lnsortt7lr.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-30",
+          "event_id": "rns-1cef7b27251a139ed1c10f9d",
           "headline": "Elizabeth Hill Diamond Drilling Complete",
-          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-complete-f0yft47q9g1qrwg.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4179O",
+          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-complete-f0yft47q9g1qrwg.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-28",
+          "event_id": "rns-8a2fabbff1755980e67be947",
           "headline": "GreenTech Metals Quarterly Activities Report",
-          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-metals-quarterly-activities-report-kiy44aso9p50q2b.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0745O",
+          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-metals-quarterly-activities-report-kiy44aso9p50q2b.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-29dfcebe9feacc67a57095ee",
           "headline": "West Coast Silver Quarterly Activities Report",
-          "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-quarterly-activities-report-6ppqrkam4g5yxke.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6437N",
+          "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-quarterly-activities-report-6ppqrkam4g5yxke.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-16",
+          "event_id": "rns-84d0bb3701cf7938dbf73b0a",
           "headline": "Completion of the acquisition of Knox Resources",
-          "source_url": "https://www.lse.co.uk/rns/UFO/completion-of-the-acquisition-of-knox-resources-s2pd80xqdv2ci2d.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5317M",
+          "source_url": "https://www.lse.co.uk/rns/UFO/completion-of-the-acquisition-of-knox-resources-s2pd80xqdv2ci2d.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-14",
+          "event_id": "rns-cd08042f57a79a47d8fd6170",
           "headline": "Iron Mineralisation Confirmed at Pilbara Projects",
-          "source_url": "https://www.lse.co.uk/rns/UFO/iron-mineralisation-confirmed-at-pilbara-projects-gef2y9u2uxhjxu3.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1271M",
+          "source_url": "https://www.lse.co.uk/rns/UFO/iron-mineralisation-confirmed-at-pilbara-projects-gef2y9u2uxhjxu3.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-c0206a0c7253cb91bf96f7a2",
           "headline": "Geochemical Review Confirms Munni Munni Targets",
-          "source_url": "https://www.lse.co.uk/rns/UFO/geochemical-review-confirms-munni-munni-targets-1k4jdu67dj87w69.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9761L",
+          "source_url": "https://www.lse.co.uk/rns/UFO/geochemical-review-confirms-munni-munni-targets-1k4jdu67dj87w69.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-09",
+          "event_id": "rns-963bab868e742f3fba56f255",
           "headline": "Elizabeth Hill high-grade silver discovery",
-          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-high-grade-silver-discovery-pelqiwgdnvf2p3o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5751L",
+          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-high-grade-silver-discovery-pelqiwgdnvf2p3o.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-07",
+          "event_id": "rns-ad445d2406fe2c38aa83055a",
           "headline": "Acquisition of Georgina Basin Copper-Gold Project",
-          "source_url": "https://www.lse.co.uk/rns/UFO/acquisition-of-georgina-basin-copper-gold-project-b8rpuxi0aanv6bn.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3057L",
+          "source_url": "https://www.lse.co.uk/rns/UFO/acquisition-of-georgina-basin-copper-gold-project-b8rpuxi0aanv6bn.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-06",
+          "event_id": "rns-cde0739d133847c86fdf87c9",
           "headline": "GreenTech Appoints Chief Geologist",
-          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-appoints-chief-geologist-5457oeqwmr1n01u.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0391L",
+          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-appoints-chief-geologist-5457oeqwmr1n01u.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-03",
+          "event_id": "rns-27bc1065e691c1014e5895f8",
           "headline": "Munni Munni and Whundo Drill Update",
-          "source_url": "https://www.lse.co.uk/rns/UFO/munni-munni-and-whundo-drill-update-1ly64fedqhr8mv4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8778K",
+          "source_url": "https://www.lse.co.uk/rns/UFO/munni-munni-and-whundo-drill-update-1ly64fedqhr8mv4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-2dce41a7b856092dff9c0947",
           "headline": "Geophysics Program Starts at Elizabeth Hill",
-          "source_url": "https://www.lse.co.uk/rns/UFO/geophysics-program-starts-at-elizabeth-hill-766a1g5fnkqiumr.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1717K",
+          "source_url": "https://www.lse.co.uk/rns/UFO/geophysics-program-starts-at-elizabeth-hill-766a1g5fnkqiumr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-18",
+          "event_id": "rns-1259daa52f9440183f041ed5",
           "headline": "Elizabeth Hill District Exploration Model Update",
-          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-district-exploration-model-update-ivu7f43ewoj4rhy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8693I",
+          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-district-exploration-model-update-ivu7f43ewoj4rhy.html",
+          "time": "11:07 am"
         }
       ],
       "rns_initial": [
@@ -41069,36 +41285,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-8d0bdc60f3b372857d9c47d3",
           "headline": "West Coast Silver A$6 million placement",
-          "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8552S",
+          "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-8e34a8e3b6a7fa6705a663bc",
           "headline": "Elizabeth Hill Diamond Drilling Confirms Silver",
-          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3323S",
+          "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-8c65b5a217a7ece4ac33a786",
           "headline": "12-Month Programme to Advance Georgina IOCG Target",
-          "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8446Q",
+          "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-05189cb6332df0652c2f0ef1",
           "headline": "Drilling Extends Silver Zone at Elizabeth Hill",
-          "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4633Q",
+          "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-0436d468630e757d61b46774",
           "headline": "GreenTech Begins Munni Munni Heritage Survey",
-          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2808Q",
+          "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41146,39 +41387,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-08-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.72,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.1899999976158142,
                 "date": "2023-08-16",
                 "status": "EXACT"
               },
               "relative_activity": 1.72,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "UFO.L:2023-08-16",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-08-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.98,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.19300000369548798,
                 "date": "2023-08-18",
                 "status": "EXACT"
               },
               "relative_activity": 1.98,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "UFO.L:2023-08-18",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68270,141 +68519,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-8d0bdc60f3b372857d9c47d3",
               "headline": "West Coast Silver A$6 million placement",
-              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8552S",
+              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-a6-million-placement-8z2bx3wgljcyf74.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-8e34a8e3b6a7fa6705a663bc",
               "headline": "Elizabeth Hill Diamond Drilling Confirms Silver",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3323S",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-confirms-silver-6rihe8rik9xipk1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-8c65b5a217a7ece4ac33a786",
               "headline": "12-Month Programme to Advance Georgina IOCG Target",
-              "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8446Q",
+              "source_url": "https://www.lse.co.uk/rns/UFO/12-month-programme-to-advance-georgina-iocg-target-aysbswndx4nvo9g.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-05189cb6332df0652c2f0ef1",
               "headline": "Drilling Extends Silver Zone at Elizabeth Hill",
-              "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4633Q",
+              "source_url": "https://www.lse.co.uk/rns/UFO/drilling-extends-silver-zone-at-elizabeth-hill-e04qcp7aiqad1id.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-0436d468630e757d61b46774",
               "headline": "GreenTech Begins Munni Munni Heritage Survey",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2808Q",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-begins-munni-munni-heritage-survey-c49bp68r6vwzz05.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-04a45fbd585d23c84338cc86",
               "headline": "WCE Appointments and Alien Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/UFO/wce-appointments-and-alien-directorate-change-i3nkt2cta210699.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4786P",
+              "source_url": "https://www.lse.co.uk/rns/UFO/wce-appointments-and-alien-directorate-change-i3nkt2cta210699.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-3f23353cbd02892b8be3ae8a",
               "headline": "Corporate and Strategic Update",
-              "source_url": "https://www.lse.co.uk/rns/UFO/corporate-and-strategic-update-b0rtinwwup3gamm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9198O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/corporate-and-strategic-update-b0rtinwwup3gamm.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-ca62a656cc23dfcab09dd1f7",
               "headline": "GreenTech commences drill program",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-commences-drill-program-ocbm7lnsortt7lr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8949O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-commences-drill-program-ocbm7lnsortt7lr.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2026",
+              "event_id": "rns-1cef7b27251a139ed1c10f9d",
               "headline": "Elizabeth Hill Diamond Drilling Complete",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-complete-f0yft47q9g1qrwg.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4179O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-diamond-drilling-complete-f0yft47q9g1qrwg.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-8a2fabbff1755980e67be947",
               "headline": "GreenTech Metals Quarterly Activities Report",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-metals-quarterly-activities-report-kiy44aso9p50q2b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0745O",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-metals-quarterly-activities-report-kiy44aso9p50q2b.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-29dfcebe9feacc67a57095ee",
               "headline": "West Coast Silver Quarterly Activities Report",
-              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-quarterly-activities-report-6ppqrkam4g5yxke.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6437N",
+              "source_url": "https://www.lse.co.uk/rns/UFO/west-coast-silver-quarterly-activities-report-6ppqrkam4g5yxke.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jul 2026",
+              "event_id": "rns-84d0bb3701cf7938dbf73b0a",
               "headline": "Completion of the acquisition of Knox Resources",
-              "source_url": "https://www.lse.co.uk/rns/UFO/completion-of-the-acquisition-of-knox-resources-s2pd80xqdv2ci2d.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5317M",
+              "source_url": "https://www.lse.co.uk/rns/UFO/completion-of-the-acquisition-of-knox-resources-s2pd80xqdv2ci2d.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-cd08042f57a79a47d8fd6170",
               "headline": "Iron Mineralisation Confirmed at Pilbara Projects",
-              "source_url": "https://www.lse.co.uk/rns/UFO/iron-mineralisation-confirmed-at-pilbara-projects-gef2y9u2uxhjxu3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1271M",
+              "source_url": "https://www.lse.co.uk/rns/UFO/iron-mineralisation-confirmed-at-pilbara-projects-gef2y9u2uxhjxu3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-c0206a0c7253cb91bf96f7a2",
               "headline": "Geochemical Review Confirms Munni Munni Targets",
-              "source_url": "https://www.lse.co.uk/rns/UFO/geochemical-review-confirms-munni-munni-targets-1k4jdu67dj87w69.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9761L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/geochemical-review-confirms-munni-munni-targets-1k4jdu67dj87w69.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-963bab868e742f3fba56f255",
               "headline": "Elizabeth Hill high-grade silver discovery",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-high-grade-silver-discovery-pelqiwgdnvf2p3o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5751L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-high-grade-silver-discovery-pelqiwgdnvf2p3o.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jul 2026",
+              "event_id": "rns-ad445d2406fe2c38aa83055a",
               "headline": "Acquisition of Georgina Basin Copper-Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/UFO/acquisition-of-georgina-basin-copper-gold-project-b8rpuxi0aanv6bn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3057L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/acquisition-of-georgina-basin-copper-gold-project-b8rpuxi0aanv6bn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-cde0739d133847c86fdf87c9",
               "headline": "GreenTech Appoints Chief Geologist",
-              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-appoints-chief-geologist-5457oeqwmr1n01u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0391L",
+              "source_url": "https://www.lse.co.uk/rns/UFO/greentech-appoints-chief-geologist-5457oeqwmr1n01u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2026",
+              "event_id": "rns-27bc1065e691c1014e5895f8",
               "headline": "Munni Munni and Whundo Drill Update",
-              "source_url": "https://www.lse.co.uk/rns/UFO/munni-munni-and-whundo-drill-update-1ly64fedqhr8mv4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8778K",
+              "source_url": "https://www.lse.co.uk/rns/UFO/munni-munni-and-whundo-drill-update-1ly64fedqhr8mv4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-2dce41a7b856092dff9c0947",
               "headline": "Geophysics Program Starts at Elizabeth Hill",
-              "source_url": "https://www.lse.co.uk/rns/UFO/geophysics-program-starts-at-elizabeth-hill-766a1g5fnkqiumr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1717K",
+              "source_url": "https://www.lse.co.uk/rns/UFO/geophysics-program-starts-at-elizabeth-hill-766a1g5fnkqiumr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-1259daa52f9440183f041ed5",
               "headline": "Elizabeth Hill District Exploration Model Update",
-              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-district-exploration-model-update-ivu7f43ewoj4rhy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8693I",
+              "source_url": "https://www.lse.co.uk/rns/UFO/elizabeth-hill-district-exploration-model-update-ivu7f43ewoj4rhy.html",
+              "time": "11:07 am"
             }
           ],
           "status": "AVAILABLE",

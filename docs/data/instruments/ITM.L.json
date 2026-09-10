@@ -21,77 +21,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 92.9000015258789,
                 "date": "2022-10-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2022-10-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.63,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 83.69999694824219,
                 "date": "2022-10-27",
                 "status": "EXACT"
               },
               "relative_activity": 5.63,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2022-10-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.33,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 80.5,
                 "date": "2023-03-13",
                 "status": "EXACT"
               },
               "relative_activity": 2.33,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2023-03-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.25,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 75.05999755859375,
                 "date": "2023-03-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.25,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2023-03-24",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27183,141 +27199,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2026",
+              "event_id": "rns-ac51d5055c4a636d0e753359",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5655R",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Aug 2026",
+              "event_id": "rns-8a04b6cdf43df844b4887d97",
               "headline": "First hydrogen from Lingen reaches customer",
-              "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0706P",
+              "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jul 2026",
+              "event_id": "rns-f9ff1cb2334c2fd31b44e7cd",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6709M",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-c9122bf6d89b0688f1752b84",
               "headline": "Award of \u00a346.5m DESNZ Grant",
-              "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6041L",
+              "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-7af744ee5338728124d60eb8",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4841K",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-69f83b900533049f24dbdd19",
               "headline": "Appointment of new Non-Executive Director",
-              "source_url": "https://www.lse.co.uk/rns/ITM/appointment-of-new-non-executive-director-gkfr8oqqahojdeb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6515J",
+              "source_url": "https://www.lse.co.uk/rns/ITM/appointment-of-new-non-executive-director-gkfr8oqqahojdeb.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-d4c8d59b9447455237de78e2",
               "headline": "ITM and DB Systemtechnik GmbH LOI",
-              "source_url": "https://www.lse.co.uk/rns/ITM/itm-and-db-systemtechnik-gmbh-loi-cezu9nu2sec3tg0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4552J",
+              "source_url": "https://www.lse.co.uk/rns/ITM/itm-and-db-systemtechnik-gmbh-loi-cezu9nu2sec3tg0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-d993eedb58f5a68599438379",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-vktb4yiy8tihpem.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3674I",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-vktb4yiy8tihpem.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-d9c013f099363c9e9ed948f0",
               "headline": "Strategic partnership with Protium",
-              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-partnership-with-protium-ll2ft4njhc8umhn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7199G",
+              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-partnership-with-protium-ll2ft4njhc8umhn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th May 2026",
+              "event_id": "rns-b6478b2b462db6ae06c7d582",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-gcecikc3tkf6fko.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6005E",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-gcecikc3tkf6fko.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-bca4d7cdb33729f93c9be58e",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-eghsslj4h55uezp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6520C",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-eghsslj4h55uezp.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-276265adb64a285ca6d17050",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/ITM/total-voting-rights-3n6yx80en6labtn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6529C",
+              "source_url": "https://www.lse.co.uk/rns/ITM/total-voting-rights-3n6yx80en6labtn.html",
+              "time": "4:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Apr 2026",
+              "event_id": "rns-76142d2d27ecbbca4c9a6601",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-60o9dqhizlujk3w.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1547B",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-60o9dqhizlujk3w.html",
+              "time": "11:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-86bc7cfe5bd52d24781921a0",
               "headline": "Block Listing Application",
-              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-00xb7a93rvuzpsf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9774A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-00xb7a93rvuzpsf.html",
+              "time": "12:30 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-c43c77c8cd5ed51de6c61e60",
               "headline": "LTIP Grant and CEO discretionary share award",
-              "source_url": "https://www.lse.co.uk/rns/ITM/ltip-grant-and-ceo-discretionary-share-award-5th2pp5l22thdwn.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9783A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/ltip-grant-and-ceo-discretionary-share-award-5th2pp5l22thdwn.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-9f7aaa0b077cb63693682868",
               "headline": "Strategic collaboration with Rheinmetall",
-              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-collaboration-with-rheinmetall-ggl8teuvl2rmmon.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8216A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-collaboration-with-rheinmetall-ggl8teuvl2rmmon.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-afaf90a59175af78d34ccf88",
               "headline": "Block Listing Application",
-              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-fzjs4ou3sqjj9h1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0815A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-fzjs4ou3sqjj9h1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-97f0010579138664246c2bf6",
               "headline": "Grants under Deferred Annual Bonus Plan",
-              "source_url": "https://www.lse.co.uk/rns/ITM/grants-under-deferred-annual-bonus-plan-nfpcwnwce1crjcl.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1730A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/grants-under-deferred-annual-bonus-plan-nfpcwnwce1crjcl.html",
+              "time": "9:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Apr 2026",
+              "event_id": "rns-e025e0511956c093cc431ec7",
               "headline": "GB Energy 40m investment and DESNZ 46.5m grant",
-              "source_url": "https://www.lse.co.uk/rns/ITM/gb-energy-40m-investment-and-desnz-465m-grant-8oig6sxaycpe5ud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7155Z",
+              "source_url": "https://www.lse.co.uk/rns/ITM/gb-energy-40m-investment-and-desnz-465m-grant-8oig6sxaycpe5ud.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Mar 2026",
+              "event_id": "rns-41b9e4ec49385817b438f887",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-p7vkzvlqi3m863w.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1547X",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-p7vkzvlqi3m863w.html",
+              "time": "10:04 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27385,77 +27501,93 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-10-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.23,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 92.9000015258789,
             "date": "2022-10-24",
             "status": "EXACT"
           },
           "relative_activity": 1.23,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ITM.L:2022-10-24",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-10-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.63,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 83.69999694824219,
             "date": "2022-10-27",
             "status": "EXACT"
           },
           "relative_activity": 5.63,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ITM.L:2022-10-27",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-03-13",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.33,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 80.5,
             "date": "2023-03-13",
             "status": "EXACT"
           },
           "relative_activity": 2.33,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ITM.L:2023-03-13",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-03-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.25,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 75.05999755859375,
             "date": "2023-03-24",
             "status": "EXACT"
           },
           "relative_activity": 1.25,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ITM.L:2023-03-24",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -41003,141 +41135,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-21",
+          "event_id": "rns-ac51d5055c4a636d0e753359",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5655R",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-04",
+          "event_id": "rns-8a04b6cdf43df844b4887d97",
           "headline": "First hydrogen from Lingen reaches customer",
-          "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0706P",
+          "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-17",
+          "event_id": "rns-f9ff1cb2334c2fd31b44e7cd",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6709M",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-09",
+          "event_id": "rns-c9122bf6d89b0688f1752b84",
           "headline": "Award of \u00a346.5m DESNZ Grant",
-          "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6041L",
+          "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-7af744ee5338728124d60eb8",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4841K",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-69f83b900533049f24dbdd19",
           "headline": "Appointment of new Non-Executive Director",
-          "source_url": "https://www.lse.co.uk/rns/ITM/appointment-of-new-non-executive-director-gkfr8oqqahojdeb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6515J",
+          "source_url": "https://www.lse.co.uk/rns/ITM/appointment-of-new-non-executive-director-gkfr8oqqahojdeb.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-24",
+          "event_id": "rns-d4c8d59b9447455237de78e2",
           "headline": "ITM and DB Systemtechnik GmbH LOI",
-          "source_url": "https://www.lse.co.uk/rns/ITM/itm-and-db-systemtechnik-gmbh-loi-cezu9nu2sec3tg0.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4552J",
+          "source_url": "https://www.lse.co.uk/rns/ITM/itm-and-db-systemtechnik-gmbh-loi-cezu9nu2sec3tg0.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-d993eedb58f5a68599438379",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-vktb4yiy8tihpem.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3674I",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-vktb4yiy8tihpem.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-03",
+          "event_id": "rns-d9c013f099363c9e9ed948f0",
           "headline": "Strategic partnership with Protium",
-          "source_url": "https://www.lse.co.uk/rns/ITM/strategic-partnership-with-protium-ll2ft4njhc8umhn.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7199G",
+          "source_url": "https://www.lse.co.uk/rns/ITM/strategic-partnership-with-protium-ll2ft4njhc8umhn.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-18",
+          "event_id": "rns-b6478b2b462db6ae06c7d582",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-gcecikc3tkf6fko.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6005E",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-gcecikc3tkf6fko.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-bca4d7cdb33729f93c9be58e",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-eghsslj4h55uezp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6520C",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-eghsslj4h55uezp.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-276265adb64a285ca6d17050",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/ITM/total-voting-rights-3n6yx80en6labtn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6529C",
+          "source_url": "https://www.lse.co.uk/rns/ITM/total-voting-rights-3n6yx80en6labtn.html",
+          "time": "4:00 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-20",
+          "event_id": "rns-76142d2d27ecbbca4c9a6601",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-60o9dqhizlujk3w.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1547B",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-60o9dqhizlujk3w.html",
+          "time": "11:41 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-86bc7cfe5bd52d24781921a0",
           "headline": "Block Listing Application",
-          "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-00xb7a93rvuzpsf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9774A",
+          "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-00xb7a93rvuzpsf.html",
+          "time": "12:30 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-c43c77c8cd5ed51de6c61e60",
           "headline": "LTIP Grant and CEO discretionary share award",
-          "source_url": "https://www.lse.co.uk/rns/ITM/ltip-grant-and-ceo-discretionary-share-award-5th2pp5l22thdwn.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9783A",
+          "source_url": "https://www.lse.co.uk/rns/ITM/ltip-grant-and-ceo-discretionary-share-award-5th2pp5l22thdwn.html",
+          "time": "12:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-9f7aaa0b077cb63693682868",
           "headline": "Strategic collaboration with Rheinmetall",
-          "source_url": "https://www.lse.co.uk/rns/ITM/strategic-collaboration-with-rheinmetall-ggl8teuvl2rmmon.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8216A",
+          "source_url": "https://www.lse.co.uk/rns/ITM/strategic-collaboration-with-rheinmetall-ggl8teuvl2rmmon.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-13",
+          "event_id": "rns-afaf90a59175af78d34ccf88",
           "headline": "Block Listing Application",
-          "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-fzjs4ou3sqjj9h1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0815A",
+          "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-fzjs4ou3sqjj9h1.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-13",
+          "event_id": "rns-97f0010579138664246c2bf6",
           "headline": "Grants under Deferred Annual Bonus Plan",
-          "source_url": "https://www.lse.co.uk/rns/ITM/grants-under-deferred-annual-bonus-plan-nfpcwnwce1crjcl.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1730A",
+          "source_url": "https://www.lse.co.uk/rns/ITM/grants-under-deferred-annual-bonus-plan-nfpcwnwce1crjcl.html",
+          "time": "9:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-09",
+          "event_id": "rns-e025e0511956c093cc431ec7",
           "headline": "GB Energy 40m investment and DESNZ 46.5m grant",
-          "source_url": "https://www.lse.co.uk/rns/ITM/gb-energy-40m-investment-and-desnz-465m-grant-8oig6sxaycpe5ud.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7155Z",
+          "source_url": "https://www.lse.co.uk/rns/ITM/gb-energy-40m-investment-and-desnz-465m-grant-8oig6sxaycpe5ud.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-18",
+          "event_id": "rns-41b9e4ec49385817b438f887",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-p7vkzvlqi3m863w.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1547X",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-p7vkzvlqi3m863w.html",
+          "time": "10:04 am"
         }
       ],
       "rns_initial": [
@@ -41145,36 +41377,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-21",
+          "event_id": "rns-ac51d5055c4a636d0e753359",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5655R",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-04",
+          "event_id": "rns-8a04b6cdf43df844b4887d97",
           "headline": "First hydrogen from Lingen reaches customer",
-          "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0706P",
+          "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-17",
+          "event_id": "rns-f9ff1cb2334c2fd31b44e7cd",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6709M",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-09",
+          "event_id": "rns-c9122bf6d89b0688f1752b84",
           "headline": "Award of \u00a346.5m DESNZ Grant",
-          "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6041L",
+          "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-7af744ee5338728124d60eb8",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4841K",
+          "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41222,77 +41479,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 92.9000015258789,
                 "date": "2022-10-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2022-10-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-10-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.63,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 83.69999694824219,
                 "date": "2022-10-27",
                 "status": "EXACT"
               },
               "relative_activity": 5.63,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2022-10-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.33,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 80.5,
                 "date": "2023-03-13",
                 "status": "EXACT"
               },
               "relative_activity": 2.33,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2023-03-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.25,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 75.05999755859375,
                 "date": "2023-03-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.25,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITM.L:2023-03-24",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68384,141 +68657,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2026",
+              "event_id": "rns-ac51d5055c4a636d0e753359",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5655R",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-75ndddvzx0eyejo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Aug 2026",
+              "event_id": "rns-8a04b6cdf43df844b4887d97",
               "headline": "First hydrogen from Lingen reaches customer",
-              "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0706P",
+              "source_url": "https://www.lse.co.uk/rns/ITM/first-hydrogen-from-lingen-reaches-customer-zi1ydab1ftlmt63.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jul 2026",
+              "event_id": "rns-f9ff1cb2334c2fd31b44e7cd",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6709M",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-42ddm787adp1f1v.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-c9122bf6d89b0688f1752b84",
               "headline": "Award of \u00a346.5m DESNZ Grant",
-              "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6041L",
+              "source_url": "https://www.lse.co.uk/rns/ITM/award-of-163465m-desnz-grant-g4mlvzaecq783g4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-7af744ee5338728124d60eb8",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4841K",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-g14pr84mpu6n18b.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-69f83b900533049f24dbdd19",
               "headline": "Appointment of new Non-Executive Director",
-              "source_url": "https://www.lse.co.uk/rns/ITM/appointment-of-new-non-executive-director-gkfr8oqqahojdeb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6515J",
+              "source_url": "https://www.lse.co.uk/rns/ITM/appointment-of-new-non-executive-director-gkfr8oqqahojdeb.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-d4c8d59b9447455237de78e2",
               "headline": "ITM and DB Systemtechnik GmbH LOI",
-              "source_url": "https://www.lse.co.uk/rns/ITM/itm-and-db-systemtechnik-gmbh-loi-cezu9nu2sec3tg0.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4552J",
+              "source_url": "https://www.lse.co.uk/rns/ITM/itm-and-db-systemtechnik-gmbh-loi-cezu9nu2sec3tg0.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-d993eedb58f5a68599438379",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-vktb4yiy8tihpem.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3674I",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-vktb4yiy8tihpem.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-d9c013f099363c9e9ed948f0",
               "headline": "Strategic partnership with Protium",
-              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-partnership-with-protium-ll2ft4njhc8umhn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7199G",
+              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-partnership-with-protium-ll2ft4njhc8umhn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th May 2026",
+              "event_id": "rns-b6478b2b462db6ae06c7d582",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-gcecikc3tkf6fko.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6005E",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-gcecikc3tkf6fko.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-bca4d7cdb33729f93c9be58e",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-eghsslj4h55uezp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6520C",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-eghsslj4h55uezp.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-276265adb64a285ca6d17050",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/ITM/total-voting-rights-3n6yx80en6labtn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6529C",
+              "source_url": "https://www.lse.co.uk/rns/ITM/total-voting-rights-3n6yx80en6labtn.html",
+              "time": "4:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Apr 2026",
+              "event_id": "rns-76142d2d27ecbbca4c9a6601",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-60o9dqhizlujk3w.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1547B",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-60o9dqhizlujk3w.html",
+              "time": "11:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-86bc7cfe5bd52d24781921a0",
               "headline": "Block Listing Application",
-              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-00xb7a93rvuzpsf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9774A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-00xb7a93rvuzpsf.html",
+              "time": "12:30 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-c43c77c8cd5ed51de6c61e60",
               "headline": "LTIP Grant and CEO discretionary share award",
-              "source_url": "https://www.lse.co.uk/rns/ITM/ltip-grant-and-ceo-discretionary-share-award-5th2pp5l22thdwn.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9783A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/ltip-grant-and-ceo-discretionary-share-award-5th2pp5l22thdwn.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-9f7aaa0b077cb63693682868",
               "headline": "Strategic collaboration with Rheinmetall",
-              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-collaboration-with-rheinmetall-ggl8teuvl2rmmon.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8216A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/strategic-collaboration-with-rheinmetall-ggl8teuvl2rmmon.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-afaf90a59175af78d34ccf88",
               "headline": "Block Listing Application",
-              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-fzjs4ou3sqjj9h1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0815A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/block-listing-application-fzjs4ou3sqjj9h1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Apr 2026",
+              "event_id": "rns-97f0010579138664246c2bf6",
               "headline": "Grants under Deferred Annual Bonus Plan",
-              "source_url": "https://www.lse.co.uk/rns/ITM/grants-under-deferred-annual-bonus-plan-nfpcwnwce1crjcl.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1730A",
+              "source_url": "https://www.lse.co.uk/rns/ITM/grants-under-deferred-annual-bonus-plan-nfpcwnwce1crjcl.html",
+              "time": "9:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Apr 2026",
+              "event_id": "rns-e025e0511956c093cc431ec7",
               "headline": "GB Energy 40m investment and DESNZ 46.5m grant",
-              "source_url": "https://www.lse.co.uk/rns/ITM/gb-energy-40m-investment-and-desnz-465m-grant-8oig6sxaycpe5ud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7155Z",
+              "source_url": "https://www.lse.co.uk/rns/ITM/gb-energy-40m-investment-and-desnz-465m-grant-8oig6sxaycpe5ud.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Mar 2026",
+              "event_id": "rns-41b9e4ec49385817b438f887",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-p7vkzvlqi3m863w.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1547X",
+              "source_url": "https://www.lse.co.uk/rns/ITM/directorpdmr-shareholding-p7vkzvlqi3m863w.html",
+              "time": "10:04 am"
             }
           ],
           "status": "AVAILABLE",

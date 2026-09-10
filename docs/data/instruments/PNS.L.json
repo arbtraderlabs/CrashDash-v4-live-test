@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-11",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 4.69,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.897893190383911,
                 "date": "2025-09-11",
                 "status": "EXACT"
               },
               "relative_activity": 4.69,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNS.L:2025-09-11",
               "signal_type": "ULTRA CRASH BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-ca99f9b8d0894ba6d42b967c",
               "headline": "Interim Report - six months ended 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2709B",
+              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html",
+              "time": "4:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Sep 2025",
+              "event_id": "rns-a0347b0842807f49c7117163",
               "headline": "Update re. property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2140Y",
+              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html",
+              "time": "10:09 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-c8f87907925c46682b75b4ff",
               "headline": "Transaction in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0503P",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html",
+              "time": "4:56 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2025",
+              "event_id": "rns-907f241279360cffc46e638b",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4343N",
+              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th May 2025",
+              "event_id": "rns-a631e834cc26b998c49919e0",
               "headline": "Final results for the year ended 31 December 2024",
-              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4595J",
+              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html",
+              "time": "3:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2025",
+              "event_id": "rns-20b20091ff0ac8f581380bcf",
               "headline": "Property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-guqh9zt5dwctjlu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4132W",
+              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-guqh9zt5dwctjlu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2024",
+              "event_id": "rns-1a0692f938ecb306836b13eb",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-8v9ruvkjhy17fcq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2792R",
+              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-8v9ruvkjhy17fcq.html",
+              "time": "1:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Dec 2024",
+              "event_id": "rns-a88377cd39f0ea5c329df8c6",
               "headline": "Update re. property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-4160j4thpzt4apt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9785Q",
+              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-4160j4thpzt4apt.html",
+              "time": "12:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2024",
+              "event_id": "rns-e6f8c262a574b96aa9aea8d2",
               "headline": "Transactions in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transactions-in-own-shares-and-total-voting-rights-qvs4osivd8m2ziu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4016P",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transactions-in-own-shares-and-total-voting-rights-qvs4osivd8m2ziu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Nov 2024",
+              "event_id": "rns-543c656d672d3bf9db131f34",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-uerzdj9zcfqfg9l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2106O",
+              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-uerzdj9zcfqfg9l.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Nov 2024",
+              "event_id": "rns-4073195a59ac5213c4797c40",
               "headline": "Transaction in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-580h9a5w8xisl8o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9376N",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-580h9a5w8xisl8o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2024",
+              "event_id": "rns-d0814d942e4e542c477c25ec",
               "headline": "Director/PDMR/PCA Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/PNS/directorpdmrpca-shareholding-6ohe0drjd1uyks4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6377I",
+              "source_url": "https://www.lse.co.uk/rns/PNS/directorpdmrpca-shareholding-6ohe0drjd1uyks4.html",
+              "time": "12:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Oct 2024",
+              "event_id": "rns-f8adf82211756d577ce69cc1",
               "headline": "Property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-2en0c5k4q6i4vb7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4470I",
+              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-2en0c5k4q6i4vb7.html",
+              "time": "11:14 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Sep 2024",
+              "event_id": "rns-da193055b7ad9b219cd88ce0",
               "headline": "Interim Report - six months ended 30 June 2024",
-              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2024-5thvnbayrnbj4di.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7022F",
+              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2024-5thvnbayrnbj4di.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2024",
+              "event_id": "rns-3fe65291af18baea997e8a44",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-8z2z5wu095v0qjl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2651T",
+              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-8z2z5wu095v0qjl.html",
+              "time": "1:32 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th May 2024",
+              "event_id": "rns-f0bb310797b2e943cf097882",
               "headline": "Final results for the year ended 31 December 2023",
-              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2023-a3wz9zt2d9o66t8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8139O",
+              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2023-a3wz9zt2d9o66t8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2024",
+              "event_id": "rns-e182afd34ee72a9d5607eade",
               "headline": "Completion of refinancing",
-              "source_url": "https://www.lse.co.uk/rns/PNS/completion-of-refinancing-4w54c7z3f3xyq3q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8956I",
+              "source_url": "https://www.lse.co.uk/rns/PNS/completion-of-refinancing-4w54c7z3f3xyq3q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jan 2024",
+              "event_id": "rns-00081c74c76a47fb96d8355e",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-q2gq6rk0wy0yyys.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5784B",
+              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-q2gq6rk0wy0yyys.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jan 2024",
+              "event_id": "rns-f2385f88ff8e07fa874f0b2e",
               "headline": "Transaction in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-ia024ha2gxxgca7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5785Y",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-ia024ha2gxxgca7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Dec 2023",
+              "event_id": "rns-35301bea52998542fbd12e0a",
               "headline": "Update on proposed refinancing",
-              "source_url": "https://www.lse.co.uk/rns/PNS/update-on-proposed-refinancing-80vt6b6oahr2fyz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0450X",
+              "source_url": "https://www.lse.co.uk/rns/PNS/update-on-proposed-refinancing-80vt6b6oahr2fyz.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-09-11",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "RED",
             "relative_activity": 4.69,
-            "severity": "RED",
+            "severity": "EXTREME CAUTION",
             "signal_state": "ULTRA CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.897893190383911,
             "date": "2025-09-11",
             "status": "EXACT"
           },
           "relative_activity": 4.69,
-          "severity": "RED",
+          "severity": "EXTREME CAUTION",
           "signal_id": "PNS.L:2025-09-11",
           "signal_type": "ULTRA CRASH BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-ca99f9b8d0894ba6d42b967c",
           "headline": "Interim Report - six months ended 30 June 2025",
-          "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2709B",
+          "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html",
+          "time": "4:16 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-05",
+          "event_id": "rns-a0347b0842807f49c7117163",
           "headline": "Update re. property disposal",
-          "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2140Y",
+          "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html",
+          "time": "10:09 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-30",
+          "event_id": "rns-c8f87907925c46682b75b4ff",
           "headline": "Transaction in Own Shares and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0503P",
+          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html",
+          "time": "4:56 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-18",
+          "event_id": "rns-907f241279360cffc46e638b",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4343N",
+          "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html",
+          "time": "2:00 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-20",
+          "event_id": "rns-a631e834cc26b998c49919e0",
           "headline": "Final results for the year ended 31 December 2024",
-          "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4595J",
+          "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html",
+          "time": "3:16 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-10",
+          "event_id": "rns-20b20091ff0ac8f581380bcf",
           "headline": "Property disposal",
-          "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-guqh9zt5dwctjlu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4132W",
+          "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-guqh9zt5dwctjlu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-31",
+          "event_id": "rns-1a0692f938ecb306836b13eb",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-8v9ruvkjhy17fcq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2792R",
+          "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-8v9ruvkjhy17fcq.html",
+          "time": "1:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-20",
+          "event_id": "rns-a88377cd39f0ea5c329df8c6",
           "headline": "Update re. property disposal",
-          "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-4160j4thpzt4apt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9785Q",
+          "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-4160j4thpzt4apt.html",
+          "time": "12:55 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-10",
+          "event_id": "rns-e6f8c262a574b96aa9aea8d2",
           "headline": "Transactions in Own Shares and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/transactions-in-own-shares-and-total-voting-rights-qvs4osivd8m2ziu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4016P",
+          "source_url": "https://www.lse.co.uk/rns/PNS/transactions-in-own-shares-and-total-voting-rights-qvs4osivd8m2ziu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-29",
+          "event_id": "rns-543c656d672d3bf9db131f34",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-uerzdj9zcfqfg9l.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2106O",
+          "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-uerzdj9zcfqfg9l.html",
+          "time": "5:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-28",
+          "event_id": "rns-4073195a59ac5213c4797c40",
           "headline": "Transaction in Own Shares and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-580h9a5w8xisl8o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9376N",
+          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-580h9a5w8xisl8o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-17",
+          "event_id": "rns-d0814d942e4e542c477c25ec",
           "headline": "Director/PDMR/PCA Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/PNS/directorpdmrpca-shareholding-6ohe0drjd1uyks4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6377I",
+          "source_url": "https://www.lse.co.uk/rns/PNS/directorpdmrpca-shareholding-6ohe0drjd1uyks4.html",
+          "time": "12:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-16",
+          "event_id": "rns-f8adf82211756d577ce69cc1",
           "headline": "Property disposal",
-          "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-2en0c5k4q6i4vb7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4470I",
+          "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-2en0c5k4q6i4vb7.html",
+          "time": "11:14 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-26",
+          "event_id": "rns-da193055b7ad9b219cd88ce0",
           "headline": "Interim Report - six months ended 30 June 2024",
-          "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2024-5thvnbayrnbj4di.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7022F",
+          "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2024-5thvnbayrnbj4di.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-06-20",
+          "event_id": "rns-3fe65291af18baea997e8a44",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-8z2z5wu095v0qjl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2651T",
+          "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-8z2z5wu095v0qjl.html",
+          "time": "1:32 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-05-17",
+          "event_id": "rns-f0bb310797b2e943cf097882",
           "headline": "Final results for the year ended 31 December 2023",
-          "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2023-a3wz9zt2d9o66t8.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8139O",
+          "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2023-a3wz9zt2d9o66t8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-04-02",
+          "event_id": "rns-e182afd34ee72a9d5607eade",
           "headline": "Completion of refinancing",
-          "source_url": "https://www.lse.co.uk/rns/PNS/completion-of-refinancing-4w54c7z3f3xyq3q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8956I",
+          "source_url": "https://www.lse.co.uk/rns/PNS/completion-of-refinancing-4w54c7z3f3xyq3q.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-01-31",
+          "event_id": "rns-00081c74c76a47fb96d8355e",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-q2gq6rk0wy0yyys.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5784B",
+          "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-q2gq6rk0wy0yyys.html",
+          "time": "5:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-01-04",
+          "event_id": "rns-f2385f88ff8e07fa874f0b2e",
           "headline": "Transaction in Own Shares and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-ia024ha2gxxgca7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5785Y",
+          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-ia024ha2gxxgca7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-12-18",
+          "event_id": "rns-35301bea52998542fbd12e0a",
           "headline": "Update on proposed refinancing",
-          "source_url": "https://www.lse.co.uk/rns/PNS/update-on-proposed-refinancing-80vt6b6oahr2fyz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0450X",
+          "source_url": "https://www.lse.co.uk/rns/PNS/update-on-proposed-refinancing-80vt6b6oahr2fyz.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-ca99f9b8d0894ba6d42b967c",
           "headline": "Interim Report - six months ended 30 June 2025",
-          "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2709B",
+          "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html",
+          "time": "4:16 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-05",
+          "event_id": "rns-a0347b0842807f49c7117163",
           "headline": "Update re. property disposal",
-          "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2140Y",
+          "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html",
+          "time": "10:09 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-30",
+          "event_id": "rns-c8f87907925c46682b75b4ff",
           "headline": "Transaction in Own Shares and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0503P",
+          "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html",
+          "time": "4:56 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-18",
+          "event_id": "rns-907f241279360cffc46e638b",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4343N",
+          "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html",
+          "time": "2:00 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-20",
+          "event_id": "rns-a631e834cc26b998c49919e0",
           "headline": "Final results for the year ended 31 December 2024",
-          "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4595J",
+          "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html",
+          "time": "3:16 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-11",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 4.69,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.897893190383911,
                 "date": "2025-09-11",
                 "status": "EXACT"
               },
               "relative_activity": 4.69,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNS.L:2025-09-11",
               "signal_type": "ULTRA CRASH BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-ca99f9b8d0894ba6d42b967c",
               "headline": "Interim Report - six months ended 30 June 2025",
-              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2709B",
+              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2025-dlks80j9tupxbnf.html",
+              "time": "4:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Sep 2025",
+              "event_id": "rns-a0347b0842807f49c7117163",
               "headline": "Update re. property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2140Y",
+              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-2lwi7y6mqfmm0am.html",
+              "time": "10:09 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-c8f87907925c46682b75b4ff",
               "headline": "Transaction in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0503P",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-en31y15vnn4zkns.html",
+              "time": "4:56 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2025",
+              "event_id": "rns-907f241279360cffc46e638b",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4343N",
+              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-g14d5phxlhrwfyz.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th May 2025",
+              "event_id": "rns-a631e834cc26b998c49919e0",
               "headline": "Final results for the year ended 31 December 2024",
-              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4595J",
+              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2024-2it8r625jim0z35.html",
+              "time": "3:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2025",
+              "event_id": "rns-20b20091ff0ac8f581380bcf",
               "headline": "Property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-guqh9zt5dwctjlu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4132W",
+              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-guqh9zt5dwctjlu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2024",
+              "event_id": "rns-1a0692f938ecb306836b13eb",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-8v9ruvkjhy17fcq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2792R",
+              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-8v9ruvkjhy17fcq.html",
+              "time": "1:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Dec 2024",
+              "event_id": "rns-a88377cd39f0ea5c329df8c6",
               "headline": "Update re. property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-4160j4thpzt4apt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9785Q",
+              "source_url": "https://www.lse.co.uk/rns/PNS/update-re-property-disposal-4160j4thpzt4apt.html",
+              "time": "12:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2024",
+              "event_id": "rns-e6f8c262a574b96aa9aea8d2",
               "headline": "Transactions in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transactions-in-own-shares-and-total-voting-rights-qvs4osivd8m2ziu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4016P",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transactions-in-own-shares-and-total-voting-rights-qvs4osivd8m2ziu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Nov 2024",
+              "event_id": "rns-543c656d672d3bf9db131f34",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-uerzdj9zcfqfg9l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2106O",
+              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-uerzdj9zcfqfg9l.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Nov 2024",
+              "event_id": "rns-4073195a59ac5213c4797c40",
               "headline": "Transaction in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-580h9a5w8xisl8o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9376N",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-580h9a5w8xisl8o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2024",
+              "event_id": "rns-d0814d942e4e542c477c25ec",
               "headline": "Director/PDMR/PCA Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/PNS/directorpdmrpca-shareholding-6ohe0drjd1uyks4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6377I",
+              "source_url": "https://www.lse.co.uk/rns/PNS/directorpdmrpca-shareholding-6ohe0drjd1uyks4.html",
+              "time": "12:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Oct 2024",
+              "event_id": "rns-f8adf82211756d577ce69cc1",
               "headline": "Property disposal",
-              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-2en0c5k4q6i4vb7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4470I",
+              "source_url": "https://www.lse.co.uk/rns/PNS/property-disposal-2en0c5k4q6i4vb7.html",
+              "time": "11:14 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Sep 2024",
+              "event_id": "rns-da193055b7ad9b219cd88ce0",
               "headline": "Interim Report - six months ended 30 June 2024",
-              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2024-5thvnbayrnbj4di.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7022F",
+              "source_url": "https://www.lse.co.uk/rns/PNS/interim-report-six-months-ended-30-june-2024-5thvnbayrnbj4di.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2024",
+              "event_id": "rns-3fe65291af18baea997e8a44",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-8z2z5wu095v0qjl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2651T",
+              "source_url": "https://www.lse.co.uk/rns/PNS/result-of-agm-8z2z5wu095v0qjl.html",
+              "time": "1:32 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th May 2024",
+              "event_id": "rns-f0bb310797b2e943cf097882",
               "headline": "Final results for the year ended 31 December 2023",
-              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2023-a3wz9zt2d9o66t8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8139O",
+              "source_url": "https://www.lse.co.uk/rns/PNS/final-results-for-the-year-ended-31-december-2023-a3wz9zt2d9o66t8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2024",
+              "event_id": "rns-e182afd34ee72a9d5607eade",
               "headline": "Completion of refinancing",
-              "source_url": "https://www.lse.co.uk/rns/PNS/completion-of-refinancing-4w54c7z3f3xyq3q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8956I",
+              "source_url": "https://www.lse.co.uk/rns/PNS/completion-of-refinancing-4w54c7z3f3xyq3q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jan 2024",
+              "event_id": "rns-00081c74c76a47fb96d8355e",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-q2gq6rk0wy0yyys.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5784B",
+              "source_url": "https://www.lse.co.uk/rns/PNS/total-voting-rights-q2gq6rk0wy0yyys.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jan 2024",
+              "event_id": "rns-f2385f88ff8e07fa874f0b2e",
               "headline": "Transaction in Own Shares and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-ia024ha2gxxgca7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5785Y",
+              "source_url": "https://www.lse.co.uk/rns/PNS/transaction-in-own-shares-and-total-voting-rights-ia024ha2gxxgca7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Dec 2023",
+              "event_id": "rns-35301bea52998542fbd12e0a",
               "headline": "Update on proposed refinancing",
-              "source_url": "https://www.lse.co.uk/rns/PNS/update-on-proposed-refinancing-80vt6b6oahr2fyz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0450X",
+              "source_url": "https://www.lse.co.uk/rns/PNS/update-on-proposed-refinancing-80vt6b6oahr2fyz.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

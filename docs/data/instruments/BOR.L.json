@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-11-19",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.37,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.5169000029563904,
                 "date": "2021-11-19",
                 "status": "EXACT"
               },
               "relative_activity": 3.37,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BOR.L:2021-11-19",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.84,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.5357000231742859,
                 "date": "2022-01-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.84,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BOR.L:2022-01-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2026",
+              "event_id": "rns-356485e24259c459f0a178e2",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5518T",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html",
+              "time": "5:13 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-662e239de8f24c86a4db5ed5",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3244T",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html",
+              "time": "12:27 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-fbac87030a608209bb960ad3",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9159S",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html",
+              "time": "10:51 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-d3f67851bbde62a86c33aa47",
               "headline": "Recent Sea Lion Updates",
-              "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5025S",
+              "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-d2d77688f858b3906b1cfc25",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2509K",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-1e088e50dda42c0574bb4f2d",
               "headline": "Results of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BOR/results-of-agm-id3qspp1w3n8z2s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8006J",
+              "source_url": "https://www.lse.co.uk/rns/BOR/results-of-agm-id3qspp1w3n8z2s.html",
+              "time": "11:47 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-b1c74495248963c9480974f5",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-m0rzaucxz01571i.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0992J",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-m0rzaucxz01571i.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-4c3d6069ca9f90977dc9cb39",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-z4c6ikleeauzwf0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6539I",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-z4c6ikleeauzwf0.html",
+              "time": "9:21 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-93b61db381ac8cee283d102d",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-rc8cixy8clnoy4d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1233I",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-rc8cixy8clnoy4d.html",
+              "time": "9:51 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-3a070264ba2551afc42694e6",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/BOR/final-results-tv75cncs02fvdtc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1265G",
+              "source_url": "https://www.lse.co.uk/rns/BOR/final-results-tv75cncs02fvdtc.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-2cfc3361c92e5d9ac951609f",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-5ikyk82aekk6mpj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1502F",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-5ikyk82aekk6mpj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-37bf9a8e828a16c3db502534",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-ffcr3fsat6ticwa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6265W",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-ffcr3fsat6ticwa.html",
+              "time": "11:57 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-37bf9a8e828a16c3db502534",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-xzkh6lng0g7f3yg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6265W",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-xzkh6lng0g7f3yg.html",
+              "time": "11:57 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-02e0b2d11fc32c7e4699fee7",
               "headline": "Director Purchase of Shares",
-              "source_url": "https://www.lse.co.uk/rns/BOR/director-purchase-of-shares-kgg1v6yql7ywvqw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3527R",
+              "source_url": "https://www.lse.co.uk/rns/BOR/director-purchase-of-shares-kgg1v6yql7ywvqw.html",
+              "time": "12:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-581d2d0acdb9a08382a3a9ff",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-hvtvzuvw88g0nd9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9333O",
+              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-hvtvzuvw88g0nd9.html",
+              "time": "3:56 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-084a15c3b491b8280ab6e566",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-y764likj3eqilkd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6125L",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-y764likj3eqilkd.html",
+              "time": "12:17 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-fd012a18ebc2dc0a41af144b",
               "headline": "Sea Lion FID Announcement",
-              "source_url": "https://www.lse.co.uk/rns/BOR/sea-lion-fid-announcement-w98se96s61rm0z6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0518L",
+              "source_url": "https://www.lse.co.uk/rns/BOR/sea-lion-fid-announcement-w98se96s61rm0z6.html",
+              "time": "1:04 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Sep 2025",
+              "event_id": "rns-d325e99aea3b236231ce6323",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/BOR/half-year-report-y2k1f52mgsazhhb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5027A",
+              "source_url": "https://www.lse.co.uk/rns/BOR/half-year-report-y2k1f52mgsazhhb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2025",
+              "event_id": "rns-d84907ff49b1cbc0f80eb08d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-00mtd4ur0gs8lm6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4810Y",
+              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-00mtd4ur0gs8lm6.html",
+              "time": "5:33 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2025",
+              "event_id": "rns-d4b0f6341f4773be92cba01a",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-vjg8gbaxgpvqid4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8740X",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-vjg8gbaxgpvqid4.html",
+              "time": "1:15 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27347,39 +27455,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-11-19",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.37,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.5169000029563904,
             "date": "2021-11-19",
             "status": "EXACT"
           },
           "relative_activity": 3.37,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "BOR.L:2021-11-19",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-01-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.84,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.5357000231742859,
             "date": "2022-01-04",
             "status": "EXACT"
           },
           "relative_activity": 1.84,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "BOR.L:2022-01-04",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40927,141 +41043,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-04",
+          "event_id": "rns-356485e24259c459f0a178e2",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5518T",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html",
+          "time": "5:13 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-662e239de8f24c86a4db5ed5",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3244T",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html",
+          "time": "12:27 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-fbac87030a608209bb960ad3",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9159S",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html",
+          "time": "10:51 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-d3f67851bbde62a86c33aa47",
           "headline": "Recent Sea Lion Updates",
-          "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5025S",
+          "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-d2d77688f858b3906b1cfc25",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2509K",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-1e088e50dda42c0574bb4f2d",
           "headline": "Results of AGM",
-          "source_url": "https://www.lse.co.uk/rns/BOR/results-of-agm-id3qspp1w3n8z2s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8006J",
+          "source_url": "https://www.lse.co.uk/rns/BOR/results-of-agm-id3qspp1w3n8z2s.html",
+          "time": "11:47 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-22",
+          "event_id": "rns-b1c74495248963c9480974f5",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-m0rzaucxz01571i.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0992J",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-m0rzaucxz01571i.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-17",
+          "event_id": "rns-4c3d6069ca9f90977dc9cb39",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-z4c6ikleeauzwf0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6539I",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-z4c6ikleeauzwf0.html",
+          "time": "9:21 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-12",
+          "event_id": "rns-93b61db381ac8cee283d102d",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-rc8cixy8clnoy4d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1233I",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-rc8cixy8clnoy4d.html",
+          "time": "9:51 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-29",
+          "event_id": "rns-3a070264ba2551afc42694e6",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/BOR/final-results-tv75cncs02fvdtc.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1265G",
+          "source_url": "https://www.lse.co.uk/rns/BOR/final-results-tv75cncs02fvdtc.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-2cfc3361c92e5d9ac951609f",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-5ikyk82aekk6mpj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1502F",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-5ikyk82aekk6mpj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-13",
+          "event_id": "rns-37bf9a8e828a16c3db502534",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-ffcr3fsat6ticwa.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6265W",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-ffcr3fsat6ticwa.html",
+          "time": "11:57 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-13",
+          "event_id": "rns-37bf9a8e828a16c3db502534",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-xzkh6lng0g7f3yg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6265W",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-xzkh6lng0g7f3yg.html",
+          "time": "11:57 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-02",
+          "event_id": "rns-02e0b2d11fc32c7e4699fee7",
           "headline": "Director Purchase of Shares",
-          "source_url": "https://www.lse.co.uk/rns/BOR/director-purchase-of-shares-kgg1v6yql7ywvqw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3527R",
+          "source_url": "https://www.lse.co.uk/rns/BOR/director-purchase-of-shares-kgg1v6yql7ywvqw.html",
+          "time": "12:31 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-14",
+          "event_id": "rns-581d2d0acdb9a08382a3a9ff",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-hvtvzuvw88g0nd9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9333O",
+          "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-hvtvzuvw88g0nd9.html",
+          "time": "3:56 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-15",
+          "event_id": "rns-084a15c3b491b8280ab6e566",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-y764likj3eqilkd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6125L",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-y764likj3eqilkd.html",
+          "time": "12:17 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-10",
+          "event_id": "rns-fd012a18ebc2dc0a41af144b",
           "headline": "Sea Lion FID Announcement",
-          "source_url": "https://www.lse.co.uk/rns/BOR/sea-lion-fid-announcement-w98se96s61rm0z6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0518L",
+          "source_url": "https://www.lse.co.uk/rns/BOR/sea-lion-fid-announcement-w98se96s61rm0z6.html",
+          "time": "1:04 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-24",
+          "event_id": "rns-d325e99aea3b236231ce6323",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/BOR/half-year-report-y2k1f52mgsazhhb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5027A",
+          "source_url": "https://www.lse.co.uk/rns/BOR/half-year-report-y2k1f52mgsazhhb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-08",
+          "event_id": "rns-d84907ff49b1cbc0f80eb08d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-00mtd4ur0gs8lm6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4810Y",
+          "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-00mtd4ur0gs8lm6.html",
+          "time": "5:33 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-03",
+          "event_id": "rns-d4b0f6341f4773be92cba01a",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-vjg8gbaxgpvqid4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8740X",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-vjg8gbaxgpvqid4.html",
+          "time": "1:15 pm"
         }
       ],
       "rns_initial": [
@@ -41069,36 +41285,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-04",
+          "event_id": "rns-356485e24259c459f0a178e2",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5518T",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html",
+          "time": "5:13 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-03",
+          "event_id": "rns-662e239de8f24c86a4db5ed5",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3244T",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html",
+          "time": "12:27 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-fbac87030a608209bb960ad3",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9159S",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html",
+          "time": "10:51 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-d3f67851bbde62a86c33aa47",
           "headline": "Recent Sea Lion Updates",
-          "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5025S",
+          "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-d2d77688f858b3906b1cfc25",
           "headline": "Exercise of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2509K",
+          "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41146,39 +41387,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-11-19",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.37,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.5169000029563904,
                 "date": "2021-11-19",
                 "status": "EXACT"
               },
               "relative_activity": 3.37,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BOR.L:2021-11-19",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-01-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.84,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.5357000231742859,
                 "date": "2022-01-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.84,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "BOR.L:2022-01-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68270,141 +68519,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2026",
+              "event_id": "rns-356485e24259c459f0a178e2",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5518T",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-k4kwvraudue3q6r.html",
+              "time": "5:13 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2026",
+              "event_id": "rns-662e239de8f24c86a4db5ed5",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3244T",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-n02jz9tyuozuqpc.html",
+              "time": "12:27 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-fbac87030a608209bb960ad3",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9159S",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-527gn2uxu25mffc.html",
+              "time": "10:51 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-d3f67851bbde62a86c33aa47",
               "headline": "Recent Sea Lion Updates",
-              "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5025S",
+              "source_url": "https://www.lse.co.uk/rns/BOR/recent-sea-lion-updates-p60ze565eurirab.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-d2d77688f858b3906b1cfc25",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2509K",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-anbrtbf3umbynfi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-1e088e50dda42c0574bb4f2d",
               "headline": "Results of AGM",
-              "source_url": "https://www.lse.co.uk/rns/BOR/results-of-agm-id3qspp1w3n8z2s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8006J",
+              "source_url": "https://www.lse.co.uk/rns/BOR/results-of-agm-id3qspp1w3n8z2s.html",
+              "time": "11:47 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-b1c74495248963c9480974f5",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-m0rzaucxz01571i.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0992J",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-m0rzaucxz01571i.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2026",
+              "event_id": "rns-4c3d6069ca9f90977dc9cb39",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-z4c6ikleeauzwf0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6539I",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-z4c6ikleeauzwf0.html",
+              "time": "9:21 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-93b61db381ac8cee283d102d",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-rc8cixy8clnoy4d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1233I",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-rc8cixy8clnoy4d.html",
+              "time": "9:51 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th May 2026",
+              "event_id": "rns-3a070264ba2551afc42694e6",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/BOR/final-results-tv75cncs02fvdtc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1265G",
+              "source_url": "https://www.lse.co.uk/rns/BOR/final-results-tv75cncs02fvdtc.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-2cfc3361c92e5d9ac951609f",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-5ikyk82aekk6mpj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1502F",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-5ikyk82aekk6mpj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-37bf9a8e828a16c3db502534",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-ffcr3fsat6ticwa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6265W",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-ffcr3fsat6ticwa.html",
+              "time": "11:57 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Mar 2026",
+              "event_id": "rns-37bf9a8e828a16c3db502534",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-xzkh6lng0g7f3yg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6265W",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-xzkh6lng0g7f3yg.html",
+              "time": "11:57 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-02e0b2d11fc32c7e4699fee7",
               "headline": "Director Purchase of Shares",
-              "source_url": "https://www.lse.co.uk/rns/BOR/director-purchase-of-shares-kgg1v6yql7ywvqw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3527R",
+              "source_url": "https://www.lse.co.uk/rns/BOR/director-purchase-of-shares-kgg1v6yql7ywvqw.html",
+              "time": "12:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-581d2d0acdb9a08382a3a9ff",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-hvtvzuvw88g0nd9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9333O",
+              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-hvtvzuvw88g0nd9.html",
+              "time": "3:56 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-084a15c3b491b8280ab6e566",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-y764likj3eqilkd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6125L",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-y764likj3eqilkd.html",
+              "time": "12:17 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-fd012a18ebc2dc0a41af144b",
               "headline": "Sea Lion FID Announcement",
-              "source_url": "https://www.lse.co.uk/rns/BOR/sea-lion-fid-announcement-w98se96s61rm0z6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0518L",
+              "source_url": "https://www.lse.co.uk/rns/BOR/sea-lion-fid-announcement-w98se96s61rm0z6.html",
+              "time": "1:04 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Sep 2025",
+              "event_id": "rns-d325e99aea3b236231ce6323",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/BOR/half-year-report-y2k1f52mgsazhhb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5027A",
+              "source_url": "https://www.lse.co.uk/rns/BOR/half-year-report-y2k1f52mgsazhhb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Sep 2025",
+              "event_id": "rns-d84907ff49b1cbc0f80eb08d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-00mtd4ur0gs8lm6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4810Y",
+              "source_url": "https://www.lse.co.uk/rns/BOR/holdings-in-company-00mtd4ur0gs8lm6.html",
+              "time": "5:33 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Sep 2025",
+              "event_id": "rns-d4b0f6341f4773be92cba01a",
               "headline": "Exercise of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-vjg8gbaxgpvqid4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8740X",
+              "source_url": "https://www.lse.co.uk/rns/BOR/exercise-of-warrants-vjg8gbaxgpvqid4.html",
+              "time": "1:15 pm"
             }
           ],
           "status": "AVAILABLE",

@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-04-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.17,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2025-04-01",
                 "status": "EXACT"
               },
               "relative_activity": 2.17,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "KDR.L:2025-04-01",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.48,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.574999988079071,
                 "date": "2025-04-07",
                 "status": "EXACT"
               },
               "relative_activity": 2.48,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KDR.L:2025-04-07",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Apr 2026",
+              "event_id": "rns-a7e30fc7652288c6dc66815e",
               "headline": "Update on drilling programme at Kuhmo",
-              "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-13355896f2c14fa87351794d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html",
+              "time": "5:19 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Mar 2026",
+              "event_id": "rns-a84d4c24bef9683255addbd1",
               "headline": "FUNDRAISING OF \u00a3290,000 &\u00a0OPERATIONAL AND CORPORATE UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Feb 2026",
+              "event_id": "rns-d5e2294cffdd9228a5022a95",
               "headline": "Half-yearly results for the six months ended 30 November 2025",
-              "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html",
+              "time": "7:03 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Feb 2026",
+              "event_id": "rns-6f4c7147762d31e550191c63",
               "headline": "Reissue: Half-yearly results for the six months ended 30 November 2025",
-              "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html",
+              "time": "11:08 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jan 2026",
+              "event_id": "rns-a8c9bddbaacc5dcbb975712f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-ghmriw2ql5yg4us.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-ghmriw2ql5yg4us.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Dec 2025",
+              "event_id": "rns-1aa05c8dea3b891cc71aa81e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/KDR/result-of-agm-kxrbe3poycxvbd2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/result-of-agm-kxrbe3poycxvbd2.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Nov 2025",
+              "event_id": "rns-9ace3c6b167c5d5f791f3e55",
               "headline": "Final Results for the Year to 31 May 2025",
-              "source_url": "https://www.lse.co.uk/rns/KDR/final-results-for-the-year-to-31-may-2025-3axtr2f6yz3qnjz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/final-results-for-the-year-to-31-may-2025-3axtr2f6yz3qnjz.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Oct 2025",
+              "event_id": "rns-45dd059d5e3c322a285c6531",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-n8yqwgybctboe1o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-n8yqwgybctboe1o.html",
+              "time": "1:41 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Sep 2025",
+              "event_id": "rns-f84c7f4787ec8dd589752509",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-3vpwk1zfz70vu6s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-3vpwk1zfz70vu6s.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2025",
+              "event_id": "rns-e76efb20f769b3809be494db",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-wq49quliznnabun.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-wq49quliznnabun.html",
+              "time": "5:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-48475ac7b988a3164b8b2721",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-q4ipjve8u72boal.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-q4ipjve8u72boal.html",
+              "time": "10:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-77a96dc0e5829ae5cfa6bfde",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/KDR/total-voting-rights-r3imv9dm62wol0d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/total-voting-rights-r3imv9dm62wol0d.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-8bb202f77f6c97d662b81930",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-jhehj2xuyx17axr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-jhehj2xuyx17axr.html",
+              "time": "2:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-ef88baa47f1c851e5e2b5381",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-z0m8ju0ovz6sh61.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-z0m8ju0ovz6sh61.html",
+              "time": "5:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2025",
+              "event_id": "rns-be0e7bd45ca635925ef6d877",
               "headline": "Fundraising of \u00a3185,000",
-              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163185000-flmnr0hk6q6vz5t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163185000-flmnr0hk6q6vz5t.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2025",
+              "event_id": "rns-61ac1b729a29b5f620a9fc82",
               "headline": "Karelian Identifies New Copper Target",
-              "source_url": "https://www.lse.co.uk/rns/KDR/karelian-identifies-new-copper-target-jqxol00l655pee6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/karelian-identifies-new-copper-target-jqxol00l655pee6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2025",
+              "event_id": "rns-937743cd5bc972211bf16244",
               "headline": "Lahtojoki Mining Concession Certificate Issued",
-              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-certificate-issued-a1vxs85a25todr7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-certificate-issued-a1vxs85a25todr7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2025",
+              "event_id": "rns-e8f065f963123d41f614815a",
               "headline": "Lahtojoki Mining Concession Registered in Land Registry",
-              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-registered-in-land-registry-cje3yjpaz52dx44.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-registered-in-land-registry-cje3yjpaz52dx44.html",
+              "time": "1:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2025",
+              "event_id": "rns-54c6893ee44b2ad9a09a3f68",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-dju2dktxeerxt8w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-dju2dktxeerxt8w.html",
+              "time": "2:59 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27348,39 +27456,47 @@
       "historical_alerts": [
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2025-04-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 2.17,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.625,
             "date": "2025-04-01",
             "status": "EXACT"
           },
           "relative_activity": 2.17,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "KDR.L:2025-04-01",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-04-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.48,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.574999988079071,
             "date": "2025-04-07",
             "status": "EXACT"
           },
           "relative_activity": 2.48,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KDR.L:2025-04-07",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40928,141 +41044,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-23",
+          "event_id": "rns-a7e30fc7652288c6dc66815e",
           "headline": "Update on drilling programme at Kuhmo",
-          "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-22",
+          "event_id": "rns-13355896f2c14fa87351794d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html",
+          "time": "5:19 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-20",
+          "event_id": "rns-a84d4c24bef9683255addbd1",
           "headline": "FUNDRAISING OF \u00a3290,000 &\u00a0OPERATIONAL AND CORPORATE UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-27",
+          "event_id": "rns-d5e2294cffdd9228a5022a95",
           "headline": "Half-yearly results for the six months ended 30 November 2025",
-          "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html",
+          "time": "7:03 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-27",
+          "event_id": "rns-6f4c7147762d31e550191c63",
           "headline": "Reissue: Half-yearly results for the six months ended 30 November 2025",
-          "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html",
+          "time": "11:08 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-26",
+          "event_id": "rns-a8c9bddbaacc5dcbb975712f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-ghmriw2ql5yg4us.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-ghmriw2ql5yg4us.html",
+          "time": "12:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-17",
+          "event_id": "rns-1aa05c8dea3b891cc71aa81e",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/KDR/result-of-agm-kxrbe3poycxvbd2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/result-of-agm-kxrbe3poycxvbd2.html",
+          "time": "2:00 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-26",
+          "event_id": "rns-9ace3c6b167c5d5f791f3e55",
           "headline": "Final Results for the Year to 31 May 2025",
-          "source_url": "https://www.lse.co.uk/rns/KDR/final-results-for-the-year-to-31-may-2025-3axtr2f6yz3qnjz.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/final-results-for-the-year-to-31-may-2025-3axtr2f6yz3qnjz.html",
+          "time": "7:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-13",
+          "event_id": "rns-45dd059d5e3c322a285c6531",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-n8yqwgybctboe1o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-n8yqwgybctboe1o.html",
+          "time": "1:41 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-17",
+          "event_id": "rns-f84c7f4787ec8dd589752509",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-3vpwk1zfz70vu6s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-3vpwk1zfz70vu6s.html",
+          "time": "3:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-04",
+          "event_id": "rns-e76efb20f769b3809be494db",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-wq49quliznnabun.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-wq49quliznnabun.html",
+          "time": "5:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-30",
+          "event_id": "rns-48475ac7b988a3164b8b2721",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-q4ipjve8u72boal.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-q4ipjve8u72boal.html",
+          "time": "10:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-30",
+          "event_id": "rns-77a96dc0e5829ae5cfa6bfde",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/KDR/total-voting-rights-r3imv9dm62wol0d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/total-voting-rights-r3imv9dm62wol0d.html",
+          "time": "5:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-24",
+          "event_id": "rns-8bb202f77f6c97d662b81930",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-jhehj2xuyx17axr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-jhehj2xuyx17axr.html",
+          "time": "2:59 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-24",
+          "event_id": "rns-ef88baa47f1c851e5e2b5381",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-z0m8ju0ovz6sh61.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-z0m8ju0ovz6sh61.html",
+          "time": "5:11 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-20",
+          "event_id": "rns-be0e7bd45ca635925ef6d877",
           "headline": "Fundraising of \u00a3185,000",
-          "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163185000-flmnr0hk6q6vz5t.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163185000-flmnr0hk6q6vz5t.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-17",
+          "event_id": "rns-61ac1b729a29b5f620a9fc82",
           "headline": "Karelian Identifies New Copper Target",
-          "source_url": "https://www.lse.co.uk/rns/KDR/karelian-identifies-new-copper-target-jqxol00l655pee6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/karelian-identifies-new-copper-target-jqxol00l655pee6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-12",
+          "event_id": "rns-937743cd5bc972211bf16244",
           "headline": "Lahtojoki Mining Concession Certificate Issued",
-          "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-certificate-issued-a1vxs85a25todr7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-certificate-issued-a1vxs85a25todr7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-10",
+          "event_id": "rns-e8f065f963123d41f614815a",
           "headline": "Lahtojoki Mining Concession Registered in Land Registry",
-          "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-registered-in-land-registry-cje3yjpaz52dx44.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-registered-in-land-registry-cje3yjpaz52dx44.html",
+          "time": "1:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-27",
+          "event_id": "rns-54c6893ee44b2ad9a09a3f68",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-dju2dktxeerxt8w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-dju2dktxeerxt8w.html",
+          "time": "2:59 pm"
         }
       ],
       "rns_initial": [
@@ -41070,36 +41286,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-23",
+          "event_id": "rns-a7e30fc7652288c6dc66815e",
           "headline": "Update on drilling programme at Kuhmo",
-          "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-22",
+          "event_id": "rns-13355896f2c14fa87351794d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html",
+          "time": "5:19 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-20",
+          "event_id": "rns-a84d4c24bef9683255addbd1",
           "headline": "FUNDRAISING OF \u00a3290,000 &\u00a0OPERATIONAL AND CORPORATE UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-27",
+          "event_id": "rns-d5e2294cffdd9228a5022a95",
           "headline": "Half-yearly results for the six months ended 30 November 2025",
-          "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html",
+          "time": "7:03 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-27",
+          "event_id": "rns-6f4c7147762d31e550191c63",
           "headline": "Reissue: Half-yearly results for the six months ended 30 November 2025",
-          "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html",
+          "time": "11:08 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41147,39 +41388,47 @@
           "alert_markers": [
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-04-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.17,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2025-04-01",
                 "status": "EXACT"
               },
               "relative_activity": 2.17,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "KDR.L:2025-04-01",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.48,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.574999988079071,
                 "date": "2025-04-07",
                 "status": "EXACT"
               },
               "relative_activity": 2.48,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KDR.L:2025-04-07",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68271,141 +68520,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Apr 2026",
+              "event_id": "rns-a7e30fc7652288c6dc66815e",
               "headline": "Update on drilling programme at Kuhmo",
-              "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/update-on-drilling-programme-at-kuhmo-2cxm7se3xb0tq8x.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-13355896f2c14fa87351794d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-897x5spkfsqd7wn.html",
+              "time": "5:19 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Mar 2026",
+              "event_id": "rns-a84d4c24bef9683255addbd1",
               "headline": "FUNDRAISING OF \u00a3290,000 &\u00a0OPERATIONAL AND CORPORATE UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163290000-160operational-and-corporate-update-i9x759cow0ogcvb.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Feb 2026",
+              "event_id": "rns-d5e2294cffdd9228a5022a95",
               "headline": "Half-yearly results for the six months ended 30 November 2025",
-              "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/half-yearly-results-for-the-six-months-ended-30-november-2025-rtrfslhbhfc7o9m.html",
+              "time": "7:03 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Feb 2026",
+              "event_id": "rns-6f4c7147762d31e550191c63",
               "headline": "Reissue: Half-yearly results for the six months ended 30 November 2025",
-              "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/reissue-half-yearly-results-for-the-six-months-ended-30-november-2025-r1urfwln6p365y5.html",
+              "time": "11:08 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jan 2026",
+              "event_id": "rns-a8c9bddbaacc5dcbb975712f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-ghmriw2ql5yg4us.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-ghmriw2ql5yg4us.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Dec 2025",
+              "event_id": "rns-1aa05c8dea3b891cc71aa81e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/KDR/result-of-agm-kxrbe3poycxvbd2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/result-of-agm-kxrbe3poycxvbd2.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Nov 2025",
+              "event_id": "rns-9ace3c6b167c5d5f791f3e55",
               "headline": "Final Results for the Year to 31 May 2025",
-              "source_url": "https://www.lse.co.uk/rns/KDR/final-results-for-the-year-to-31-may-2025-3axtr2f6yz3qnjz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/final-results-for-the-year-to-31-may-2025-3axtr2f6yz3qnjz.html",
+              "time": "7:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Oct 2025",
+              "event_id": "rns-45dd059d5e3c322a285c6531",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-n8yqwgybctboe1o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-n8yqwgybctboe1o.html",
+              "time": "1:41 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Sep 2025",
+              "event_id": "rns-f84c7f4787ec8dd589752509",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-3vpwk1zfz70vu6s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-3vpwk1zfz70vu6s.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2025",
+              "event_id": "rns-e76efb20f769b3809be494db",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-wq49quliznnabun.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-wq49quliznnabun.html",
+              "time": "5:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-48475ac7b988a3164b8b2721",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-q4ipjve8u72boal.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-q4ipjve8u72boal.html",
+              "time": "10:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-77a96dc0e5829ae5cfa6bfde",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/KDR/total-voting-rights-r3imv9dm62wol0d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/total-voting-rights-r3imv9dm62wol0d.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-8bb202f77f6c97d662b81930",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-jhehj2xuyx17axr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-jhehj2xuyx17axr.html",
+              "time": "2:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-ef88baa47f1c851e5e2b5381",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-z0m8ju0ovz6sh61.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-z0m8ju0ovz6sh61.html",
+              "time": "5:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2025",
+              "event_id": "rns-be0e7bd45ca635925ef6d877",
               "headline": "Fundraising of \u00a3185,000",
-              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163185000-flmnr0hk6q6vz5t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/fundraising-of-163185000-flmnr0hk6q6vz5t.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jun 2025",
+              "event_id": "rns-61ac1b729a29b5f620a9fc82",
               "headline": "Karelian Identifies New Copper Target",
-              "source_url": "https://www.lse.co.uk/rns/KDR/karelian-identifies-new-copper-target-jqxol00l655pee6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/karelian-identifies-new-copper-target-jqxol00l655pee6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2025",
+              "event_id": "rns-937743cd5bc972211bf16244",
               "headline": "Lahtojoki Mining Concession Certificate Issued",
-              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-certificate-issued-a1vxs85a25todr7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-certificate-issued-a1vxs85a25todr7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2025",
+              "event_id": "rns-e8f065f963123d41f614815a",
               "headline": "Lahtojoki Mining Concession Registered in Land Registry",
-              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-registered-in-land-registry-cje3yjpaz52dx44.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/lahtojoki-mining-concession-registered-in-land-registry-cje3yjpaz52dx44.html",
+              "time": "1:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2025",
+              "event_id": "rns-54c6893ee44b2ad9a09a3f68",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-dju2dktxeerxt8w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/KDR/holdings-in-company-dju2dktxeerxt8w.html",
+              "time": "2:59 pm"
             }
           ],
           "status": "AVAILABLE",

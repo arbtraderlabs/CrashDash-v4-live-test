@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-11-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.02,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 78.125,
                 "date": "2022-11-18",
                 "status": "EXACT"
               },
               "relative_activity": 7.02,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SORT.L:2022-11-18",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27104,141 +27108,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-4c390419f8a310544968fc11",
               "headline": "Corporate update & suspension of trading in shares",
-              "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7917J",
+              "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html",
+              "time": "11:01 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-d8939b03254e850221bb8ab1",
               "headline": "Suspension - Sorted Group Holdings plc",
-              "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7924J",
+              "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html",
+              "time": "11:03 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Apr 2026",
+              "event_id": "rns-71d0f086e0d71d1b5e2c6a01",
               "headline": "Result of Meeting",
-              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1272B",
+              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html",
+              "time": "9:36 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2026",
+              "event_id": "rns-6c6add870ab4e760e2b69af1",
               "headline": "Proposed disposal & notice of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1493Z",
+              "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-7e0682e6623d5c88d4a85aee",
               "headline": "HMRC R&D Tax Credit",
-              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6230Q",
+              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-fdfc029fe8d122e247d434d8",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/SORT/directorate-change-3ng2gyd3710e8mz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7126O",
+              "source_url": "https://www.lse.co.uk/rns/SORT/directorate-change-3ng2gyd3710e8mz.html",
+              "time": "10:33 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Sep 2025",
+              "event_id": "rns-688c1dbc75a8195041d12d35",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-trajkm9sggzwyvd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8545A",
+              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-trajkm9sggzwyvd.html",
+              "time": "11:59 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2025",
+              "event_id": "rns-8c23dec4996875b42b792f1e",
               "headline": "Departure of Chief Financial Officer",
-              "source_url": "https://www.lse.co.uk/rns/SORT/departure-of-chief-financial-officer-t1t9ocxngfbpe83.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7543W",
+              "source_url": "https://www.lse.co.uk/rns/SORT/departure-of-chief-financial-officer-t1t9ocxngfbpe83.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2025",
+              "event_id": "rns-e6468a1c8a9e4c81102586b4",
               "headline": "Notice of AGM & Proposed Capital Reorganisation",
-              "source_url": "https://www.lse.co.uk/rns/SORT/notice-of-agm-proposed-capital-reorganisation-gx5zdko2pbdnaby.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7536W",
+              "source_url": "https://www.lse.co.uk/rns/SORT/notice-of-agm-proposed-capital-reorganisation-gx5zdko2pbdnaby.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2025",
+              "event_id": "rns-1dafb2020e0d73ba31c6e25a",
               "headline": "Renewal of M&S Contract",
-              "source_url": "https://www.lse.co.uk/rns/SORT/renewal-of-ms-contract-3cijktc1mfz2tvm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3041W",
+              "source_url": "https://www.lse.co.uk/rns/SORT/renewal-of-ms-contract-3cijktc1mfz2tvm.html",
+              "time": "12:39 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jul 2025",
+              "event_id": "rns-ba777f0ecf2592f873c001ec",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/SORT/half-year-report-f9irqpjpn7mejwo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5084S",
+              "source_url": "https://www.lse.co.uk/rns/SORT/half-year-report-f9irqpjpn7mejwo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jun 2025",
+              "event_id": "rns-a58c88dc0540cdbe3413eb35",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/SORT/annual-financial-report-ni8juiyh701hkc1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6560O",
+              "source_url": "https://www.lse.co.uk/rns/SORT/annual-financial-report-ni8juiyh701hkc1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2025",
+              "event_id": "rns-af48ee58acdec3d2c5d0d90d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SORT/holdings-in-company-96j42snghoaps1s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9504H",
+              "source_url": "https://www.lse.co.uk/rns/SORT/holdings-in-company-96j42snghoaps1s.html",
+              "time": "4:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jan 2025",
+              "event_id": "rns-6bb8e2b485b756504d0d77e1",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-registered-office-hernhyzlc5nyqab.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2801S",
+              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-registered-office-hernhyzlc5nyqab.html",
+              "time": "12:54 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Dec 2024",
+              "event_id": "rns-e26f97ecd1397111e104983f",
               "headline": "Share Option Awards",
-              "source_url": "https://www.lse.co.uk/rns/SORT/share-option-awards-xvfzgepw9nkp4hb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0156P",
+              "source_url": "https://www.lse.co.uk/rns/SORT/share-option-awards-xvfzgepw9nkp4hb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2024",
+              "event_id": "rns-6144bbfc79d32fb8e751f956",
               "headline": "Change of Auditor",
-              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-auditor-s4io7juklssukw8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0434N",
+              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-auditor-s4io7juklssukw8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Oct 2024",
+              "event_id": "rns-704918ceb67ef50810fe4960",
               "headline": "Disposal of Returns business",
-              "source_url": "https://www.lse.co.uk/rns/SORT/disposal-of-returns-business-l1kxd9vrnm2qq0l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8864G",
+              "source_url": "https://www.lse.co.uk/rns/SORT/disposal-of-returns-business-l1kxd9vrnm2qq0l.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2024",
+              "event_id": "rns-e5f8d6b52d6b72e510e8bd7c",
               "headline": "HMRC R&D Tax Credit",
-              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-gjk4xy0bbncn1so.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2727G",
+              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-gjk4xy0bbncn1so.html",
+              "time": "12:27 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Sep 2024",
+              "event_id": "rns-385ae1b53bfcfcd485c0cb42",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-cv9qs1nrzlte0vw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8227D",
+              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-cv9qs1nrzlte0vw.html",
+              "time": "2:47 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Aug 2024",
+              "event_id": "rns-14b35b7f91f486eecb71f554",
               "headline": "Trading subsidiary audited results",
-              "source_url": "https://www.lse.co.uk/rns/SORT/trading-subsidiary-audited-results-8zscd88t8a350ix.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6646A",
+              "source_url": "https://www.lse.co.uk/rns/SORT/trading-subsidiary-audited-results-8zscd88t8a350ix.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27316,20 +27420,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-11-18",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 7.02,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 78.125,
             "date": "2022-11-18",
             "status": "EXACT"
           },
           "relative_activity": 7.02,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "SORT.L:2022-11-18",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40861,141 +40969,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-4c390419f8a310544968fc11",
           "headline": "Corporate update & suspension of trading in shares",
-          "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7917J",
+          "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html",
+          "time": "11:01 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-d8939b03254e850221bb8ab1",
           "headline": "Suspension - Sorted Group Holdings plc",
-          "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7924J",
+          "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html",
+          "time": "11:03 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-20",
+          "event_id": "rns-71d0f086e0d71d1b5e2c6a01",
           "headline": "Result of Meeting",
-          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1272B",
+          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html",
+          "time": "9:36 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-02",
+          "event_id": "rns-6c6add870ab4e760e2b69af1",
           "headline": "Proposed disposal & notice of General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1493Z",
+          "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-28",
+          "event_id": "rns-7e0682e6623d5c88d4a85aee",
           "headline": "HMRC R&D Tax Credit",
-          "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6230Q",
+          "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-fdfc029fe8d122e247d434d8",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/SORT/directorate-change-3ng2gyd3710e8mz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7126O",
+          "source_url": "https://www.lse.co.uk/rns/SORT/directorate-change-3ng2gyd3710e8mz.html",
+          "time": "10:33 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-25",
+          "event_id": "rns-688c1dbc75a8195041d12d35",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-trajkm9sggzwyvd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8545A",
+          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-trajkm9sggzwyvd.html",
+          "time": "11:59 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-27",
+          "event_id": "rns-8c23dec4996875b42b792f1e",
           "headline": "Departure of Chief Financial Officer",
-          "source_url": "https://www.lse.co.uk/rns/SORT/departure-of-chief-financial-officer-t1t9ocxngfbpe83.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7543W",
+          "source_url": "https://www.lse.co.uk/rns/SORT/departure-of-chief-financial-officer-t1t9ocxngfbpe83.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-27",
+          "event_id": "rns-e6468a1c8a9e4c81102586b4",
           "headline": "Notice of AGM & Proposed Capital Reorganisation",
-          "source_url": "https://www.lse.co.uk/rns/SORT/notice-of-agm-proposed-capital-reorganisation-gx5zdko2pbdnaby.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7536W",
+          "source_url": "https://www.lse.co.uk/rns/SORT/notice-of-agm-proposed-capital-reorganisation-gx5zdko2pbdnaby.html",
+          "time": "7:01 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-21",
+          "event_id": "rns-1dafb2020e0d73ba31c6e25a",
           "headline": "Renewal of M&S Contract",
-          "source_url": "https://www.lse.co.uk/rns/SORT/renewal-of-ms-contract-3cijktc1mfz2tvm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3041W",
+          "source_url": "https://www.lse.co.uk/rns/SORT/renewal-of-ms-contract-3cijktc1mfz2tvm.html",
+          "time": "12:39 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-25",
+          "event_id": "rns-ba777f0ecf2592f873c001ec",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/SORT/half-year-report-f9irqpjpn7mejwo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5084S",
+          "source_url": "https://www.lse.co.uk/rns/SORT/half-year-report-f9irqpjpn7mejwo.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-27",
+          "event_id": "rns-a58c88dc0540cdbe3413eb35",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/SORT/annual-financial-report-ni8juiyh701hkc1.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6560O",
+          "source_url": "https://www.lse.co.uk/rns/SORT/annual-financial-report-ni8juiyh701hkc1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-08",
+          "event_id": "rns-af48ee58acdec3d2c5d0d90d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/SORT/holdings-in-company-96j42snghoaps1s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9504H",
+          "source_url": "https://www.lse.co.uk/rns/SORT/holdings-in-company-96j42snghoaps1s.html",
+          "time": "4:07 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-01-06",
+          "event_id": "rns-6bb8e2b485b756504d0d77e1",
           "headline": "Change of Registered Office",
-          "source_url": "https://www.lse.co.uk/rns/SORT/change-of-registered-office-hernhyzlc5nyqab.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2801S",
+          "source_url": "https://www.lse.co.uk/rns/SORT/change-of-registered-office-hernhyzlc5nyqab.html",
+          "time": "12:54 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-06",
+          "event_id": "rns-e26f97ecd1397111e104983f",
           "headline": "Share Option Awards",
-          "source_url": "https://www.lse.co.uk/rns/SORT/share-option-awards-xvfzgepw9nkp4hb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0156P",
+          "source_url": "https://www.lse.co.uk/rns/SORT/share-option-awards-xvfzgepw9nkp4hb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-21",
+          "event_id": "rns-6144bbfc79d32fb8e751f956",
           "headline": "Change of Auditor",
-          "source_url": "https://www.lse.co.uk/rns/SORT/change-of-auditor-s4io7juklssukw8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0434N",
+          "source_url": "https://www.lse.co.uk/rns/SORT/change-of-auditor-s4io7juklssukw8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-04",
+          "event_id": "rns-704918ceb67ef50810fe4960",
           "headline": "Disposal of Returns business",
-          "source_url": "https://www.lse.co.uk/rns/SORT/disposal-of-returns-business-l1kxd9vrnm2qq0l.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8864G",
+          "source_url": "https://www.lse.co.uk/rns/SORT/disposal-of-returns-business-l1kxd9vrnm2qq0l.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-30",
+          "event_id": "rns-e5f8d6b52d6b72e510e8bd7c",
           "headline": "HMRC R&D Tax Credit",
-          "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-gjk4xy0bbncn1so.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2727G",
+          "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-gjk4xy0bbncn1so.html",
+          "time": "12:27 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-11",
+          "event_id": "rns-385ae1b53bfcfcd485c0cb42",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-cv9qs1nrzlte0vw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8227D",
+          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-cv9qs1nrzlte0vw.html",
+          "time": "2:47 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-08-16",
+          "event_id": "rns-14b35b7f91f486eecb71f554",
           "headline": "Trading subsidiary audited results",
-          "source_url": "https://www.lse.co.uk/rns/SORT/trading-subsidiary-audited-results-8zscd88t8a350ix.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6646A",
+          "source_url": "https://www.lse.co.uk/rns/SORT/trading-subsidiary-audited-results-8zscd88t8a350ix.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41003,36 +41211,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-4c390419f8a310544968fc11",
           "headline": "Corporate update & suspension of trading in shares",
-          "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7917J",
+          "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html",
+          "time": "11:01 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-d8939b03254e850221bb8ab1",
           "headline": "Suspension - Sorted Group Holdings plc",
-          "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7924J",
+          "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html",
+          "time": "11:03 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-20",
+          "event_id": "rns-71d0f086e0d71d1b5e2c6a01",
           "headline": "Result of Meeting",
-          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1272B",
+          "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html",
+          "time": "9:36 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-02",
+          "event_id": "rns-6c6add870ab4e760e2b69af1",
           "headline": "Proposed disposal & notice of General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1493Z",
+          "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-28",
+          "event_id": "rns-7e0682e6623d5c88d4a85aee",
           "headline": "HMRC R&D Tax Credit",
-          "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6230Q",
+          "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41080,20 +41313,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-11-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.02,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 78.125,
                 "date": "2022-11-18",
                 "status": "EXACT"
               },
               "relative_activity": 7.02,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SORT.L:2022-11-18",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68163,141 +68400,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-4c390419f8a310544968fc11",
               "headline": "Corporate update & suspension of trading in shares",
-              "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7917J",
+              "source_url": "https://www.lse.co.uk/rns/SORT/corporate-update-suspension-of-trading-in-shares-158qtqtk0e67tpo.html",
+              "time": "11:01 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-d8939b03254e850221bb8ab1",
               "headline": "Suspension - Sorted Group Holdings plc",
-              "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7924J",
+              "source_url": "https://www.lse.co.uk/rns/SORT/suspension-sorted-group-holdings-plc-t626gis8boeytru.html",
+              "time": "11:03 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Apr 2026",
+              "event_id": "rns-71d0f086e0d71d1b5e2c6a01",
               "headline": "Result of Meeting",
-              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1272B",
+              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-meeting-jpogedsh4fgmoky.html",
+              "time": "9:36 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2026",
+              "event_id": "rns-6c6add870ab4e760e2b69af1",
               "headline": "Proposed disposal & notice of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1493Z",
+              "source_url": "https://www.lse.co.uk/rns/SORT/proposed-disposal-notice-of-general-meeting-tlalzwvkfl69if7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-7e0682e6623d5c88d4a85aee",
               "headline": "HMRC R&D Tax Credit",
-              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6230Q",
+              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-ifysmh675nk91gy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-fdfc029fe8d122e247d434d8",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/SORT/directorate-change-3ng2gyd3710e8mz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7126O",
+              "source_url": "https://www.lse.co.uk/rns/SORT/directorate-change-3ng2gyd3710e8mz.html",
+              "time": "10:33 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Sep 2025",
+              "event_id": "rns-688c1dbc75a8195041d12d35",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-trajkm9sggzwyvd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8545A",
+              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-trajkm9sggzwyvd.html",
+              "time": "11:59 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2025",
+              "event_id": "rns-8c23dec4996875b42b792f1e",
               "headline": "Departure of Chief Financial Officer",
-              "source_url": "https://www.lse.co.uk/rns/SORT/departure-of-chief-financial-officer-t1t9ocxngfbpe83.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7543W",
+              "source_url": "https://www.lse.co.uk/rns/SORT/departure-of-chief-financial-officer-t1t9ocxngfbpe83.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2025",
+              "event_id": "rns-e6468a1c8a9e4c81102586b4",
               "headline": "Notice of AGM & Proposed Capital Reorganisation",
-              "source_url": "https://www.lse.co.uk/rns/SORT/notice-of-agm-proposed-capital-reorganisation-gx5zdko2pbdnaby.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7536W",
+              "source_url": "https://www.lse.co.uk/rns/SORT/notice-of-agm-proposed-capital-reorganisation-gx5zdko2pbdnaby.html",
+              "time": "7:01 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Aug 2025",
+              "event_id": "rns-1dafb2020e0d73ba31c6e25a",
               "headline": "Renewal of M&S Contract",
-              "source_url": "https://www.lse.co.uk/rns/SORT/renewal-of-ms-contract-3cijktc1mfz2tvm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3041W",
+              "source_url": "https://www.lse.co.uk/rns/SORT/renewal-of-ms-contract-3cijktc1mfz2tvm.html",
+              "time": "12:39 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jul 2025",
+              "event_id": "rns-ba777f0ecf2592f873c001ec",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/SORT/half-year-report-f9irqpjpn7mejwo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5084S",
+              "source_url": "https://www.lse.co.uk/rns/SORT/half-year-report-f9irqpjpn7mejwo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jun 2025",
+              "event_id": "rns-a58c88dc0540cdbe3413eb35",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/SORT/annual-financial-report-ni8juiyh701hkc1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6560O",
+              "source_url": "https://www.lse.co.uk/rns/SORT/annual-financial-report-ni8juiyh701hkc1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2025",
+              "event_id": "rns-af48ee58acdec3d2c5d0d90d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SORT/holdings-in-company-96j42snghoaps1s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9504H",
+              "source_url": "https://www.lse.co.uk/rns/SORT/holdings-in-company-96j42snghoaps1s.html",
+              "time": "4:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jan 2025",
+              "event_id": "rns-6bb8e2b485b756504d0d77e1",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-registered-office-hernhyzlc5nyqab.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2801S",
+              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-registered-office-hernhyzlc5nyqab.html",
+              "time": "12:54 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Dec 2024",
+              "event_id": "rns-e26f97ecd1397111e104983f",
               "headline": "Share Option Awards",
-              "source_url": "https://www.lse.co.uk/rns/SORT/share-option-awards-xvfzgepw9nkp4hb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0156P",
+              "source_url": "https://www.lse.co.uk/rns/SORT/share-option-awards-xvfzgepw9nkp4hb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2024",
+              "event_id": "rns-6144bbfc79d32fb8e751f956",
               "headline": "Change of Auditor",
-              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-auditor-s4io7juklssukw8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0434N",
+              "source_url": "https://www.lse.co.uk/rns/SORT/change-of-auditor-s4io7juklssukw8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Oct 2024",
+              "event_id": "rns-704918ceb67ef50810fe4960",
               "headline": "Disposal of Returns business",
-              "source_url": "https://www.lse.co.uk/rns/SORT/disposal-of-returns-business-l1kxd9vrnm2qq0l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8864G",
+              "source_url": "https://www.lse.co.uk/rns/SORT/disposal-of-returns-business-l1kxd9vrnm2qq0l.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Sep 2024",
+              "event_id": "rns-e5f8d6b52d6b72e510e8bd7c",
               "headline": "HMRC R&D Tax Credit",
-              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-gjk4xy0bbncn1so.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2727G",
+              "source_url": "https://www.lse.co.uk/rns/SORT/hmrc-rd-tax-credit-gjk4xy0bbncn1so.html",
+              "time": "12:27 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Sep 2024",
+              "event_id": "rns-385ae1b53bfcfcd485c0cb42",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-cv9qs1nrzlte0vw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8227D",
+              "source_url": "https://www.lse.co.uk/rns/SORT/result-of-agm-cv9qs1nrzlte0vw.html",
+              "time": "2:47 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Aug 2024",
+              "event_id": "rns-14b35b7f91f486eecb71f554",
               "headline": "Trading subsidiary audited results",
-              "source_url": "https://www.lse.co.uk/rns/SORT/trading-subsidiary-audited-results-8zscd88t8a350ix.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6646A",
+              "source_url": "https://www.lse.co.uk/rns/SORT/trading-subsidiary-audited-results-8zscd88t8a350ix.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

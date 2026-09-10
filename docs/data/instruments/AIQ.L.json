@@ -21,96 +21,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-08-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.85,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 5.5,
                 "date": "2021-08-03",
                 "status": "EXACT"
               },
               "relative_activity": 2.85,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "AIQ.L:2021-08-03",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-12-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 8.5,
                 "date": "2021-12-07",
                 "status": "EXACT"
               },
               "relative_activity": 2.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2021-12-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 12.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.5,
                 "date": "2022-03-09",
                 "status": "EXACT"
               },
               "relative_activity": 12.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2022-03-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-05-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.5,
                 "date": "2022-05-05",
                 "status": "EXACT"
               },
               "relative_activity": 7.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2022-05-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.61,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 3,
                 "date": "2024-02-02",
                 "status": "EXACT"
               },
               "relative_activity": 4.61,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2024-02-02",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27186,141 +27206,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-0d40a63b262de1135bac3a1a",
               "headline": "Issue of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2171R",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-efc653870b7d9164cfb4461a",
               "headline": "Update on Convertible Loan Note Instrument",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8427Q",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Aug 2026",
+              "event_id": "rns-cfde78ba210d4445a3e98f8d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8146P",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html",
+              "time": "1:06 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-79e3d48c2e8eadc0558cae72",
               "headline": "Issue of Convertible Loan Note",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9901O",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html",
+              "time": "10:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-3c88d7d4ca0bc72b72620109",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2656O",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-6abadfce20701c77a6ad6e8e",
               "headline": "Issue of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-1brg7a2dsnaw3tp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2665O",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-1brg7a2dsnaw3tp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-d718364fb96b09af84a6c274",
               "headline": "Convertible Loan Note Agreements",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/convertible-loan-note-agreements-2sb22jstolivinj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1346L",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/convertible-loan-note-agreements-2sb22jstolivinj.html",
+              "time": "7:39 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-76e660a627314e10ed3dce02",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/directorate-change-a96tednwca7ri59.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5058D",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/directorate-change-a96tednwca7ri59.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-ea57bc5613e8d09d2843be55",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-kmo5ysmexdgq7n7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2513C",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-kmo5ysmexdgq7n7.html",
+              "time": "12:24 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-ee278449f1612dad5bc2e880",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/notice-of-agm-5vdrwoqw5o3v4vi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9423Y",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/notice-of-agm-5vdrwoqw5o3v4vi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Mar 2026",
+              "event_id": "rns-f0359f4debce48218657d60a",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-76p6iqp0v94lu58.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9063Y",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-76p6iqp0v94lu58.html",
+              "time": "3:41 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-bb20487282aa8b756e4d6655",
               "headline": "Final Results and Publication of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/final-results-and-publication-of-annual-report-ac9o4ghim5nht1g.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4428U",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/final-results-and-publication-of-annual-report-ac9o4ghim5nht1g.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Feb 2026",
+              "event_id": "rns-74c0e587308c98c4d9bc81e4",
               "headline": "Statement re. Convertible Loan Note Facility",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/statement-re-convertible-loan-note-facility-a5vshadnmygkas0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0448T",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/statement-re-convertible-loan-note-facility-a5vshadnmygkas0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-5763141c7abd9612260e4b86",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-mzvwst1r5quzqu5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9202R",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-mzvwst1r5quzqu5.html",
+              "time": "11:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Oct 2025",
+              "event_id": "rns-5e0538df3b510f695314f78b",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-j5x42hu19ic8zz5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3836C",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-j5x42hu19ic8zz5.html",
+              "time": "9:52 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-3b7c12a4f6a3dcb741ca0f22",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-lu8sgc053sp93fz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1996T",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-lu8sgc053sp93fz.html",
+              "time": "10:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jul 2025",
+              "event_id": "rns-89cfcee951d01da90686797a",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-vhghnmkpx1d7o44.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6887R",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-vhghnmkpx1d7o44.html",
+              "time": "10:41 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2025",
+              "event_id": "rns-386a3c3ef800eb6d1e83214b",
               "headline": "Strategic partnership with Centslink",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/strategic-partnership-with-centslink-3gh5axffn8tq7p3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2989H",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/strategic-partnership-with-centslink-3gh5axffn8tq7p3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2025",
+              "event_id": "rns-81d1481acfa137f682dd023e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-aeyxe0q3d3p61x2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7236F",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-aeyxe0q3d3p61x2.html",
+              "time": "3:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Apr 2025",
+              "event_id": "rns-e9fc56e62b8143d4b26b0b5c",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-r05b39n45i86bel.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7264D",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-r05b39n45i86bel.html",
+              "time": "10:25 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27389,96 +27509,116 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-08-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.85,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 5.5,
             "date": "2021-08-03",
             "status": "EXACT"
           },
           "relative_activity": 2.85,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "AIQ.L:2021-08-03",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-12-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.88,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 8.5,
             "date": "2021-12-07",
             "status": "EXACT"
           },
           "relative_activity": 2.88,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AIQ.L:2021-12-07",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-03-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 12.23,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.5,
             "date": "2022-03-09",
             "status": "EXACT"
           },
           "relative_activity": 12.23,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AIQ.L:2022-03-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-05-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 7.85,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.5,
             "date": "2022-05-05",
             "status": "EXACT"
           },
           "relative_activity": 7.85,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AIQ.L:2022-05-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-02-02",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.61,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 3,
             "date": "2024-02-02",
             "status": "EXACT"
           },
           "relative_activity": 4.61,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AIQ.L:2024-02-02",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -41018,141 +41158,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-0d40a63b262de1135bac3a1a",
           "headline": "Issue of Convertible Loan Notes",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2171R",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-efc653870b7d9164cfb4461a",
           "headline": "Update on Convertible Loan Note Instrument",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8427Q",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-07",
+          "event_id": "rns-cfde78ba210d4445a3e98f8d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8146P",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html",
+          "time": "1:06 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-79e3d48c2e8eadc0558cae72",
           "headline": "Issue of Convertible Loan Note",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9901O",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html",
+          "time": "10:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-3c88d7d4ca0bc72b72620109",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2656O",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-6abadfce20701c77a6ad6e8e",
           "headline": "Issue of Convertible Loan Notes",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-1brg7a2dsnaw3tp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2665O",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-1brg7a2dsnaw3tp.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-06",
+          "event_id": "rns-d718364fb96b09af84a6c274",
           "headline": "Convertible Loan Note Agreements",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/convertible-loan-note-agreements-2sb22jstolivinj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1346L",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/convertible-loan-note-agreements-2sb22jstolivinj.html",
+          "time": "7:39 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-08",
+          "event_id": "rns-76e660a627314e10ed3dce02",
           "headline": "Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/directorate-change-a96tednwca7ri59.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5058D",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/directorate-change-a96tednwca7ri59.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-ea57bc5613e8d09d2843be55",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-kmo5ysmexdgq7n7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2513C",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-kmo5ysmexdgq7n7.html",
+          "time": "12:24 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-ee278449f1612dad5bc2e880",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/notice-of-agm-5vdrwoqw5o3v4vi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9423Y",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/notice-of-agm-5vdrwoqw5o3v4vi.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-31",
+          "event_id": "rns-f0359f4debce48218657d60a",
           "headline": "Loan Agreement",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-76p6iqp0v94lu58.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9063Y",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-76p6iqp0v94lu58.html",
+          "time": "3:41 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-26",
+          "event_id": "rns-bb20487282aa8b756e4d6655",
           "headline": "Final Results and Publication of Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/final-results-and-publication-of-annual-report-ac9o4ghim5nht1g.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4428U",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/final-results-and-publication-of-annual-report-ac9o4ghim5nht1g.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-16",
+          "event_id": "rns-74c0e587308c98c4d9bc81e4",
           "headline": "Statement re. Convertible Loan Note Facility",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/statement-re-convertible-loan-note-facility-a5vshadnmygkas0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0448T",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/statement-re-convertible-loan-note-facility-a5vshadnmygkas0.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-05",
+          "event_id": "rns-5763141c7abd9612260e4b86",
           "headline": "Loan Agreement",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-mzvwst1r5quzqu5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9202R",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-mzvwst1r5quzqu5.html",
+          "time": "11:55 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-07",
+          "event_id": "rns-5e0538df3b510f695314f78b",
           "headline": "Loan Agreement",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-j5x42hu19ic8zz5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3836C",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-j5x42hu19ic8zz5.html",
+          "time": "9:52 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-30",
+          "event_id": "rns-3b7c12a4f6a3dcb741ca0f22",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-lu8sgc053sp93fz.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1996T",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-lu8sgc053sp93fz.html",
+          "time": "10:31 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-18",
+          "event_id": "rns-89cfcee951d01da90686797a",
           "headline": "Loan Agreement",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-vhghnmkpx1d7o44.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6887R",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-vhghnmkpx1d7o44.html",
+          "time": "10:41 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-06",
+          "event_id": "rns-386a3c3ef800eb6d1e83214b",
           "headline": "Strategic partnership with Centslink",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/strategic-partnership-with-centslink-3gh5axffn8tq7p3.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2989H",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/strategic-partnership-with-centslink-3gh5axffn8tq7p3.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-22",
+          "event_id": "rns-81d1481acfa137f682dd023e",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-aeyxe0q3d3p61x2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7236F",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-aeyxe0q3d3p61x2.html",
+          "time": "3:12 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-04",
+          "event_id": "rns-e9fc56e62b8143d4b26b0b5c",
           "headline": "Loan Agreement",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-r05b39n45i86bel.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7264D",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-r05b39n45i86bel.html",
+          "time": "10:25 am"
         }
       ],
       "rns_initial": [
@@ -41160,36 +41400,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-0d40a63b262de1135bac3a1a",
           "headline": "Issue of Convertible Loan Notes",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2171R",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-efc653870b7d9164cfb4461a",
           "headline": "Update on Convertible Loan Note Instrument",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8427Q",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-07",
+          "event_id": "rns-cfde78ba210d4445a3e98f8d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8146P",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html",
+          "time": "1:06 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-79e3d48c2e8eadc0558cae72",
           "headline": "Issue of Convertible Loan Note",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9901O",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html",
+          "time": "10:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-3c88d7d4ca0bc72b72620109",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2656O",
+          "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41237,96 +41502,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-08-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.85,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 5.5,
                 "date": "2021-08-03",
                 "status": "EXACT"
               },
               "relative_activity": 2.85,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "AIQ.L:2021-08-03",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-12-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 8.5,
                 "date": "2021-12-07",
                 "status": "EXACT"
               },
               "relative_activity": 2.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2021-12-07",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-03-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 12.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.5,
                 "date": "2022-03-09",
                 "status": "EXACT"
               },
               "relative_activity": 12.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2022-03-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-05-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.5,
                 "date": "2022-05-05",
                 "status": "EXACT"
               },
               "relative_activity": 7.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2022-05-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-02-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.61,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 3,
                 "date": "2024-02-02",
                 "status": "EXACT"
               },
               "relative_activity": 4.61,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AIQ.L:2024-02-02",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68402,141 +68687,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-0d40a63b262de1135bac3a1a",
               "headline": "Issue of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2171R",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-vtufta10po2j4kh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-efc653870b7d9164cfb4461a",
               "headline": "Update on Convertible Loan Note Instrument",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8427Q",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/update-on-convertible-loan-note-instrument-tcuruv1nkbisa4f.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Aug 2026",
+              "event_id": "rns-cfde78ba210d4445a3e98f8d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8146P",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/holdings-in-company-ntc53iszo4g3xzk.html",
+              "time": "1:06 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-79e3d48c2e8eadc0558cae72",
               "headline": "Issue of Convertible Loan Note",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9901O",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-note-bhyoqxj2qcqyece.html",
+              "time": "10:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-3c88d7d4ca0bc72b72620109",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2656O",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-9tzdq2ktsx96cvd.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-6abadfce20701c77a6ad6e8e",
               "headline": "Issue of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-1brg7a2dsnaw3tp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2665O",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/issue-of-convertible-loan-notes-1brg7a2dsnaw3tp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-d718364fb96b09af84a6c274",
               "headline": "Convertible Loan Note Agreements",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/convertible-loan-note-agreements-2sb22jstolivinj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1346L",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/convertible-loan-note-agreements-2sb22jstolivinj.html",
+              "time": "7:39 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th May 2026",
+              "event_id": "rns-76e660a627314e10ed3dce02",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/directorate-change-a96tednwca7ri59.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5058D",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/directorate-change-a96tednwca7ri59.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-ea57bc5613e8d09d2843be55",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-kmo5ysmexdgq7n7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2513C",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-kmo5ysmexdgq7n7.html",
+              "time": "12:24 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-ee278449f1612dad5bc2e880",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/notice-of-agm-5vdrwoqw5o3v4vi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9423Y",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/notice-of-agm-5vdrwoqw5o3v4vi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Mar 2026",
+              "event_id": "rns-f0359f4debce48218657d60a",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-76p6iqp0v94lu58.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9063Y",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-76p6iqp0v94lu58.html",
+              "time": "3:41 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-bb20487282aa8b756e4d6655",
               "headline": "Final Results and Publication of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/final-results-and-publication-of-annual-report-ac9o4ghim5nht1g.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4428U",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/final-results-and-publication-of-annual-report-ac9o4ghim5nht1g.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Feb 2026",
+              "event_id": "rns-74c0e587308c98c4d9bc81e4",
               "headline": "Statement re. Convertible Loan Note Facility",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/statement-re-convertible-loan-note-facility-a5vshadnmygkas0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0448T",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/statement-re-convertible-loan-note-facility-a5vshadnmygkas0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-5763141c7abd9612260e4b86",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-mzvwst1r5quzqu5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9202R",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-mzvwst1r5quzqu5.html",
+              "time": "11:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Oct 2025",
+              "event_id": "rns-5e0538df3b510f695314f78b",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-j5x42hu19ic8zz5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3836C",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-j5x42hu19ic8zz5.html",
+              "time": "9:52 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-3b7c12a4f6a3dcb741ca0f22",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-lu8sgc053sp93fz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1996T",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/interim-results-lu8sgc053sp93fz.html",
+              "time": "10:31 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jul 2025",
+              "event_id": "rns-89cfcee951d01da90686797a",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-vhghnmkpx1d7o44.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6887R",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-vhghnmkpx1d7o44.html",
+              "time": "10:41 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2025",
+              "event_id": "rns-386a3c3ef800eb6d1e83214b",
               "headline": "Strategic partnership with Centslink",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/strategic-partnership-with-centslink-3gh5axffn8tq7p3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2989H",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/strategic-partnership-with-centslink-3gh5axffn8tq7p3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2025",
+              "event_id": "rns-81d1481acfa137f682dd023e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-aeyxe0q3d3p61x2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7236F",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/result-of-agm-aeyxe0q3d3p61x2.html",
+              "time": "3:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Apr 2025",
+              "event_id": "rns-e9fc56e62b8143d4b26b0b5c",
               "headline": "Loan Agreement",
-              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-r05b39n45i86bel.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7264D",
+              "source_url": "https://www.lse.co.uk/rns/AIQ/loan-agreement-r05b39n45i86bel.html",
+              "time": "10:25 am"
             }
           ],
           "status": "AVAILABLE",

@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-02-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.98,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.649999976158142,
                 "date": "2026-02-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.98,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PR1.L:2026-02-05",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-03-20",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.53,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.850000023841858,
                 "date": "2026-03-20",
                 "status": "EXACT"
               },
               "relative_activity": 1.53,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PR1.L:2026-03-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-03-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.39,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.75,
                 "date": "2026-03-23",
                 "status": "EXACT"
               },
               "relative_activity": 2.39,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PR1.L:2026-03-23",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -6988,141 +7000,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2026",
+              "event_id": "rns-6aa31e2f1164674c88ee127e",
               "headline": "Acquisition of Operating Assets & Tech of Pirkx",
-              "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3705T",
+              "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Aug 2026",
+              "event_id": "rns-4b82214b58828e4d170647d9",
               "headline": "Appointment of Interim CFO",
-              "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2169S",
+              "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2026",
+              "event_id": "rns-c2214001f7d43253e34063fc",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5974L",
+              "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html",
+              "time": "6:09 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-4806d1bcd2e8eda39de8aefb",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2366K",
+              "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-5f32ff4b58f996aa62768c38",
               "headline": "Closing of Funding Package & ATM Facility",
-              "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4565J",
+              "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html",
+              "time": "5:22 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-7a20cb1df30a10bffbd6c6ce",
               "headline": "Halfspace Partnership Agreement",
-              "source_url": "https://www.lse.co.uk/rns/PR1/halfspace-partnership-agreement-v70kqezucxzh4dv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3775I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/halfspace-partnership-agreement-v70kqezucxzh4dv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-e5a7bf88750c863bc63ddd63",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PR1/notice-of-agm-8u8715oy6aluohz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3742I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/notice-of-agm-8u8715oy6aluohz.html",
+              "time": "5:20 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-f845d5290e1699e8e32fee6c",
               "headline": "Final Results & Resumption of Trading on AIM",
-              "source_url": "https://www.lse.co.uk/rns/PR1/final-results-resumption-of-trading-on-aim-bt52j8z50swtso8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0236I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/final-results-resumption-of-trading-on-aim-bt52j8z50swtso8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-ecbed694a431351a6989f685",
               "headline": "Issue of Equity, TVR  & Director Appointment",
-              "source_url": "https://www.lse.co.uk/rns/PR1/issue-of-equity-tvr-director-appointment-f3jwc03s5fznlrs.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1824I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/issue-of-equity-tvr-director-appointment-f3jwc03s5fznlrs.html",
+              "time": "4:41 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Jun 2026",
+              "event_id": "rns-3cd4701c75a10871632dd1c6",
               "headline": "\u00a31.25 Million Funding Package",
-              "source_url": "https://www.lse.co.uk/rns/PR1/163125-million-funding-package-4pt5rq5fm6scemw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9231H",
+              "source_url": "https://www.lse.co.uk/rns/PR1/163125-million-funding-package-4pt5rq5fm6scemw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2026",
+              "event_id": "rns-e1118bb66bb062dc507a3fe4",
               "headline": "Update regarding Publication of Annual Accounts",
-              "source_url": "https://www.lse.co.uk/rns/PR1/update-regarding-publication-of-annual-accounts-spvuoqbkibat8s8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1099G",
+              "source_url": "https://www.lse.co.uk/rns/PR1/update-regarding-publication-of-annual-accounts-spvuoqbkibat8s8.html",
+              "time": "2:52 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-421c40ba3cc75d2601a7b8f3",
               "headline": "Suspension - Pri0r1ty Intelligence Group PLC",
-              "source_url": "https://www.lse.co.uk/rns/PR1/suspension-pri0r1ty-intelligence-group-plc-wjsds8sayg4g2t4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8843Y",
+              "source_url": "https://www.lse.co.uk/rns/PR1/suspension-pri0r1ty-intelligence-group-plc-wjsds8sayg4g2t4.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-6c8b93fcb6e336b3d586535c",
               "headline": "Business Update & Delay in Accounts",
-              "source_url": "https://www.lse.co.uk/rns/PR1/business-update-delay-in-accounts-whkv043s9fani6r.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5916Y",
+              "source_url": "https://www.lse.co.uk/rns/PR1/business-update-delay-in-accounts-whkv043s9fani6r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-49b1ab313fc0994bbf41f857",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-214ce530yed1mtx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3571T",
+              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-214ce530yed1mtx.html",
+              "time": "10:49 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Feb 2026",
+              "event_id": "rns-60b061d3c36af831522090a3",
               "headline": "Launch of Vox AI Product & New Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PR1/launch-of-vox-ai-product-new-contract-win-sqaxouxxal7tu3z.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6743S",
+              "source_url": "https://www.lse.co.uk/rns/PR1/launch-of-vox-ai-product-new-contract-win-sqaxouxxal7tu3z.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jan 2026",
+              "event_id": "rns-cd5e9d7d5c5309e65f1358f4",
               "headline": "Trading Update & Notice of Investor Webinar",
-              "source_url": "https://www.lse.co.uk/rns/PR1/trading-update-notice-of-investor-webinar-j9yy2f3xhw9lxxv.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0314Q",
+              "source_url": "https://www.lse.co.uk/rns/PR1/trading-update-notice-of-investor-webinar-j9yy2f3xhw9lxxv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-077656ecbfe92017be448df8",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-eu8u4tnlwp5o292.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3514M",
+              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-eu8u4tnlwp5o292.html",
+              "time": "3:57 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-077656ecbfe92017be448df8",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-jjwgl814o9v8ttg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3514M",
+              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-jjwgl814o9v8ttg.html",
+              "time": "3:57 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Nov 2025",
+              "event_id": "rns-48c9441fb137d219e9c68ed7",
               "headline": "Contract Wins",
-              "source_url": "https://www.lse.co.uk/rns/PR1/contract-wins-st8n3otjdc6rr01.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1797J",
+              "source_url": "https://www.lse.co.uk/rns/PR1/contract-wins-st8n3otjdc6rr01.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Oct 2025",
+              "event_id": "rns-44fbbb9a1c01b79d5f000bb9",
               "headline": "Post Financial Year-End Statement",
-              "source_url": "https://www.lse.co.uk/rns/PR1/post-financial-year-end-statement-z7hhsue9pvbb7o4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4099F",
+              "source_url": "https://www.lse.co.uk/rns/PR1/post-financial-year-end-statement-z7hhsue9pvbb7o4.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -7191,58 +7303,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2026-02-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.98,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.649999976158142,
             "date": "2026-02-05",
             "status": "EXACT"
           },
           "relative_activity": 1.98,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PR1.L:2026-02-05",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2026-03-20",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.53,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.850000023841858,
             "date": "2026-03-20",
             "status": "EXACT"
           },
           "relative_activity": 1.53,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PR1.L:2026-03-20",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2026-03-23",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.39,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.75,
             "date": "2026-03-23",
             "status": "EXACT"
           },
           "relative_activity": 2.39,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PR1.L:2026-03-23",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -10702,141 +10826,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-04",
+          "event_id": "rns-6aa31e2f1164674c88ee127e",
           "headline": "Acquisition of Operating Assets & Tech of Pirkx",
-          "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3705T",
+          "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-26",
+          "event_id": "rns-4b82214b58828e4d170647d9",
           "headline": "Appointment of Interim CFO",
-          "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2169S",
+          "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-08",
+          "event_id": "rns-c2214001f7d43253e34063fc",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5974L",
+          "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html",
+          "time": "6:09 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-4806d1bcd2e8eda39de8aefb",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2366K",
+          "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-23",
+          "event_id": "rns-5f32ff4b58f996aa62768c38",
           "headline": "Closing of Funding Package & ATM Facility",
-          "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4565J",
+          "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html",
+          "time": "5:22 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-16",
+          "event_id": "rns-7a20cb1df30a10bffbd6c6ce",
           "headline": "Halfspace Partnership Agreement",
-          "source_url": "https://www.lse.co.uk/rns/PR1/halfspace-partnership-agreement-v70kqezucxzh4dv.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3775I",
+          "source_url": "https://www.lse.co.uk/rns/PR1/halfspace-partnership-agreement-v70kqezucxzh4dv.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-15",
+          "event_id": "rns-e5a7bf88750c863bc63ddd63",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PR1/notice-of-agm-8u8715oy6aluohz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3742I",
+          "source_url": "https://www.lse.co.uk/rns/PR1/notice-of-agm-8u8715oy6aluohz.html",
+          "time": "5:20 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-12",
+          "event_id": "rns-f845d5290e1699e8e32fee6c",
           "headline": "Final Results & Resumption of Trading on AIM",
-          "source_url": "https://www.lse.co.uk/rns/PR1/final-results-resumption-of-trading-on-aim-bt52j8z50swtso8.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0236I",
+          "source_url": "https://www.lse.co.uk/rns/PR1/final-results-resumption-of-trading-on-aim-bt52j8z50swtso8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-12",
+          "event_id": "rns-ecbed694a431351a6989f685",
           "headline": "Issue of Equity, TVR  & Director Appointment",
-          "source_url": "https://www.lse.co.uk/rns/PR1/issue-of-equity-tvr-director-appointment-f3jwc03s5fznlrs.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1824I",
+          "source_url": "https://www.lse.co.uk/rns/PR1/issue-of-equity-tvr-director-appointment-f3jwc03s5fznlrs.html",
+          "time": "4:41 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-11",
+          "event_id": "rns-3cd4701c75a10871632dd1c6",
           "headline": "\u00a31.25 Million Funding Package",
-          "source_url": "https://www.lse.co.uk/rns/PR1/163125-million-funding-package-4pt5rq5fm6scemw.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9231H",
+          "source_url": "https://www.lse.co.uk/rns/PR1/163125-million-funding-package-4pt5rq5fm6scemw.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-28",
+          "event_id": "rns-e1118bb66bb062dc507a3fe4",
           "headline": "Update regarding Publication of Annual Accounts",
-          "source_url": "https://www.lse.co.uk/rns/PR1/update-regarding-publication-of-annual-accounts-spvuoqbkibat8s8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1099G",
+          "source_url": "https://www.lse.co.uk/rns/PR1/update-regarding-publication-of-annual-accounts-spvuoqbkibat8s8.html",
+          "time": "2:52 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-421c40ba3cc75d2601a7b8f3",
           "headline": "Suspension - Pri0r1ty Intelligence Group PLC",
-          "source_url": "https://www.lse.co.uk/rns/PR1/suspension-pri0r1ty-intelligence-group-plc-wjsds8sayg4g2t4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8843Y",
+          "source_url": "https://www.lse.co.uk/rns/PR1/suspension-pri0r1ty-intelligence-group-plc-wjsds8sayg4g2t4.html",
+          "time": "7:30 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-30",
+          "event_id": "rns-6c8b93fcb6e336b3d586535c",
           "headline": "Business Update & Delay in Accounts",
-          "source_url": "https://www.lse.co.uk/rns/PR1/business-update-delay-in-accounts-whkv043s9fani6r.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5916Y",
+          "source_url": "https://www.lse.co.uk/rns/PR1/business-update-delay-in-accounts-whkv043s9fani6r.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-17",
+          "event_id": "rns-49b1ab313fc0994bbf41f857",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-214ce530yed1mtx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3571T",
+          "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-214ce530yed1mtx.html",
+          "time": "10:49 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-12",
+          "event_id": "rns-60b061d3c36af831522090a3",
           "headline": "Launch of Vox AI Product & New Contract Win",
-          "source_url": "https://www.lse.co.uk/rns/PR1/launch-of-vox-ai-product-new-contract-win-sqaxouxxal7tu3z.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6743S",
+          "source_url": "https://www.lse.co.uk/rns/PR1/launch-of-vox-ai-product-new-contract-win-sqaxouxxal7tu3z.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-23",
+          "event_id": "rns-cd5e9d7d5c5309e65f1358f4",
           "headline": "Trading Update & Notice of Investor Webinar",
-          "source_url": "https://www.lse.co.uk/rns/PR1/trading-update-notice-of-investor-webinar-j9yy2f3xhw9lxxv.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0314Q",
+          "source_url": "https://www.lse.co.uk/rns/PR1/trading-update-notice-of-investor-webinar-j9yy2f3xhw9lxxv.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-077656ecbfe92017be448df8",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-eu8u4tnlwp5o292.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3514M",
+          "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-eu8u4tnlwp5o292.html",
+          "time": "3:57 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-077656ecbfe92017be448df8",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-jjwgl814o9v8ttg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3514M",
+          "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-jjwgl814o9v8ttg.html",
+          "time": "3:57 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-27",
+          "event_id": "rns-48c9441fb137d219e9c68ed7",
           "headline": "Contract Wins",
-          "source_url": "https://www.lse.co.uk/rns/PR1/contract-wins-st8n3otjdc6rr01.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1797J",
+          "source_url": "https://www.lse.co.uk/rns/PR1/contract-wins-st8n3otjdc6rr01.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-30",
+          "event_id": "rns-44fbbb9a1c01b79d5f000bb9",
           "headline": "Post Financial Year-End Statement",
-          "source_url": "https://www.lse.co.uk/rns/PR1/post-financial-year-end-statement-z7hhsue9pvbb7o4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4099F",
+          "source_url": "https://www.lse.co.uk/rns/PR1/post-financial-year-end-statement-z7hhsue9pvbb7o4.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -10844,36 +11068,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-04",
+          "event_id": "rns-6aa31e2f1164674c88ee127e",
           "headline": "Acquisition of Operating Assets & Tech of Pirkx",
-          "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3705T",
+          "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-26",
+          "event_id": "rns-4b82214b58828e4d170647d9",
           "headline": "Appointment of Interim CFO",
-          "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2169S",
+          "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-08",
+          "event_id": "rns-c2214001f7d43253e34063fc",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5974L",
+          "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html",
+          "time": "6:09 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-4806d1bcd2e8eda39de8aefb",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2366K",
+          "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-23",
+          "event_id": "rns-5f32ff4b58f996aa62768c38",
           "headline": "Closing of Funding Package & ATM Facility",
-          "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4565J",
+          "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html",
+          "time": "5:22 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -10921,58 +11170,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-02-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.98,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.649999976158142,
                 "date": "2026-02-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.98,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PR1.L:2026-02-05",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-03-20",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.53,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.850000023841858,
                 "date": "2026-03-20",
                 "status": "EXACT"
               },
               "relative_activity": 1.53,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PR1.L:2026-03-20",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-03-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.39,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.75,
                 "date": "2026-03-23",
                 "status": "EXACT"
               },
               "relative_activity": 2.39,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PR1.L:2026-03-23",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -17888,141 +18149,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2026",
+              "event_id": "rns-6aa31e2f1164674c88ee127e",
               "headline": "Acquisition of Operating Assets & Tech of Pirkx",
-              "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3705T",
+              "source_url": "https://www.lse.co.uk/rns/PR1/acquisition-of-operating-assets-tech-of-pirkx-nqatuhpvaz1mv4c.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Aug 2026",
+              "event_id": "rns-4b82214b58828e4d170647d9",
               "headline": "Appointment of Interim CFO",
-              "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2169S",
+              "source_url": "https://www.lse.co.uk/rns/PR1/appointment-of-interim-cfo-3nt7gvvmlrxprcw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2026",
+              "event_id": "rns-c2214001f7d43253e34063fc",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5974L",
+              "source_url": "https://www.lse.co.uk/rns/PR1/result-of-agm-qncg1ownbyw58dt.html",
+              "time": "6:09 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-4806d1bcd2e8eda39de8aefb",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2366K",
+              "source_url": "https://www.lse.co.uk/rns/PR1/interim-results-qb21sq5s4ptxe7z.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-5f32ff4b58f996aa62768c38",
               "headline": "Closing of Funding Package & ATM Facility",
-              "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4565J",
+              "source_url": "https://www.lse.co.uk/rns/PR1/closing-of-funding-package-atm-facility-tih30drb1kuhabn.html",
+              "time": "5:22 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Jun 2026",
+              "event_id": "rns-7a20cb1df30a10bffbd6c6ce",
               "headline": "Halfspace Partnership Agreement",
-              "source_url": "https://www.lse.co.uk/rns/PR1/halfspace-partnership-agreement-v70kqezucxzh4dv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3775I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/halfspace-partnership-agreement-v70kqezucxzh4dv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-e5a7bf88750c863bc63ddd63",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/PR1/notice-of-agm-8u8715oy6aluohz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3742I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/notice-of-agm-8u8715oy6aluohz.html",
+              "time": "5:20 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-f845d5290e1699e8e32fee6c",
               "headline": "Final Results & Resumption of Trading on AIM",
-              "source_url": "https://www.lse.co.uk/rns/PR1/final-results-resumption-of-trading-on-aim-bt52j8z50swtso8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0236I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/final-results-resumption-of-trading-on-aim-bt52j8z50swtso8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-ecbed694a431351a6989f685",
               "headline": "Issue of Equity, TVR  & Director Appointment",
-              "source_url": "https://www.lse.co.uk/rns/PR1/issue-of-equity-tvr-director-appointment-f3jwc03s5fznlrs.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1824I",
+              "source_url": "https://www.lse.co.uk/rns/PR1/issue-of-equity-tvr-director-appointment-f3jwc03s5fznlrs.html",
+              "time": "4:41 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Jun 2026",
+              "event_id": "rns-3cd4701c75a10871632dd1c6",
               "headline": "\u00a31.25 Million Funding Package",
-              "source_url": "https://www.lse.co.uk/rns/PR1/163125-million-funding-package-4pt5rq5fm6scemw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9231H",
+              "source_url": "https://www.lse.co.uk/rns/PR1/163125-million-funding-package-4pt5rq5fm6scemw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2026",
+              "event_id": "rns-e1118bb66bb062dc507a3fe4",
               "headline": "Update regarding Publication of Annual Accounts",
-              "source_url": "https://www.lse.co.uk/rns/PR1/update-regarding-publication-of-annual-accounts-spvuoqbkibat8s8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1099G",
+              "source_url": "https://www.lse.co.uk/rns/PR1/update-regarding-publication-of-annual-accounts-spvuoqbkibat8s8.html",
+              "time": "2:52 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-421c40ba3cc75d2601a7b8f3",
               "headline": "Suspension - Pri0r1ty Intelligence Group PLC",
-              "source_url": "https://www.lse.co.uk/rns/PR1/suspension-pri0r1ty-intelligence-group-plc-wjsds8sayg4g2t4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8843Y",
+              "source_url": "https://www.lse.co.uk/rns/PR1/suspension-pri0r1ty-intelligence-group-plc-wjsds8sayg4g2t4.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-6c8b93fcb6e336b3d586535c",
               "headline": "Business Update & Delay in Accounts",
-              "source_url": "https://www.lse.co.uk/rns/PR1/business-update-delay-in-accounts-whkv043s9fani6r.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5916Y",
+              "source_url": "https://www.lse.co.uk/rns/PR1/business-update-delay-in-accounts-whkv043s9fani6r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-49b1ab313fc0994bbf41f857",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-214ce530yed1mtx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3571T",
+              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-214ce530yed1mtx.html",
+              "time": "10:49 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Feb 2026",
+              "event_id": "rns-60b061d3c36af831522090a3",
               "headline": "Launch of Vox AI Product & New Contract Win",
-              "source_url": "https://www.lse.co.uk/rns/PR1/launch-of-vox-ai-product-new-contract-win-sqaxouxxal7tu3z.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6743S",
+              "source_url": "https://www.lse.co.uk/rns/PR1/launch-of-vox-ai-product-new-contract-win-sqaxouxxal7tu3z.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jan 2026",
+              "event_id": "rns-cd5e9d7d5c5309e65f1358f4",
               "headline": "Trading Update & Notice of Investor Webinar",
-              "source_url": "https://www.lse.co.uk/rns/PR1/trading-update-notice-of-investor-webinar-j9yy2f3xhw9lxxv.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0314Q",
+              "source_url": "https://www.lse.co.uk/rns/PR1/trading-update-notice-of-investor-webinar-j9yy2f3xhw9lxxv.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-077656ecbfe92017be448df8",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-eu8u4tnlwp5o292.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3514M",
+              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-eu8u4tnlwp5o292.html",
+              "time": "3:57 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-077656ecbfe92017be448df8",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-jjwgl814o9v8ttg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3514M",
+              "source_url": "https://www.lse.co.uk/rns/PR1/holdings-in-company-jjwgl814o9v8ttg.html",
+              "time": "3:57 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Nov 2025",
+              "event_id": "rns-48c9441fb137d219e9c68ed7",
               "headline": "Contract Wins",
-              "source_url": "https://www.lse.co.uk/rns/PR1/contract-wins-st8n3otjdc6rr01.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1797J",
+              "source_url": "https://www.lse.co.uk/rns/PR1/contract-wins-st8n3otjdc6rr01.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Oct 2025",
+              "event_id": "rns-44fbbb9a1c01b79d5f000bb9",
               "headline": "Post Financial Year-End Statement",
-              "source_url": "https://www.lse.co.uk/rns/PR1/post-financial-year-end-statement-z7hhsue9pvbb7o4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4099F",
+              "source_url": "https://www.lse.co.uk/rns/PR1/post-financial-year-end-statement-z7hhsue9pvbb7o4.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

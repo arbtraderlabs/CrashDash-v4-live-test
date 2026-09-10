@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 4.43,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.30993759632110596,
                 "date": "2025-09-10",
                 "status": "EXACT"
               },
               "relative_activity": 4.43,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "NAR.L:2025-09-10",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.12,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.30993759632110596,
                 "date": "2025-09-12",
                 "status": "EXACT"
               },
               "relative_activity": 3.12,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NAR.L:2025-09-12",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-51afc8f1e38952aced694a3e",
               "headline": "Correction to Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1222P",
+              "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-d464ce654fd8dd42373b7ff1",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5931O",
+              "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-eccb3e85dbe4adf234c03676",
               "headline": "Publication of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3269N",
+              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html",
+              "time": "11:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-eccb3e85dbe4adf234c03676",
               "headline": "Publication of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3269N",
+              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html",
+              "time": "11:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-ec5c0f4e358b7aff218226c4",
               "headline": "Preliminary Results",
-              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7126M",
+              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-ec5c0f4e358b7aff218226c4",
               "headline": "Preliminary Results",
-              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-z92nfgo34mlbkbn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7126M",
+              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-z92nfgo34mlbkbn.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Dec 2025",
+              "event_id": "rns-370988de91f73c0700e1d4ae",
               "headline": "Acquisition of the Nuvias UC UK Hardware Business",
-              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-the-nuvias-uc-uk-hardware-business-v34chu6gayp68z8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5759J",
+              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-the-nuvias-uc-uk-hardware-business-v34chu6gayp68z8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Oct 2025",
+              "event_id": "rns-349664c6221185273db1b2f2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-r94tiq13abyilj9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8976C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-r94tiq13abyilj9.html",
+              "time": "7:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Oct 2025",
+              "event_id": "rns-9972aae15e21608f11de53e2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-jgh8ovy8w1rsel7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7502C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-jgh8ovy8w1rsel7.html",
+              "time": "10:07 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Sep 2025",
+              "event_id": "rns-4b0a2418157bc4e8c5602212",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-khezokqdv3qmxgl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0581B",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-khezokqdv3qmxgl.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Sep 2025",
+              "event_id": "rns-92be0c0ae7771e584e6e7f37",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-gsqh2b1ugvmdcq7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9605Y",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-gsqh2b1ugvmdcq7.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2025",
+              "event_id": "rns-f745b996ac5371bc602c721a",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/NAR/board-changes-7wer28d1p6kv6u8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8684K",
+              "source_url": "https://www.lse.co.uk/rns/NAR/board-changes-7wer28d1p6kv6u8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-f9272f483edc8e8d784322ca",
               "headline": "Purchase of Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/NAR/purchase-of-own-shares-lpkjrj0g2xr0759.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4459I",
+              "source_url": "https://www.lse.co.uk/rns/NAR/purchase-of-own-shares-lpkjrj0g2xr0759.html",
+              "time": "10:15 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2025",
+              "event_id": "rns-d275f6b0c77291b865319ca6",
               "headline": "Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/NAR/board-appointment-7242in287yjl4xd.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4788C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/board-appointment-7242in287yjl4xd.html",
+              "time": "8:11 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2025",
+              "event_id": "rns-892aa69fe5ba27a5525d4522",
               "headline": "Interim Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/interim-report-zulqs5g0oxminle.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3642C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/interim-report-zulqs5g0oxminle.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2025",
+              "event_id": "rns-29feb2873d5bcb28b629d85c",
               "headline": "Acquisition of Epatra",
-              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-epatra-hipm9bojqj5qzjy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1718W",
+              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-epatra-hipm9bojqj5qzjy.html",
+              "time": "8:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2024",
+              "event_id": "rns-a0a9d5f3222052615f13053e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/NAR/result-of-agm-a5fpigiw5w5wgua.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8380Q",
+              "source_url": "https://www.lse.co.uk/rns/NAR/result-of-agm-a5fpigiw5w5wgua.html",
+              "time": "6:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2024",
+              "event_id": "rns-b0780e61ec04b175e2ffff3c",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-u6w7pqj77g0o6z3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7302P",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-u6w7pqj77g0o6z3.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2024",
+              "event_id": "rns-0cb3bb8674cc086bfa3d887c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorpdmr-shareholding-s3iep8m88rv85ms.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7313P",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorpdmr-shareholding-s3iep8m88rv85ms.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Dec 2024",
+              "event_id": "rns-e2a7daaee380f8812772e868",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/annual-financial-report-mu1f7rbqjf9kv5v.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4629O",
+              "source_url": "https://www.lse.co.uk/rns/NAR/annual-financial-report-mu1f7rbqjf9kv5v.html",
+              "time": "2:03 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27348,39 +27456,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-09-10",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 4.43,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.30993759632110596,
             "date": "2025-09-10",
             "status": "EXACT"
           },
           "relative_activity": 4.43,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "NAR.L:2025-09-10",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-09-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.12,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.30993759632110596,
             "date": "2025-09-12",
             "status": "EXACT"
           },
           "relative_activity": 3.12,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "NAR.L:2025-09-12",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40928,141 +41044,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-15",
+          "event_id": "rns-51afc8f1e38952aced694a3e",
           "headline": "Correction to Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1222P",
+          "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-d464ce654fd8dd42373b7ff1",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5931O",
+          "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-eccb3e85dbe4adf234c03676",
           "headline": "Publication of Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3269N",
+          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html",
+          "time": "11:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-eccb3e85dbe4adf234c03676",
           "headline": "Publication of Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3269N",
+          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html",
+          "time": "11:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-ec5c0f4e358b7aff218226c4",
           "headline": "Preliminary Results",
-          "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7126M",
+          "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-ec5c0f4e358b7aff218226c4",
           "headline": "Preliminary Results",
-          "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-z92nfgo34mlbkbn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7126M",
+          "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-z92nfgo34mlbkbn.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-01",
+          "event_id": "rns-370988de91f73c0700e1d4ae",
           "headline": "Acquisition of the Nuvias UC UK Hardware Business",
-          "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-the-nuvias-uc-uk-hardware-business-v34chu6gayp68z8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5759J",
+          "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-the-nuvias-uc-uk-hardware-business-v34chu6gayp68z8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-10",
+          "event_id": "rns-349664c6221185273db1b2f2",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-r94tiq13abyilj9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8976C",
+          "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-r94tiq13abyilj9.html",
+          "time": "7:45 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-09",
+          "event_id": "rns-9972aae15e21608f11de53e2",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-jgh8ovy8w1rsel7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7502C",
+          "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-jgh8ovy8w1rsel7.html",
+          "time": "10:07 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-26",
+          "event_id": "rns-4b0a2418157bc4e8c5602212",
           "headline": "Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-khezokqdv3qmxgl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0581B",
+          "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-khezokqdv3qmxgl.html",
+          "time": "2:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-11",
+          "event_id": "rns-92be0c0ae7771e584e6e7f37",
           "headline": "Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-gsqh2b1ugvmdcq7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9605Y",
+          "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-gsqh2b1ugvmdcq7.html",
+          "time": "9:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-02",
+          "event_id": "rns-f745b996ac5371bc602c721a",
           "headline": "Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/NAR/board-changes-7wer28d1p6kv6u8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8684K",
+          "source_url": "https://www.lse.co.uk/rns/NAR/board-changes-7wer28d1p6kv6u8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-13",
+          "event_id": "rns-f9272f483edc8e8d784322ca",
           "headline": "Purchase of Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/NAR/purchase-of-own-shares-lpkjrj0g2xr0759.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4459I",
+          "source_url": "https://www.lse.co.uk/rns/NAR/purchase-of-own-shares-lpkjrj0g2xr0759.html",
+          "time": "10:15 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-27",
+          "event_id": "rns-d275f6b0c77291b865319ca6",
           "headline": "Board Appointment",
-          "source_url": "https://www.lse.co.uk/rns/NAR/board-appointment-7242in287yjl4xd.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4788C",
+          "source_url": "https://www.lse.co.uk/rns/NAR/board-appointment-7242in287yjl4xd.html",
+          "time": "8:11 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-27",
+          "event_id": "rns-892aa69fe5ba27a5525d4522",
           "headline": "Interim Report",
-          "source_url": "https://www.lse.co.uk/rns/NAR/interim-report-zulqs5g0oxminle.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3642C",
+          "source_url": "https://www.lse.co.uk/rns/NAR/interim-report-zulqs5g0oxminle.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-06",
+          "event_id": "rns-29feb2873d5bcb28b629d85c",
           "headline": "Acquisition of Epatra",
-          "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-epatra-hipm9bojqj5qzjy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1718W",
+          "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-epatra-hipm9bojqj5qzjy.html",
+          "time": "8:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-19",
+          "event_id": "rns-a0a9d5f3222052615f13053e",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/NAR/result-of-agm-a5fpigiw5w5wgua.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8380Q",
+          "source_url": "https://www.lse.co.uk/rns/NAR/result-of-agm-a5fpigiw5w5wgua.html",
+          "time": "6:00 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-11",
+          "event_id": "rns-b0780e61ec04b175e2ffff3c",
           "headline": "Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-u6w7pqj77g0o6z3.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7302P",
+          "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-u6w7pqj77g0o6z3.html",
+          "time": "2:00 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-11",
+          "event_id": "rns-0cb3bb8674cc086bfa3d887c",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/NAR/directorpdmr-shareholding-s3iep8m88rv85ms.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7313P",
+          "source_url": "https://www.lse.co.uk/rns/NAR/directorpdmr-shareholding-s3iep8m88rv85ms.html",
+          "time": "2:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-02",
+          "event_id": "rns-e2a7daaee380f8812772e868",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/NAR/annual-financial-report-mu1f7rbqjf9kv5v.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4629O",
+          "source_url": "https://www.lse.co.uk/rns/NAR/annual-financial-report-mu1f7rbqjf9kv5v.html",
+          "time": "2:03 pm"
         }
       ],
       "rns_initial": [
@@ -41070,36 +41286,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-15",
+          "event_id": "rns-51afc8f1e38952aced694a3e",
           "headline": "Correction to Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1222P",
+          "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-d464ce654fd8dd42373b7ff1",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5931O",
+          "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-eccb3e85dbe4adf234c03676",
           "headline": "Publication of Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3269N",
+          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html",
+          "time": "11:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-eccb3e85dbe4adf234c03676",
           "headline": "Publication of Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3269N",
+          "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html",
+          "time": "11:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-ec5c0f4e358b7aff218226c4",
           "headline": "Preliminary Results",
-          "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7126M",
+          "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html",
+          "time": "3:00 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41147,39 +41388,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 4.43,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.30993759632110596,
                 "date": "2025-09-10",
                 "status": "EXACT"
               },
               "relative_activity": 4.43,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "NAR.L:2025-09-10",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.12,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.30993759632110596,
                 "date": "2025-09-12",
                 "status": "EXACT"
               },
               "relative_activity": 3.12,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NAR.L:2025-09-12",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68271,141 +68520,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jan 2026",
+              "event_id": "rns-51afc8f1e38952aced694a3e",
               "headline": "Correction to Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1222P",
+              "source_url": "https://www.lse.co.uk/rns/NAR/correction-to-notice-of-agm-tn1cy28ngp7sk10.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-d464ce654fd8dd42373b7ff1",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5931O",
+              "source_url": "https://www.lse.co.uk/rns/NAR/notice-of-agm-v1mnh9dxpmvp3eh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-eccb3e85dbe4adf234c03676",
               "headline": "Publication of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3269N",
+              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-1x6eg1p64z2pez7.html",
+              "time": "11:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-eccb3e85dbe4adf234c03676",
               "headline": "Publication of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3269N",
+              "source_url": "https://www.lse.co.uk/rns/NAR/publication-of-annual-report-4j0na6wxjyd6885.html",
+              "time": "11:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-ec5c0f4e358b7aff218226c4",
               "headline": "Preliminary Results",
-              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7126M",
+              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-hgqypxjgsp5a4jl.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-ec5c0f4e358b7aff218226c4",
               "headline": "Preliminary Results",
-              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-z92nfgo34mlbkbn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7126M",
+              "source_url": "https://www.lse.co.uk/rns/NAR/preliminary-results-z92nfgo34mlbkbn.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Dec 2025",
+              "event_id": "rns-370988de91f73c0700e1d4ae",
               "headline": "Acquisition of the Nuvias UC UK Hardware Business",
-              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-the-nuvias-uc-uk-hardware-business-v34chu6gayp68z8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5759J",
+              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-the-nuvias-uc-uk-hardware-business-v34chu6gayp68z8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Oct 2025",
+              "event_id": "rns-349664c6221185273db1b2f2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-r94tiq13abyilj9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8976C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-r94tiq13abyilj9.html",
+              "time": "7:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Oct 2025",
+              "event_id": "rns-9972aae15e21608f11de53e2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-jgh8ovy8w1rsel7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7502C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/holdings-in-company-jgh8ovy8w1rsel7.html",
+              "time": "10:07 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Sep 2025",
+              "event_id": "rns-4b0a2418157bc4e8c5602212",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-khezokqdv3qmxgl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0581B",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-khezokqdv3qmxgl.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Sep 2025",
+              "event_id": "rns-92be0c0ae7771e584e6e7f37",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-gsqh2b1ugvmdcq7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9605Y",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-gsqh2b1ugvmdcq7.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2025",
+              "event_id": "rns-f745b996ac5371bc602c721a",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/NAR/board-changes-7wer28d1p6kv6u8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8684K",
+              "source_url": "https://www.lse.co.uk/rns/NAR/board-changes-7wer28d1p6kv6u8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-f9272f483edc8e8d784322ca",
               "headline": "Purchase of Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/NAR/purchase-of-own-shares-lpkjrj0g2xr0759.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4459I",
+              "source_url": "https://www.lse.co.uk/rns/NAR/purchase-of-own-shares-lpkjrj0g2xr0759.html",
+              "time": "10:15 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2025",
+              "event_id": "rns-d275f6b0c77291b865319ca6",
               "headline": "Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/NAR/board-appointment-7242in287yjl4xd.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4788C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/board-appointment-7242in287yjl4xd.html",
+              "time": "8:11 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2025",
+              "event_id": "rns-892aa69fe5ba27a5525d4522",
               "headline": "Interim Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/interim-report-zulqs5g0oxminle.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3642C",
+              "source_url": "https://www.lse.co.uk/rns/NAR/interim-report-zulqs5g0oxminle.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Feb 2025",
+              "event_id": "rns-29feb2873d5bcb28b629d85c",
               "headline": "Acquisition of Epatra",
-              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-epatra-hipm9bojqj5qzjy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1718W",
+              "source_url": "https://www.lse.co.uk/rns/NAR/acquisition-of-epatra-hipm9bojqj5qzjy.html",
+              "time": "8:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2024",
+              "event_id": "rns-a0a9d5f3222052615f13053e",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/NAR/result-of-agm-a5fpigiw5w5wgua.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8380Q",
+              "source_url": "https://www.lse.co.uk/rns/NAR/result-of-agm-a5fpigiw5w5wgua.html",
+              "time": "6:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2024",
+              "event_id": "rns-b0780e61ec04b175e2ffff3c",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-u6w7pqj77g0o6z3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7302P",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorate-change-u6w7pqj77g0o6z3.html",
+              "time": "2:00 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2024",
+              "event_id": "rns-0cb3bb8674cc086bfa3d887c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/NAR/directorpdmr-shareholding-s3iep8m88rv85ms.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7313P",
+              "source_url": "https://www.lse.co.uk/rns/NAR/directorpdmr-shareholding-s3iep8m88rv85ms.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Dec 2024",
+              "event_id": "rns-e2a7daaee380f8812772e868",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/NAR/annual-financial-report-mu1f7rbqjf9kv5v.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4629O",
+              "source_url": "https://www.lse.co.uk/rns/NAR/annual-financial-report-mu1f7rbqjf9kv5v.html",
+              "time": "2:03 pm"
             }
           ],
           "status": "AVAILABLE",

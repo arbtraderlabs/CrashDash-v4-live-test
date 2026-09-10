@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.42,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 77.76313018798828,
                 "date": "2022-08-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.42,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "RCH.L:2022-08-24",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27136,141 +27140,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Aug 2026",
+              "event_id": "rns-852faf3e57d5f9254efd7a41",
               "headline": "Holding in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8073P",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-ac131625ec2cab1cd724778b",
               "headline": "Purchase of Shares for the Employee Benefit Trust",
-              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0733P",
+              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html",
+              "time": "4:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-a837820bc52537b052a5072f",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2453O",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html",
+              "time": "4:57 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-3199c5ebbc54eac85039deeb",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0098O",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html",
+              "time": "12:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-8a8a7822d59a8cc553f379b9",
               "headline": "Reach plc Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2984N",
+              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-49ba0a350eb89de61cfaf7e4",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-q9ozojnkirnsdeo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7107L",
+              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-q9ozojnkirnsdeo.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-84162e45512ae4ede1787a87",
               "headline": "Purchase of Shares for the Employee Benefit Trust",
-              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-a9t2e1wo40w59us.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6739G",
+              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-a9t2e1wo40w59us.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jun 2026",
+              "event_id": "rns-2ef76dc82ee426d49a902ba3",
               "headline": "Purchase of Shares for the Employee Benefit Trust",
-              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-9987nvm6cyxq5yx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5419G",
+              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-9987nvm6cyxq5yx.html",
+              "time": "6:05 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-9eb8076668cedd12b910590a",
               "headline": "Reach plc - Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-result-of-agm-rjxjt2smaqfjaaj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2939D",
+              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-result-of-agm-rjxjt2smaqfjaaj.html",
+              "time": "3:33 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-fb6a4a96851436c4175bbc24",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-srgq7kzfbvrxkud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1318D",
+              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-srgq7kzfbvrxkud.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-d5a94d2e12fa831c338d18b3",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-ignc92vd5kpskp6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9972A",
+              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-ignc92vd5kpskp6.html",
+              "time": "4:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-e339ab42a9504505c3fd421c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-p9wxq5rcxiq72az.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4654A",
+              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-p9wxq5rcxiq72az.html",
+              "time": "5:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Mar 2026",
+              "event_id": "rns-a26a6171b1b4071fe6bf819d",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-agm-2scp86vofrv19rm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1022Y",
+              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-agm-2scp86vofrv19rm.html",
+              "time": "11:09 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-f0c5e1500b76b6416c5b7721",
               "headline": "Annual Report Publication",
-              "source_url": "https://www.lse.co.uk/rns/RCH/annual-report-publication-0lesybh0wc9laet.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9827W",
+              "source_url": "https://www.lse.co.uk/rns/RCH/annual-report-publication-0lesybh0wc9laet.html",
+              "time": "10:38 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Mar 2026",
+              "event_id": "rns-3529b344572edd5d17b64adf",
               "headline": "Annual Results for year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/RCH/annual-results-for-year-ended-31-december-2025-019e031fe3j1ajh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0254V",
+              "source_url": "https://www.lse.co.uk/rns/RCH/annual-results-for-year-ended-31-december-2025-019e031fe3j1ajh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-83510e836c4901d0deaf1a89",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-80fk564z9kn23xf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3567T",
+              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-80fk564z9kn23xf.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-38e0995d690b0c52ca1174fd",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-e8y6mqxqnflwl40.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5041P",
+              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-e8y6mqxqnflwl40.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Nov 2025",
+              "event_id": "rns-e573156464e95676aae49e02",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-usvhpcg5fnnt69r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9659I",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-usvhpcg5fnnt69r.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2025",
+              "event_id": "rns-a8cde63c4ba62b62a4a042ae",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-b598scmwxtmfr50.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5676I",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-b598scmwxtmfr50.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Nov 2025",
+              "event_id": "rns-1274b7253cc237935929628c",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-3n8talujptp5esb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2508I",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-3n8talujptp5esb.html",
+              "time": "5:25 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27348,20 +27452,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-08-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.42,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 77.76313018798828,
             "date": "2022-08-24",
             "status": "EXACT"
           },
           "relative_activity": 1.42,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "RCH.L:2022-08-24",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40909,141 +41017,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-07",
+          "event_id": "rns-852faf3e57d5f9254efd7a41",
           "headline": "Holding in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8073P",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html",
+          "time": "1:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-ac131625ec2cab1cd724778b",
           "headline": "Purchase of Shares for the Employee Benefit Trust",
-          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0733P",
+          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html",
+          "time": "4:11 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-28",
+          "event_id": "rns-a837820bc52537b052a5072f",
           "headline": "Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2453O",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html",
+          "time": "4:57 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-3199c5ebbc54eac85039deeb",
           "headline": "Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0098O",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html",
+          "time": "12:08 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-8a8a7822d59a8cc553f379b9",
           "headline": "Reach plc Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2984N",
+          "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-09",
+          "event_id": "rns-49ba0a350eb89de61cfaf7e4",
           "headline": "Notice of Results",
-          "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-q9ozojnkirnsdeo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7107L",
+          "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-q9ozojnkirnsdeo.html",
+          "time": "11:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-84162e45512ae4ede1787a87",
           "headline": "Purchase of Shares for the Employee Benefit Trust",
-          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-a9t2e1wo40w59us.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6739G",
+          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-a9t2e1wo40w59us.html",
+          "time": "12:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-01",
+          "event_id": "rns-2ef76dc82ee426d49a902ba3",
           "headline": "Purchase of Shares for the Employee Benefit Trust",
-          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-9987nvm6cyxq5yx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5419G",
+          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-9987nvm6cyxq5yx.html",
+          "time": "6:05 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-9eb8076668cedd12b910590a",
           "headline": "Reach plc - Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-result-of-agm-rjxjt2smaqfjaaj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2939D",
+          "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-result-of-agm-rjxjt2smaqfjaaj.html",
+          "time": "3:33 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-fb6a4a96851436c4175bbc24",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-srgq7kzfbvrxkud.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1318D",
+          "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-srgq7kzfbvrxkud.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-d5a94d2e12fa831c338d18b3",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-ignc92vd5kpskp6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9972A",
+          "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-ignc92vd5kpskp6.html",
+          "time": "4:44 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-14",
+          "event_id": "rns-e339ab42a9504505c3fd421c",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-p9wxq5rcxiq72az.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4654A",
+          "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-p9wxq5rcxiq72az.html",
+          "time": "5:14 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-25",
+          "event_id": "rns-a26a6171b1b4071fe6bf819d",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-agm-2scp86vofrv19rm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1022Y",
+          "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-agm-2scp86vofrv19rm.html",
+          "time": "11:09 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-f0c5e1500b76b6416c5b7721",
           "headline": "Annual Report Publication",
-          "source_url": "https://www.lse.co.uk/rns/RCH/annual-report-publication-0lesybh0wc9laet.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9827W",
+          "source_url": "https://www.lse.co.uk/rns/RCH/annual-report-publication-0lesybh0wc9laet.html",
+          "time": "10:38 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-03",
+          "event_id": "rns-3529b344572edd5d17b64adf",
           "headline": "Annual Results for year ended 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/RCH/annual-results-for-year-ended-31-december-2025-019e031fe3j1ajh.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0254V",
+          "source_url": "https://www.lse.co.uk/rns/RCH/annual-results-for-year-ended-31-december-2025-019e031fe3j1ajh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-17",
+          "event_id": "rns-83510e836c4901d0deaf1a89",
           "headline": "Notice of Results",
-          "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-80fk564z9kn23xf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3567T",
+          "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-80fk564z9kn23xf.html",
+          "time": "11:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-20",
+          "event_id": "rns-38e0995d690b0c52ca1174fd",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-e8y6mqxqnflwl40.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5041P",
+          "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-e8y6mqxqnflwl40.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-25",
+          "event_id": "rns-e573156464e95676aae49e02",
           "headline": "Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-usvhpcg5fnnt69r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9659I",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-usvhpcg5fnnt69r.html",
+          "time": "4:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-21",
+          "event_id": "rns-a8cde63c4ba62b62a4a042ae",
           "headline": "Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-b598scmwxtmfr50.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5676I",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-b598scmwxtmfr50.html",
+          "time": "12:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-19",
+          "event_id": "rns-1274b7253cc237935929628c",
           "headline": "Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-3n8talujptp5esb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2508I",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-3n8talujptp5esb.html",
+          "time": "5:25 pm"
         }
       ],
       "rns_initial": [
@@ -41051,36 +41259,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-07",
+          "event_id": "rns-852faf3e57d5f9254efd7a41",
           "headline": "Holding in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8073P",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html",
+          "time": "1:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-ac131625ec2cab1cd724778b",
           "headline": "Purchase of Shares for the Employee Benefit Trust",
-          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0733P",
+          "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html",
+          "time": "4:11 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-28",
+          "event_id": "rns-a837820bc52537b052a5072f",
           "headline": "Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2453O",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html",
+          "time": "4:57 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-3199c5ebbc54eac85039deeb",
           "headline": "Holdings in Company",
-          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0098O",
+          "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html",
+          "time": "12:08 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-8a8a7822d59a8cc553f379b9",
           "headline": "Reach plc Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2984N",
+          "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41128,20 +41361,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-08-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.42,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 77.76313018798828,
                 "date": "2022-08-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.42,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "RCH.L:2022-08-24",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68243,141 +68480,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Aug 2026",
+              "event_id": "rns-852faf3e57d5f9254efd7a41",
               "headline": "Holding in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8073P",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holding-in-company-cgn910u4ju023cd.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-ac131625ec2cab1cd724778b",
               "headline": "Purchase of Shares for the Employee Benefit Trust",
-              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0733P",
+              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-pt9m0hy079bme7g.html",
+              "time": "4:11 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-a837820bc52537b052a5072f",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2453O",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-jsluw2jz7xtzq3k.html",
+              "time": "4:57 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-3199c5ebbc54eac85039deeb",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0098O",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-72865o3ofb8s32r.html",
+              "time": "12:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-8a8a7822d59a8cc553f379b9",
               "headline": "Reach plc Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2984N",
+              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-half-year-report-k5e3wuj0wc7irxi.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-49ba0a350eb89de61cfaf7e4",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-q9ozojnkirnsdeo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7107L",
+              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-q9ozojnkirnsdeo.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-84162e45512ae4ede1787a87",
               "headline": "Purchase of Shares for the Employee Benefit Trust",
-              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-a9t2e1wo40w59us.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6739G",
+              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-a9t2e1wo40w59us.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jun 2026",
+              "event_id": "rns-2ef76dc82ee426d49a902ba3",
               "headline": "Purchase of Shares for the Employee Benefit Trust",
-              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-9987nvm6cyxq5yx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5419G",
+              "source_url": "https://www.lse.co.uk/rns/RCH/purchase-of-shares-for-the-employee-benefit-trust-9987nvm6cyxq5yx.html",
+              "time": "6:05 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-9eb8076668cedd12b910590a",
               "headline": "Reach plc - Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-result-of-agm-rjxjt2smaqfjaaj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2939D",
+              "source_url": "https://www.lse.co.uk/rns/RCH/reach-plc-result-of-agm-rjxjt2smaqfjaaj.html",
+              "time": "3:33 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-fb6a4a96851436c4175bbc24",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-srgq7kzfbvrxkud.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1318D",
+              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-srgq7kzfbvrxkud.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-d5a94d2e12fa831c338d18b3",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-ignc92vd5kpskp6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9972A",
+              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-ignc92vd5kpskp6.html",
+              "time": "4:44 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-e339ab42a9504505c3fd421c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-p9wxq5rcxiq72az.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4654A",
+              "source_url": "https://www.lse.co.uk/rns/RCH/directorpdmr-shareholding-p9wxq5rcxiq72az.html",
+              "time": "5:14 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Mar 2026",
+              "event_id": "rns-a26a6171b1b4071fe6bf819d",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-agm-2scp86vofrv19rm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1022Y",
+              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-agm-2scp86vofrv19rm.html",
+              "time": "11:09 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-f0c5e1500b76b6416c5b7721",
               "headline": "Annual Report Publication",
-              "source_url": "https://www.lse.co.uk/rns/RCH/annual-report-publication-0lesybh0wc9laet.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9827W",
+              "source_url": "https://www.lse.co.uk/rns/RCH/annual-report-publication-0lesybh0wc9laet.html",
+              "time": "10:38 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Mar 2026",
+              "event_id": "rns-3529b344572edd5d17b64adf",
               "headline": "Annual Results for year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/RCH/annual-results-for-year-ended-31-december-2025-019e031fe3j1ajh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0254V",
+              "source_url": "https://www.lse.co.uk/rns/RCH/annual-results-for-year-ended-31-december-2025-019e031fe3j1ajh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-83510e836c4901d0deaf1a89",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-80fk564z9kn23xf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3567T",
+              "source_url": "https://www.lse.co.uk/rns/RCH/notice-of-results-80fk564z9kn23xf.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-38e0995d690b0c52ca1174fd",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-e8y6mqxqnflwl40.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5041P",
+              "source_url": "https://www.lse.co.uk/rns/RCH/trading-update-e8y6mqxqnflwl40.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Nov 2025",
+              "event_id": "rns-e573156464e95676aae49e02",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-usvhpcg5fnnt69r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9659I",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-usvhpcg5fnnt69r.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2025",
+              "event_id": "rns-a8cde63c4ba62b62a4a042ae",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-b598scmwxtmfr50.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5676I",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-b598scmwxtmfr50.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Nov 2025",
+              "event_id": "rns-1274b7253cc237935929628c",
               "headline": "Holdings in Company",
-              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-3n8talujptp5esb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2508I",
+              "source_url": "https://www.lse.co.uk/rns/RCH/holdings-in-company-3n8talujptp5esb.html",
+              "time": "5:25 pm"
             }
           ],
           "status": "AVAILABLE",

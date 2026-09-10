@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.89,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 11.5,
                 "date": "2023-10-24",
                 "status": "EXACT"
               },
               "relative_activity": 2.89,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TMG.L:2023-10-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 11.25,
                 "date": "2023-10-27",
                 "status": "EXACT"
               },
               "relative_activity": 5.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TMG.L:2023-10-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 15.12,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 10.5,
                 "date": "2023-10-30",
                 "status": "EXACT"
               },
               "relative_activity": 15.12,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TMG.L:2023-10-30",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27164,141 +27176,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-c03391270d321cd2966d6960",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4460P",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html",
+              "time": "1:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-32998e1a2fad17fac8d05f09",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4470P",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html",
+              "time": "1:13 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-6fc93ae554f6273d79c37ba0",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6626N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-1b7bcf055e2a8a854c6f399a",
               "headline": "EBT Share Dealing",
-              "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6637N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-acc277dc3df5a1458ce4146f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8391N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html",
+              "time": "2:27 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-3f89f143be7f1f0b448d4182",
               "headline": "Half Year Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TMG/half-year-trading-update-wyi0gfnz4j6qi9x.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4797N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/half-year-trading-update-wyi0gfnz4j6qi9x.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-37b73ffc6e558d21372cc902",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-7fywsuvhcxthoj2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1585M",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-7fywsuvhcxthoj2.html",
+              "time": "5:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-c9a32fcf6e460bc551eac4f4",
               "headline": "AGM Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TMG/agm-trading-update-0x2eahgn8krudo9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1874I",
+              "source_url": "https://www.lse.co.uk/rns/TMG/agm-trading-update-0x2eahgn8krudo9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-93b7bd7da1233853f628c9d1",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TMG/result-of-agm-ukn4lswha1e9fvm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3465I",
+              "source_url": "https://www.lse.co.uk/rns/TMG/result-of-agm-ukn4lswha1e9fvm.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-5e2c836d055441605b3ddf91",
               "headline": "Notice of AGM and Posting of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-agm-and-posting-of-annual-report-utgangj5cu9j0pu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8945G",
+              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-agm-and-posting-of-annual-report-utgangj5cu9j0pu.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-d85afa6726c4d9a51436598c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-53tc2iv1fe2mtkh.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3089F",
+              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-53tc2iv1fe2mtkh.html",
+              "time": "11:46 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-ef94d2eb2739fadf04f2f3e8",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-t4n8eqs4aoyb77n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8620C",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-t4n8eqs4aoyb77n.html",
+              "time": "2:45 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-588400475f0afc8ddf8d77d2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-qkknhrb2o8ez3ga.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2328C",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-qkknhrb2o8ez3ga.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2026",
+              "event_id": "rns-74649913efc6b876da2e6ea6",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-oudkdfl70xwwtzm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5126Y",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-oudkdfl70xwwtzm.html",
+              "time": "4:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Mar 2026",
+              "event_id": "rns-46f4c3afb0fe7d978ff1c797",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/TMG/final-results-8zmgtew0np7k9l5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7751X",
+              "source_url": "https://www.lse.co.uk/rns/TMG/final-results-8zmgtew0np7k9l5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Mar 2026",
+              "event_id": "rns-4f34b6750034be95093922f8",
               "headline": "Notice of Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-investor-presentation-g00rvtj3f71eyhq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5143X",
+              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-investor-presentation-g00rvtj3f71eyhq.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Feb 2026",
+              "event_id": "rns-c192e84a3f582c161d242a9f",
               "headline": "Growth Share Scheme",
-              "source_url": "https://www.lse.co.uk/rns/TMG/growth-share-scheme-fd4gt2652au7msl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4037T",
+              "source_url": "https://www.lse.co.uk/rns/TMG/growth-share-scheme-fd4gt2652au7msl.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-5cfd878f2183bb8bcf56e8f3",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/TMG/board-changes-4a4bp8tvyjq2ov2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5958O",
+              "source_url": "https://www.lse.co.uk/rns/TMG/board-changes-4a4bp8tvyjq2ov2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-3d501278cc65ad2c612b6f5d",
               "headline": "Full Year Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TMG/full-year-trading-update-x05f3ryao5ycwyb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5957O",
+              "source_url": "https://www.lse.co.uk/rns/TMG/full-year-trading-update-x05f3ryao5ycwyb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2025",
+              "event_id": "rns-e6b5b2c9714d0a87d6e5bff4",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/TMG/directorate-change-f2p1pnbvkpddbrk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7386D",
+              "source_url": "https://www.lse.co.uk/rns/TMG/directorate-change-f2p1pnbvkpddbrk.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27366,58 +27478,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.89,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 11.5,
             "date": "2023-10-24",
             "status": "EXACT"
           },
           "relative_activity": 2.89,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TMG.L:2023-10-24",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.34,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 11.25,
             "date": "2023-10-27",
             "status": "EXACT"
           },
           "relative_activity": 5.34,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TMG.L:2023-10-27",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-30",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 15.12,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 10.5,
             "date": "2023-10-30",
             "status": "EXACT"
           },
           "relative_activity": 15.12,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TMG.L:2023-10-30",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40965,141 +41089,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-c03391270d321cd2966d6960",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4460P",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html",
+          "time": "1:12 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-32998e1a2fad17fac8d05f09",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4470P",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html",
+          "time": "1:13 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-6fc93ae554f6273d79c37ba0",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6626N",
+          "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-1b7bcf055e2a8a854c6f399a",
           "headline": "EBT Share Dealing",
-          "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6637N",
+          "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-acc277dc3df5a1458ce4146f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8391N",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html",
+          "time": "2:27 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-3f89f143be7f1f0b448d4182",
           "headline": "Half Year Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/TMG/half-year-trading-update-wyi0gfnz4j6qi9x.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4797N",
+          "source_url": "https://www.lse.co.uk/rns/TMG/half-year-trading-update-wyi0gfnz4j6qi9x.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-37b73ffc6e558d21372cc902",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-7fywsuvhcxthoj2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1585M",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-7fywsuvhcxthoj2.html",
+          "time": "5:32 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-15",
+          "event_id": "rns-c9a32fcf6e460bc551eac4f4",
           "headline": "AGM Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/TMG/agm-trading-update-0x2eahgn8krudo9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1874I",
+          "source_url": "https://www.lse.co.uk/rns/TMG/agm-trading-update-0x2eahgn8krudo9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-15",
+          "event_id": "rns-93b7bd7da1233853f628c9d1",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/TMG/result-of-agm-ukn4lswha1e9fvm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3465I",
+          "source_url": "https://www.lse.co.uk/rns/TMG/result-of-agm-ukn4lswha1e9fvm.html",
+          "time": "1:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-04",
+          "event_id": "rns-5e2c836d055441605b3ddf91",
           "headline": "Notice of AGM and Posting of Annual Report",
-          "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-agm-and-posting-of-annual-report-utgangj5cu9j0pu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8945G",
+          "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-agm-and-posting-of-annual-report-utgangj5cu9j0pu.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-d85afa6726c4d9a51436598c",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-53tc2iv1fe2mtkh.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3089F",
+          "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-53tc2iv1fe2mtkh.html",
+          "time": "11:46 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-ef94d2eb2739fadf04f2f3e8",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-t4n8eqs4aoyb77n.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8620C",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-t4n8eqs4aoyb77n.html",
+          "time": "2:45 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-588400475f0afc8ddf8d77d2",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-qkknhrb2o8ez3ga.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2328C",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-qkknhrb2o8ez3ga.html",
+          "time": "11:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-27",
+          "event_id": "rns-74649913efc6b876da2e6ea6",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-oudkdfl70xwwtzm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5126Y",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-oudkdfl70xwwtzm.html",
+          "time": "4:50 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-24",
+          "event_id": "rns-46f4c3afb0fe7d978ff1c797",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/TMG/final-results-8zmgtew0np7k9l5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7751X",
+          "source_url": "https://www.lse.co.uk/rns/TMG/final-results-8zmgtew0np7k9l5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-20",
+          "event_id": "rns-4f34b6750034be95093922f8",
           "headline": "Notice of Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-investor-presentation-g00rvtj3f71eyhq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5143X",
+          "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-investor-presentation-g00rvtj3f71eyhq.html",
+          "time": "12:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-18",
+          "event_id": "rns-c192e84a3f582c161d242a9f",
           "headline": "Growth Share Scheme",
-          "source_url": "https://www.lse.co.uk/rns/TMG/growth-share-scheme-fd4gt2652au7msl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4037T",
+          "source_url": "https://www.lse.co.uk/rns/TMG/growth-share-scheme-fd4gt2652au7msl.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-5cfd878f2183bb8bcf56e8f3",
           "headline": "Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/TMG/board-changes-4a4bp8tvyjq2ov2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5958O",
+          "source_url": "https://www.lse.co.uk/rns/TMG/board-changes-4a4bp8tvyjq2ov2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-3d501278cc65ad2c612b6f5d",
           "headline": "Full Year Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/TMG/full-year-trading-update-x05f3ryao5ycwyb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5957O",
+          "source_url": "https://www.lse.co.uk/rns/TMG/full-year-trading-update-x05f3ryao5ycwyb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-17",
+          "event_id": "rns-e6b5b2c9714d0a87d6e5bff4",
           "headline": "Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/TMG/directorate-change-f2p1pnbvkpddbrk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7386D",
+          "source_url": "https://www.lse.co.uk/rns/TMG/directorate-change-f2p1pnbvkpddbrk.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41107,36 +41331,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-c03391270d321cd2966d6960",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4460P",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html",
+          "time": "1:12 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-32998e1a2fad17fac8d05f09",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4470P",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html",
+          "time": "1:13 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-6fc93ae554f6273d79c37ba0",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6626N",
+          "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-1b7bcf055e2a8a854c6f399a",
           "headline": "EBT Share Dealing",
-          "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6637N",
+          "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-acc277dc3df5a1458ce4146f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8391N",
+          "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html",
+          "time": "2:27 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41184,58 +41433,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.89,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 11.5,
                 "date": "2023-10-24",
                 "status": "EXACT"
               },
               "relative_activity": 2.89,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TMG.L:2023-10-24",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 11.25,
                 "date": "2023-10-27",
                 "status": "EXACT"
               },
               "relative_activity": 5.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TMG.L:2023-10-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 15.12,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 10.5,
                 "date": "2023-10-30",
                 "status": "EXACT"
               },
               "relative_activity": 15.12,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TMG.L:2023-10-30",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68327,141 +68588,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-c03391270d321cd2966d6960",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4460P",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-c7j2kzqbq33yq9j.html",
+              "time": "1:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-32998e1a2fad17fac8d05f09",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4470P",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-f7sqhl964vwf12r.html",
+              "time": "1:13 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-6fc93ae554f6273d79c37ba0",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6626N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-s84j8ha3o22hv3t.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-1b7bcf055e2a8a854c6f399a",
               "headline": "EBT Share Dealing",
-              "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6637N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/ebt-share-dealing-5w9iss98fvhjp42.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-acc277dc3df5a1458ce4146f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8391N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-vthaex332sr70ns.html",
+              "time": "2:27 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-3f89f143be7f1f0b448d4182",
               "headline": "Half Year Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TMG/half-year-trading-update-wyi0gfnz4j6qi9x.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4797N",
+              "source_url": "https://www.lse.co.uk/rns/TMG/half-year-trading-update-wyi0gfnz4j6qi9x.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-37b73ffc6e558d21372cc902",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-7fywsuvhcxthoj2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1585M",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-7fywsuvhcxthoj2.html",
+              "time": "5:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-c9a32fcf6e460bc551eac4f4",
               "headline": "AGM Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TMG/agm-trading-update-0x2eahgn8krudo9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1874I",
+              "source_url": "https://www.lse.co.uk/rns/TMG/agm-trading-update-0x2eahgn8krudo9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jun 2026",
+              "event_id": "rns-93b7bd7da1233853f628c9d1",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TMG/result-of-agm-ukn4lswha1e9fvm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3465I",
+              "source_url": "https://www.lse.co.uk/rns/TMG/result-of-agm-ukn4lswha1e9fvm.html",
+              "time": "1:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-5e2c836d055441605b3ddf91",
               "headline": "Notice of AGM and Posting of Annual Report",
-              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-agm-and-posting-of-annual-report-utgangj5cu9j0pu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8945G",
+              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-agm-and-posting-of-annual-report-utgangj5cu9j0pu.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-d85afa6726c4d9a51436598c",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-53tc2iv1fe2mtkh.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3089F",
+              "source_url": "https://www.lse.co.uk/rns/TMG/directorpdmr-shareholding-53tc2iv1fe2mtkh.html",
+              "time": "11:46 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-ef94d2eb2739fadf04f2f3e8",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-t4n8eqs4aoyb77n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8620C",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-t4n8eqs4aoyb77n.html",
+              "time": "2:45 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-588400475f0afc8ddf8d77d2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-qkknhrb2o8ez3ga.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2328C",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-qkknhrb2o8ez3ga.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Mar 2026",
+              "event_id": "rns-74649913efc6b876da2e6ea6",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-oudkdfl70xwwtzm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5126Y",
+              "source_url": "https://www.lse.co.uk/rns/TMG/holdings-in-company-oudkdfl70xwwtzm.html",
+              "time": "4:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Mar 2026",
+              "event_id": "rns-46f4c3afb0fe7d978ff1c797",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/TMG/final-results-8zmgtew0np7k9l5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7751X",
+              "source_url": "https://www.lse.co.uk/rns/TMG/final-results-8zmgtew0np7k9l5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Mar 2026",
+              "event_id": "rns-4f34b6750034be95093922f8",
               "headline": "Notice of Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-investor-presentation-g00rvtj3f71eyhq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5143X",
+              "source_url": "https://www.lse.co.uk/rns/TMG/notice-of-investor-presentation-g00rvtj3f71eyhq.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Feb 2026",
+              "event_id": "rns-c192e84a3f582c161d242a9f",
               "headline": "Growth Share Scheme",
-              "source_url": "https://www.lse.co.uk/rns/TMG/growth-share-scheme-fd4gt2652au7msl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4037T",
+              "source_url": "https://www.lse.co.uk/rns/TMG/growth-share-scheme-fd4gt2652au7msl.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-5cfd878f2183bb8bcf56e8f3",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/TMG/board-changes-4a4bp8tvyjq2ov2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5958O",
+              "source_url": "https://www.lse.co.uk/rns/TMG/board-changes-4a4bp8tvyjq2ov2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-3d501278cc65ad2c612b6f5d",
               "headline": "Full Year Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/TMG/full-year-trading-update-x05f3ryao5ycwyb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5957O",
+              "source_url": "https://www.lse.co.uk/rns/TMG/full-year-trading-update-x05f3ryao5ycwyb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2025",
+              "event_id": "rns-e6b5b2c9714d0a87d6e5bff4",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/TMG/directorate-change-f2p1pnbvkpddbrk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7386D",
+              "source_url": "https://www.lse.co.uk/rns/TMG/directorate-change-f2p1pnbvkpddbrk.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

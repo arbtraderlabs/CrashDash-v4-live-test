@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-06-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 9.09,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 53.438499450683594,
                 "date": "2022-06-29",
                 "status": "EXACT"
               },
               "relative_activity": 9.09,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GATC.L:2022-06-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-33856fa6b525d630ff44663e",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8405Q",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-3f219e9caa079334dd2b563a",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2382E",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-2c82cf6ef582376dbc99cba7",
               "headline": "BLOCK LISTING SIX MONTHLY RETURN",
-              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6560Y",
+              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Mar 2026",
+              "event_id": "rns-900d1e68d9e29ef10a535abb",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7768X",
+              "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Mar 2026",
+              "event_id": "rns-e254a6124035eec873688f1c",
               "headline": "Notice of Results and Investor Presentations",
-              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0665W",
+              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Mar 2026",
+              "event_id": "rns-e254a6124035eec873688f1c",
               "headline": "Notice of Results and Investor Presentations",
-              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-pso664rs95qdnuk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0665W",
+              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-pso664rs95qdnuk.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-ba094cc55cee3f0848ee6627",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-g4371sj8cp8n04q.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4960S",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-g4371sj8cp8n04q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-a5a63e422e1a6513c27aa8dd",
               "headline": "Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-1gmumpyzpgaplyj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2762N",
+              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-1gmumpyzpgaplyj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-a5a63e422e1a6513c27aa8dd",
               "headline": "Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-5kwrwzxe76gly37.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2762N",
+              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-5kwrwzxe76gly37.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-e29146ff8eb72b1543136f4c",
               "headline": "Grant of Options and Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-cyrhhs4f68ymcn5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3492M",
+              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-cyrhhs4f68ymcn5.html",
+              "time": "3:29 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-e29146ff8eb72b1543136f4c",
               "headline": "Grant of Options and Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-t8thqg3ohtbnghr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3492M",
+              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-t8thqg3ohtbnghr.html",
+              "time": "3:29 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Dec 2025",
+              "event_id": "rns-93aefb43ad1e27cc1e2939b4",
               "headline": "Exercise of Options and Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/GATC/exercise-of-options-and-directorpdmr-shareholding-os1ztd5gkvfj8c9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7945L",
+              "source_url": "https://www.lse.co.uk/rns/GATC/exercise-of-options-and-directorpdmr-shareholding-os1ztd5gkvfj8c9.html",
+              "time": "12:19 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2025",
+              "event_id": "rns-2f697757529a17a7fa542d6d",
               "headline": "Results of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/GATC/results-of-annual-general-meeting-8upngnaqli7urmd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1905L",
+              "source_url": "https://www.lse.co.uk/rns/GATC/results-of-annual-general-meeting-8upngnaqli7urmd.html",
+              "time": "9:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Nov 2025",
+              "event_id": "rns-a306992651e4bf06785bf36e",
               "headline": "Availability of Report & Accounts and AGM Notice",
-              "source_url": "https://www.lse.co.uk/rns/GATC/availability-of-report-accounts-and-agm-notice-58kdgkahnpn557a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9280F",
+              "source_url": "https://www.lse.co.uk/rns/GATC/availability-of-report-accounts-and-agm-notice-58kdgkahnpn557a.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Oct 2025",
+              "event_id": "rns-dc7b6daafdb2d9bd5b3332e0",
               "headline": "Final results for the year ended 31 July 2025",
-              "source_url": "https://www.lse.co.uk/rns/GATC/final-results-for-the-year-ended-31-july-2025-5cux2kk6x13stic.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4704E",
+              "source_url": "https://www.lse.co.uk/rns/GATC/final-results-for-the-year-ended-31-july-2025-5cux2kk6x13stic.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Oct 2025",
+              "event_id": "rns-6142aa6293a4a68ed53484b3",
               "headline": "Investor Presentation via Investor Meet Company",
-              "source_url": "https://www.lse.co.uk/rns/GATC/investor-presentation-via-investor-meet-company-19axa2h99he47f6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2672D",
+              "source_url": "https://www.lse.co.uk/rns/GATC/investor-presentation-via-investor-meet-company-19axa2h99he47f6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Oct 2025",
+              "event_id": "rns-3039915cadcf8faad68d941f",
               "headline": "Block Listing Six Monthly return",
-              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-8gjs6arp5or12p0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1558D",
+              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-8gjs6arp5or12p0.html",
+              "time": "2:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Oct 2025",
+              "event_id": "rns-03bc50da7a19d48607f14ef2",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-yjkipwx3o44x73j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4144C",
+              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-yjkipwx3o44x73j.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2025",
+              "event_id": "rns-ed0a7017f32e4ab257055e2a",
               "headline": "Trading update and Acquisition",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-and-acquisition-tvkhso66p5byh6j.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9237T",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-and-acquisition-tvkhso66p5byh6j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2025",
+              "event_id": "rns-4b7f6badd8ec53bb0fd2e289",
               "headline": "EBT Share Purchase Programme",
-              "source_url": "https://www.lse.co.uk/rns/GATC/ebt-share-purchase-programme-f55c1qhtchdt73a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9471R",
+              "source_url": "https://www.lse.co.uk/rns/GATC/ebt-share-purchase-programme-f55c1qhtchdt73a.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-06-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 9.09,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 53.438499450683594,
             "date": "2022-06-29",
             "status": "EXACT"
           },
           "relative_activity": 9.09,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GATC.L:2022-06-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-33856fa6b525d630ff44663e",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8405Q",
+          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-14",
+          "event_id": "rns-3f219e9caa079334dd2b563a",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2382E",
+          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-2c82cf6ef582376dbc99cba7",
           "headline": "BLOCK LISTING SIX MONTHLY RETURN",
-          "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6560Y",
+          "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-24",
+          "event_id": "rns-900d1e68d9e29ef10a535abb",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7768X",
+          "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-11",
+          "event_id": "rns-e254a6124035eec873688f1c",
           "headline": "Notice of Results and Investor Presentations",
-          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0665W",
+          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-11",
+          "event_id": "rns-e254a6124035eec873688f1c",
           "headline": "Notice of Results and Investor Presentations",
-          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-pso664rs95qdnuk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0665W",
+          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-pso664rs95qdnuk.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-11",
+          "event_id": "rns-ba094cc55cee3f0848ee6627",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-g4371sj8cp8n04q.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4960S",
+          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-g4371sj8cp8n04q.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-a5a63e422e1a6513c27aa8dd",
           "headline": "Director/PDMR dealing",
-          "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-1gmumpyzpgaplyj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2762N",
+          "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-1gmumpyzpgaplyj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-31",
+          "event_id": "rns-a5a63e422e1a6513c27aa8dd",
           "headline": "Director/PDMR dealing",
-          "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-5kwrwzxe76gly37.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2762N",
+          "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-5kwrwzxe76gly37.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-e29146ff8eb72b1543136f4c",
           "headline": "Grant of Options and Director/PDMR dealing",
-          "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-cyrhhs4f68ymcn5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3492M",
+          "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-cyrhhs4f68ymcn5.html",
+          "time": "3:29 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-e29146ff8eb72b1543136f4c",
           "headline": "Grant of Options and Director/PDMR dealing",
-          "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-t8thqg3ohtbnghr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3492M",
+          "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-t8thqg3ohtbnghr.html",
+          "time": "3:29 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-16",
+          "event_id": "rns-93aefb43ad1e27cc1e2939b4",
           "headline": "Exercise of Options and Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/GATC/exercise-of-options-and-directorpdmr-shareholding-os1ztd5gkvfj8c9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7945L",
+          "source_url": "https://www.lse.co.uk/rns/GATC/exercise-of-options-and-directorpdmr-shareholding-os1ztd5gkvfj8c9.html",
+          "time": "12:19 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-11",
+          "event_id": "rns-2f697757529a17a7fa542d6d",
           "headline": "Results of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/GATC/results-of-annual-general-meeting-8upngnaqli7urmd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1905L",
+          "source_url": "https://www.lse.co.uk/rns/GATC/results-of-annual-general-meeting-8upngnaqli7urmd.html",
+          "time": "9:05 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-10",
+          "event_id": "rns-a306992651e4bf06785bf36e",
           "headline": "Availability of Report & Accounts and AGM Notice",
-          "source_url": "https://www.lse.co.uk/rns/GATC/availability-of-report-accounts-and-agm-notice-58kdgkahnpn557a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9280F",
+          "source_url": "https://www.lse.co.uk/rns/GATC/availability-of-report-accounts-and-agm-notice-58kdgkahnpn557a.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-23",
+          "event_id": "rns-dc7b6daafdb2d9bd5b3332e0",
           "headline": "Final results for the year ended 31 July 2025",
-          "source_url": "https://www.lse.co.uk/rns/GATC/final-results-for-the-year-ended-31-july-2025-5cux2kk6x13stic.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4704E",
+          "source_url": "https://www.lse.co.uk/rns/GATC/final-results-for-the-year-ended-31-july-2025-5cux2kk6x13stic.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-15",
+          "event_id": "rns-6142aa6293a4a68ed53484b3",
           "headline": "Investor Presentation via Investor Meet Company",
-          "source_url": "https://www.lse.co.uk/rns/GATC/investor-presentation-via-investor-meet-company-19axa2h99he47f6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2672D",
+          "source_url": "https://www.lse.co.uk/rns/GATC/investor-presentation-via-investor-meet-company-19axa2h99he47f6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-13",
+          "event_id": "rns-3039915cadcf8faad68d941f",
           "headline": "Block Listing Six Monthly return",
-          "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-8gjs6arp5or12p0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1558D",
+          "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-8gjs6arp5or12p0.html",
+          "time": "2:59 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-08",
+          "event_id": "rns-03bc50da7a19d48607f14ef2",
           "headline": "Notice of Results",
-          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-yjkipwx3o44x73j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4144C",
+          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-yjkipwx3o44x73j.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-05",
+          "event_id": "rns-ed0a7017f32e4ab257055e2a",
           "headline": "Trading update and Acquisition",
-          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-and-acquisition-tvkhso66p5byh6j.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9237T",
+          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-and-acquisition-tvkhso66p5byh6j.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-22",
+          "event_id": "rns-4b7f6badd8ec53bb0fd2e289",
           "headline": "EBT Share Purchase Programme",
-          "source_url": "https://www.lse.co.uk/rns/GATC/ebt-share-purchase-programme-f55c1qhtchdt73a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9471R",
+          "source_url": "https://www.lse.co.uk/rns/GATC/ebt-share-purchase-programme-f55c1qhtchdt73a.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-33856fa6b525d630ff44663e",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8405Q",
+          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-14",
+          "event_id": "rns-3f219e9caa079334dd2b563a",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2382E",
+          "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-01",
+          "event_id": "rns-2c82cf6ef582376dbc99cba7",
           "headline": "BLOCK LISTING SIX MONTHLY RETURN",
-          "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6560Y",
+          "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-24",
+          "event_id": "rns-900d1e68d9e29ef10a535abb",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7768X",
+          "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-11",
+          "event_id": "rns-e254a6124035eec873688f1c",
           "headline": "Notice of Results and Investor Presentations",
-          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0665W",
+          "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-06-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 9.09,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 53.438499450683594,
                 "date": "2022-06-29",
                 "status": "EXACT"
               },
               "relative_activity": 9.09,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GATC.L:2022-06-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-33856fa6b525d630ff44663e",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8405Q",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-yxwal19hy3mox7v.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-3f219e9caa079334dd2b563a",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2382E",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-k8eik4y6xp5x5c4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Apr 2026",
+              "event_id": "rns-2c82cf6ef582376dbc99cba7",
               "headline": "BLOCK LISTING SIX MONTHLY RETURN",
-              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6560Y",
+              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-9rgrguw04zpr12f.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Mar 2026",
+              "event_id": "rns-900d1e68d9e29ef10a535abb",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7768X",
+              "source_url": "https://www.lse.co.uk/rns/GATC/interim-results-w41jseok9uus5va.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Mar 2026",
+              "event_id": "rns-e254a6124035eec873688f1c",
               "headline": "Notice of Results and Investor Presentations",
-              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0665W",
+              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-ipl3wj8ogrvey2l.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Mar 2026",
+              "event_id": "rns-e254a6124035eec873688f1c",
               "headline": "Notice of Results and Investor Presentations",
-              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-pso664rs95qdnuk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0665W",
+              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-and-investor-presentations-pso664rs95qdnuk.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Feb 2026",
+              "event_id": "rns-ba094cc55cee3f0848ee6627",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-g4371sj8cp8n04q.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4960S",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-g4371sj8cp8n04q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-a5a63e422e1a6513c27aa8dd",
               "headline": "Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-1gmumpyzpgaplyj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2762N",
+              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-1gmumpyzpgaplyj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Dec 2025",
+              "event_id": "rns-a5a63e422e1a6513c27aa8dd",
               "headline": "Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-5kwrwzxe76gly37.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2762N",
+              "source_url": "https://www.lse.co.uk/rns/GATC/directorpdmr-dealing-5kwrwzxe76gly37.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-e29146ff8eb72b1543136f4c",
               "headline": "Grant of Options and Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-cyrhhs4f68ymcn5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3492M",
+              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-cyrhhs4f68ymcn5.html",
+              "time": "3:29 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-e29146ff8eb72b1543136f4c",
               "headline": "Grant of Options and Director/PDMR dealing",
-              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-t8thqg3ohtbnghr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3492M",
+              "source_url": "https://www.lse.co.uk/rns/GATC/grant-of-options-and-directorpdmr-dealing-t8thqg3ohtbnghr.html",
+              "time": "3:29 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Dec 2025",
+              "event_id": "rns-93aefb43ad1e27cc1e2939b4",
               "headline": "Exercise of Options and Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/GATC/exercise-of-options-and-directorpdmr-shareholding-os1ztd5gkvfj8c9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7945L",
+              "source_url": "https://www.lse.co.uk/rns/GATC/exercise-of-options-and-directorpdmr-shareholding-os1ztd5gkvfj8c9.html",
+              "time": "12:19 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2025",
+              "event_id": "rns-2f697757529a17a7fa542d6d",
               "headline": "Results of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/GATC/results-of-annual-general-meeting-8upngnaqli7urmd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1905L",
+              "source_url": "https://www.lse.co.uk/rns/GATC/results-of-annual-general-meeting-8upngnaqli7urmd.html",
+              "time": "9:05 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Nov 2025",
+              "event_id": "rns-a306992651e4bf06785bf36e",
               "headline": "Availability of Report & Accounts and AGM Notice",
-              "source_url": "https://www.lse.co.uk/rns/GATC/availability-of-report-accounts-and-agm-notice-58kdgkahnpn557a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9280F",
+              "source_url": "https://www.lse.co.uk/rns/GATC/availability-of-report-accounts-and-agm-notice-58kdgkahnpn557a.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Oct 2025",
+              "event_id": "rns-dc7b6daafdb2d9bd5b3332e0",
               "headline": "Final results for the year ended 31 July 2025",
-              "source_url": "https://www.lse.co.uk/rns/GATC/final-results-for-the-year-ended-31-july-2025-5cux2kk6x13stic.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4704E",
+              "source_url": "https://www.lse.co.uk/rns/GATC/final-results-for-the-year-ended-31-july-2025-5cux2kk6x13stic.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Oct 2025",
+              "event_id": "rns-6142aa6293a4a68ed53484b3",
               "headline": "Investor Presentation via Investor Meet Company",
-              "source_url": "https://www.lse.co.uk/rns/GATC/investor-presentation-via-investor-meet-company-19axa2h99he47f6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2672D",
+              "source_url": "https://www.lse.co.uk/rns/GATC/investor-presentation-via-investor-meet-company-19axa2h99he47f6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Oct 2025",
+              "event_id": "rns-3039915cadcf8faad68d941f",
               "headline": "Block Listing Six Monthly return",
-              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-8gjs6arp5or12p0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1558D",
+              "source_url": "https://www.lse.co.uk/rns/GATC/block-listing-six-monthly-return-8gjs6arp5or12p0.html",
+              "time": "2:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Oct 2025",
+              "event_id": "rns-03bc50da7a19d48607f14ef2",
               "headline": "Notice of Results",
-              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-yjkipwx3o44x73j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4144C",
+              "source_url": "https://www.lse.co.uk/rns/GATC/notice-of-results-yjkipwx3o44x73j.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2025",
+              "event_id": "rns-ed0a7017f32e4ab257055e2a",
               "headline": "Trading update and Acquisition",
-              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-and-acquisition-tvkhso66p5byh6j.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9237T",
+              "source_url": "https://www.lse.co.uk/rns/GATC/trading-update-and-acquisition-tvkhso66p5byh6j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2025",
+              "event_id": "rns-4b7f6badd8ec53bb0fd2e289",
               "headline": "EBT Share Purchase Programme",
-              "source_url": "https://www.lse.co.uk/rns/GATC/ebt-share-purchase-programme-f55c1qhtchdt73a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9471R",
+              "source_url": "https://www.lse.co.uk/rns/GATC/ebt-share-purchase-programme-f55c1qhtchdt73a.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

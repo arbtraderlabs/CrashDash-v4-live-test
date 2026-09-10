@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 8.45,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.32499998807907104,
                 "date": "2025-08-12",
                 "status": "EXACT"
               },
               "relative_activity": 8.45,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GRL.L:2025-08-12",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.03,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.2750000059604645,
                 "date": "2025-08-13",
                 "status": "EXACT"
               },
               "relative_activity": 2.03,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "GRL.L:2025-08-13",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.81,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.3499999940395355,
                 "date": "2025-08-18",
                 "status": "EXACT"
               },
               "relative_activity": 1.81,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GRL.L:2025-08-18",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27164,141 +27176,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-1318b576b4df592b38d04878",
               "headline": "Homase Drilling Commencement & Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9523O",
+              "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-3b577d1ec42a9230bf140425",
               "headline": "Admission of Shares & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4833N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-6e4bb19db16d3efb9778b443",
               "headline": "Variation to Subscription",
-              "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0517M",
+              "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-73285283e1e2b4f5a667814d",
               "headline": "\u00a33.51 million Subscription and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1324L",
+              "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-7e3ddf1d27f9302df523c5fc",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4871K",
+              "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-47fe4858861c8980ce1b9f72",
               "headline": "Gold Loan Standstill Extension",
-              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-tgj45kyjme32g3q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0754K",
+              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-tgj45kyjme32g3q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-2ffc39843add8584912ceee0",
               "headline": "Sierra Leone Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-update-th0e0mwhu8ef0o1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5491G",
+              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-update-th0e0mwhu8ef0o1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-61c3284dd058a64f95ff6b11",
               "headline": "Operational Update and Growth Strategy",
-              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-and-growth-strategy-kzq690st8qubx6u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0399D",
+              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-and-growth-strategy-kzq690st8qubx6u.html",
+              "time": "8:16 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Apr 2026",
+              "event_id": "rns-7517c9961d32e4fc97149982",
               "headline": "Appointment of NED and Board Role Change",
-              "source_url": "https://www.lse.co.uk/rns/GRL/appointment-of-ned-and-board-role-change-1yvaspr0smm26wp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3896Z",
+              "source_url": "https://www.lse.co.uk/rns/GRL/appointment-of-ned-and-board-role-change-1yvaspr0smm26wp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-db3071a1bbfefcbc5dcb4a3c",
               "headline": "Sierra Leone Investment",
-              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-5exyf2kr4ryg5v6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8607W",
+              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-5exyf2kr4ryg5v6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-db3071a1bbfefcbc5dcb4a3c",
               "headline": "Sierra Leone Investment",
-              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-hz83nawsamjlz0u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8607W",
+              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-hz83nawsamjlz0u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-c03dde1d51ed9c1b06702741",
               "headline": "Issue of Options",
-              "source_url": "https://www.lse.co.uk/rns/GRL/issue-of-options-uecgse2mfhbhtek.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6527T",
+              "source_url": "https://www.lse.co.uk/rns/GRL/issue-of-options-uecgse2mfhbhtek.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-e113903e2b0f727ca8873fbd",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/GRL/directorate-change-zo6sjhv537dqwca.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3182S",
+              "source_url": "https://www.lse.co.uk/rns/GRL/directorate-change-zo6sjhv537dqwca.html",
+              "time": "6:24 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-dea31fcf8ab725af9b7d283a",
               "headline": "Result of EGM and TVR",
-              "source_url": "https://www.lse.co.uk/rns/GRL/result-of-egm-and-tvr-zb5a0nq94encptn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9394R",
+              "source_url": "https://www.lse.co.uk/rns/GRL/result-of-egm-and-tvr-zb5a0nq94encptn.html",
+              "time": "3:03 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-2e4eff51c23901b1927680ea",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-5dwoy0c0sloz7qu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6002R",
+              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-5dwoy0c0sloz7qu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-15ae2022f4aef30ff05b4430",
               "headline": "EGM Notice,Subscription,Interest & Fee Conversions",
-              "source_url": "https://www.lse.co.uk/rns/GRL/egm-noticesubscriptioninterest-fee-conversions-drg8odv5c8957cx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6827P",
+              "source_url": "https://www.lse.co.uk/rns/GRL/egm-noticesubscriptioninterest-fee-conversions-drg8odv5c8957cx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jan 2026",
+              "event_id": "rns-29194bd5db5d33903fb9c9c9",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-3dkno3a7dktqc1w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8996N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-3dkno3a7dktqc1w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Dec 2025",
+              "event_id": "rns-4f37d1614abb584a65b0a615",
               "headline": "Gold Loan Standstill Extension",
-              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-ef0pbtlupc9n2zj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0482N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-ef0pbtlupc9n2zj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Dec 2025",
+              "event_id": "rns-4f37d1614abb584a65b0a615",
               "headline": "Gold Loan Standstill Extension",
-              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-gya46868s7gc5a5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0482N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-gya46868s7gc5a5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Dec 2025",
+              "event_id": "rns-5df3909cc24a3897be515d13",
               "headline": "Director Appointments",
-              "source_url": "https://www.lse.co.uk/rns/GRL/director-appointments-cpvkt54f6amdwma.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3777M",
+              "source_url": "https://www.lse.co.uk/rns/GRL/director-appointments-cpvkt54f6amdwma.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27367,58 +27479,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-08-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 8.45,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.32499998807907104,
             "date": "2025-08-12",
             "status": "EXACT"
           },
           "relative_activity": 8.45,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GRL.L:2025-08-12",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-08-13",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.03,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.2750000059604645,
             "date": "2025-08-13",
             "status": "EXACT"
           },
           "relative_activity": 2.03,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "GRL.L:2025-08-13",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-08-18",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.81,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.3499999940395355,
             "date": "2025-08-18",
             "status": "EXACT"
           },
           "relative_activity": 1.81,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "GRL.L:2025-08-18",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40966,141 +41090,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-1318b576b4df592b38d04878",
           "headline": "Homase Drilling Commencement & Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9523O",
+          "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-3b577d1ec42a9230bf140425",
           "headline": "Admission of Shares & Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4833N",
+          "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-6e4bb19db16d3efb9778b443",
           "headline": "Variation to Subscription",
-          "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0517M",
+          "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-06",
+          "event_id": "rns-73285283e1e2b4f5a667814d",
           "headline": "\u00a33.51 million Subscription and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1324L",
+          "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-7e3ddf1d27f9302df523c5fc",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4871K",
+          "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-29",
+          "event_id": "rns-47fe4858861c8980ce1b9f72",
           "headline": "Gold Loan Standstill Extension",
-          "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-tgj45kyjme32g3q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0754K",
+          "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-tgj45kyjme32g3q.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-2ffc39843add8584912ceee0",
           "headline": "Sierra Leone Update",
-          "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-update-th0e0mwhu8ef0o1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5491G",
+          "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-update-th0e0mwhu8ef0o1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-05",
+          "event_id": "rns-61c3284dd058a64f95ff6b11",
           "headline": "Operational Update and Growth Strategy",
-          "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-and-growth-strategy-kzq690st8qubx6u.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0399D",
+          "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-and-growth-strategy-kzq690st8qubx6u.html",
+          "time": "8:16 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-07",
+          "event_id": "rns-7517c9961d32e4fc97149982",
           "headline": "Appointment of NED and Board Role Change",
-          "source_url": "https://www.lse.co.uk/rns/GRL/appointment-of-ned-and-board-role-change-1yvaspr0smm26wp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3896Z",
+          "source_url": "https://www.lse.co.uk/rns/GRL/appointment-of-ned-and-board-role-change-1yvaspr0smm26wp.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-db3071a1bbfefcbc5dcb4a3c",
           "headline": "Sierra Leone Investment",
-          "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-5exyf2kr4ryg5v6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8607W",
+          "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-5exyf2kr4ryg5v6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-db3071a1bbfefcbc5dcb4a3c",
           "headline": "Sierra Leone Investment",
-          "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-hz83nawsamjlz0u.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8607W",
+          "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-hz83nawsamjlz0u.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-19",
+          "event_id": "rns-c03dde1d51ed9c1b06702741",
           "headline": "Issue of Options",
-          "source_url": "https://www.lse.co.uk/rns/GRL/issue-of-options-uecgse2mfhbhtek.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6527T",
+          "source_url": "https://www.lse.co.uk/rns/GRL/issue-of-options-uecgse2mfhbhtek.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-09",
+          "event_id": "rns-e113903e2b0f727ca8873fbd",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/GRL/directorate-change-zo6sjhv537dqwca.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3182S",
+          "source_url": "https://www.lse.co.uk/rns/GRL/directorate-change-zo6sjhv537dqwca.html",
+          "time": "6:24 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-05",
+          "event_id": "rns-dea31fcf8ab725af9b7d283a",
           "headline": "Result of EGM and TVR",
-          "source_url": "https://www.lse.co.uk/rns/GRL/result-of-egm-and-tvr-zb5a0nq94encptn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9394R",
+          "source_url": "https://www.lse.co.uk/rns/GRL/result-of-egm-and-tvr-zb5a0nq94encptn.html",
+          "time": "3:03 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-04",
+          "event_id": "rns-2e4eff51c23901b1927680ea",
           "headline": "Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-5dwoy0c0sloz7qu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6002R",
+          "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-5dwoy0c0sloz7qu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21",
+          "event_id": "rns-15ae2022f4aef30ff05b4430",
           "headline": "EGM Notice,Subscription,Interest & Fee Conversions",
-          "source_url": "https://www.lse.co.uk/rns/GRL/egm-noticesubscriptioninterest-fee-conversions-drg8odv5c8957cx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6827P",
+          "source_url": "https://www.lse.co.uk/rns/GRL/egm-noticesubscriptioninterest-fee-conversions-drg8odv5c8957cx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-07",
+          "event_id": "rns-29194bd5db5d33903fb9c9c9",
           "headline": "Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-3dkno3a7dktqc1w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8996N",
+          "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-3dkno3a7dktqc1w.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-30",
+          "event_id": "rns-4f37d1614abb584a65b0a615",
           "headline": "Gold Loan Standstill Extension",
-          "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-ef0pbtlupc9n2zj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0482N",
+          "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-ef0pbtlupc9n2zj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-30",
+          "event_id": "rns-4f37d1614abb584a65b0a615",
           "headline": "Gold Loan Standstill Extension",
-          "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-gya46868s7gc5a5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0482N",
+          "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-gya46868s7gc5a5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-22",
+          "event_id": "rns-5df3909cc24a3897be515d13",
           "headline": "Director Appointments",
-          "source_url": "https://www.lse.co.uk/rns/GRL/director-appointments-cpvkt54f6amdwma.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3777M",
+          "source_url": "https://www.lse.co.uk/rns/GRL/director-appointments-cpvkt54f6amdwma.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41108,36 +41332,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-1318b576b4df592b38d04878",
           "headline": "Homase Drilling Commencement & Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9523O",
+          "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-3b577d1ec42a9230bf140425",
           "headline": "Admission of Shares & Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4833N",
+          "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-6e4bb19db16d3efb9778b443",
           "headline": "Variation to Subscription",
-          "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0517M",
+          "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-06",
+          "event_id": "rns-73285283e1e2b4f5a667814d",
           "headline": "\u00a33.51 million Subscription and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1324L",
+          "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-7e3ddf1d27f9302df523c5fc",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4871K",
+          "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41185,58 +41434,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 8.45,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.32499998807907104,
                 "date": "2025-08-12",
                 "status": "EXACT"
               },
               "relative_activity": 8.45,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GRL.L:2025-08-12",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.03,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.2750000059604645,
                 "date": "2025-08-13",
                 "status": "EXACT"
               },
               "relative_activity": 2.03,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "GRL.L:2025-08-13",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-08-18",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.81,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.3499999940395355,
                 "date": "2025-08-18",
                 "status": "EXACT"
               },
               "relative_activity": 1.81,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "GRL.L:2025-08-18",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68328,141 +68589,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-1318b576b4df592b38d04878",
               "headline": "Homase Drilling Commencement & Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9523O",
+              "source_url": "https://www.lse.co.uk/rns/GRL/homase-drilling-commencement-operational-update-ew2kbf6h042f9b8.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-3b577d1ec42a9230bf140425",
               "headline": "Admission of Shares & Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4833N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/admission-of-shares-total-voting-rights-1evwv400k9ivs5a.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-6e4bb19db16d3efb9778b443",
               "headline": "Variation to Subscription",
-              "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0517M",
+              "source_url": "https://www.lse.co.uk/rns/GRL/variation-to-subscription-bj9baqtoi1adhex.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-73285283e1e2b4f5a667814d",
               "headline": "\u00a33.51 million Subscription and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1324L",
+              "source_url": "https://www.lse.co.uk/rns/GRL/163351-million-subscription-and-total-voting-rights-ms2r1gj1ewvzmy8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-7e3ddf1d27f9302df523c5fc",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4871K",
+              "source_url": "https://www.lse.co.uk/rns/GRL/final-results-dy9xli1mbk8jir6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-47fe4858861c8980ce1b9f72",
               "headline": "Gold Loan Standstill Extension",
-              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-tgj45kyjme32g3q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0754K",
+              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-tgj45kyjme32g3q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-2ffc39843add8584912ceee0",
               "headline": "Sierra Leone Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-update-th0e0mwhu8ef0o1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5491G",
+              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-update-th0e0mwhu8ef0o1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th May 2026",
+              "event_id": "rns-61c3284dd058a64f95ff6b11",
               "headline": "Operational Update and Growth Strategy",
-              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-and-growth-strategy-kzq690st8qubx6u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0399D",
+              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-and-growth-strategy-kzq690st8qubx6u.html",
+              "time": "8:16 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Apr 2026",
+              "event_id": "rns-7517c9961d32e4fc97149982",
               "headline": "Appointment of NED and Board Role Change",
-              "source_url": "https://www.lse.co.uk/rns/GRL/appointment-of-ned-and-board-role-change-1yvaspr0smm26wp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3896Z",
+              "source_url": "https://www.lse.co.uk/rns/GRL/appointment-of-ned-and-board-role-change-1yvaspr0smm26wp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-db3071a1bbfefcbc5dcb4a3c",
               "headline": "Sierra Leone Investment",
-              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-5exyf2kr4ryg5v6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8607W",
+              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-5exyf2kr4ryg5v6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-db3071a1bbfefcbc5dcb4a3c",
               "headline": "Sierra Leone Investment",
-              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-hz83nawsamjlz0u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8607W",
+              "source_url": "https://www.lse.co.uk/rns/GRL/sierra-leone-investment-hz83nawsamjlz0u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Feb 2026",
+              "event_id": "rns-c03dde1d51ed9c1b06702741",
               "headline": "Issue of Options",
-              "source_url": "https://www.lse.co.uk/rns/GRL/issue-of-options-uecgse2mfhbhtek.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6527T",
+              "source_url": "https://www.lse.co.uk/rns/GRL/issue-of-options-uecgse2mfhbhtek.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-e113903e2b0f727ca8873fbd",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/GRL/directorate-change-zo6sjhv537dqwca.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3182S",
+              "source_url": "https://www.lse.co.uk/rns/GRL/directorate-change-zo6sjhv537dqwca.html",
+              "time": "6:24 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-dea31fcf8ab725af9b7d283a",
               "headline": "Result of EGM and TVR",
-              "source_url": "https://www.lse.co.uk/rns/GRL/result-of-egm-and-tvr-zb5a0nq94encptn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9394R",
+              "source_url": "https://www.lse.co.uk/rns/GRL/result-of-egm-and-tvr-zb5a0nq94encptn.html",
+              "time": "3:03 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-2e4eff51c23901b1927680ea",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-5dwoy0c0sloz7qu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6002R",
+              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-5dwoy0c0sloz7qu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-15ae2022f4aef30ff05b4430",
               "headline": "EGM Notice,Subscription,Interest & Fee Conversions",
-              "source_url": "https://www.lse.co.uk/rns/GRL/egm-noticesubscriptioninterest-fee-conversions-drg8odv5c8957cx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6827P",
+              "source_url": "https://www.lse.co.uk/rns/GRL/egm-noticesubscriptioninterest-fee-conversions-drg8odv5c8957cx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Jan 2026",
+              "event_id": "rns-29194bd5db5d33903fb9c9c9",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-3dkno3a7dktqc1w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8996N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/operational-update-3dkno3a7dktqc1w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Dec 2025",
+              "event_id": "rns-4f37d1614abb584a65b0a615",
               "headline": "Gold Loan Standstill Extension",
-              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-ef0pbtlupc9n2zj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0482N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-ef0pbtlupc9n2zj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Dec 2025",
+              "event_id": "rns-4f37d1614abb584a65b0a615",
               "headline": "Gold Loan Standstill Extension",
-              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-gya46868s7gc5a5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0482N",
+              "source_url": "https://www.lse.co.uk/rns/GRL/gold-loan-standstill-extension-gya46868s7gc5a5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Dec 2025",
+              "event_id": "rns-5df3909cc24a3897be515d13",
               "headline": "Director Appointments",
-              "source_url": "https://www.lse.co.uk/rns/GRL/director-appointments-cpvkt54f6amdwma.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3777M",
+              "source_url": "https://www.lse.co.uk/rns/GRL/director-appointments-cpvkt54f6amdwma.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

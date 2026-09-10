@@ -21,77 +21,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.15,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-05-15",
                 "status": "EXACT"
               },
               "relative_activity": 2.15,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-05-15",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2024-05-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.9,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-05-21",
                 "status": "EXACT"
               },
               "relative_activity": 1.9,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-05-21",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2024-05-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.26,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-05-30",
                 "status": "EXACT"
               },
               "relative_activity": 2.26,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-05-30",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2024-06-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.41,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-06-03",
                 "status": "EXACT"
               },
               "relative_activity": 2.41,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-06-03",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             }
@@ -27161,141 +27177,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Aug 2026",
+              "event_id": "rns-ae1be70a993b5b35d790b42c",
               "headline": "Commercial update for PowerPlay Media",
-              "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3996R",
+              "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-c7d40581be2afe0d9718fd8e",
               "headline": "Update on Reverse Takeover Target",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0549K",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-092f9d92671e9cca2060af44",
               "headline": "Convertible Loan Note",
-              "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8125U",
+              "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-0d742521ef9c79f3decdf335",
               "headline": "Broker Appointment",
-              "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9331R",
+              "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html",
+              "time": "1:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-6d2ff00176c5348c71eb7214",
               "headline": "Director Appointment",
-              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7537O",
+              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html",
+              "time": "4:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-071826582bcacee01008e481",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-2k4uk1z9ez9cp1m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7539O",
+              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-2k4uk1z9ez9cp1m.html",
+              "time": "4:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jan 2026",
+              "event_id": "rns-1644db79defb5f337e015280",
               "headline": "Update on Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-interim-results-d7532cm2l7u3mdz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5156N",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-interim-results-d7532cm2l7u3mdz.html",
+              "time": "12:34 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Oct 2025",
+              "event_id": "rns-9dc5ddc80425af6f4224f20e",
               "headline": "Update",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-epib0umjbf59wgy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5636D",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-epib0umjbf59wgy.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-5fcba27105b8f544da963806",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-0txy1uotfhsbwuw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2473T",
+              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-0txy1uotfhsbwuw.html",
+              "time": "3:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2025",
+              "event_id": "rns-22579cc0e6c23b855fa4d740",
               "headline": "Update",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-sogjwib1jbloaac.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2669M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-sogjwib1jbloaac.html",
+              "time": "4:37 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2025",
+              "event_id": "rns-5adf65ee6281e51ca8a0a09a",
               "headline": "Related Party Transaction",
-              "source_url": "https://www.lse.co.uk/rns/CHL/related-party-transaction-jjh5z2wx70jx4vl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2645K",
+              "source_url": "https://www.lse.co.uk/rns/CHL/related-party-transaction-jjh5z2wx70jx4vl.html",
+              "time": "12:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2025",
+              "event_id": "rns-80982a98306641306481f992",
               "headline": "Update",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-p4vu0rl47msrmla.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1257H",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-p4vu0rl47msrmla.html",
+              "time": "4:03 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2025",
+              "event_id": "rns-df567ceba16ab7485767fe9c",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-kor4gw72m35hore.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5548W",
+              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-kor4gw72m35hore.html",
+              "time": "12:47 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2025",
+              "event_id": "rns-0943b924f52c3dc312b59c6f",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-4akch27j0ewxif8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5549W",
+              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-4akch27j0ewxif8.html",
+              "time": "12:51 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2024",
+              "event_id": "rns-3fd100bcceb8065013319f3c",
               "headline": "Corporate Update and Continuation of Suspension",
-              "source_url": "https://www.lse.co.uk/rns/CHL/corporate-update-and-continuation-of-suspension-k25b8fsyx9dokd4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7718P",
+              "source_url": "https://www.lse.co.uk/rns/CHL/corporate-update-and-continuation-of-suspension-k25b8fsyx9dokd4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2024",
+              "event_id": "rns-0a978df8e1a420fd97bb7478",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-k3qi43blij2wgmt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1405N",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-k3qi43blij2wgmt.html",
+              "time": "7:13 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Nov 2024",
+              "event_id": "rns-a49bbddd85e36de165dc9f1b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-555xhn4vc6bkk49.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9991M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-555xhn4vc6bkk49.html",
+              "time": "11:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Nov 2024",
+              "event_id": "rns-12bcad5a0d0ae587d54f43db",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8biu2loq990g1j3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0259N",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8biu2loq990g1j3.html",
+              "time": "4:43 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Nov 2024",
+              "event_id": "rns-8a5abd533286f035dd030d94",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8cmo901k3rjcfqi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9985M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8cmo901k3rjcfqi.html",
+              "time": "11:51 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Nov 2024",
+              "event_id": "rns-c3e5ea7c198218a88a9eb701",
               "headline": "Director Appointments & Completion of Subscription",
-              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointments-completion-of-subscription-6lakkoxst0qo9va.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1675M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointments-completion-of-subscription-6lakkoxst0qo9va.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27374,77 +27490,93 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-05-15",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.15,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4,
             "date": "2024-05-15",
             "status": "EXACT"
           },
           "relative_activity": 2.15,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "CHL.L:2024-05-15",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2024-05-21",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 1.9,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4,
             "date": "2024-05-21",
             "status": "EXACT"
           },
           "relative_activity": 1.9,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "CHL.L:2024-05-21",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2024-05-30",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 2.26,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4,
             "date": "2024-05-30",
             "status": "EXACT"
           },
           "relative_activity": 2.26,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "CHL.L:2024-05-30",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2024-06-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 2.41,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 4,
             "date": "2024-06-03",
             "status": "EXACT"
           },
           "relative_activity": 2.41,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "CHL.L:2024-06-03",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         }
@@ -40976,141 +41108,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-20",
+          "event_id": "rns-ae1be70a993b5b35d790b42c",
           "headline": "Commercial update for PowerPlay Media",
-          "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3996R",
+          "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-29",
+          "event_id": "rns-c7d40581be2afe0d9718fd8e",
           "headline": "Update on Reverse Takeover Target",
-          "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0549K",
+          "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-02",
+          "event_id": "rns-092f9d92671e9cca2060af44",
           "headline": "Convertible Loan Note",
-          "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8125U",
+          "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-05",
+          "event_id": "rns-0d742521ef9c79f3decdf335",
           "headline": "Broker Appointment",
-          "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9331R",
+          "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html",
+          "time": "1:50 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-6d2ff00176c5348c71eb7214",
           "headline": "Director Appointment",
-          "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7537O",
+          "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html",
+          "time": "4:01 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-071826582bcacee01008e481",
           "headline": "Interim results",
-          "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-2k4uk1z9ez9cp1m.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7539O",
+          "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-2k4uk1z9ez9cp1m.html",
+          "time": "4:08 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-02",
+          "event_id": "rns-1644db79defb5f337e015280",
           "headline": "Update on Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/CHL/update-on-interim-results-d7532cm2l7u3mdz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5156N",
+          "source_url": "https://www.lse.co.uk/rns/CHL/update-on-interim-results-d7532cm2l7u3mdz.html",
+          "time": "12:34 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-16",
+          "event_id": "rns-9dc5ddc80425af6f4224f20e",
           "headline": "Update",
-          "source_url": "https://www.lse.co.uk/rns/CHL/update-epib0umjbf59wgy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5636D",
+          "source_url": "https://www.lse.co.uk/rns/CHL/update-epib0umjbf59wgy.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-30",
+          "event_id": "rns-5fcba27105b8f544da963806",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/CHL/final-results-0txy1uotfhsbwuw.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2473T",
+          "source_url": "https://www.lse.co.uk/rns/CHL/final-results-0txy1uotfhsbwuw.html",
+          "time": "3:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-10",
+          "event_id": "rns-22579cc0e6c23b855fa4d740",
           "headline": "Update",
-          "source_url": "https://www.lse.co.uk/rns/CHL/update-sogjwib1jbloaac.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2669M",
+          "source_url": "https://www.lse.co.uk/rns/CHL/update-sogjwib1jbloaac.html",
+          "time": "4:37 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-27",
+          "event_id": "rns-5adf65ee6281e51ca8a0a09a",
           "headline": "Related Party Transaction",
-          "source_url": "https://www.lse.co.uk/rns/CHL/related-party-transaction-jjh5z2wx70jx4vl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2645K",
+          "source_url": "https://www.lse.co.uk/rns/CHL/related-party-transaction-jjh5z2wx70jx4vl.html",
+          "time": "12:50 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-01",
+          "event_id": "rns-80982a98306641306481f992",
           "headline": "Update",
-          "source_url": "https://www.lse.co.uk/rns/CHL/update-p4vu0rl47msrmla.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1257H",
+          "source_url": "https://www.lse.co.uk/rns/CHL/update-p4vu0rl47msrmla.html",
+          "time": "4:03 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-10",
+          "event_id": "rns-df567ceba16ab7485767fe9c",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/CHL/final-results-kor4gw72m35hore.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5548W",
+          "source_url": "https://www.lse.co.uk/rns/CHL/final-results-kor4gw72m35hore.html",
+          "time": "12:47 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-02-10",
+          "event_id": "rns-0943b924f52c3dc312b59c6f",
           "headline": "Interim results",
-          "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-4akch27j0ewxif8.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5549W",
+          "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-4akch27j0ewxif8.html",
+          "time": "12:51 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-12",
+          "event_id": "rns-3fd100bcceb8065013319f3c",
           "headline": "Corporate Update and Continuation of Suspension",
-          "source_url": "https://www.lse.co.uk/rns/CHL/corporate-update-and-continuation-of-suspension-k25b8fsyx9dokd4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7718P",
+          "source_url": "https://www.lse.co.uk/rns/CHL/corporate-update-and-continuation-of-suspension-k25b8fsyx9dokd4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-21",
+          "event_id": "rns-0a978df8e1a420fd97bb7478",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-k3qi43blij2wgmt.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1405N",
+          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-k3qi43blij2wgmt.html",
+          "time": "7:13 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-20",
+          "event_id": "rns-a49bbddd85e36de165dc9f1b",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-555xhn4vc6bkk49.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9991M",
+          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-555xhn4vc6bkk49.html",
+          "time": "11:56 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-20",
+          "event_id": "rns-12bcad5a0d0ae587d54f43db",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8biu2loq990g1j3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0259N",
+          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8biu2loq990g1j3.html",
+          "time": "4:43 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-20",
+          "event_id": "rns-8a5abd533286f035dd030d94",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8cmo901k3rjcfqi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9985M",
+          "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8cmo901k3rjcfqi.html",
+          "time": "11:51 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-11-14",
+          "event_id": "rns-c3e5ea7c198218a88a9eb701",
           "headline": "Director Appointments & Completion of Subscription",
-          "source_url": "https://www.lse.co.uk/rns/CHL/director-appointments-completion-of-subscription-6lakkoxst0qo9va.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1675M",
+          "source_url": "https://www.lse.co.uk/rns/CHL/director-appointments-completion-of-subscription-6lakkoxst0qo9va.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41118,36 +41350,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-20",
+          "event_id": "rns-ae1be70a993b5b35d790b42c",
           "headline": "Commercial update for PowerPlay Media",
-          "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3996R",
+          "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-29",
+          "event_id": "rns-c7d40581be2afe0d9718fd8e",
           "headline": "Update on Reverse Takeover Target",
-          "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0549K",
+          "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-02",
+          "event_id": "rns-092f9d92671e9cca2060af44",
           "headline": "Convertible Loan Note",
-          "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8125U",
+          "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-05",
+          "event_id": "rns-0d742521ef9c79f3decdf335",
           "headline": "Broker Appointment",
-          "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9331R",
+          "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html",
+          "time": "1:50 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-6d2ff00176c5348c71eb7214",
           "headline": "Director Appointment",
-          "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7537O",
+          "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html",
+          "time": "4:01 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41195,77 +41452,93 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.15,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-05-15",
                 "status": "EXACT"
               },
               "relative_activity": 2.15,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-05-15",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2024-05-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.9,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-05-21",
                 "status": "EXACT"
               },
               "relative_activity": 1.9,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-05-21",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2024-05-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.26,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-05-30",
                 "status": "EXACT"
               },
               "relative_activity": 2.26,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-05-30",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2024-06-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.41,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 4,
                 "date": "2024-06-03",
                 "status": "EXACT"
               },
               "relative_activity": 2.41,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "CHL.L:2024-06-03",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             }
@@ -68335,141 +68608,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Aug 2026",
+              "event_id": "rns-ae1be70a993b5b35d790b42c",
               "headline": "Commercial update for PowerPlay Media",
-              "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3996R",
+              "source_url": "https://www.lse.co.uk/rns/CHL/commercial-update-for-powerplay-media-0hmuzaph07ercb7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-c7d40581be2afe0d9718fd8e",
               "headline": "Update on Reverse Takeover Target",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0549K",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-reverse-takeover-target-g1qki0lh7fn53k4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-092f9d92671e9cca2060af44",
               "headline": "Convertible Loan Note",
-              "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8125U",
+              "source_url": "https://www.lse.co.uk/rns/CHL/convertible-loan-note-w4hitua24vragxu.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Feb 2026",
+              "event_id": "rns-0d742521ef9c79f3decdf335",
               "headline": "Broker Appointment",
-              "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9331R",
+              "source_url": "https://www.lse.co.uk/rns/CHL/broker-appointment-g6rdbkrdwe692d6.html",
+              "time": "1:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-6d2ff00176c5348c71eb7214",
               "headline": "Director Appointment",
-              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7537O",
+              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointment-50h5olluurtzkx8.html",
+              "time": "4:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-071826582bcacee01008e481",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-2k4uk1z9ez9cp1m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7539O",
+              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-2k4uk1z9ez9cp1m.html",
+              "time": "4:08 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jan 2026",
+              "event_id": "rns-1644db79defb5f337e015280",
               "headline": "Update on Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-interim-results-d7532cm2l7u3mdz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5156N",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-on-interim-results-d7532cm2l7u3mdz.html",
+              "time": "12:34 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Oct 2025",
+              "event_id": "rns-9dc5ddc80425af6f4224f20e",
               "headline": "Update",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-epib0umjbf59wgy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5636D",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-epib0umjbf59wgy.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-5fcba27105b8f544da963806",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-0txy1uotfhsbwuw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2473T",
+              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-0txy1uotfhsbwuw.html",
+              "time": "3:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jun 2025",
+              "event_id": "rns-22579cc0e6c23b855fa4d740",
               "headline": "Update",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-sogjwib1jbloaac.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2669M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-sogjwib1jbloaac.html",
+              "time": "4:37 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2025",
+              "event_id": "rns-5adf65ee6281e51ca8a0a09a",
               "headline": "Related Party Transaction",
-              "source_url": "https://www.lse.co.uk/rns/CHL/related-party-transaction-jjh5z2wx70jx4vl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2645K",
+              "source_url": "https://www.lse.co.uk/rns/CHL/related-party-transaction-jjh5z2wx70jx4vl.html",
+              "time": "12:50 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2025",
+              "event_id": "rns-80982a98306641306481f992",
               "headline": "Update",
-              "source_url": "https://www.lse.co.uk/rns/CHL/update-p4vu0rl47msrmla.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1257H",
+              "source_url": "https://www.lse.co.uk/rns/CHL/update-p4vu0rl47msrmla.html",
+              "time": "4:03 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2025",
+              "event_id": "rns-df567ceba16ab7485767fe9c",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-kor4gw72m35hore.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5548W",
+              "source_url": "https://www.lse.co.uk/rns/CHL/final-results-kor4gw72m35hore.html",
+              "time": "12:47 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2025",
+              "event_id": "rns-0943b924f52c3dc312b59c6f",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-4akch27j0ewxif8.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5549W",
+              "source_url": "https://www.lse.co.uk/rns/CHL/interim-results-4akch27j0ewxif8.html",
+              "time": "12:51 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2024",
+              "event_id": "rns-3fd100bcceb8065013319f3c",
               "headline": "Corporate Update and Continuation of Suspension",
-              "source_url": "https://www.lse.co.uk/rns/CHL/corporate-update-and-continuation-of-suspension-k25b8fsyx9dokd4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7718P",
+              "source_url": "https://www.lse.co.uk/rns/CHL/corporate-update-and-continuation-of-suspension-k25b8fsyx9dokd4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Nov 2024",
+              "event_id": "rns-0a978df8e1a420fd97bb7478",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-k3qi43blij2wgmt.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1405N",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-k3qi43blij2wgmt.html",
+              "time": "7:13 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Nov 2024",
+              "event_id": "rns-a49bbddd85e36de165dc9f1b",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-555xhn4vc6bkk49.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9991M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-555xhn4vc6bkk49.html",
+              "time": "11:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Nov 2024",
+              "event_id": "rns-12bcad5a0d0ae587d54f43db",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8biu2loq990g1j3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0259N",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8biu2loq990g1j3.html",
+              "time": "4:43 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Nov 2024",
+              "event_id": "rns-8a5abd533286f035dd030d94",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8cmo901k3rjcfqi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9985M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/holdings-in-company-8cmo901k3rjcfqi.html",
+              "time": "11:51 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Nov 2024",
+              "event_id": "rns-c3e5ea7c198218a88a9eb701",
               "headline": "Director Appointments & Completion of Subscription",
-              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointments-completion-of-subscription-6lakkoxst0qo9va.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1675M",
+              "source_url": "https://www.lse.co.uk/rns/CHL/director-appointments-completion-of-subscription-6lakkoxst0qo9va.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

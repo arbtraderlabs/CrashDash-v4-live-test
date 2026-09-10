@@ -21,96 +21,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.56,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5,
                 "date": "2023-01-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.56,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KRS.L:2023-01-04",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5,
                 "date": "2023-01-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KRS.L:2023-01-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.16,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.200000047683716,
                 "date": "2023-01-06",
                 "status": "EXACT"
               },
               "relative_activity": 3.16,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KRS.L:2023-01-06",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-02-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 10.26,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.9500000476837158,
                 "date": "2023-02-02",
                 "status": "EXACT"
               },
               "relative_activity": 10.26,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "KRS.L:2023-02-02",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-02-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 3.07,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.899999976158142,
                 "date": "2023-02-03",
                 "status": "EXACT"
               },
               "relative_activity": 3.07,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "KRS.L:2023-02-03",
               "signal_type": "DEEP CRASH BOTTOM"
             }
@@ -27164,141 +27184,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-9670a2e2b82180ed614624ad",
               "headline": "Suspended Companies Notice - Deletion",
-              "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1210S",
+              "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html",
+              "time": "6:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2026",
+              "event_id": "rns-66a72f3b2305bf3d99489418",
               "headline": "Annual Results timing update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4338O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-489ac854be5c9e3dc4858e15",
               "headline": "Suspension - Keras Resources Plc",
-              "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4432K",
+              "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-bf57d52df67aad8bfea0cff3",
               "headline": "Annual Results Update & Suspension",
-              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4199K",
+              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html",
+              "time": "1:14 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-eb81e9e774325bf6dbcf7015",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1031B",
+              "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Sep 2025",
+              "event_id": "rns-3e5bb5720c6b7513f64c3912",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-p1tbgff5ze917yj.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8924A",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-p1tbgff5ze917yj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-150d4bda70df4d457aec6d7f",
               "headline": "Issue of Shares to Russell Lamming",
-              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-shares-to-russell-lamming-iatgk6keq54nxsz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4106V",
+              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-shares-to-russell-lamming-iatgk6keq54nxsz.html",
+              "time": "4:40 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-90a0a8a91c425d3d3566c4a2",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-annual-general-meeting-y78iwuk03k8x738.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4009V",
+              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-annual-general-meeting-y78iwuk03k8x738.html",
+              "time": "2:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-b6ac96ad1bd1c480544ea65a",
               "headline": "Result of Open Offer and General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-open-offer-and-general-meeting-n81dntjz6bc6v17.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4022V",
+              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-open-offer-and-general-meeting-n81dntjz6bc6v17.html",
+              "time": "2:28 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Aug 2025",
+              "event_id": "rns-0ecd06addf55907b8dec4ab3",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-im46xhp9rw7bjuw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5068U",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-im46xhp9rw7bjuw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jul 2025",
+              "event_id": "rns-eb0bf44d7c82da91fecbd732",
               "headline": "Launch of Open Offer and Rule 9 Waiver",
-              "source_url": "https://www.lse.co.uk/rns/KRS/launch-of-open-offer-and-rule-9-waiver-vb63t83tqm5z581.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8288R",
+              "source_url": "https://www.lse.co.uk/rns/KRS/launch-of-open-offer-and-rule-9-waiver-vb63t83tqm5z581.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jul 2025",
+              "event_id": "rns-fc89d69c0f0160fc1a752c9c",
               "headline": "Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/KRS/notice-of-annual-general-meeting-lli3omhyokm37wo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8291R",
+              "source_url": "https://www.lse.co.uk/rns/KRS/notice-of-annual-general-meeting-lli3omhyokm37wo.html",
+              "time": "7:05 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-888e7e1bac43a847d6cc91c6",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/KRS/final-results-k3io181qeydyaot.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8956O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/final-results-k3io181qeydyaot.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2025",
+              "event_id": "rns-d7857b3d5b557e0aa7082b2d",
               "headline": "Issue of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-convertible-loan-notes-fptj4nwrg596sj5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6078O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-convertible-loan-notes-fptj4nwrg596sj5.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jun 2025",
+              "event_id": "rns-be6ad0d137f5435af244eda2",
               "headline": "Togo Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/togo-update-b3z81h74hgfbsd3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7097L",
+              "source_url": "https://www.lse.co.uk/rns/KRS/togo-update-b3z81h74hgfbsd3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Apr 2025",
+              "event_id": "rns-0e5f773cae519d3a747a4655",
               "headline": "Issue of New Shares",
-              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-new-shares-s6x0qkjvwt4kue1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9796D",
+              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-new-shares-s6x0qkjvwt4kue1.html",
+              "time": "3:43 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Apr 2025",
+              "event_id": "rns-6ae350a434898605cc2c22c4",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-sv11rfmpuquzc9r.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6258D",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-sv11rfmpuquzc9r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Mar 2025",
+              "event_id": "rns-4e9c5e793c3e29285cea75e5",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-ins7dhat1ck3jz2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1451C",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-ins7dhat1ck3jz2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jan 2025",
+              "event_id": "rns-e3e95ae5a0568e5434def773",
               "headline": "Management Change",
-              "source_url": "https://www.lse.co.uk/rns/KRS/management-change-wolnej4gm0v5tml.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6810T",
+              "source_url": "https://www.lse.co.uk/rns/KRS/management-change-wolnej4gm0v5tml.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Dec 2024",
+              "event_id": "rns-9d4f9eb06d3af5b0bf45e381",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/KRS/total-voting-rights-boj56kzmymn4k3x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7846O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/total-voting-rights-boj56kzmymn4k3x.html",
+              "time": "9:40 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27377,96 +27497,116 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-01-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.56,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.5,
             "date": "2023-01-04",
             "status": "EXACT"
           },
           "relative_activity": 1.56,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KRS.L:2023-01-04",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-01-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.65,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.5,
             "date": "2023-01-05",
             "status": "EXACT"
           },
           "relative_activity": 1.65,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KRS.L:2023-01-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-01-06",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.16,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.200000047683716,
             "date": "2023-01-06",
             "status": "EXACT"
           },
           "relative_activity": 3.16,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "KRS.L:2023-01-06",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-02-02",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 10.26,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.9500000476837158,
             "date": "2023-02-02",
             "status": "EXACT"
           },
           "relative_activity": 10.26,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "KRS.L:2023-02-02",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-02-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 3.07,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.899999976158142,
             "date": "2023-02-03",
             "status": "EXACT"
           },
           "relative_activity": 3.07,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "KRS.L:2023-02-03",
           "signal_type": "DEEP CRASH BOTTOM"
         }
@@ -40990,141 +41130,241 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-9670a2e2b82180ed614624ad",
           "headline": "Suspended Companies Notice - Deletion",
-          "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1210S",
+          "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html",
+          "time": "6:00 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-30",
+          "event_id": "rns-66a72f3b2305bf3d99489418",
           "headline": "Annual Results timing update",
-          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4338O",
+          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-489ac854be5c9e3dc4858e15",
           "headline": "Suspension - Keras Resources Plc",
-          "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4432K",
+          "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html",
+          "time": "7:30 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-bf57d52df67aad8bfea0cff3",
           "headline": "Annual Results Update & Suspension",
-          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4199K",
+          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html",
+          "time": "1:14 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-eb81e9e774325bf6dbcf7015",
           "headline": "Interim results",
-          "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1031B",
+          "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-26",
+          "event_id": "rns-3e5bb5720c6b7513f64c3912",
           "headline": "Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-p1tbgff5ze917yj.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8924A",
+          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-p1tbgff5ze917yj.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-14",
+          "event_id": "rns-150d4bda70df4d457aec6d7f",
           "headline": "Issue of Shares to Russell Lamming",
-          "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-shares-to-russell-lamming-iatgk6keq54nxsz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4106V",
+          "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-shares-to-russell-lamming-iatgk6keq54nxsz.html",
+          "time": "4:40 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-14",
+          "event_id": "rns-90a0a8a91c425d3d3566c4a2",
           "headline": "Result of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/KRS/result-of-annual-general-meeting-y78iwuk03k8x738.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4009V",
+          "source_url": "https://www.lse.co.uk/rns/KRS/result-of-annual-general-meeting-y78iwuk03k8x738.html",
+          "time": "2:07 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-14",
+          "event_id": "rns-b6ac96ad1bd1c480544ea65a",
           "headline": "Result of Open Offer and General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/KRS/result-of-open-offer-and-general-meeting-n81dntjz6bc6v17.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4022V",
+          "source_url": "https://www.lse.co.uk/rns/KRS/result-of-open-offer-and-general-meeting-n81dntjz6bc6v17.html",
+          "time": "2:28 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-08",
+          "event_id": "rns-0ecd06addf55907b8dec4ab3",
           "headline": "Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-im46xhp9rw7bjuw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5068U",
+          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-im46xhp9rw7bjuw.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-21",
+          "event_id": "rns-eb0bf44d7c82da91fecbd732",
           "headline": "Launch of Open Offer and Rule 9 Waiver",
-          "source_url": "https://www.lse.co.uk/rns/KRS/launch-of-open-offer-and-rule-9-waiver-vb63t83tqm5z581.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8288R",
+          "source_url": "https://www.lse.co.uk/rns/KRS/launch-of-open-offer-and-rule-9-waiver-vb63t83tqm5z581.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-21",
+          "event_id": "rns-fc89d69c0f0160fc1a752c9c",
           "headline": "Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/KRS/notice-of-annual-general-meeting-lli3omhyokm37wo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8291R",
+          "source_url": "https://www.lse.co.uk/rns/KRS/notice-of-annual-general-meeting-lli3omhyokm37wo.html",
+          "time": "7:05 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-30",
+          "event_id": "rns-888e7e1bac43a847d6cc91c6",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/KRS/final-results-k3io181qeydyaot.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8956O",
+          "source_url": "https://www.lse.co.uk/rns/KRS/final-results-k3io181qeydyaot.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-26",
+          "event_id": "rns-d7857b3d5b557e0aa7082b2d",
           "headline": "Issue of Convertible Loan Notes",
-          "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-convertible-loan-notes-fptj4nwrg596sj5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6078O",
+          "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-convertible-loan-notes-fptj4nwrg596sj5.html",
+          "time": "3:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-06",
+          "event_id": "rns-be6ad0d137f5435af244eda2",
           "headline": "Togo Update",
-          "source_url": "https://www.lse.co.uk/rns/KRS/togo-update-b3z81h74hgfbsd3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7097L",
+          "source_url": "https://www.lse.co.uk/rns/KRS/togo-update-b3z81h74hgfbsd3.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-07",
+          "event_id": "rns-0e5f773cae519d3a747a4655",
           "headline": "Issue of New Shares",
-          "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-new-shares-s6x0qkjvwt4kue1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9796D",
+          "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-new-shares-s6x0qkjvwt4kue1.html",
+          "time": "3:43 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-04",
+          "event_id": "rns-6ae350a434898605cc2c22c4",
           "headline": "Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-sv11rfmpuquzc9r.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6258D",
+          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-sv11rfmpuquzc9r.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-26",
+          "event_id": "rns-4e9c5e793c3e29285cea75e5",
           "headline": "Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-ins7dhat1ck3jz2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1451C",
+          "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-ins7dhat1ck3jz2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-01-17",
+          "event_id": "rns-e3e95ae5a0568e5434def773",
           "headline": "Management Change",
-          "source_url": "https://www.lse.co.uk/rns/KRS/management-change-wolnej4gm0v5tml.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6810T",
+          "source_url": "https://www.lse.co.uk/rns/KRS/management-change-wolnej4gm0v5tml.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-04",
+          "event_id": "rns-9d4f9eb06d3af5b0bf45e381",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/KRS/total-voting-rights-boj56kzmymn4k3x.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7846O",
+          "source_url": "https://www.lse.co.uk/rns/KRS/total-voting-rights-boj56kzmymn4k3x.html",
+          "time": "9:40 am"
         }
       ],
       "rns_initial": [
@@ -41132,36 +41372,61 @@
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-9670a2e2b82180ed614624ad",
           "headline": "Suspended Companies Notice - Deletion",
-          "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1210S",
+          "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html",
+          "time": "6:00 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-30",
+          "event_id": "rns-66a72f3b2305bf3d99489418",
           "headline": "Annual Results timing update",
-          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4338O",
+          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-01",
+          "event_id": "rns-489ac854be5c9e3dc4858e15",
           "headline": "Suspension - Keras Resources Plc",
-          "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4432K",
+          "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html",
+          "time": "7:30 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-bf57d52df67aad8bfea0cff3",
           "headline": "Annual Results Update & Suspension",
-          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4199K",
+          "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html",
+          "time": "1:14 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-eb81e9e774325bf6dbcf7015",
           "headline": "Interim results",
-          "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1031B",
+          "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41209,96 +41474,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.56,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5,
                 "date": "2023-01-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.56,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KRS.L:2023-01-04",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.5,
                 "date": "2023-01-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KRS.L:2023-01-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.16,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.200000047683716,
                 "date": "2023-01-06",
                 "status": "EXACT"
               },
               "relative_activity": 3.16,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "KRS.L:2023-01-06",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-02-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 10.26,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.9500000476837158,
                 "date": "2023-02-02",
                 "status": "EXACT"
               },
               "relative_activity": 10.26,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "KRS.L:2023-02-02",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-02-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 3.07,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.899999976158142,
                 "date": "2023-02-03",
                 "status": "EXACT"
               },
               "relative_activity": 3.07,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "KRS.L:2023-02-03",
               "signal_type": "DEEP CRASH BOTTOM"
             }
@@ -68352,141 +68637,241 @@
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-9670a2e2b82180ed614624ad",
               "headline": "Suspended Companies Notice - Deletion",
-              "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1210S",
+              "source_url": "https://www.lse.co.uk/rns/KRS/suspended-companies-notice-deletion-ftfkmxdv1alxlhl.html",
+              "time": "6:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2026",
+              "event_id": "rns-66a72f3b2305bf3d99489418",
               "headline": "Annual Results timing update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4338O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-timing-update-h79taejf6fz2nnc.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Jul 2026",
+              "event_id": "rns-489ac854be5c9e3dc4858e15",
               "headline": "Suspension - Keras Resources Plc",
-              "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4432K",
+              "source_url": "https://www.lse.co.uk/rns/KRS/suspension-keras-resources-plc-67y39epaiio4lky.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-bf57d52df67aad8bfea0cff3",
               "headline": "Annual Results Update & Suspension",
-              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4199K",
+              "source_url": "https://www.lse.co.uk/rns/KRS/annual-results-update-suspension-y18gjn46usyw5kw.html",
+              "time": "1:14 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-eb81e9e774325bf6dbcf7015",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1031B",
+              "source_url": "https://www.lse.co.uk/rns/KRS/interim-results-mm8sh0vdaxyyg7o.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Sep 2025",
+              "event_id": "rns-3e5bb5720c6b7513f64c3912",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-p1tbgff5ze917yj.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8924A",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-p1tbgff5ze917yj.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-150d4bda70df4d457aec6d7f",
               "headline": "Issue of Shares to Russell Lamming",
-              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-shares-to-russell-lamming-iatgk6keq54nxsz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4106V",
+              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-shares-to-russell-lamming-iatgk6keq54nxsz.html",
+              "time": "4:40 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-90a0a8a91c425d3d3566c4a2",
               "headline": "Result of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-annual-general-meeting-y78iwuk03k8x738.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4009V",
+              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-annual-general-meeting-y78iwuk03k8x738.html",
+              "time": "2:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-b6ac96ad1bd1c480544ea65a",
               "headline": "Result of Open Offer and General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-open-offer-and-general-meeting-n81dntjz6bc6v17.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4022V",
+              "source_url": "https://www.lse.co.uk/rns/KRS/result-of-open-offer-and-general-meeting-n81dntjz6bc6v17.html",
+              "time": "2:28 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Aug 2025",
+              "event_id": "rns-0ecd06addf55907b8dec4ab3",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-im46xhp9rw7bjuw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5068U",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-im46xhp9rw7bjuw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jul 2025",
+              "event_id": "rns-eb0bf44d7c82da91fecbd732",
               "headline": "Launch of Open Offer and Rule 9 Waiver",
-              "source_url": "https://www.lse.co.uk/rns/KRS/launch-of-open-offer-and-rule-9-waiver-vb63t83tqm5z581.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8288R",
+              "source_url": "https://www.lse.co.uk/rns/KRS/launch-of-open-offer-and-rule-9-waiver-vb63t83tqm5z581.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jul 2025",
+              "event_id": "rns-fc89d69c0f0160fc1a752c9c",
               "headline": "Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/KRS/notice-of-annual-general-meeting-lli3omhyokm37wo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8291R",
+              "source_url": "https://www.lse.co.uk/rns/KRS/notice-of-annual-general-meeting-lli3omhyokm37wo.html",
+              "time": "7:05 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2025",
+              "event_id": "rns-888e7e1bac43a847d6cc91c6",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/KRS/final-results-k3io181qeydyaot.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8956O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/final-results-k3io181qeydyaot.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2025",
+              "event_id": "rns-d7857b3d5b557e0aa7082b2d",
               "headline": "Issue of Convertible Loan Notes",
-              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-convertible-loan-notes-fptj4nwrg596sj5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6078O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-convertible-loan-notes-fptj4nwrg596sj5.html",
+              "time": "3:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jun 2025",
+              "event_id": "rns-be6ad0d137f5435af244eda2",
               "headline": "Togo Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/togo-update-b3z81h74hgfbsd3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7097L",
+              "source_url": "https://www.lse.co.uk/rns/KRS/togo-update-b3z81h74hgfbsd3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Apr 2025",
+              "event_id": "rns-0e5f773cae519d3a747a4655",
               "headline": "Issue of New Shares",
-              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-new-shares-s6x0qkjvwt4kue1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9796D",
+              "source_url": "https://www.lse.co.uk/rns/KRS/issue-of-new-shares-s6x0qkjvwt4kue1.html",
+              "time": "3:43 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Apr 2025",
+              "event_id": "rns-6ae350a434898605cc2c22c4",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-sv11rfmpuquzc9r.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6258D",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-sv11rfmpuquzc9r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Mar 2025",
+              "event_id": "rns-4e9c5e793c3e29285cea75e5",
               "headline": "Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-ins7dhat1ck3jz2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1451C",
+              "source_url": "https://www.lse.co.uk/rns/KRS/corporate-update-ins7dhat1ck3jz2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jan 2025",
+              "event_id": "rns-e3e95ae5a0568e5434def773",
               "headline": "Management Change",
-              "source_url": "https://www.lse.co.uk/rns/KRS/management-change-wolnej4gm0v5tml.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6810T",
+              "source_url": "https://www.lse.co.uk/rns/KRS/management-change-wolnej4gm0v5tml.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Dec 2024",
+              "event_id": "rns-9d4f9eb06d3af5b0bf45e381",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/KRS/total-voting-rights-boj56kzmymn4k3x.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7846O",
+              "source_url": "https://www.lse.co.uk/rns/KRS/total-voting-rights-boj56kzmymn4k3x.html",
+              "time": "9:40 am"
             }
           ],
           "status": "AVAILABLE",

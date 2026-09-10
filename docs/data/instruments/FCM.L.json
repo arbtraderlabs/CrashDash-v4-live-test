@@ -21,96 +21,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-03-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.9000000953674316,
                 "date": "2024-03-26",
                 "status": "EXACT"
               },
               "relative_activity": 2.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2024-03-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-04-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.8499999046325684,
                 "date": "2024-04-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2024-04-03",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-31",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1,
                 "date": "2025-03-31",
                 "status": "EXACT"
               },
               "relative_activity": 5.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2025-03-31",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.949999988079071,
                 "date": "2025-04-02",
                 "status": "EXACT"
               },
               "relative_activity": 5.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2025-04-02",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.12,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.9480000138282776,
                 "date": "2025-04-04",
                 "status": "EXACT"
               },
               "relative_activity": 2.12,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2025-04-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -16802,141 +16822,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950187Z",
+              "event_id": "rns-5c280c0b634676106f7df7b3",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9277G",
+              "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950217Z",
+              "event_id": "rns-8906b660c8a32baaa9ab9c13",
               "headline": "Board Changes and Update on Fundraise",
-              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7761C",
+              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950316Z",
+              "event_id": "rns-65b250e76e037fac67d675fe",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0578Z",
+              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950106Z",
+              "event_id": "rns-1836bb7290cf6a441cce4e94",
               "headline": "Corporate Update, LOI Announcement and Fundraising",
-              "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5878L",
+              "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949856Z",
+              "event_id": "rns-819e98cd0ffbeafb3b54fc5b",
               "headline": "Director Appointment",
-              "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7003X",
+              "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949479Z",
+              "event_id": "rns-4a00c315f43054b41a7047ad",
               "headline": "Disclosure Table",
-              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-1ymsq8b0tapr59e.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2802M",
+              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-1ymsq8b0tapr59e.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949451Z",
+              "event_id": "rns-4a00c315f43054b41a7047ad",
               "headline": "Disclosure Table",
-              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-c2psyyjsnb2ukyl.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2802M",
+              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-c2psyyjsnb2ukyl.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949644Z",
+              "event_id": "rns-6ab3b0a9dc47f5520f0a9148",
               "headline": "Drilling Commenced at North Hemlo",
-              "source_url": "https://www.lse.co.uk/rns/FCM/drilling-commenced-at-north-hemlo-5b379ykvxin6jfu.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8901H",
+              "source_url": "https://www.lse.co.uk/rns/FCM/drilling-commenced-at-north-hemlo-5b379ykvxin6jfu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950421Z",
+              "event_id": "rns-d899aaf1fdf877ef7183fee7",
               "headline": "Exploration Progress 2024 Season",
-              "source_url": "https://www.lse.co.uk/rns/FCM/exploration-progress-2024-season-juxldpjqsmo63be.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9244T",
+              "source_url": "https://www.lse.co.uk/rns/FCM/exploration-progress-2024-season-juxldpjqsmo63be.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.948704Z",
+              "event_id": "rns-a8995974878134dfd80c2112",
               "headline": "FCM Options Two Ontario REE Properties",
-              "source_url": "https://www.lse.co.uk/rns/FCM/fcm-options-two-ontario-ree-properties-db2wft69h872c7w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5967O",
+              "source_url": "https://www.lse.co.uk/rns/FCM/fcm-options-two-ontario-ree-properties-db2wft69h872c7w.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949614Z",
+              "event_id": "rns-37df2db7f6af6542e26be198",
               "headline": "First Class Metals Attendance Resourcing Tomorrow",
-              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-attendance-resourcing-tomorrow-79q2ztc7rj9ghul.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6386J",
+              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-attendance-resourcing-tomorrow-79q2ztc7rj9ghul.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949991Z",
+              "event_id": "rns-9931e5ff24b1d637b445c2a9",
               "headline": "First Class Metals Plc Investor Webinar",
-              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-plc-investor-webinar-xtlfzlp9fictk8d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4868M",
+              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-plc-investor-webinar-xtlfzlp9fictk8d.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949008Z",
+              "event_id": "rns-cbca021cd6ab02d1d258f10b",
               "headline": "Form 8 (OPD) - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-8-opd-first-class-metals-plc-b2nhctzn5vqeu4r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7197N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-8-opd-first-class-metals-plc-b2nhctzn5vqeu4r.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949066Z",
+              "event_id": "rns-93d6dd2e5abceccd823c0a63",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-1hpk0bxgzmrhsr3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5373N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-1hpk0bxgzmrhsr3.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949134Z",
+              "event_id": "rns-d0e7a75fc61fe316e0ca607c",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9kwte9xgrfw2yhe.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3468N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9kwte9xgrfw2yhe.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949038Z",
+              "event_id": "rns-a4f5dc6f1e252117fc6b60e7",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9ntgwojpets3aj5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6771N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9ntgwojpets3aj5.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-30T23:18:08.368942+00:00",
+              "event_id": "rns-e348ac25ab89681b54b758d9",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-bv1sapszhj6x661.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9728Q",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-bv1sapszhj6x661.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-30T23:18:08.368922+00:00",
+              "event_id": "rns-fe1e157074da84a5d048c245",
               "headline": "Form 8.3 - First Class Metals plc",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-e2l8dh77op6nimn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9731Q",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-e2l8dh77op6nimn.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949215Z",
+              "event_id": "rns-91f97d7f79c8a655f53a988e",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g4o43t1lulwys2v.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1892N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g4o43t1lulwys2v.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.948734Z",
+              "event_id": "rns-90d510cea7816929b05bfef7",
               "headline": "Form 8.3 - First Class Metals plc",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g65ls5kd3j3fyj1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3926O",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g65ls5kd3j3fyj1.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",
@@ -17004,96 +17124,116 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-03-26",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.34,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.9000000953674316,
             "date": "2024-03-26",
             "status": "EXACT"
           },
           "relative_activity": 2.34,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "FCM.L:2024-03-26",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-04-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.65,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.8499999046325684,
             "date": "2024-04-03",
             "status": "EXACT"
           },
           "relative_activity": 1.65,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "FCM.L:2024-04-03",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-31",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.34,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1,
             "date": "2025-03-31",
             "status": "EXACT"
           },
           "relative_activity": 5.34,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "FCM.L:2025-03-31",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-04-02",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.34,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.949999988079071,
             "date": "2025-04-02",
             "status": "EXACT"
           },
           "relative_activity": 5.34,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "FCM.L:2025-04-02",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-04-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.12,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.9480000138282776,
             "date": "2025-04-04",
             "status": "EXACT"
           },
           "relative_activity": 2.12,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "FCM.L:2025-04-04",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -25441,141 +25581,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950187Z",
+          "event_id": "rns-5c280c0b634676106f7df7b3",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9277G",
+          "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950217Z",
+          "event_id": "rns-8906b660c8a32baaa9ab9c13",
           "headline": "Board Changes and Update on Fundraise",
-          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7761C",
+          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950316Z",
+          "event_id": "rns-65b250e76e037fac67d675fe",
           "headline": "Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0578Z",
+          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950106Z",
+          "event_id": "rns-1836bb7290cf6a441cce4e94",
           "headline": "Corporate Update, LOI Announcement and Fundraising",
-          "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5878L",
+          "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949856Z",
+          "event_id": "rns-819e98cd0ffbeafb3b54fc5b",
           "headline": "Director Appointment",
-          "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7003X",
+          "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html",
+          "time": null
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949479Z",
+          "event_id": "rns-4a00c315f43054b41a7047ad",
           "headline": "Disclosure Table",
-          "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-1ymsq8b0tapr59e.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2802M",
+          "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-1ymsq8b0tapr59e.html",
+          "time": null
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949451Z",
+          "event_id": "rns-4a00c315f43054b41a7047ad",
           "headline": "Disclosure Table",
-          "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-c2psyyjsnb2ukyl.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2802M",
+          "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-c2psyyjsnb2ukyl.html",
+          "time": null
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949644Z",
+          "event_id": "rns-6ab3b0a9dc47f5520f0a9148",
           "headline": "Drilling Commenced at North Hemlo",
-          "source_url": "https://www.lse.co.uk/rns/FCM/drilling-commenced-at-north-hemlo-5b379ykvxin6jfu.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8901H",
+          "source_url": "https://www.lse.co.uk/rns/FCM/drilling-commenced-at-north-hemlo-5b379ykvxin6jfu.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950421Z",
+          "event_id": "rns-d899aaf1fdf877ef7183fee7",
           "headline": "Exploration Progress 2024 Season",
-          "source_url": "https://www.lse.co.uk/rns/FCM/exploration-progress-2024-season-juxldpjqsmo63be.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9244T",
+          "source_url": "https://www.lse.co.uk/rns/FCM/exploration-progress-2024-season-juxldpjqsmo63be.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.948704Z",
+          "event_id": "rns-a8995974878134dfd80c2112",
           "headline": "FCM Options Two Ontario REE Properties",
-          "source_url": "https://www.lse.co.uk/rns/FCM/fcm-options-two-ontario-ree-properties-db2wft69h872c7w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5967O",
+          "source_url": "https://www.lse.co.uk/rns/FCM/fcm-options-two-ontario-ree-properties-db2wft69h872c7w.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949614Z",
+          "event_id": "rns-37df2db7f6af6542e26be198",
           "headline": "First Class Metals Attendance Resourcing Tomorrow",
-          "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-attendance-resourcing-tomorrow-79q2ztc7rj9ghul.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6386J",
+          "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-attendance-resourcing-tomorrow-79q2ztc7rj9ghul.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949991Z",
+          "event_id": "rns-9931e5ff24b1d637b445c2a9",
           "headline": "First Class Metals Plc Investor Webinar",
-          "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-plc-investor-webinar-xtlfzlp9fictk8d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4868M",
+          "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-plc-investor-webinar-xtlfzlp9fictk8d.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949008Z",
+          "event_id": "rns-cbca021cd6ab02d1d258f10b",
           "headline": "Form 8 (OPD) - First Class Metals PLC",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-8-opd-first-class-metals-plc-b2nhctzn5vqeu4r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7197N",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-8-opd-first-class-metals-plc-b2nhctzn5vqeu4r.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949066Z",
+          "event_id": "rns-93d6dd2e5abceccd823c0a63",
           "headline": "Form 8.3 - First Class Metals PLC",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-1hpk0bxgzmrhsr3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5373N",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-1hpk0bxgzmrhsr3.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949134Z",
+          "event_id": "rns-d0e7a75fc61fe316e0ca607c",
           "headline": "Form 8.3 - First Class Metals PLC",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9kwte9xgrfw2yhe.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3468N",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9kwte9xgrfw2yhe.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949038Z",
+          "event_id": "rns-a4f5dc6f1e252117fc6b60e7",
           "headline": "Form 8.3 - First Class Metals PLC",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9ntgwojpets3aj5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6771N",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9ntgwojpets3aj5.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-30T23:18:08.368942+00:00",
+          "event_id": "rns-e348ac25ab89681b54b758d9",
           "headline": "Form 8.3 - First Class Metals PLC",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-bv1sapszhj6x661.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9728Q",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-bv1sapszhj6x661.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-30T23:18:08.368922+00:00",
+          "event_id": "rns-fe1e157074da84a5d048c245",
           "headline": "Form 8.3 - First Class Metals plc",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-e2l8dh77op6nimn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9731Q",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-e2l8dh77op6nimn.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949215Z",
+          "event_id": "rns-91f97d7f79c8a655f53a988e",
           "headline": "Form 8.3 - First Class Metals PLC",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g4o43t1lulwys2v.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1892N",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g4o43t1lulwys2v.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.948734Z",
+          "event_id": "rns-90d510cea7816929b05bfef7",
           "headline": "Form 8.3 - First Class Metals plc",
-          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g65ls5kd3j3fyj1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3926O",
+          "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g65ls5kd3j3fyj1.html",
+          "time": null
         }
       ],
       "rns_initial": [
@@ -25583,36 +25823,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950187Z",
+          "event_id": "rns-5c280c0b634676106f7df7b3",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9277G",
+          "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950217Z",
+          "event_id": "rns-8906b660c8a32baaa9ab9c13",
           "headline": "Board Changes and Update on Fundraise",
-          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7761C",
+          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950316Z",
+          "event_id": "rns-65b250e76e037fac67d675fe",
           "headline": "Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0578Z",
+          "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.950106Z",
+          "event_id": "rns-1836bb7290cf6a441cce4e94",
           "headline": "Corporate Update, LOI Announcement and Fundraising",
-          "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5878L",
+          "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T01:40:15.949856Z",
+          "event_id": "rns-819e98cd0ffbeafb3b54fc5b",
           "headline": "Director Appointment",
-          "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7003X",
+          "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html",
+          "time": null
         }
       ],
       "rns_records_emitted": 20,
@@ -25660,96 +25925,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-03-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.9000000953674316,
                 "date": "2024-03-26",
                 "status": "EXACT"
               },
               "relative_activity": 2.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2024-03-26",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-04-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.8499999046325684,
                 "date": "2024-04-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2024-04-03",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-31",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1,
                 "date": "2025-03-31",
                 "status": "EXACT"
               },
               "relative_activity": 5.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2025-03-31",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.34,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.949999988079071,
                 "date": "2025-04-02",
                 "status": "EXACT"
               },
               "relative_activity": 5.34,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2025-04-02",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.12,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.9480000138282776,
                 "date": "2025-04-04",
                 "status": "EXACT"
               },
               "relative_activity": 2.12,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "FCM.L:2025-04-04",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -42441,141 +42726,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950187Z",
+              "event_id": "rns-5c280c0b634676106f7df7b3",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9277G",
+              "source_url": "https://www.lse.co.uk/rns/FCM/annual-financial-report-qknkthz1jxmd30t.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950217Z",
+              "event_id": "rns-8906b660c8a32baaa9ab9c13",
               "headline": "Board Changes and Update on Fundraise",
-              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7761C",
+              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-and-update-on-fundraise-eq8ui32izbjczwu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950316Z",
+              "event_id": "rns-65b250e76e037fac67d675fe",
               "headline": "Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0578Z",
+              "source_url": "https://www.lse.co.uk/rns/FCM/board-changes-xgr483dvprmvqak.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950106Z",
+              "event_id": "rns-1836bb7290cf6a441cce4e94",
               "headline": "Corporate Update, LOI Announcement and Fundraising",
-              "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5878L",
+              "source_url": "https://www.lse.co.uk/rns/FCM/corporate-update-loi-announcement-and-fundraising-nla53jhzi8v5885.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949856Z",
+              "event_id": "rns-819e98cd0ffbeafb3b54fc5b",
               "headline": "Director Appointment",
-              "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7003X",
+              "source_url": "https://www.lse.co.uk/rns/FCM/director-appointment-o76hnrkiohzbj3z.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949479Z",
+              "event_id": "rns-4a00c315f43054b41a7047ad",
               "headline": "Disclosure Table",
-              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-1ymsq8b0tapr59e.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2802M",
+              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-1ymsq8b0tapr59e.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949451Z",
+              "event_id": "rns-4a00c315f43054b41a7047ad",
               "headline": "Disclosure Table",
-              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-c2psyyjsnb2ukyl.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2802M",
+              "source_url": "https://www.lse.co.uk/rns/FCM/disclosure-table-c2psyyjsnb2ukyl.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949644Z",
+              "event_id": "rns-6ab3b0a9dc47f5520f0a9148",
               "headline": "Drilling Commenced at North Hemlo",
-              "source_url": "https://www.lse.co.uk/rns/FCM/drilling-commenced-at-north-hemlo-5b379ykvxin6jfu.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8901H",
+              "source_url": "https://www.lse.co.uk/rns/FCM/drilling-commenced-at-north-hemlo-5b379ykvxin6jfu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.950421Z",
+              "event_id": "rns-d899aaf1fdf877ef7183fee7",
               "headline": "Exploration Progress 2024 Season",
-              "source_url": "https://www.lse.co.uk/rns/FCM/exploration-progress-2024-season-juxldpjqsmo63be.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9244T",
+              "source_url": "https://www.lse.co.uk/rns/FCM/exploration-progress-2024-season-juxldpjqsmo63be.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.948704Z",
+              "event_id": "rns-a8995974878134dfd80c2112",
               "headline": "FCM Options Two Ontario REE Properties",
-              "source_url": "https://www.lse.co.uk/rns/FCM/fcm-options-two-ontario-ree-properties-db2wft69h872c7w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5967O",
+              "source_url": "https://www.lse.co.uk/rns/FCM/fcm-options-two-ontario-ree-properties-db2wft69h872c7w.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949614Z",
+              "event_id": "rns-37df2db7f6af6542e26be198",
               "headline": "First Class Metals Attendance Resourcing Tomorrow",
-              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-attendance-resourcing-tomorrow-79q2ztc7rj9ghul.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6386J",
+              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-attendance-resourcing-tomorrow-79q2ztc7rj9ghul.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949991Z",
+              "event_id": "rns-9931e5ff24b1d637b445c2a9",
               "headline": "First Class Metals Plc Investor Webinar",
-              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-plc-investor-webinar-xtlfzlp9fictk8d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4868M",
+              "source_url": "https://www.lse.co.uk/rns/FCM/first-class-metals-plc-investor-webinar-xtlfzlp9fictk8d.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949008Z",
+              "event_id": "rns-cbca021cd6ab02d1d258f10b",
               "headline": "Form 8 (OPD) - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-8-opd-first-class-metals-plc-b2nhctzn5vqeu4r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7197N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-8-opd-first-class-metals-plc-b2nhctzn5vqeu4r.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949066Z",
+              "event_id": "rns-93d6dd2e5abceccd823c0a63",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-1hpk0bxgzmrhsr3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5373N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-1hpk0bxgzmrhsr3.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949134Z",
+              "event_id": "rns-d0e7a75fc61fe316e0ca607c",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9kwte9xgrfw2yhe.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3468N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9kwte9xgrfw2yhe.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949038Z",
+              "event_id": "rns-a4f5dc6f1e252117fc6b60e7",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9ntgwojpets3aj5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6771N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-9ntgwojpets3aj5.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-30T23:18:08.368942+00:00",
+              "event_id": "rns-e348ac25ab89681b54b758d9",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-bv1sapszhj6x661.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9728Q",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-bv1sapszhj6x661.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-30T23:18:08.368922+00:00",
+              "event_id": "rns-fe1e157074da84a5d048c245",
               "headline": "Form 8.3 - First Class Metals plc",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-e2l8dh77op6nimn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9731Q",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-e2l8dh77op6nimn.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.949215Z",
+              "event_id": "rns-91f97d7f79c8a655f53a988e",
               "headline": "Form 8.3 - First Class Metals PLC",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g4o43t1lulwys2v.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1892N",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g4o43t1lulwys2v.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T01:40:15.948734Z",
+              "event_id": "rns-90d510cea7816929b05bfef7",
               "headline": "Form 8.3 - First Class Metals plc",
-              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g65ls5kd3j3fyj1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3926O",
+              "source_url": "https://www.lse.co.uk/rns/FCM/form-83-first-class-metals-plc-g65ls5kd3j3fyj1.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",

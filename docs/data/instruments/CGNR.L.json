@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-31",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.63,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.1500000953674316,
                 "date": "2025-01-31",
                 "status": "EXACT"
               },
               "relative_activity": 7.63,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CGNR.L:2025-01-31",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.22,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2025-02-03",
                 "status": "EXACT"
               },
               "relative_activity": 6.22,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CGNR.L:2025-02-03",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-d0365fe331a353d34f40e46e",
               "headline": "Closing of Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-2bf597eec94c47a2fae33f05",
               "headline": "Update on Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-f368d8ea1b3c6a576f38b72f",
               "headline": "Update on Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-943b9c761d39e7d70bfa5d7c",
               "headline": "Fundraising to Raise up to \u00a30.8m",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-37f5fa29df47dfde6392aaa9",
               "headline": "Operational and Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-01138fdf3cdca5286d8da183",
               "headline": "Intercepts from Step-Out Drilling at Clontibret",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/intercepts-from-step-out-drilling-at-clontibret-2p5rdncc9gxfi4h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/intercepts-from-step-out-drilling-at-clontibret-2p5rdncc9gxfi4h.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th May 2026",
+              "event_id": "rns-3dc0445696df747c9e1b60e4",
               "headline": "Results from 2 Drill Holes at Clontibret",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/results-from-2-drill-holes-at-clontibret-3pd09jyrtb4nzch.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/results-from-2-drill-holes-at-clontibret-3pd09jyrtb4nzch.html",
+              "time": "8:34 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-55c6b889f7e074e7674bca39",
               "headline": "DEEPEST GOLD MINERALISATION INTERSECTED TO DATE",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/deepest-gold-mineralisation-intersected-to-date-cvo2idwnnldxqz9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/deepest-gold-mineralisation-intersected-to-date-cvo2idwnnldxqz9.html",
+              "time": "2:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-051bcb201953ebef23c70b5d",
               "headline": "Company Update",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/company-update-7dxec5scuk3uvvk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/company-update-7dxec5scuk3uvvk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-62dd7e5386299919b9a6472f",
               "headline": "Half-yearly results for the six months ended 30 November 2025",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/half-yearly-results-for-the-six-months-ended-30-november-2025-w84v0moayyjl60w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/half-yearly-results-for-the-six-months-ended-30-november-2025-w84v0moayyjl60w.html",
+              "time": "7:34 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-b6536005f0e74e9d84c12656",
               "headline": "Appointment of New Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/appointment-of-new-corporate-broker-msq8ur3eelzd0wm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/appointment-of-new-corporate-broker-msq8ur3eelzd0wm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Dec 2025",
+              "event_id": "rns-1ffd910acb851663e5f74497",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/result-of-agm-d8sny9dttkwa1ez.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/result-of-agm-d8sny9dttkwa1ez.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-01a740d8cccdb2861ede4df3",
               "headline": "DRILLING PROGRAMME COMMENCES AT CLONTIBRET",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/drilling-programme-commences-at-clontibret-9f6ffi1n7mq289o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/drilling-programme-commences-at-clontibret-9f6ffi1n7mq289o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2025",
+              "event_id": "rns-450ee37ec9670bb379fa2006",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/holdings-in-company-lbqthxz1gzxp9rj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/holdings-in-company-lbqthxz1gzxp9rj.html",
+              "time": "11:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Nov 2025",
+              "event_id": "rns-986c0d8becc5998ff51706b3",
               "headline": "Final Results for the Year to 31 May 2025",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/final-results-for-the-year-to-31-may-2025-dr2emedjae4j1hq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/final-results-for-the-year-to-31-may-2025-dr2emedjae4j1hq.html",
+              "time": "7:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Oct 2025",
+              "event_id": "rns-af50438814372d946137d1ec",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/total-voting-rights-vd153dcvdoe64al.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/total-voting-rights-vd153dcvdoe64al.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2025",
+              "event_id": "rns-a2d9012850e0e5fd8c1c6abb",
               "headline": "Warrant Exercise",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/warrant-exercise-tqrcuo97enyzg7g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/warrant-exercise-tqrcuo97enyzg7g.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Oct 2025",
+              "event_id": "rns-9cdf8a88773054a273cbe754",
               "headline": "Closing of Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-k3ipyw9e1qovk5u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-k3ipyw9e1qovk5u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-4e008484a132badb5c3fbb7d",
               "headline": "Update on Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-tv2kbn1rfj12b3y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-tv2kbn1rfj12b3y.html",
+              "time": "7:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Sep 2025",
+              "event_id": "rns-67c11a5972dc308ca6e6935e",
               "headline": "LAUNCH OF NON-BROKERED PRIVATE PLACEMENT TO RAISE UP TO \u00a31.5m",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/launch-of-non-brokered-private-placement-to-raise-up-to-16315m-mw1roez11q7esql.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/launch-of-non-brokered-private-placement-to-raise-up-to-16315m-mw1roez11q7esql.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27347,39 +27455,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-01-31",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 7.63,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.1500000953674316,
             "date": "2025-01-31",
             "status": "EXACT"
           },
           "relative_activity": 7.63,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "CGNR.L:2025-01-31",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-02-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 6.22,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 2.25,
             "date": "2025-02-03",
             "status": "EXACT"
           },
           "relative_activity": 6.22,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "CGNR.L:2025-02-03",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40927,141 +41043,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-d0365fe331a353d34f40e46e",
           "headline": "Closing of Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-2bf597eec94c47a2fae33f05",
           "headline": "Update on Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-f368d8ea1b3c6a576f38b72f",
           "headline": "Update on Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-943b9c761d39e7d70bfa5d7c",
           "headline": "Fundraising to Raise up to \u00a30.8m",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-06",
+          "event_id": "rns-37f5fa29df47dfde6392aaa9",
           "headline": "Operational and Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-22",
+          "event_id": "rns-01138fdf3cdca5286d8da183",
           "headline": "Intercepts from Step-Out Drilling at Clontibret",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/intercepts-from-step-out-drilling-at-clontibret-2p5rdncc9gxfi4h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/intercepts-from-step-out-drilling-at-clontibret-2p5rdncc9gxfi4h.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-18",
+          "event_id": "rns-3dc0445696df747c9e1b60e4",
           "headline": "Results from 2 Drill Holes at Clontibret",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/results-from-2-drill-holes-at-clontibret-3pd09jyrtb4nzch.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/results-from-2-drill-holes-at-clontibret-3pd09jyrtb4nzch.html",
+          "time": "8:34 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-02",
+          "event_id": "rns-55c6b889f7e074e7674bca39",
           "headline": "DEEPEST GOLD MINERALISATION INTERSECTED TO DATE",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/deepest-gold-mineralisation-intersected-to-date-cvo2idwnnldxqz9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/deepest-gold-mineralisation-intersected-to-date-cvo2idwnnldxqz9.html",
+          "time": "2:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-26",
+          "event_id": "rns-051bcb201953ebef23c70b5d",
           "headline": "Company Update",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/company-update-7dxec5scuk3uvvk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/company-update-7dxec5scuk3uvvk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-02",
+          "event_id": "rns-62dd7e5386299919b9a6472f",
           "headline": "Half-yearly results for the six months ended 30 November 2025",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/half-yearly-results-for-the-six-months-ended-30-november-2025-w84v0moayyjl60w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/half-yearly-results-for-the-six-months-ended-30-november-2025-w84v0moayyjl60w.html",
+          "time": "7:34 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-13",
+          "event_id": "rns-b6536005f0e74e9d84c12656",
           "headline": "Appointment of New Corporate Broker",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/appointment-of-new-corporate-broker-msq8ur3eelzd0wm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/appointment-of-new-corporate-broker-msq8ur3eelzd0wm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-17",
+          "event_id": "rns-1ffd910acb851663e5f74497",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/result-of-agm-d8sny9dttkwa1ez.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/result-of-agm-d8sny9dttkwa1ez.html",
+          "time": "2:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-15",
+          "event_id": "rns-01a740d8cccdb2861ede4df3",
           "headline": "DRILLING PROGRAMME COMMENCES AT CLONTIBRET",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/drilling-programme-commences-at-clontibret-9f6ffi1n7mq289o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/drilling-programme-commences-at-clontibret-9f6ffi1n7mq289o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-11",
+          "event_id": "rns-450ee37ec9670bb379fa2006",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/holdings-in-company-lbqthxz1gzxp9rj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/holdings-in-company-lbqthxz1gzxp9rj.html",
+          "time": "11:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-26",
+          "event_id": "rns-986c0d8becc5998ff51706b3",
           "headline": "Final Results for the Year to 31 May 2025",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/final-results-for-the-year-to-31-may-2025-dr2emedjae4j1hq.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/final-results-for-the-year-to-31-may-2025-dr2emedjae4j1hq.html",
+          "time": "7:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-31",
+          "event_id": "rns-af50438814372d946137d1ec",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/total-voting-rights-vd153dcvdoe64al.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/total-voting-rights-vd153dcvdoe64al.html",
+          "time": "5:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-17",
+          "event_id": "rns-a2d9012850e0e5fd8c1c6abb",
           "headline": "Warrant Exercise",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/warrant-exercise-tqrcuo97enyzg7g.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/warrant-exercise-tqrcuo97enyzg7g.html",
+          "time": "2:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-08",
+          "event_id": "rns-9cdf8a88773054a273cbe754",
           "headline": "Closing of Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-k3ipyw9e1qovk5u.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-k3ipyw9e1qovk5u.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-4e008484a132badb5c3fbb7d",
           "headline": "Update on Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-tv2kbn1rfj12b3y.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-tv2kbn1rfj12b3y.html",
+          "time": "7:55 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-12",
+          "event_id": "rns-67c11a5972dc308ca6e6935e",
           "headline": "LAUNCH OF NON-BROKERED PRIVATE PLACEMENT TO RAISE UP TO \u00a31.5m",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/launch-of-non-brokered-private-placement-to-raise-up-to-16315m-mw1roez11q7esql.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/launch-of-non-brokered-private-placement-to-raise-up-to-16315m-mw1roez11q7esql.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41069,36 +41285,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-d0365fe331a353d34f40e46e",
           "headline": "Closing of Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-2bf597eec94c47a2fae33f05",
           "headline": "Update on Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-f368d8ea1b3c6a576f38b72f",
           "headline": "Update on Non-Brokered Private Placement",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-943b9c761d39e7d70bfa5d7c",
           "headline": "Fundraising to Raise up to \u00a30.8m",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-06",
+          "event_id": "rns-37f5fa29df47dfde6392aaa9",
           "headline": "Operational and Corporate Update",
-          "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41146,39 +41387,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-31",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.63,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.1500000953674316,
                 "date": "2025-01-31",
                 "status": "EXACT"
               },
               "relative_activity": 7.63,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CGNR.L:2025-01-31",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.22,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 2.25,
                 "date": "2025-02-03",
                 "status": "EXACT"
               },
               "relative_activity": 6.22,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "CGNR.L:2025-02-03",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68270,141 +68519,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-d0365fe331a353d34f40e46e",
               "headline": "Closing of Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-hplavh3ygicbv6r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-2bf597eec94c47a2fae33f05",
               "headline": "Update on Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-2y4xp70m5z9bajw.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-f368d8ea1b3c6a576f38b72f",
               "headline": "Update on Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-bffxw37tagfbxj6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-943b9c761d39e7d70bfa5d7c",
               "headline": "Fundraising to Raise up to \u00a30.8m",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/fundraising-to-raise-up-to-16308m-2mx79z147ictdbs.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Jul 2026",
+              "event_id": "rns-37f5fa29df47dfde6392aaa9",
               "headline": "Operational and Corporate Update",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/operational-and-corporate-update-wi8974cc43nugl5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-01138fdf3cdca5286d8da183",
               "headline": "Intercepts from Step-Out Drilling at Clontibret",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/intercepts-from-step-out-drilling-at-clontibret-2p5rdncc9gxfi4h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/intercepts-from-step-out-drilling-at-clontibret-2p5rdncc9gxfi4h.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th May 2026",
+              "event_id": "rns-3dc0445696df747c9e1b60e4",
               "headline": "Results from 2 Drill Holes at Clontibret",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/results-from-2-drill-holes-at-clontibret-3pd09jyrtb4nzch.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/results-from-2-drill-holes-at-clontibret-3pd09jyrtb4nzch.html",
+              "time": "8:34 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Mar 2026",
+              "event_id": "rns-55c6b889f7e074e7674bca39",
               "headline": "DEEPEST GOLD MINERALISATION INTERSECTED TO DATE",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/deepest-gold-mineralisation-intersected-to-date-cvo2idwnnldxqz9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/deepest-gold-mineralisation-intersected-to-date-cvo2idwnnldxqz9.html",
+              "time": "2:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Feb 2026",
+              "event_id": "rns-051bcb201953ebef23c70b5d",
               "headline": "Company Update",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/company-update-7dxec5scuk3uvvk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/company-update-7dxec5scuk3uvvk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-62dd7e5386299919b9a6472f",
               "headline": "Half-yearly results for the six months ended 30 November 2025",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/half-yearly-results-for-the-six-months-ended-30-november-2025-w84v0moayyjl60w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/half-yearly-results-for-the-six-months-ended-30-november-2025-w84v0moayyjl60w.html",
+              "time": "7:34 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jan 2026",
+              "event_id": "rns-b6536005f0e74e9d84c12656",
               "headline": "Appointment of New Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/appointment-of-new-corporate-broker-msq8ur3eelzd0wm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/appointment-of-new-corporate-broker-msq8ur3eelzd0wm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Dec 2025",
+              "event_id": "rns-1ffd910acb851663e5f74497",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/result-of-agm-d8sny9dttkwa1ez.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/result-of-agm-d8sny9dttkwa1ez.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Dec 2025",
+              "event_id": "rns-01a740d8cccdb2861ede4df3",
               "headline": "DRILLING PROGRAMME COMMENCES AT CLONTIBRET",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/drilling-programme-commences-at-clontibret-9f6ffi1n7mq289o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/drilling-programme-commences-at-clontibret-9f6ffi1n7mq289o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Dec 2025",
+              "event_id": "rns-450ee37ec9670bb379fa2006",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/holdings-in-company-lbqthxz1gzxp9rj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/holdings-in-company-lbqthxz1gzxp9rj.html",
+              "time": "11:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Nov 2025",
+              "event_id": "rns-986c0d8becc5998ff51706b3",
               "headline": "Final Results for the Year to 31 May 2025",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/final-results-for-the-year-to-31-may-2025-dr2emedjae4j1hq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/final-results-for-the-year-to-31-may-2025-dr2emedjae4j1hq.html",
+              "time": "7:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Oct 2025",
+              "event_id": "rns-af50438814372d946137d1ec",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/total-voting-rights-vd153dcvdoe64al.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/total-voting-rights-vd153dcvdoe64al.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Oct 2025",
+              "event_id": "rns-a2d9012850e0e5fd8c1c6abb",
               "headline": "Warrant Exercise",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/warrant-exercise-tqrcuo97enyzg7g.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/warrant-exercise-tqrcuo97enyzg7g.html",
+              "time": "2:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Oct 2025",
+              "event_id": "rns-9cdf8a88773054a273cbe754",
               "headline": "Closing of Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-k3ipyw9e1qovk5u.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/closing-of-non-brokered-private-placement-k3ipyw9e1qovk5u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-4e008484a132badb5c3fbb7d",
               "headline": "Update on Non-Brokered Private Placement",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-tv2kbn1rfj12b3y.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/update-on-non-brokered-private-placement-tv2kbn1rfj12b3y.html",
+              "time": "7:55 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Sep 2025",
+              "event_id": "rns-67c11a5972dc308ca6e6935e",
               "headline": "LAUNCH OF NON-BROKERED PRIVATE PLACEMENT TO RAISE UP TO \u00a31.5m",
-              "source_url": "https://www.lse.co.uk/rns/CGNR/launch-of-non-brokered-private-placement-to-raise-up-to-16315m-mw1roez11q7esql.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/CGNR/launch-of-non-brokered-private-placement-to-raise-up-to-16315m-mw1roez11q7esql.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

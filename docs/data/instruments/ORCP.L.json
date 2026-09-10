@@ -21,305 +21,369 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 10.89,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03099999949336052,
                 "date": "2023-10-04",
                 "status": "EXACT"
               },
               "relative_activity": 10.89,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-04",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.9,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.032999999821186066,
                 "date": "2023-10-05",
                 "status": "EXACT"
               },
               "relative_activity": 2.9,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-05",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.57,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02800000086426735,
                 "date": "2023-10-12",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ORCP.L:2023-10-12",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.35,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02800000086426735,
                 "date": "2023-10-13",
                 "status": "EXACT"
               },
               "relative_activity": 1.35,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-13",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.57,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02800000086426735,
                 "date": "2023-10-23",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-23",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.54,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.024000000208616257,
                 "date": "2023-10-26",
                 "status": "EXACT"
               },
               "relative_activity": 1.54,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ORCP.L:2023-10-26",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2023-10-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 3.13,
-                "severity": "PURPLE",
+                "severity": "HIGH",
                 "signal_state": "ENHANCED EXTREME CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02500000037252903,
                 "date": "2023-10-30",
                 "status": "EXACT"
               },
               "relative_activity": 3.13,
-              "severity": "PURPLE",
+              "severity": "HIGH",
               "signal_id": "ORCP.L:2023-10-30",
               "signal_type": "ENHANCED EXTREME CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2023-11-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 5.78,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.027000000700354576,
                 "date": "2023-11-02",
                 "status": "EXACT"
               },
               "relative_activity": 5.78,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2023-11-02",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-01-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 3.69,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.026000000536441803,
                 "date": "2024-01-23",
                 "status": "EXACT"
               },
               "relative_activity": 3.69,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-01-23",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 9.92,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.019999999552965164,
                 "date": "2024-05-15",
                 "status": "EXACT"
               },
               "relative_activity": 9.92,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-05-15",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.44,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.019999999552965164,
                 "date": "2024-05-16",
                 "status": "EXACT"
               },
               "relative_activity": 1.44,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2024-05-16",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 3.13,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.019999999552965164,
                 "date": "2024-05-17",
                 "status": "EXACT"
               },
               "relative_activity": 3.13,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-05-17",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.73,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.020999999716877937,
                 "date": "2024-05-21",
                 "status": "EXACT"
               },
               "relative_activity": 1.73,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2024-05-21",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 4.89,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.01899999938905239,
                 "date": "2024-06-12",
                 "status": "EXACT"
               },
               "relative_activity": 4.89,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-06-12",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-06-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.51,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.014999999664723873,
                 "date": "2025-06-25",
                 "status": "EXACT"
               },
               "relative_activity": 1.51,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2025-06-25",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-06-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.71,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.014999999664723873,
                 "date": "2025-06-26",
                 "status": "EXACT"
               },
               "relative_activity": 1.71,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2025-06-26",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27411,141 +27475,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-bae5d913559676216650fb20",
               "headline": "Key Permit Application Submitted for Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4785S",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-4afdc6fb6dfa60c4a7f5c93d",
               "headline": "Infrastructure & Transport Surveys Completed",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8748O",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-c054230362556c750a20ed37",
               "headline": "Update on Mining Permit Applications",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9452N",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-cdafbbc65105498c93f5b031",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8215N",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html",
+              "time": "12:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jul 2026",
+              "event_id": "rns-e0551d3af4cf457b56275092",
               "headline": "Progress towards Mining at Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9801M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jul 2026",
+              "event_id": "rns-5bfe2b50ed56bbbf38816038",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-3zyz4ijdrw0lssx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8216M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-3zyz4ijdrw0lssx.html",
+              "time": "9:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-75c8cce1f0ba72f83748f2d1",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-0k3x9ubsun098p4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5187M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-0k3x9ubsun098p4.html",
+              "time": "4:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2026",
+              "event_id": "rns-fd96bfc1edf39175a7fafe7b",
               "headline": "Placing to Raise \u00a3500,000",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/placing-to-raise-163500000-3d7sqpjl2vrl8wm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9530K",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/placing-to-raise-163500000-3d7sqpjl2vrl8wm.html",
+              "time": "7:28 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jul 2026",
+              "event_id": "rns-5f4b91695f90771c8143ee69",
               "headline": "Mining Lease Granted - Northern Zone Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-granted-northern-zone-gold-project-f5e0kynq70euk7j.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8248K",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-granted-northern-zone-gold-project-f5e0kynq70euk7j.html",
+              "time": "12:34 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-c1134d5df3aafd45d3713fb4",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/final-results-e6wzh778ud3jcl1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6593J",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/final-results-e6wzh778ud3jcl1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-432a55f3fce5b4c0789120b4",
               "headline": "Northern Zone: Geotechnical Drilling for MDCP",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-geotechnical-drilling-for-mdcp-ra96ldvzhgp4km2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0874C",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-geotechnical-drilling-for-mdcp-ra96ldvzhgp4km2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-7dd8255e3db70504c30bac6f",
               "headline": "Preliminary Heritage Report: Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/preliminary-heritage-report-northern-zone-wcntp4ehxh4y6fw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3899B",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/preliminary-heritage-report-northern-zone-wcntp4ehxh4y6fw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-c2a6589994f98125ce19e3c0",
               "headline": "Assay results of up to 71 g/t Au at Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/assay-results-of-up-to-71-gt-au-at-northern-zone-it1815fc2uyyiia.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4708A",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/assay-results-of-up-to-71-gt-au-at-northern-zone-it1815fc2uyyiia.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-a0c584ddb2c93027b0073eec",
               "headline": "Northern Zone Update",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-update-u5tprxrtp2ygaka.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2283U",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-update-u5tprxrtp2ygaka.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-0fc257be34f13bdae9589345",
               "headline": "Mining Lease Application Update",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-application-update-e3kramd4mmi7o5h.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2342T",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-application-update-e3kramd4mmi7o5h.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-018a45eaec10f20c658777b6",
               "headline": "Kalgoorlie Gold Project - Drilling Results",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-project-drilling-results-oag8dpwyc2qw533.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2697R",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-project-drilling-results-oag8dpwyc2qw533.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jan 2026",
+              "event_id": "rns-9b3164154e3f750b4eea7dc1",
               "headline": "Positive Results: Kalgoorlie Drilling Programme",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/positive-results-kalgoorlie-drilling-programme-27u2uhjzougrlfh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3330P",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/positive-results-kalgoorlie-drilling-programme-27u2uhjzougrlfh.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-0644da35c8ceffb0c77261c0",
               "headline": "Kalgoorlie Gold - Native Title Agreements Signed",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-jd1s3m66owwub1k.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5606M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-jd1s3m66owwub1k.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-0644da35c8ceffb0c77261c0",
               "headline": "Kalgoorlie Gold - Native Title Agreements Signed",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-rqy9rj4nchjsmpi.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5606M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-rqy9rj4nchjsmpi.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-fc9def08f9cfcb667d6616fd",
               "headline": "New Shallow Gold Zone: Northern Zone Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/new-shallow-gold-zone-northern-zone-gold-project-07qo940718ey953.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9166K",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/new-shallow-gold-zone-northern-zone-gold-project-07qo940718ey953.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27617,305 +27781,369 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 10.89,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.03099999949336052,
             "date": "2023-10-04",
             "status": "EXACT"
           },
           "relative_activity": 10.89,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2023-10-04",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.9,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.032999999821186066,
             "date": "2023-10-05",
             "status": "EXACT"
           },
           "relative_activity": 2.9,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2023-10-05",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 1.57,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.02800000086426735,
             "date": "2023-10-12",
             "status": "EXACT"
           },
           "relative_activity": 1.57,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "ORCP.L:2023-10-12",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-13",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.35,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.02800000086426735,
             "date": "2023-10-13",
             "status": "EXACT"
           },
           "relative_activity": 1.35,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2023-10-13",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-23",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.57,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.02800000086426735,
             "date": "2023-10-23",
             "status": "EXACT"
           },
           "relative_activity": 1.57,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2023-10-23",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-10-26",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 1.54,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.024000000208616257,
             "date": "2023-10-26",
             "status": "EXACT"
           },
           "relative_activity": 1.54,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "ORCP.L:2023-10-26",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2023-10-30",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 3.13,
-            "severity": "PURPLE",
+            "severity": "HIGH",
             "signal_state": "ENHANCED EXTREME CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.02500000037252903,
             "date": "2023-10-30",
             "status": "EXACT"
           },
           "relative_activity": 3.13,
-          "severity": "PURPLE",
+          "severity": "HIGH",
           "signal_id": "ORCP.L:2023-10-30",
           "signal_type": "ENHANCED EXTREME CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2023-11-02",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 5.78,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.027000000700354576,
             "date": "2023-11-02",
             "status": "EXACT"
           },
           "relative_activity": 5.78,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "ORCP.L:2023-11-02",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-01-23",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 3.69,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.026000000536441803,
             "date": "2024-01-23",
             "status": "EXACT"
           },
           "relative_activity": 3.69,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2024-01-23",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-05-15",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 9.92,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.019999999552965164,
             "date": "2024-05-15",
             "status": "EXACT"
           },
           "relative_activity": 9.92,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2024-05-15",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-05-16",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.44,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.019999999552965164,
             "date": "2024-05-16",
             "status": "EXACT"
           },
           "relative_activity": 1.44,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ORCP.L:2024-05-16",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-05-17",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 3.13,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.019999999552965164,
             "date": "2024-05-17",
             "status": "EXACT"
           },
           "relative_activity": 3.13,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2024-05-17",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-05-21",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.73,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.020999999716877937,
             "date": "2024-05-21",
             "status": "EXACT"
           },
           "relative_activity": 1.73,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ORCP.L:2024-05-21",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-06-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 4.89,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.01899999938905239,
             "date": "2024-06-12",
             "status": "EXACT"
           },
           "relative_activity": 4.89,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "ORCP.L:2024-06-12",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-06-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.51,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.014999999664723873,
             "date": "2025-06-25",
             "status": "EXACT"
           },
           "relative_activity": 1.51,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ORCP.L:2025-06-25",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-06-26",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.71,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.014999999664723873,
             "date": "2025-06-26",
             "status": "EXACT"
           },
           "relative_activity": 1.71,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ORCP.L:2025-06-26",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -41463,141 +41691,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-bae5d913559676216650fb20",
           "headline": "Key Permit Application Submitted for Northern Zone",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4785S",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-4afdc6fb6dfa60c4a7f5c93d",
           "headline": "Infrastructure & Transport Surveys Completed",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8748O",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-c054230362556c750a20ed37",
           "headline": "Update on Mining Permit Applications",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9452N",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-cdafbbc65105498c93f5b031",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8215N",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html",
+          "time": "12:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-20",
+          "event_id": "rns-e0551d3af4cf457b56275092",
           "headline": "Progress towards Mining at Northern Zone",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9801M",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-17",
+          "event_id": "rns-5bfe2b50ed56bbbf38816038",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-3zyz4ijdrw0lssx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8216M",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-3zyz4ijdrw0lssx.html",
+          "time": "9:45 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-15",
+          "event_id": "rns-75c8cce1f0ba72f83748f2d1",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-0k3x9ubsun098p4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5187M",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-0k3x9ubsun098p4.html",
+          "time": "4:20 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-03",
+          "event_id": "rns-fd96bfc1edf39175a7fafe7b",
           "headline": "Placing to Raise \u00a3500,000",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/placing-to-raise-163500000-3d7sqpjl2vrl8wm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9530K",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/placing-to-raise-163500000-3d7sqpjl2vrl8wm.html",
+          "time": "7:28 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-02",
+          "event_id": "rns-5f4b91695f90771c8143ee69",
           "headline": "Mining Lease Granted - Northern Zone Gold Project",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-granted-northern-zone-gold-project-f5e0kynq70euk7j.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8248K",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-granted-northern-zone-gold-project-f5e0kynq70euk7j.html",
+          "time": "12:34 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-c1134d5df3aafd45d3713fb4",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/final-results-e6wzh778ud3jcl1.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6593J",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/final-results-e6wzh778ud3jcl1.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-432a55f3fce5b4c0789120b4",
           "headline": "Northern Zone: Geotechnical Drilling for MDCP",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-geotechnical-drilling-for-mdcp-ra96ldvzhgp4km2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0874C",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-geotechnical-drilling-for-mdcp-ra96ldvzhgp4km2.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-22",
+          "event_id": "rns-7dd8255e3db70504c30bac6f",
           "headline": "Preliminary Heritage Report: Northern Zone",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/preliminary-heritage-report-northern-zone-wcntp4ehxh4y6fw.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3899B",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/preliminary-heritage-report-northern-zone-wcntp4ehxh4y6fw.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-15",
+          "event_id": "rns-c2a6589994f98125ce19e3c0",
           "headline": "Assay results of up to 71 g/t Au at Northern Zone",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/assay-results-of-up-to-71-gt-au-at-northern-zone-it1815fc2uyyiia.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4708A",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/assay-results-of-up-to-71-gt-au-at-northern-zone-it1815fc2uyyiia.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-25",
+          "event_id": "rns-a0c584ddb2c93027b0073eec",
           "headline": "Northern Zone Update",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-update-u5tprxrtp2ygaka.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2283U",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-update-u5tprxrtp2ygaka.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-17",
+          "event_id": "rns-0fc257be34f13bdae9589345",
           "headline": "Mining Lease Application Update",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-application-update-e3kramd4mmi7o5h.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2342T",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-application-update-e3kramd4mmi7o5h.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-02",
+          "event_id": "rns-018a45eaec10f20c658777b6",
           "headline": "Kalgoorlie Gold Project - Drilling Results",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-project-drilling-results-oag8dpwyc2qw533.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2697R",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-project-drilling-results-oag8dpwyc2qw533.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-19",
+          "event_id": "rns-9b3164154e3f750b4eea7dc1",
           "headline": "Positive Results: Kalgoorlie Drilling Programme",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/positive-results-kalgoorlie-drilling-programme-27u2uhjzougrlfh.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 3330P",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/positive-results-kalgoorlie-drilling-programme-27u2uhjzougrlfh.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-0644da35c8ceffb0c77261c0",
           "headline": "Kalgoorlie Gold - Native Title Agreements Signed",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-jd1s3m66owwub1k.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5606M",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-jd1s3m66owwub1k.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-0644da35c8ceffb0c77261c0",
           "headline": "Kalgoorlie Gold - Native Title Agreements Signed",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-rqy9rj4nchjsmpi.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5606M",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-rqy9rj4nchjsmpi.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-10",
+          "event_id": "rns-fc9def08f9cfcb667d6616fd",
           "headline": "New Shallow Gold Zone: Northern Zone Gold Project",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/new-shallow-gold-zone-northern-zone-gold-project-07qo940718ey953.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9166K",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/new-shallow-gold-zone-northern-zone-gold-project-07qo940718ey953.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41605,36 +41933,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-28",
+          "event_id": "rns-bae5d913559676216650fb20",
           "headline": "Key Permit Application Submitted for Northern Zone",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4785S",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-03",
+          "event_id": "rns-4afdc6fb6dfa60c4a7f5c93d",
           "headline": "Infrastructure & Transport Surveys Completed",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8748O",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-c054230362556c750a20ed37",
           "headline": "Update on Mining Permit Applications",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 9452N",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-24",
+          "event_id": "rns-cdafbbc65105498c93f5b031",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8215N",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html",
+          "time": "12:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-20",
+          "event_id": "rns-e0551d3af4cf457b56275092",
           "headline": "Progress towards Mining at Northern Zone",
-          "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9801M",
+          "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41682,305 +42035,369 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 10.89,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03099999949336052,
                 "date": "2023-10-04",
                 "status": "EXACT"
               },
               "relative_activity": 10.89,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-04",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.9,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.032999999821186066,
                 "date": "2023-10-05",
                 "status": "EXACT"
               },
               "relative_activity": 2.9,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-05",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.57,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02800000086426735,
                 "date": "2023-10-12",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ORCP.L:2023-10-12",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.35,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02800000086426735,
                 "date": "2023-10-13",
                 "status": "EXACT"
               },
               "relative_activity": 1.35,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-13",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.57,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02800000086426735,
                 "date": "2023-10-23",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2023-10-23",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-10-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.54,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.024000000208616257,
                 "date": "2023-10-26",
                 "status": "EXACT"
               },
               "relative_activity": 1.54,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ORCP.L:2023-10-26",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2023-10-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 3.13,
-                "severity": "PURPLE",
+                "severity": "HIGH",
                 "signal_state": "ENHANCED EXTREME CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.02500000037252903,
                 "date": "2023-10-30",
                 "status": "EXACT"
               },
               "relative_activity": 3.13,
-              "severity": "PURPLE",
+              "severity": "HIGH",
               "signal_id": "ORCP.L:2023-10-30",
               "signal_type": "ENHANCED EXTREME CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2023-11-02",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 5.78,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.027000000700354576,
                 "date": "2023-11-02",
                 "status": "EXACT"
               },
               "relative_activity": 5.78,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2023-11-02",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-01-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 3.69,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.026000000536441803,
                 "date": "2024-01-23",
                 "status": "EXACT"
               },
               "relative_activity": 3.69,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-01-23",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 9.92,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.019999999552965164,
                 "date": "2024-05-15",
                 "status": "EXACT"
               },
               "relative_activity": 9.92,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-05-15",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-16",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.44,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.019999999552965164,
                 "date": "2024-05-16",
                 "status": "EXACT"
               },
               "relative_activity": 1.44,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2024-05-16",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 3.13,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.019999999552965164,
                 "date": "2024-05-17",
                 "status": "EXACT"
               },
               "relative_activity": 3.13,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-05-17",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-05-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.73,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.020999999716877937,
                 "date": "2024-05-21",
                 "status": "EXACT"
               },
               "relative_activity": 1.73,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2024-05-21",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 4.89,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.01899999938905239,
                 "date": "2024-06-12",
                 "status": "EXACT"
               },
               "relative_activity": 4.89,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "ORCP.L:2024-06-12",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-06-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.51,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.014999999664723873,
                 "date": "2025-06-25",
                 "status": "EXACT"
               },
               "relative_activity": 1.51,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2025-06-25",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-06-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.71,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.014999999664723873,
                 "date": "2025-06-26",
                 "status": "EXACT"
               },
               "relative_activity": 1.71,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ORCP.L:2025-06-26",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -69072,141 +69489,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Aug 2026",
+              "event_id": "rns-bae5d913559676216650fb20",
               "headline": "Key Permit Application Submitted for Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4785S",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/key-permit-application-submitted-for-northern-zone-m0sga9c83fea21v.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Aug 2026",
+              "event_id": "rns-4afdc6fb6dfa60c4a7f5c93d",
               "headline": "Infrastructure & Transport Surveys Completed",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8748O",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/infrastructure-transport-surveys-completed-gr63huwd1nfv3ui.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-c054230362556c750a20ed37",
               "headline": "Update on Mining Permit Applications",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 9452N",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/update-on-mining-permit-applications-q56qye35f7h5cju.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2026",
+              "event_id": "rns-cdafbbc65105498c93f5b031",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8215N",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/result-of-agm-tk7c6wp1ngahao4.html",
+              "time": "12:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jul 2026",
+              "event_id": "rns-e0551d3af4cf457b56275092",
               "headline": "Progress towards Mining at Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9801M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/progress-towards-mining-at-northern-zone-lx6cexdqrzp4to5.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jul 2026",
+              "event_id": "rns-5bfe2b50ed56bbbf38816038",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-3zyz4ijdrw0lssx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8216M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-3zyz4ijdrw0lssx.html",
+              "time": "9:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2026",
+              "event_id": "rns-75c8cce1f0ba72f83748f2d1",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-0k3x9ubsun098p4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5187M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/holdings-in-company-0k3x9ubsun098p4.html",
+              "time": "4:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2026",
+              "event_id": "rns-fd96bfc1edf39175a7fafe7b",
               "headline": "Placing to Raise \u00a3500,000",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/placing-to-raise-163500000-3d7sqpjl2vrl8wm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9530K",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/placing-to-raise-163500000-3d7sqpjl2vrl8wm.html",
+              "time": "7:28 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jul 2026",
+              "event_id": "rns-5f4b91695f90771c8143ee69",
               "headline": "Mining Lease Granted - Northern Zone Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-granted-northern-zone-gold-project-f5e0kynq70euk7j.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8248K",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-granted-northern-zone-gold-project-f5e0kynq70euk7j.html",
+              "time": "12:34 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-c1134d5df3aafd45d3713fb4",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/final-results-e6wzh778ud3jcl1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6593J",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/final-results-e6wzh778ud3jcl1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-432a55f3fce5b4c0789120b4",
               "headline": "Northern Zone: Geotechnical Drilling for MDCP",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-geotechnical-drilling-for-mdcp-ra96ldvzhgp4km2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0874C",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-geotechnical-drilling-for-mdcp-ra96ldvzhgp4km2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Apr 2026",
+              "event_id": "rns-7dd8255e3db70504c30bac6f",
               "headline": "Preliminary Heritage Report: Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/preliminary-heritage-report-northern-zone-wcntp4ehxh4y6fw.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3899B",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/preliminary-heritage-report-northern-zone-wcntp4ehxh4y6fw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-c2a6589994f98125ce19e3c0",
               "headline": "Assay results of up to 71 g/t Au at Northern Zone",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/assay-results-of-up-to-71-gt-au-at-northern-zone-it1815fc2uyyiia.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4708A",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/assay-results-of-up-to-71-gt-au-at-northern-zone-it1815fc2uyyiia.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-a0c584ddb2c93027b0073eec",
               "headline": "Northern Zone Update",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-update-u5tprxrtp2ygaka.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2283U",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/northern-zone-update-u5tprxrtp2ygaka.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Feb 2026",
+              "event_id": "rns-0fc257be34f13bdae9589345",
               "headline": "Mining Lease Application Update",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-application-update-e3kramd4mmi7o5h.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2342T",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/mining-lease-application-update-e3kramd4mmi7o5h.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-018a45eaec10f20c658777b6",
               "headline": "Kalgoorlie Gold Project - Drilling Results",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-project-drilling-results-oag8dpwyc2qw533.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2697R",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-project-drilling-results-oag8dpwyc2qw533.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jan 2026",
+              "event_id": "rns-9b3164154e3f750b4eea7dc1",
               "headline": "Positive Results: Kalgoorlie Drilling Programme",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/positive-results-kalgoorlie-drilling-programme-27u2uhjzougrlfh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3330P",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/positive-results-kalgoorlie-drilling-programme-27u2uhjzougrlfh.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-0644da35c8ceffb0c77261c0",
               "headline": "Kalgoorlie Gold - Native Title Agreements Signed",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-jd1s3m66owwub1k.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5606M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-jd1s3m66owwub1k.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-0644da35c8ceffb0c77261c0",
               "headline": "Kalgoorlie Gold - Native Title Agreements Signed",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-rqy9rj4nchjsmpi.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5606M",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/kalgoorlie-gold-native-title-agreements-signed-rqy9rj4nchjsmpi.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Dec 2025",
+              "event_id": "rns-fc9def08f9cfcb667d6616fd",
               "headline": "New Shallow Gold Zone: Northern Zone Gold Project",
-              "source_url": "https://www.lse.co.uk/rns/ORCP/new-shallow-gold-zone-northern-zone-gold-project-07qo940718ey953.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9166K",
+              "source_url": "https://www.lse.co.uk/rns/ORCP/new-shallow-gold-zone-northern-zone-gold-project-07qo940718ey953.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

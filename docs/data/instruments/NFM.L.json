@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.09,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2022-07-01",
                 "status": "EXACT"
               },
               "relative_activity": 5.09,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NFM.L:2022-07-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.22,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2022-07-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.22,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NFM.L:2022-07-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-08",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.7,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2022-07-08",
                 "status": "EXACT"
               },
               "relative_activity": 2.7,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NFM.L:2022-07-08",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -24764,141 +24776,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Aug 2026",
+              "event_id": "rns-73022a0f3b2e2725ac9c58fd",
               "headline": "NWQ Copper Project Update",
-              "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7914R",
+              "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-a30adc4b6b78b348b5a21035",
               "headline": "Release from Escrow",
-              "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9228Q",
+              "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html",
+              "time": "7:57 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-05964527671d85ddb1e41d29",
               "headline": "Bedrock Conductor Identified at Harts Range",
-              "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2559P",
+              "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-14036004fbd8bf129457361e",
               "headline": "Quarterly Report Period Ending 30 June 2026",
-              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6456O",
+              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-eaace647891b5fdc705b95cf",
               "headline": "High-Grade Copper Assays up to 6.88% at Mt Storm",
-              "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9759L",
+              "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-f4fc5d20f56a98b899fbeb08",
               "headline": "NFM Accelerates Harts Range Exploration",
-              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-accelerates-harts-range-exploration-hlv56z7wh2nbvg1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0534K",
+              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-accelerates-harts-range-exploration-hlv56z7wh2nbvg1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-eaa85d42e77bbaecb792e50c",
               "headline": "Appendix 3Y \u2013 Change of Director\u2019s Interest Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-4ctl1y9565op2i4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8525I",
+              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-4ctl1y9565op2i4.html",
+              "time": "9:50 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-b8d7cd11d5746692aefbe726",
               "headline": "Metallurgical Testwork at Pomme REE Project",
-              "source_url": "https://www.lse.co.uk/rns/NFM/metallurgical-testwork-at-pomme-ree-project-k3zmj6q7rs66cl7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2246H",
+              "source_url": "https://www.lse.co.uk/rns/NFM/metallurgical-testwork-at-pomme-ree-project-k3zmj6q7rs66cl7.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th May 2026",
+              "event_id": "rns-4c078c524d22b808304f4670",
               "headline": "NFM advances NWQ Copper Project with Austral",
-              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-advances-nwq-copper-project-with-austral-94l8jze9d7x3ab3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6885E",
+              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-advances-nwq-copper-project-with-austral-94l8jze9d7x3ab3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th May 2026",
+              "event_id": "rns-450e498c373d0588b60d425f",
               "headline": "Investor Presentation - Engage Investor Platform",
-              "source_url": "https://www.lse.co.uk/rns/NFM/investor-presentation-engage-investor-platform-87gwp17t2zhwhjx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6876D",
+              "source_url": "https://www.lse.co.uk/rns/NFM/investor-presentation-engage-investor-platform-87gwp17t2zhwhjx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-eaa1135370e4f23629a9e86a",
               "headline": "Appendix 3Y \u2013 Change of Director\u2019s Interest Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-kuz4yk3oemtzqll.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7730C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-kuz4yk3oemtzqll.html",
+              "time": "8:21 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-0e79d367ed47f1d12f157f08",
               "headline": "Application for Quotation of Securities",
-              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-4nlgnsaz4qjuj5f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7727C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-4nlgnsaz4qjuj5f.html",
+              "time": "8:20 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-5a13583d0fd8c87eb49d411b",
               "headline": "Cleansing Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-p65ljj8knq1fv3k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7731C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-p65ljj8knq1fv3k.html",
+              "time": "8:22 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-be0f7654177ff2ee45efbbba",
               "headline": "Big One Site Visit &NWQ Project Tenement Expansion",
-              "source_url": "https://www.lse.co.uk/rns/NFM/big-one-site-visit-nwq-project-tenement-expansion-2cyf22yfm3lpfbn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4845C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/big-one-site-visit-nwq-project-tenement-expansion-2cyf22yfm3lpfbn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-b2ef54caf338a69b4293f756",
               "headline": "Quarterly Report",
-              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-1styb2fq9gpadgr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2606C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-1styb2fq9gpadgr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-90cbe8ba740acd5a85429a2d",
               "headline": "Application for quotation of Securities",
-              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-sak1szxnvrigfkg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9617A",
+              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-sak1szxnvrigfkg.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-61f69e89a6e68c15e035c12f",
               "headline": "Cleansing Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-sv4bieha2unpmwm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9614A",
+              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-sv4bieha2unpmwm.html",
+              "time": "10:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-ba1be3720bc0b4aa625fc464",
               "headline": "Proposed issue of Securities",
-              "source_url": "https://www.lse.co.uk/rns/NFM/proposed-issue-of-securities-0ss1vyjtu3s29zo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3729A",
+              "source_url": "https://www.lse.co.uk/rns/NFM/proposed-issue-of-securities-0ss1vyjtu3s29zo.html",
+              "time": "8:57 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-9962eb1761af0f3e4fcf9569",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-5i5vm7dj7m9fpt1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8615W",
+              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-5i5vm7dj7m9fpt1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-9962eb1761af0f3e4fcf9569",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-hcxf2lq7ywz2piy.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8615W",
+              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-hcxf2lq7ywz2piy.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -24966,58 +25078,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-07-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.09,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.625,
             "date": "2022-07-01",
             "status": "EXACT"
           },
           "relative_activity": 5.09,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "NFM.L:2022-07-01",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-07-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.22,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.625,
             "date": "2022-07-05",
             "status": "EXACT"
           },
           "relative_activity": 1.22,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "NFM.L:2022-07-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-07-08",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.7,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.625,
             "date": "2022-07-08",
             "status": "EXACT"
           },
           "relative_activity": 2.7,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "NFM.L:2022-07-08",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -37365,141 +37489,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-24",
+          "event_id": "rns-73022a0f3b2e2725ac9c58fd",
           "headline": "NWQ Copper Project Update",
-          "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7914R",
+          "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-a30adc4b6b78b348b5a21035",
           "headline": "Release from Escrow",
-          "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9228Q",
+          "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html",
+          "time": "7:57 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-05964527671d85ddb1e41d29",
           "headline": "Bedrock Conductor Identified at Harts Range",
-          "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2559P",
+          "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-31",
+          "event_id": "rns-14036004fbd8bf129457361e",
           "headline": "Quarterly Report Period Ending 30 June 2026",
-          "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6456O",
+          "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-eaace647891b5fdc705b95cf",
           "headline": "High-Grade Copper Assays up to 6.88% at Mt Storm",
-          "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9759L",
+          "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-29",
+          "event_id": "rns-f4fc5d20f56a98b899fbeb08",
           "headline": "NFM Accelerates Harts Range Exploration",
-          "source_url": "https://www.lse.co.uk/rns/NFM/nfm-accelerates-harts-range-exploration-hlv56z7wh2nbvg1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0534K",
+          "source_url": "https://www.lse.co.uk/rns/NFM/nfm-accelerates-harts-range-exploration-hlv56z7wh2nbvg1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-18",
+          "event_id": "rns-eaa85d42e77bbaecb792e50c",
           "headline": "Appendix 3Y \u2013 Change of Director\u2019s Interest Notice",
-          "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-4ctl1y9565op2i4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8525I",
+          "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-4ctl1y9565op2i4.html",
+          "time": "9:50 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-b8d7cd11d5746692aefbe726",
           "headline": "Metallurgical Testwork at Pomme REE Project",
-          "source_url": "https://www.lse.co.uk/rns/NFM/metallurgical-testwork-at-pomme-ree-project-k3zmj6q7rs66cl7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2246H",
+          "source_url": "https://www.lse.co.uk/rns/NFM/metallurgical-testwork-at-pomme-ree-project-k3zmj6q7rs66cl7.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-18",
+          "event_id": "rns-4c078c524d22b808304f4670",
           "headline": "NFM advances NWQ Copper Project with Austral",
-          "source_url": "https://www.lse.co.uk/rns/NFM/nfm-advances-nwq-copper-project-with-austral-94l8jze9d7x3ab3.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6885E",
+          "source_url": "https://www.lse.co.uk/rns/NFM/nfm-advances-nwq-copper-project-with-austral-94l8jze9d7x3ab3.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-11",
+          "event_id": "rns-450e498c373d0588b60d425f",
           "headline": "Investor Presentation - Engage Investor Platform",
-          "source_url": "https://www.lse.co.uk/rns/NFM/investor-presentation-engage-investor-platform-87gwp17t2zhwhjx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6876D",
+          "source_url": "https://www.lse.co.uk/rns/NFM/investor-presentation-engage-investor-platform-87gwp17t2zhwhjx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-eaa1135370e4f23629a9e86a",
           "headline": "Appendix 3Y \u2013 Change of Director\u2019s Interest Notice",
-          "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-kuz4yk3oemtzqll.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7730C",
+          "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-kuz4yk3oemtzqll.html",
+          "time": "8:21 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-0e79d367ed47f1d12f157f08",
           "headline": "Application for Quotation of Securities",
-          "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-4nlgnsaz4qjuj5f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7727C",
+          "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-4nlgnsaz4qjuj5f.html",
+          "time": "8:20 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-01",
+          "event_id": "rns-5a13583d0fd8c87eb49d411b",
           "headline": "Cleansing Notice",
-          "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-p65ljj8knq1fv3k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7731C",
+          "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-p65ljj8knq1fv3k.html",
+          "time": "8:22 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-30",
+          "event_id": "rns-be0f7654177ff2ee45efbbba",
           "headline": "Big One Site Visit &NWQ Project Tenement Expansion",
-          "source_url": "https://www.lse.co.uk/rns/NFM/big-one-site-visit-nwq-project-tenement-expansion-2cyf22yfm3lpfbn.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4845C",
+          "source_url": "https://www.lse.co.uk/rns/NFM/big-one-site-visit-nwq-project-tenement-expansion-2cyf22yfm3lpfbn.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-b2ef54caf338a69b4293f756",
           "headline": "Quarterly Report",
-          "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-1styb2fq9gpadgr.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2606C",
+          "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-1styb2fq9gpadgr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-90cbe8ba740acd5a85429a2d",
           "headline": "Application for quotation of Securities",
-          "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-sak1szxnvrigfkg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9617A",
+          "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-sak1szxnvrigfkg.html",
+          "time": "11:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-61f69e89a6e68c15e035c12f",
           "headline": "Cleansing Notice",
-          "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-sv4bieha2unpmwm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9614A",
+          "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-sv4bieha2unpmwm.html",
+          "time": "10:41 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-14",
+          "event_id": "rns-ba1be3720bc0b4aa625fc464",
           "headline": "Proposed issue of Securities",
-          "source_url": "https://www.lse.co.uk/rns/NFM/proposed-issue-of-securities-0ss1vyjtu3s29zo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3729A",
+          "source_url": "https://www.lse.co.uk/rns/NFM/proposed-issue-of-securities-0ss1vyjtu3s29zo.html",
+          "time": "8:57 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-9962eb1761af0f3e4fcf9569",
           "headline": "Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-5i5vm7dj7m9fpt1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8615W",
+          "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-5i5vm7dj7m9fpt1.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-17",
+          "event_id": "rns-9962eb1761af0f3e4fcf9569",
           "headline": "Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-hcxf2lq7ywz2piy.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8615W",
+          "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-hcxf2lq7ywz2piy.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -37507,36 +37731,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-24",
+          "event_id": "rns-73022a0f3b2e2725ac9c58fd",
           "headline": "NWQ Copper Project Update",
-          "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7914R",
+          "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-a30adc4b6b78b348b5a21035",
           "headline": "Release from Escrow",
-          "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9228Q",
+          "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html",
+          "time": "7:57 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-05964527671d85ddb1e41d29",
           "headline": "Bedrock Conductor Identified at Harts Range",
-          "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2559P",
+          "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-31",
+          "event_id": "rns-14036004fbd8bf129457361e",
           "headline": "Quarterly Report Period Ending 30 June 2026",
-          "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6456O",
+          "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-eaace647891b5fdc705b95cf",
           "headline": "High-Grade Copper Assays up to 6.88% at Mt Storm",
-          "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9759L",
+          "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -37584,58 +37833,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.09,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2022-07-01",
                 "status": "EXACT"
               },
               "relative_activity": 5.09,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NFM.L:2022-07-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.22,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2022-07-05",
                 "status": "EXACT"
               },
               "relative_activity": 1.22,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NFM.L:2022-07-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-08",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.7,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.625,
                 "date": "2022-07-08",
                 "status": "EXACT"
               },
               "relative_activity": 2.7,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "NFM.L:2022-07-08",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -62327,141 +62588,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Aug 2026",
+              "event_id": "rns-73022a0f3b2e2725ac9c58fd",
               "headline": "NWQ Copper Project Update",
-              "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7914R",
+              "source_url": "https://www.lse.co.uk/rns/NFM/nwq-copper-project-update-pc0ofo72zha8rnr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-a30adc4b6b78b348b5a21035",
               "headline": "Release from Escrow",
-              "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9228Q",
+              "source_url": "https://www.lse.co.uk/rns/NFM/release-from-escrow-njm288yksudy3rq.html",
+              "time": "7:57 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-05964527671d85ddb1e41d29",
               "headline": "Bedrock Conductor Identified at Harts Range",
-              "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2559P",
+              "source_url": "https://www.lse.co.uk/rns/NFM/bedrock-conductor-identified-at-harts-range-osdhx7iizm4jqbe.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-14036004fbd8bf129457361e",
               "headline": "Quarterly Report Period Ending 30 June 2026",
-              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6456O",
+              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-period-ending-30-june-2026-sroi45l1oppwh7d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-eaace647891b5fdc705b95cf",
               "headline": "High-Grade Copper Assays up to 6.88% at Mt Storm",
-              "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9759L",
+              "source_url": "https://www.lse.co.uk/rns/NFM/high-grade-copper-assays-up-to-688-at-mt-storm-lghqufw4lr1ye0d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-f4fc5d20f56a98b899fbeb08",
               "headline": "NFM Accelerates Harts Range Exploration",
-              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-accelerates-harts-range-exploration-hlv56z7wh2nbvg1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0534K",
+              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-accelerates-harts-range-exploration-hlv56z7wh2nbvg1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-eaa85d42e77bbaecb792e50c",
               "headline": "Appendix 3Y \u2013 Change of Director\u2019s Interest Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-4ctl1y9565op2i4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8525I",
+              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-4ctl1y9565op2i4.html",
+              "time": "9:50 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-b8d7cd11d5746692aefbe726",
               "headline": "Metallurgical Testwork at Pomme REE Project",
-              "source_url": "https://www.lse.co.uk/rns/NFM/metallurgical-testwork-at-pomme-ree-project-k3zmj6q7rs66cl7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2246H",
+              "source_url": "https://www.lse.co.uk/rns/NFM/metallurgical-testwork-at-pomme-ree-project-k3zmj6q7rs66cl7.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th May 2026",
+              "event_id": "rns-4c078c524d22b808304f4670",
               "headline": "NFM advances NWQ Copper Project with Austral",
-              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-advances-nwq-copper-project-with-austral-94l8jze9d7x3ab3.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6885E",
+              "source_url": "https://www.lse.co.uk/rns/NFM/nfm-advances-nwq-copper-project-with-austral-94l8jze9d7x3ab3.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th May 2026",
+              "event_id": "rns-450e498c373d0588b60d425f",
               "headline": "Investor Presentation - Engage Investor Platform",
-              "source_url": "https://www.lse.co.uk/rns/NFM/investor-presentation-engage-investor-platform-87gwp17t2zhwhjx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6876D",
+              "source_url": "https://www.lse.co.uk/rns/NFM/investor-presentation-engage-investor-platform-87gwp17t2zhwhjx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-eaa1135370e4f23629a9e86a",
               "headline": "Appendix 3Y \u2013 Change of Director\u2019s Interest Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-kuz4yk3oemtzqll.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7730C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/appendix-3y-8211-change-of-director8217s-interest-notice-kuz4yk3oemtzqll.html",
+              "time": "8:21 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-0e79d367ed47f1d12f157f08",
               "headline": "Application for Quotation of Securities",
-              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-4nlgnsaz4qjuj5f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7727C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-4nlgnsaz4qjuj5f.html",
+              "time": "8:20 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st May 2026",
+              "event_id": "rns-5a13583d0fd8c87eb49d411b",
               "headline": "Cleansing Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-p65ljj8knq1fv3k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7731C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-p65ljj8knq1fv3k.html",
+              "time": "8:22 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Apr 2026",
+              "event_id": "rns-be0f7654177ff2ee45efbbba",
               "headline": "Big One Site Visit &NWQ Project Tenement Expansion",
-              "source_url": "https://www.lse.co.uk/rns/NFM/big-one-site-visit-nwq-project-tenement-expansion-2cyf22yfm3lpfbn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4845C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/big-one-site-visit-nwq-project-tenement-expansion-2cyf22yfm3lpfbn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-b2ef54caf338a69b4293f756",
               "headline": "Quarterly Report",
-              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-1styb2fq9gpadgr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2606C",
+              "source_url": "https://www.lse.co.uk/rns/NFM/quarterly-report-1styb2fq9gpadgr.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-90cbe8ba740acd5a85429a2d",
               "headline": "Application for quotation of Securities",
-              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-sak1szxnvrigfkg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9617A",
+              "source_url": "https://www.lse.co.uk/rns/NFM/application-for-quotation-of-securities-sak1szxnvrigfkg.html",
+              "time": "11:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-61f69e89a6e68c15e035c12f",
               "headline": "Cleansing Notice",
-              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-sv4bieha2unpmwm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9614A",
+              "source_url": "https://www.lse.co.uk/rns/NFM/cleansing-notice-sv4bieha2unpmwm.html",
+              "time": "10:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Apr 2026",
+              "event_id": "rns-ba1be3720bc0b4aa625fc464",
               "headline": "Proposed issue of Securities",
-              "source_url": "https://www.lse.co.uk/rns/NFM/proposed-issue-of-securities-0ss1vyjtu3s29zo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3729A",
+              "source_url": "https://www.lse.co.uk/rns/NFM/proposed-issue-of-securities-0ss1vyjtu3s29zo.html",
+              "time": "8:57 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-9962eb1761af0f3e4fcf9569",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-5i5vm7dj7m9fpt1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8615W",
+              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-5i5vm7dj7m9fpt1.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Mar 2026",
+              "event_id": "rns-9962eb1761af0f3e4fcf9569",
               "headline": "Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-hcxf2lq7ywz2piy.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8615W",
+              "source_url": "https://www.lse.co.uk/rns/NFM/operational-update-hcxf2lq7ywz2piy.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

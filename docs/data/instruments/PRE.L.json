@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-07-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.63,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 15,
                 "date": "2023-07-10",
                 "status": "EXACT"
               },
               "relative_activity": 2.63,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PRE.L:2023-07-10",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -25078,141 +25082,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-3a0f2ddcb264a4dc9036907d",
               "headline": "Update on Strategic Investor Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-ef6aa175b604020533679ffd",
               "headline": "Trump announces US$3 billion support for U.S. critical minerals supply chains",
-              "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-f565b905e168cf90bbb7e5b9",
               "headline": "Update on Cascade financing",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-9f48ccfd8c0b33c25eb8b618",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html",
+              "time": "2:57 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-5fe6bf20b0bc97cc89fda909",
               "headline": "Strategic Investor Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-782ffe3323b840785dd1ea08",
               "headline": "Update on Longonjo Mine Development, Downstream and Offtake",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-mine-development-downstream-and-offtake-k14z6fomclwzqgf.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-mine-development-downstream-and-offtake-k14z6fomclwzqgf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-1a8089ace9815fecc3bc089e",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-zvldojnbcelpvvw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-zvldojnbcelpvvw.html",
+              "time": "4:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-f1578065f009be7225eb8395",
               "headline": "US$165 million Strategic Investment to support U.S. Mine to Magnet strategy",
-              "source_url": "https://www.lse.co.uk/rns/PRE/us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-r6q9s7u6umb3tx2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-r6q9s7u6umb3tx2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Mar 2026",
+              "event_id": "rns-9cc0bcb3276cc958085201d6",
               "headline": "Adjournment of General Meeting and Corporate Presentation",
-              "source_url": "https://www.lse.co.uk/rns/PRE/adjournment-of-general-meeting-and-corporate-presentation-fqk7g2h87m5fcn0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/adjournment-of-general-meeting-and-corporate-presentation-fqk7g2h87m5fcn0.html",
+              "time": "11:20 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Mar 2026",
+              "event_id": "rns-267ad98cb107e0a339cd3491",
               "headline": "Increased US$165 million Strategic Investment to support U.S. Mine to Magnet strategy - Proposed adjournment of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PRE/increased-us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-proposed-adjournment-of-general-meeting-smmqa2s8szim8kb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/increased-us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-proposed-adjournment-of-general-meeting-smmqa2s8szim8kb.html",
+              "time": "7:28 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Mar 2026",
+              "event_id": "rns-b45720c7ae6eefcbd088c286",
               "headline": "Construction on track for 2027 first production",
-              "source_url": "https://www.lse.co.uk/rns/PRE/construction-on-track-for-2027-first-production-p5bq01rioyo6ftx.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/construction-on-track-for-2027-first-production-p5bq01rioyo6ftx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2026",
+              "event_id": "rns-93690e523d6578fcc7e74e9e",
               "headline": "US$ 160 million Strategic Equity Investment",
-              "source_url": "https://www.lse.co.uk/rns/PRE/us-160-million-strategic-equity-investment-s1niz1k2frrotbk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/us-160-million-strategic-equity-investment-s1niz1k2frrotbk.html",
+              "time": "3:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-800bc155a816478d7a7f54cc",
               "headline": "Update on US$25 million Longonjo mine finance",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-us25-million-longonjo-mine-finance-8eouki7xikuyvl6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-us25-million-longonjo-mine-finance-8eouki7xikuyvl6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-e66865b9df02d7b9fd646d09",
               "headline": "Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-duounug8obgs9iz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-duounug8obgs9iz.html",
+              "time": "12:28 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-43b252ba8bb415a5371e8cbf",
               "headline": "Update on Longonjo infill and resource expansion drill programme",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-infill-and-resource-expansion-drill-programme-e2um8klh58ut928.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-infill-and-resource-expansion-drill-programme-e2um8klh58ut928.html",
+              "time": "7:04 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-447f677ce6f28961df98dba5",
               "headline": "Directors Dealings",
-              "source_url": "https://www.lse.co.uk/rns/PRE/directors-dealings-6dednbsulspyycq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/directors-dealings-6dednbsulspyycq.html",
+              "time": "12:28 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-192ab5c341a8d5788d0af7ec",
               "headline": "Longonjo Main Construction well underway",
-              "source_url": "https://www.lse.co.uk/rns/PRE/longonjo-main-construction-well-underway-1fjnt4eftle353u.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/longonjo-main-construction-well-underway-1fjnt4eftle353u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-6f07eb7b5ef9d8c1ca15466d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-68ikg7oowytt7ym.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-68ikg7oowytt7ym.html",
+              "time": "2:09 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-585fb66979791cb0680361c4",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-hwj39fql1u643am.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-hwj39fql1u643am.html",
+              "time": "2:09 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-ffc77cf55dfc344bb2c98a11",
               "headline": "Issue of Equity - Updated Admission Date and number of shares to be issued",
-              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-updated-admission-date-and-number-of-shares-to-be-issued-kchbv9r6zagii57.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-updated-admission-date-and-number-of-shares-to-be-issued-kchbv9r6zagii57.html",
+              "time": "11:08 am"
             }
           ],
           "status": "AVAILABLE",
@@ -25280,20 +25384,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-07-10",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.63,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 15,
             "date": "2023-07-10",
             "status": "EXACT"
           },
           "relative_activity": 2.63,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PRE.L:2023-07-10",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -37817,141 +37925,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-3a0f2ddcb264a4dc9036907d",
           "headline": "Update on Strategic Investor Board Appointment",
-          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-ef6aa175b604020533679ffd",
           "headline": "Trump announces US$3 billion support for U.S. critical minerals supply chains",
-          "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-f565b905e168cf90bbb7e5b9",
           "headline": "Update on Cascade financing",
-          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-9f48ccfd8c0b33c25eb8b618",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html",
+          "time": "2:57 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-18",
+          "event_id": "rns-5fe6bf20b0bc97cc89fda909",
           "headline": "Strategic Investor Board Appointment",
-          "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-08",
+          "event_id": "rns-782ffe3323b840785dd1ea08",
           "headline": "Update on Longonjo Mine Development, Downstream and Offtake",
-          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-mine-development-downstream-and-offtake-k14z6fomclwzqgf.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-mine-development-downstream-and-offtake-k14z6fomclwzqgf.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-1a8089ace9815fecc3bc089e",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-zvldojnbcelpvvw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-zvldojnbcelpvvw.html",
+          "time": "4:59 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-17",
+          "event_id": "rns-f1578065f009be7225eb8395",
           "headline": "US$165 million Strategic Investment to support U.S. Mine to Magnet strategy",
-          "source_url": "https://www.lse.co.uk/rns/PRE/us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-r6q9s7u6umb3tx2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-r6q9s7u6umb3tx2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-09",
+          "event_id": "rns-9cc0bcb3276cc958085201d6",
           "headline": "Adjournment of General Meeting and Corporate Presentation",
-          "source_url": "https://www.lse.co.uk/rns/PRE/adjournment-of-general-meeting-and-corporate-presentation-fqk7g2h87m5fcn0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/adjournment-of-general-meeting-and-corporate-presentation-fqk7g2h87m5fcn0.html",
+          "time": "11:20 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-04",
+          "event_id": "rns-267ad98cb107e0a339cd3491",
           "headline": "Increased US$165 million Strategic Investment to support U.S. Mine to Magnet strategy - Proposed adjournment of General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/PRE/increased-us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-proposed-adjournment-of-general-meeting-smmqa2s8szim8kb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/increased-us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-proposed-adjournment-of-general-meeting-smmqa2s8szim8kb.html",
+          "time": "7:28 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-03",
+          "event_id": "rns-b45720c7ae6eefcbd088c286",
           "headline": "Construction on track for 2027 first production",
-          "source_url": "https://www.lse.co.uk/rns/PRE/construction-on-track-for-2027-first-production-p5bq01rioyo6ftx.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/construction-on-track-for-2027-first-production-p5bq01rioyo6ftx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-10",
+          "event_id": "rns-93690e523d6578fcc7e74e9e",
           "headline": "US$ 160 million Strategic Equity Investment",
-          "source_url": "https://www.lse.co.uk/rns/PRE/us-160-million-strategic-equity-investment-s1niz1k2frrotbk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/us-160-million-strategic-equity-investment-s1niz1k2frrotbk.html",
+          "time": "3:10 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-04",
+          "event_id": "rns-800bc155a816478d7a7f54cc",
           "headline": "Update on US$25 million Longonjo mine finance",
-          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-us25-million-longonjo-mine-finance-8eouki7xikuyvl6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-us25-million-longonjo-mine-finance-8eouki7xikuyvl6.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21",
+          "event_id": "rns-e66865b9df02d7b9fd646d09",
           "headline": "Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-duounug8obgs9iz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-duounug8obgs9iz.html",
+          "time": "12:28 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21",
+          "event_id": "rns-43b252ba8bb415a5371e8cbf",
           "headline": "Update on Longonjo infill and resource expansion drill programme",
-          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-infill-and-resource-expansion-drill-programme-e2um8klh58ut928.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-infill-and-resource-expansion-drill-programme-e2um8klh58ut928.html",
+          "time": "7:04 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-14",
+          "event_id": "rns-447f677ce6f28961df98dba5",
           "headline": "Directors Dealings",
-          "source_url": "https://www.lse.co.uk/rns/PRE/directors-dealings-6dednbsulspyycq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/directors-dealings-6dednbsulspyycq.html",
+          "time": "12:28 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-14",
+          "event_id": "rns-192ab5c341a8d5788d0af7ec",
           "headline": "Longonjo Main Construction well underway",
-          "source_url": "https://www.lse.co.uk/rns/PRE/longonjo-main-construction-well-underway-1fjnt4eftle353u.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/longonjo-main-construction-well-underway-1fjnt4eftle353u.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-6f07eb7b5ef9d8c1ca15466d",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-68ikg7oowytt7ym.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-68ikg7oowytt7ym.html",
+          "time": "2:09 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-23",
+          "event_id": "rns-585fb66979791cb0680361c4",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-hwj39fql1u643am.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-hwj39fql1u643am.html",
+          "time": "2:09 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-ffc77cf55dfc344bb2c98a11",
           "headline": "Issue of Equity - Updated Admission Date and number of shares to be issued",
-          "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-updated-admission-date-and-number-of-shares-to-be-issued-kchbv9r6zagii57.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-updated-admission-date-and-number-of-shares-to-be-issued-kchbv9r6zagii57.html",
+          "time": "11:08 am"
         }
       ],
       "rns_initial": [
@@ -37959,36 +38167,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-17",
+          "event_id": "rns-3a0f2ddcb264a4dc9036907d",
           "headline": "Update on Strategic Investor Board Appointment",
-          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-ef6aa175b604020533679ffd",
           "headline": "Trump announces US$3 billion support for U.S. critical minerals supply chains",
-          "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-f565b905e168cf90bbb7e5b9",
           "headline": "Update on Cascade financing",
-          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-9f48ccfd8c0b33c25eb8b618",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html",
+          "time": "2:57 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-18",
+          "event_id": "rns-5fe6bf20b0bc97cc89fda909",
           "headline": "Strategic Investor Board Appointment",
-          "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -38036,20 +38269,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-07-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.63,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 15,
                 "date": "2023-07-10",
                 "status": "EXACT"
               },
               "relative_activity": 2.63,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PRE.L:2023-07-10",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -63093,141 +63330,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Aug 2026",
+              "event_id": "rns-3a0f2ddcb264a4dc9036907d",
               "headline": "Update on Strategic Investor Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-strategic-investor-board-appointment-24i312tf3leoxqy.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-ef6aa175b604020533679ffd",
               "headline": "Trump announces US$3 billion support for U.S. critical minerals supply chains",
-              "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/trump-announces-us3-billion-support-for-us-critical-minerals-supply-chains-g26owr7oxw8axwo.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-f565b905e168cf90bbb7e5b9",
               "headline": "Update on Cascade financing",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-cascade-financing-8r2g2yqiqsfdlt0.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-9f48ccfd8c0b33c25eb8b618",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-w1724ibtia3g3s2.html",
+              "time": "2:57 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Jun 2026",
+              "event_id": "rns-5fe6bf20b0bc97cc89fda909",
               "headline": "Strategic Investor Board Appointment",
-              "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/strategic-investor-board-appointment-e2okvawv5s8ra0e.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-782ffe3323b840785dd1ea08",
               "headline": "Update on Longonjo Mine Development, Downstream and Offtake",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-mine-development-downstream-and-offtake-k14z6fomclwzqgf.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-mine-development-downstream-and-offtake-k14z6fomclwzqgf.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-1a8089ace9815fecc3bc089e",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-zvldojnbcelpvvw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-zvldojnbcelpvvw.html",
+              "time": "4:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2026",
+              "event_id": "rns-f1578065f009be7225eb8395",
               "headline": "US$165 million Strategic Investment to support U.S. Mine to Magnet strategy",
-              "source_url": "https://www.lse.co.uk/rns/PRE/us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-r6q9s7u6umb3tx2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-r6q9s7u6umb3tx2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Mar 2026",
+              "event_id": "rns-9cc0bcb3276cc958085201d6",
               "headline": "Adjournment of General Meeting and Corporate Presentation",
-              "source_url": "https://www.lse.co.uk/rns/PRE/adjournment-of-general-meeting-and-corporate-presentation-fqk7g2h87m5fcn0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/adjournment-of-general-meeting-and-corporate-presentation-fqk7g2h87m5fcn0.html",
+              "time": "11:20 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Mar 2026",
+              "event_id": "rns-267ad98cb107e0a339cd3491",
               "headline": "Increased US$165 million Strategic Investment to support U.S. Mine to Magnet strategy - Proposed adjournment of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/PRE/increased-us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-proposed-adjournment-of-general-meeting-smmqa2s8szim8kb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/increased-us165-million-strategic-investment-to-support-us-mine-to-magnet-strategy-proposed-adjournment-of-general-meeting-smmqa2s8szim8kb.html",
+              "time": "7:28 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Mar 2026",
+              "event_id": "rns-b45720c7ae6eefcbd088c286",
               "headline": "Construction on track for 2027 first production",
-              "source_url": "https://www.lse.co.uk/rns/PRE/construction-on-track-for-2027-first-production-p5bq01rioyo6ftx.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/construction-on-track-for-2027-first-production-p5bq01rioyo6ftx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2026",
+              "event_id": "rns-93690e523d6578fcc7e74e9e",
               "headline": "US$ 160 million Strategic Equity Investment",
-              "source_url": "https://www.lse.co.uk/rns/PRE/us-160-million-strategic-equity-investment-s1niz1k2frrotbk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/us-160-million-strategic-equity-investment-s1niz1k2frrotbk.html",
+              "time": "3:10 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Feb 2026",
+              "event_id": "rns-800bc155a816478d7a7f54cc",
               "headline": "Update on US$25 million Longonjo mine finance",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-us25-million-longonjo-mine-finance-8eouki7xikuyvl6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-us25-million-longonjo-mine-finance-8eouki7xikuyvl6.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-e66865b9df02d7b9fd646d09",
               "headline": "Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-duounug8obgs9iz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-duounug8obgs9iz.html",
+              "time": "12:28 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st Jan 2026",
+              "event_id": "rns-43b252ba8bb415a5371e8cbf",
               "headline": "Update on Longonjo infill and resource expansion drill programme",
-              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-infill-and-resource-expansion-drill-programme-e2um8klh58ut928.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/update-on-longonjo-infill-and-resource-expansion-drill-programme-e2um8klh58ut928.html",
+              "time": "7:04 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-447f677ce6f28961df98dba5",
               "headline": "Directors Dealings",
-              "source_url": "https://www.lse.co.uk/rns/PRE/directors-dealings-6dednbsulspyycq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/directors-dealings-6dednbsulspyycq.html",
+              "time": "12:28 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jan 2026",
+              "event_id": "rns-192ab5c341a8d5788d0af7ec",
               "headline": "Longonjo Main Construction well underway",
-              "source_url": "https://www.lse.co.uk/rns/PRE/longonjo-main-construction-well-underway-1fjnt4eftle353u.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/longonjo-main-construction-well-underway-1fjnt4eftle353u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-6f07eb7b5ef9d8c1ca15466d",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-68ikg7oowytt7ym.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-68ikg7oowytt7ym.html",
+              "time": "2:09 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Dec 2025",
+              "event_id": "rns-585fb66979791cb0680361c4",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-hwj39fql1u643am.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/holdings-in-company-hwj39fql1u643am.html",
+              "time": "2:09 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-ffc77cf55dfc344bb2c98a11",
               "headline": "Issue of Equity - Updated Admission Date and number of shares to be issued",
-              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-updated-admission-date-and-number-of-shares-to-be-issued-kchbv9r6zagii57.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/PRE/issue-of-equity-updated-admission-date-and-number-of-shares-to-be-issued-kchbv9r6zagii57.html",
+              "time": "11:08 am"
             }
           ],
           "status": "AVAILABLE",

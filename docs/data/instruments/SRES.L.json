@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-05-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.014000000432133675,
                 "date": "2025-05-01",
                 "status": "EXACT"
               },
               "relative_activity": 5.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SRES.L:2025-05-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-05-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.94,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.013000000268220901,
                 "date": "2025-05-29",
                 "status": "EXACT"
               },
               "relative_activity": 2.94,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SRES.L:2025-05-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27129,113 +27137,193 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461260Z",
+              "event_id": "rns-1c58465e5813bc3a3723f570",
               "headline": "CS PROJECT BULK SAMPLE \u2013 CUSTOMER TRIALS",
-              "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2250Q",
+              "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461566Z",
+              "event_id": "rns-facdf7dbbe52cbc9261ed4ce",
               "headline": "Drill Start \u2013 Pioche Sepiolite Project",
-              "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2420W",
+              "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461465Z",
+              "event_id": "rns-35a972a70645795b93412d02",
               "headline": "Exploration Update \u2013 Pioche Sepiolite Project",
-              "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1598A",
+              "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461202Z",
+              "event_id": "rns-679db2f0bd60243f9e62a480",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0166X",
+              "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461516Z",
+              "event_id": "rns-c6fdd5f6ef7c687c1b15474f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4391W",
+              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461541Z",
+              "event_id": "rns-53349824f464a4c5373bfdef",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-q6qbrtq1mwx1pk8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2885W",
+              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-q6qbrtq1mwx1pk8.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461364Z",
+              "event_id": "rns-235d19d18abdc94ec15f338c",
               "headline": "Issue and Allotment of Shares following Conversion",
-              "source_url": "https://www.lse.co.uk/rns/SRES/issue-and-allotment-of-shares-following-conversion-bobrevu632u4duu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1421M",
+              "source_url": "https://www.lse.co.uk/rns/SRES/issue-and-allotment-of-shares-following-conversion-bobrevu632u4duu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461439Z",
+              "event_id": "rns-19b6bf8223431fa4a9d7a4ed",
               "headline": "Issue of Equity and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/issue-of-equity-and-total-voting-rights-nhqvvgbxe7cw952.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9787A",
+              "source_url": "https://www.lse.co.uk/rns/SRES/issue-of-equity-and-total-voting-rights-nhqvvgbxe7cw952.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461232Z",
+              "event_id": "rns-a02509df0db118834d6dfae0",
               "headline": "Pioche Sepiolite Project \u2013 Tolsa Option",
-              "source_url": "https://www.lse.co.uk/rns/SRES/pioche-sepiolite-project-8211-tolsa-option-jrtenocglrlqj0q.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4880R",
+              "source_url": "https://www.lse.co.uk/rns/SRES/pioche-sepiolite-project-8211-tolsa-option-jrtenocglrlqj0q.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461593Z",
+              "event_id": "rns-73b83d33c6dfdd74680ab936",
               "headline": "Placing & Subscription to Raise \u00a3201,500 & TVR",
-              "source_url": "https://www.lse.co.uk/rns/SRES/placing-subscription-to-raise-163201500-tvr-fxfb391el6668yv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5690U",
+              "source_url": "https://www.lse.co.uk/rns/SRES/placing-subscription-to-raise-163201500-tvr-fxfb391el6668yv.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461389Z",
+              "event_id": "rns-d54ff3927a7a99582ff55127",
               "headline": "Reese Ridge Zinc-Lead-Silver (-Gallium) Project",
-              "source_url": "https://www.lse.co.uk/rns/SRES/reese-ridge-zinc-lead-silver-gallium-project-2tpef9fsrlzc0xu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6839F",
+              "source_url": "https://www.lse.co.uk/rns/SRES/reese-ridge-zinc-lead-silver-gallium-project-2tpef9fsrlzc0xu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461337Z",
+              "event_id": "rns-b68206f51babbfde065b4d6e",
               "headline": "SALE OF CROW SPRINGS DIATOMITE CLAIMS",
-              "source_url": "https://www.lse.co.uk/rns/SRES/sale-of-crow-springs-diatomite-claims-qp230mr9kk9kqpu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7630N",
+              "source_url": "https://www.lse.co.uk/rns/SRES/sale-of-crow-springs-diatomite-claims-qp230mr9kk9kqpu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461415Z",
+              "event_id": "rns-5dbcd54089ade3345698f4ef",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-2zxoy1j8hy66f40.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5026C",
+              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-2zxoy1j8hy66f40.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461491Z",
+              "event_id": "rns-ad9849163ea4414a676a2331",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-5q3mfiewenjesls.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6758Y",
+              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-5q3mfiewenjesls.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461312Z",
+              "event_id": "rns-8586ad0e77b1e1ccc9479d84",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-fb4qrhdej8jogzf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4220O",
+              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-fb4qrhdej8jogzf.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461286Z",
+              "event_id": "rns-49b45ce7e410cdd833f1b54d",
               "headline": "UPDATE ON THE COMPANY\u2019S NATURAL POZZOLAN PROJECTS",
-              "source_url": "https://www.lse.co.uk/rns/SRES/update-on-the-company8217s-natural-pozzolan-projects-i73gaoic17ylht4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8772O",
+              "source_url": "https://www.lse.co.uk/rns/SRES/update-on-the-company8217s-natural-pozzolan-projects-i73gaoic17ylht4.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",
@@ -27303,39 +27391,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-05-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 5.65,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.014000000432133675,
             "date": "2025-05-01",
             "status": "EXACT"
           },
           "relative_activity": 5.65,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "SRES.L:2025-05-01",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-05-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.94,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.013000000268220901,
             "date": "2025-05-29",
             "status": "EXACT"
           },
           "relative_activity": 2.94,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "SRES.L:2025-05-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40875,113 +40971,193 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461260Z",
+          "event_id": "rns-1c58465e5813bc3a3723f570",
           "headline": "CS PROJECT BULK SAMPLE \u2013 CUSTOMER TRIALS",
-          "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2250Q",
+          "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461566Z",
+          "event_id": "rns-facdf7dbbe52cbc9261ed4ce",
           "headline": "Drill Start \u2013 Pioche Sepiolite Project",
-          "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2420W",
+          "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461465Z",
+          "event_id": "rns-35a972a70645795b93412d02",
           "headline": "Exploration Update \u2013 Pioche Sepiolite Project",
-          "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1598A",
+          "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461202Z",
+          "event_id": "rns-679db2f0bd60243f9e62a480",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0166X",
+          "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461516Z",
+          "event_id": "rns-c6fdd5f6ef7c687c1b15474f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4391W",
+          "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461541Z",
+          "event_id": "rns-53349824f464a4c5373bfdef",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-q6qbrtq1mwx1pk8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2885W",
+          "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-q6qbrtq1mwx1pk8.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461364Z",
+          "event_id": "rns-235d19d18abdc94ec15f338c",
           "headline": "Issue and Allotment of Shares following Conversion",
-          "source_url": "https://www.lse.co.uk/rns/SRES/issue-and-allotment-of-shares-following-conversion-bobrevu632u4duu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1421M",
+          "source_url": "https://www.lse.co.uk/rns/SRES/issue-and-allotment-of-shares-following-conversion-bobrevu632u4duu.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461439Z",
+          "event_id": "rns-19b6bf8223431fa4a9d7a4ed",
           "headline": "Issue of Equity and Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/SRES/issue-of-equity-and-total-voting-rights-nhqvvgbxe7cw952.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9787A",
+          "source_url": "https://www.lse.co.uk/rns/SRES/issue-of-equity-and-total-voting-rights-nhqvvgbxe7cw952.html",
+          "time": null
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461232Z",
+          "event_id": "rns-a02509df0db118834d6dfae0",
           "headline": "Pioche Sepiolite Project \u2013 Tolsa Option",
-          "source_url": "https://www.lse.co.uk/rns/SRES/pioche-sepiolite-project-8211-tolsa-option-jrtenocglrlqj0q.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 4880R",
+          "source_url": "https://www.lse.co.uk/rns/SRES/pioche-sepiolite-project-8211-tolsa-option-jrtenocglrlqj0q.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461593Z",
+          "event_id": "rns-73b83d33c6dfdd74680ab936",
           "headline": "Placing & Subscription to Raise \u00a3201,500 & TVR",
-          "source_url": "https://www.lse.co.uk/rns/SRES/placing-subscription-to-raise-163201500-tvr-fxfb391el6668yv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5690U",
+          "source_url": "https://www.lse.co.uk/rns/SRES/placing-subscription-to-raise-163201500-tvr-fxfb391el6668yv.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461389Z",
+          "event_id": "rns-d54ff3927a7a99582ff55127",
           "headline": "Reese Ridge Zinc-Lead-Silver (-Gallium) Project",
-          "source_url": "https://www.lse.co.uk/rns/SRES/reese-ridge-zinc-lead-silver-gallium-project-2tpef9fsrlzc0xu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6839F",
+          "source_url": "https://www.lse.co.uk/rns/SRES/reese-ridge-zinc-lead-silver-gallium-project-2tpef9fsrlzc0xu.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461337Z",
+          "event_id": "rns-b68206f51babbfde065b4d6e",
           "headline": "SALE OF CROW SPRINGS DIATOMITE CLAIMS",
-          "source_url": "https://www.lse.co.uk/rns/SRES/sale-of-crow-springs-diatomite-claims-qp230mr9kk9kqpu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7630N",
+          "source_url": "https://www.lse.co.uk/rns/SRES/sale-of-crow-springs-diatomite-claims-qp230mr9kk9kqpu.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461415Z",
+          "event_id": "rns-5dbcd54089ade3345698f4ef",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-2zxoy1j8hy66f40.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5026C",
+          "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-2zxoy1j8hy66f40.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461491Z",
+          "event_id": "rns-ad9849163ea4414a676a2331",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-5q3mfiewenjesls.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6758Y",
+          "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-5q3mfiewenjesls.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461312Z",
+          "event_id": "rns-8586ad0e77b1e1ccc9479d84",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-fb4qrhdej8jogzf.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4220O",
+          "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-fb4qrhdej8jogzf.html",
+          "time": null
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461286Z",
+          "event_id": "rns-49b45ce7e410cdd833f1b54d",
           "headline": "UPDATE ON THE COMPANY\u2019S NATURAL POZZOLAN PROJECTS",
-          "source_url": "https://www.lse.co.uk/rns/SRES/update-on-the-company8217s-natural-pozzolan-projects-i73gaoic17ylht4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8772O",
+          "source_url": "https://www.lse.co.uk/rns/SRES/update-on-the-company8217s-natural-pozzolan-projects-i73gaoic17ylht4.html",
+          "time": null
         }
       ],
       "rns_initial": [
@@ -40989,36 +41165,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461260Z",
+          "event_id": "rns-1c58465e5813bc3a3723f570",
           "headline": "CS PROJECT BULK SAMPLE \u2013 CUSTOMER TRIALS",
-          "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2250Q",
+          "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461566Z",
+          "event_id": "rns-facdf7dbbe52cbc9261ed4ce",
           "headline": "Drill Start \u2013 Pioche Sepiolite Project",
-          "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2420W",
+          "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461465Z",
+          "event_id": "rns-35a972a70645795b93412d02",
           "headline": "Exploration Update \u2013 Pioche Sepiolite Project",
-          "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1598A",
+          "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461202Z",
+          "event_id": "rns-679db2f0bd60243f9e62a480",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0166X",
+          "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-16T23:00:35.461516Z",
+          "event_id": "rns-c6fdd5f6ef7c687c1b15474f",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4391W",
+          "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html",
+          "time": null
         }
       ],
       "rns_records_emitted": 16,
@@ -41066,39 +41267,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-05-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 5.65,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.014000000432133675,
                 "date": "2025-05-01",
                 "status": "EXACT"
               },
               "relative_activity": 5.65,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SRES.L:2025-05-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-05-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.94,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.013000000268220901,
                 "date": "2025-05-29",
                 "status": "EXACT"
               },
               "relative_activity": 2.94,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SRES.L:2025-05-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68174,113 +68383,193 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461260Z",
+              "event_id": "rns-1c58465e5813bc3a3723f570",
               "headline": "CS PROJECT BULK SAMPLE \u2013 CUSTOMER TRIALS",
-              "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2250Q",
+              "source_url": "https://www.lse.co.uk/rns/SRES/cs-project-bulk-sample-8211-customer-trials-ubii463deyigmzc.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461566Z",
+              "event_id": "rns-facdf7dbbe52cbc9261ed4ce",
               "headline": "Drill Start \u2013 Pioche Sepiolite Project",
-              "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2420W",
+              "source_url": "https://www.lse.co.uk/rns/SRES/drill-start-8211-pioche-sepiolite-project-gvx4dpbsbi744kn.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461465Z",
+              "event_id": "rns-35a972a70645795b93412d02",
               "headline": "Exploration Update \u2013 Pioche Sepiolite Project",
-              "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1598A",
+              "source_url": "https://www.lse.co.uk/rns/SRES/exploration-update-8211-pioche-sepiolite-project-bi4sso8sxufogn7.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461202Z",
+              "event_id": "rns-679db2f0bd60243f9e62a480",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0166X",
+              "source_url": "https://www.lse.co.uk/rns/SRES/final-results-5s29mg8wjk36yr9.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461516Z",
+              "event_id": "rns-c6fdd5f6ef7c687c1b15474f",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4391W",
+              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-g4tp4hccz1n7thg.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461541Z",
+              "event_id": "rns-53349824f464a4c5373bfdef",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-q6qbrtq1mwx1pk8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2885W",
+              "source_url": "https://www.lse.co.uk/rns/SRES/holdings-in-company-q6qbrtq1mwx1pk8.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461364Z",
+              "event_id": "rns-235d19d18abdc94ec15f338c",
               "headline": "Issue and Allotment of Shares following Conversion",
-              "source_url": "https://www.lse.co.uk/rns/SRES/issue-and-allotment-of-shares-following-conversion-bobrevu632u4duu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1421M",
+              "source_url": "https://www.lse.co.uk/rns/SRES/issue-and-allotment-of-shares-following-conversion-bobrevu632u4duu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461439Z",
+              "event_id": "rns-19b6bf8223431fa4a9d7a4ed",
               "headline": "Issue of Equity and Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/issue-of-equity-and-total-voting-rights-nhqvvgbxe7cw952.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9787A",
+              "source_url": "https://www.lse.co.uk/rns/SRES/issue-of-equity-and-total-voting-rights-nhqvvgbxe7cw952.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461232Z",
+              "event_id": "rns-a02509df0db118834d6dfae0",
               "headline": "Pioche Sepiolite Project \u2013 Tolsa Option",
-              "source_url": "https://www.lse.co.uk/rns/SRES/pioche-sepiolite-project-8211-tolsa-option-jrtenocglrlqj0q.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 4880R",
+              "source_url": "https://www.lse.co.uk/rns/SRES/pioche-sepiolite-project-8211-tolsa-option-jrtenocglrlqj0q.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461593Z",
+              "event_id": "rns-73b83d33c6dfdd74680ab936",
               "headline": "Placing & Subscription to Raise \u00a3201,500 & TVR",
-              "source_url": "https://www.lse.co.uk/rns/SRES/placing-subscription-to-raise-163201500-tvr-fxfb391el6668yv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5690U",
+              "source_url": "https://www.lse.co.uk/rns/SRES/placing-subscription-to-raise-163201500-tvr-fxfb391el6668yv.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461389Z",
+              "event_id": "rns-d54ff3927a7a99582ff55127",
               "headline": "Reese Ridge Zinc-Lead-Silver (-Gallium) Project",
-              "source_url": "https://www.lse.co.uk/rns/SRES/reese-ridge-zinc-lead-silver-gallium-project-2tpef9fsrlzc0xu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6839F",
+              "source_url": "https://www.lse.co.uk/rns/SRES/reese-ridge-zinc-lead-silver-gallium-project-2tpef9fsrlzc0xu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461337Z",
+              "event_id": "rns-b68206f51babbfde065b4d6e",
               "headline": "SALE OF CROW SPRINGS DIATOMITE CLAIMS",
-              "source_url": "https://www.lse.co.uk/rns/SRES/sale-of-crow-springs-diatomite-claims-qp230mr9kk9kqpu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7630N",
+              "source_url": "https://www.lse.co.uk/rns/SRES/sale-of-crow-springs-diatomite-claims-qp230mr9kk9kqpu.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461415Z",
+              "event_id": "rns-5dbcd54089ade3345698f4ef",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-2zxoy1j8hy66f40.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5026C",
+              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-2zxoy1j8hy66f40.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461491Z",
+              "event_id": "rns-ad9849163ea4414a676a2331",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-5q3mfiewenjesls.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6758Y",
+              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-5q3mfiewenjesls.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461312Z",
+              "event_id": "rns-8586ad0e77b1e1ccc9479d84",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-fb4qrhdej8jogzf.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4220O",
+              "source_url": "https://www.lse.co.uk/rns/SRES/total-voting-rights-fb4qrhdej8jogzf.html",
+              "time": null
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-16T23:00:35.461286Z",
+              "event_id": "rns-49b45ce7e410cdd833f1b54d",
               "headline": "UPDATE ON THE COMPANY\u2019S NATURAL POZZOLAN PROJECTS",
-              "source_url": "https://www.lse.co.uk/rns/SRES/update-on-the-company8217s-natural-pozzolan-projects-i73gaoic17ylht4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8772O",
+              "source_url": "https://www.lse.co.uk/rns/SRES/update-on-the-company8217s-natural-pozzolan-projects-i73gaoic17ylht4.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",

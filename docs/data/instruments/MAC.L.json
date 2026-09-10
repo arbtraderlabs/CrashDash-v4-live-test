@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-05-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2021-05-27",
                 "status": "EXACT"
               },
               "relative_activity": 2.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MAC.L:2021-05-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-07-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.17,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.274999976158142,
                 "date": "2021-07-12",
                 "status": "EXACT"
               },
               "relative_activity": 2.17,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MAC.L:2021-07-12",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-07-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 9.4,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2021-07-15",
                 "status": "EXACT"
               },
               "relative_activity": 9.4,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MAC.L:2021-07-15",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27164,141 +27176,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Aug 2026",
+              "event_id": "rns-32293be65449ceea6ded3428",
               "headline": "Full Year Results for the Year Ended 30 April 2026",
-              "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8428R",
+              "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-27a306d4f0a7e4eb1aca1e8f",
               "headline": "Launch of US$118M Tokenised Coral Reef Programme",
-              "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5856Q",
+              "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html",
+              "time": "10:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-5f1612a43f6d2b79e5dd7a7e",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4263Q",
+              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html",
+              "time": "1:09 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-b75226efa43d58c9861ef2e5",
               "headline": "Blubird Launches 2nd Generation Token Platform",
-              "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2882P",
+              "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-ed9139dfa54fa9e784d1bec0",
               "headline": "New Website",
-              "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0603O",
+              "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-cda3fa0c4a30f84e103c499c",
               "headline": "Grant of Options, Director/PDMR Dealing",
-              "source_url": "https://www.lse.co.uk/rns/MAC/grant-of-options-directorpdmr-dealing-mdlgyjbz0ljnppo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/grant-of-options-directorpdmr-dealing-mdlgyjbz0ljnppo.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-b03718d9e21ca78014ed9283",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-7fe2em0diz29g9w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-7fe2em0diz29g9w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-2c11b9df6a1996565113cb51",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-ja8lunuf7fylnzb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-ja8lunuf7fylnzb.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-ebb00b63f624ef8d5e7ea2f6",
               "headline": "Completion of Acquisitions",
-              "source_url": "https://www.lse.co.uk/rns/MAC/completion-of-acquisitions-ix3w55b6dpp83j6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/completion-of-acquisitions-ix3w55b6dpp83j6.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-1a16153af7b59617cec0d4ec",
               "headline": "Director Dealing",
-              "source_url": "https://www.lse.co.uk/rns/MAC/director-dealing-vfr7row49qqq0hj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/director-dealing-vfr7row49qqq0hj.html",
+              "time": "1:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-f581952ce8401116aab32ed8",
               "headline": "Result of General Meeting,\u00a0Company Presentation and\u00a0Director Dealing",
-              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-general-meeting160company-presentation-and160director-dealing-4x1tqgg7b8qhktj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-general-meeting160company-presentation-and160director-dealing-4x1tqgg7b8qhktj.html",
+              "time": "4:13 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-9deb91f126d3d42fe9ee253d",
               "headline": "FCA Approves Stanford Capital Partners Change in Control",
-              "source_url": "https://www.lse.co.uk/rns/MAC/fca-approves-stanford-capital-partners-change-in-control-tyq7evvmoj959zl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/fca-approves-stanford-capital-partners-change-in-control-tyq7evvmoj959zl.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-651b171ca6890a84c1414010",
               "headline": "Posting of Circular and Notice of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/MAC/posting-of-circular-and-notice-of-general-meeting-mlomuzdc5ikjvu9.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/posting-of-circular-and-notice-of-general-meeting-mlomuzdc5ikjvu9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Apr 2026",
+              "event_id": "rns-7b0e7de401ad854610fde468",
               "headline": "Weardale Lithium Receives \u00a3700k Grant",
-              "source_url": "https://www.lse.co.uk/rns/MAC/weardale-lithium-receives-163700k-grant-q2ogpwqe91pun2m.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/weardale-lithium-receives-163700k-grant-q2ogpwqe91pun2m.html",
+              "time": "1:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jan 2026",
+              "event_id": "rns-96fca7ae62398cbef14d5859",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/MAC/half-year-report-bldj7kr04jts4qt.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/half-year-report-bldj7kr04jts4qt.html",
+              "time": "12:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2025",
+              "event_id": "rns-edf299d3fa79c25e3229a87b",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-agm-tf6jprcl203tw5a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-agm-tf6jprcl203tw5a.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2025",
+              "event_id": "rns-c9a295acb521d26fcb696c8b",
               "headline": "Subscription, Directors' Dealings, Related Party Transaction and Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/MAC/subscription-directors-dealings-related-party-transaction-and-issue-of-equity-efzvqe81nqjdyd2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/subscription-directors-dealings-related-party-transaction-and-issue-of-equity-efzvqe81nqjdyd2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Sep 2025",
+              "event_id": "rns-bd800f13b612c3af6054cbfd",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/MAC/notice-of-agm-bly66c3a5h8fqsv.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/notice-of-agm-bly66c3a5h8fqsv.html",
+              "time": "9:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Aug 2025",
+              "event_id": "rns-7fee1bae74de38c2e2be06aa",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/MAC/final-results-dau8wfus3liv3q4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/final-results-dau8wfus3liv3q4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-c4d88a4ed223eb702c496042",
               "headline": "Issue of Options to PDMR",
-              "source_url": "https://www.lse.co.uk/rns/MAC/issue-of-options-to-pdmr-8q1ujsec66xocj2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/issue-of-options-to-pdmr-8q1ujsec66xocj2.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27366,58 +27478,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-05-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.88,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.2999999523162842,
             "date": "2021-05-27",
             "status": "EXACT"
           },
           "relative_activity": 2.88,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "MAC.L:2021-05-27",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-07-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.17,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.274999976158142,
             "date": "2021-07-12",
             "status": "EXACT"
           },
           "relative_activity": 2.17,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "MAC.L:2021-07-12",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-07-15",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 9.4,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.2999999523162842,
             "date": "2021-07-15",
             "status": "EXACT"
           },
           "relative_activity": 9.4,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "MAC.L:2021-07-15",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40965,141 +41089,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-24",
+          "event_id": "rns-32293be65449ceea6ded3428",
           "headline": "Full Year Results for the Year Ended 30 April 2026",
-          "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8428R",
+          "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-27a306d4f0a7e4eb1aca1e8f",
           "headline": "Launch of US$118M Tokenised Coral Reef Programme",
-          "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5856Q",
+          "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html",
+          "time": "10:41 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-5f1612a43f6d2b79e5dd7a7e",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4263Q",
+          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html",
+          "time": "1:09 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-b75226efa43d58c9861ef2e5",
           "headline": "Blubird Launches 2nd Generation Token Platform",
-          "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2882P",
+          "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-28",
+          "event_id": "rns-ed9139dfa54fa9e784d1bec0",
           "headline": "New Website",
-          "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0603O",
+          "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-13",
+          "event_id": "rns-cda3fa0c4a30f84e103c499c",
           "headline": "Grant of Options, Director/PDMR Dealing",
-          "source_url": "https://www.lse.co.uk/rns/MAC/grant-of-options-directorpdmr-dealing-mdlgyjbz0ljnppo.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/grant-of-options-directorpdmr-dealing-mdlgyjbz0ljnppo.html",
+          "time": "9:30 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-30",
+          "event_id": "rns-b03718d9e21ca78014ed9283",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-7fe2em0diz29g9w.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-7fe2em0diz29g9w.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-2c11b9df6a1996565113cb51",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-ja8lunuf7fylnzb.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-ja8lunuf7fylnzb.html",
+          "time": "4:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-24",
+          "event_id": "rns-ebb00b63f624ef8d5e7ea2f6",
           "headline": "Completion of Acquisitions",
-          "source_url": "https://www.lse.co.uk/rns/MAC/completion-of-acquisitions-ix3w55b6dpp83j6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/completion-of-acquisitions-ix3w55b6dpp83j6.html",
+          "time": "12:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-23",
+          "event_id": "rns-1a16153af7b59617cec0d4ec",
           "headline": "Director Dealing",
-          "source_url": "https://www.lse.co.uk/rns/MAC/director-dealing-vfr7row49qqq0hj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/director-dealing-vfr7row49qqq0hj.html",
+          "time": "1:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-22",
+          "event_id": "rns-f581952ce8401116aab32ed8",
           "headline": "Result of General Meeting,\u00a0Company Presentation and\u00a0Director Dealing",
-          "source_url": "https://www.lse.co.uk/rns/MAC/result-of-general-meeting160company-presentation-and160director-dealing-4x1tqgg7b8qhktj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/result-of-general-meeting160company-presentation-and160director-dealing-4x1tqgg7b8qhktj.html",
+          "time": "4:13 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-08",
+          "event_id": "rns-9deb91f126d3d42fe9ee253d",
           "headline": "FCA Approves Stanford Capital Partners Change in Control",
-          "source_url": "https://www.lse.co.uk/rns/MAC/fca-approves-stanford-capital-partners-change-in-control-tyq7evvmoj959zl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/fca-approves-stanford-capital-partners-change-in-control-tyq7evvmoj959zl.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-03",
+          "event_id": "rns-651b171ca6890a84c1414010",
           "headline": "Posting of Circular and Notice of General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/MAC/posting-of-circular-and-notice-of-general-meeting-mlomuzdc5ikjvu9.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/posting-of-circular-and-notice-of-general-meeting-mlomuzdc5ikjvu9.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-10",
+          "event_id": "rns-7b0e7de401ad854610fde468",
           "headline": "Weardale Lithium Receives \u00a3700k Grant",
-          "source_url": "https://www.lse.co.uk/rns/MAC/weardale-lithium-receives-163700k-grant-q2ogpwqe91pun2m.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/weardale-lithium-receives-163700k-grant-q2ogpwqe91pun2m.html",
+          "time": "1:00 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-19",
+          "event_id": "rns-96fca7ae62398cbef14d5859",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/MAC/half-year-report-bldj7kr04jts4qt.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/half-year-report-bldj7kr04jts4qt.html",
+          "time": "12:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-14",
+          "event_id": "rns-edf299d3fa79c25e3229a87b",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/MAC/result-of-agm-tf6jprcl203tw5a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/result-of-agm-tf6jprcl203tw5a.html",
+          "time": "4:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-14",
+          "event_id": "rns-c9a295acb521d26fcb696c8b",
           "headline": "Subscription, Directors' Dealings, Related Party Transaction and Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/MAC/subscription-directors-dealings-related-party-transaction-and-issue-of-equity-efzvqe81nqjdyd2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/subscription-directors-dealings-related-party-transaction-and-issue-of-equity-efzvqe81nqjdyd2.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-16",
+          "event_id": "rns-bd800f13b612c3af6054cbfd",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/MAC/notice-of-agm-bly66c3a5h8fqsv.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/notice-of-agm-bly66c3a5h8fqsv.html",
+          "time": "9:30 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-22",
+          "event_id": "rns-7fee1bae74de38c2e2be06aa",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/MAC/final-results-dau8wfus3liv3q4.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/final-results-dau8wfus3liv3q4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-13",
+          "event_id": "rns-c4d88a4ed223eb702c496042",
           "headline": "Issue of Options to PDMR",
-          "source_url": "https://www.lse.co.uk/rns/MAC/issue-of-options-to-pdmr-8q1ujsec66xocj2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/MAC/issue-of-options-to-pdmr-8q1ujsec66xocj2.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41107,36 +41331,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-24",
+          "event_id": "rns-32293be65449ceea6ded3428",
           "headline": "Full Year Results for the Year Ended 30 April 2026",
-          "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8428R",
+          "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-27a306d4f0a7e4eb1aca1e8f",
           "headline": "Launch of US$118M Tokenised Coral Reef Programme",
-          "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5856Q",
+          "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html",
+          "time": "10:41 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-5f1612a43f6d2b79e5dd7a7e",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4263Q",
+          "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html",
+          "time": "1:09 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-05",
+          "event_id": "rns-b75226efa43d58c9861ef2e5",
           "headline": "Blubird Launches 2nd Generation Token Platform",
-          "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2882P",
+          "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-28",
+          "event_id": "rns-ed9139dfa54fa9e784d1bec0",
           "headline": "New Website",
-          "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 0603O",
+          "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41184,58 +41433,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-05-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.88,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2021-05-27",
                 "status": "EXACT"
               },
               "relative_activity": 2.88,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MAC.L:2021-05-27",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-07-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.17,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.274999976158142,
                 "date": "2021-07-12",
                 "status": "EXACT"
               },
               "relative_activity": 2.17,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MAC.L:2021-07-12",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-07-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 9.4,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2021-07-15",
                 "status": "EXACT"
               },
               "relative_activity": 9.4,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "MAC.L:2021-07-15",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68327,141 +68588,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Aug 2026",
+              "event_id": "rns-32293be65449ceea6ded3428",
               "headline": "Full Year Results for the Year Ended 30 April 2026",
-              "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8428R",
+              "source_url": "https://www.lse.co.uk/rns/MAC/full-year-results-for-the-year-ended-30-april-2026-s4gs1as12k8qcw2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-27a306d4f0a7e4eb1aca1e8f",
               "headline": "Launch of US$118M Tokenised Coral Reef Programme",
-              "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5856Q",
+              "source_url": "https://www.lse.co.uk/rns/MAC/launch-of-us118m-tokenised-coral-reef-programme-3au3zn3ckxhity2.html",
+              "time": "10:41 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-5f1612a43f6d2b79e5dd7a7e",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4263Q",
+              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-rbg34x447ugze5s.html",
+              "time": "1:09 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Aug 2026",
+              "event_id": "rns-b75226efa43d58c9861ef2e5",
               "headline": "Blubird Launches 2nd Generation Token Platform",
-              "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2882P",
+              "source_url": "https://www.lse.co.uk/rns/MAC/blubird-launches-2nd-generation-token-platform-xvmpbws4lplo6x2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2026",
+              "event_id": "rns-ed9139dfa54fa9e784d1bec0",
               "headline": "New Website",
-              "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 0603O",
+              "source_url": "https://www.lse.co.uk/rns/MAC/new-website-ykykw3uqj2s4838.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Jul 2026",
+              "event_id": "rns-cda3fa0c4a30f84e103c499c",
               "headline": "Grant of Options, Director/PDMR Dealing",
-              "source_url": "https://www.lse.co.uk/rns/MAC/grant-of-options-directorpdmr-dealing-mdlgyjbz0ljnppo.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/grant-of-options-directorpdmr-dealing-mdlgyjbz0ljnppo.html",
+              "time": "9:30 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jun 2026",
+              "event_id": "rns-b03718d9e21ca78014ed9283",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-7fe2em0diz29g9w.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-7fe2em0diz29g9w.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-2c11b9df6a1996565113cb51",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-ja8lunuf7fylnzb.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/holdings-in-company-ja8lunuf7fylnzb.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-ebb00b63f624ef8d5e7ea2f6",
               "headline": "Completion of Acquisitions",
-              "source_url": "https://www.lse.co.uk/rns/MAC/completion-of-acquisitions-ix3w55b6dpp83j6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/completion-of-acquisitions-ix3w55b6dpp83j6.html",
+              "time": "12:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jun 2026",
+              "event_id": "rns-1a16153af7b59617cec0d4ec",
               "headline": "Director Dealing",
-              "source_url": "https://www.lse.co.uk/rns/MAC/director-dealing-vfr7row49qqq0hj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/director-dealing-vfr7row49qqq0hj.html",
+              "time": "1:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jun 2026",
+              "event_id": "rns-f581952ce8401116aab32ed8",
               "headline": "Result of General Meeting,\u00a0Company Presentation and\u00a0Director Dealing",
-              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-general-meeting160company-presentation-and160director-dealing-4x1tqgg7b8qhktj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-general-meeting160company-presentation-and160director-dealing-4x1tqgg7b8qhktj.html",
+              "time": "4:13 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-9deb91f126d3d42fe9ee253d",
               "headline": "FCA Approves Stanford Capital Partners Change in Control",
-              "source_url": "https://www.lse.co.uk/rns/MAC/fca-approves-stanford-capital-partners-change-in-control-tyq7evvmoj959zl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/fca-approves-stanford-capital-partners-change-in-control-tyq7evvmoj959zl.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jun 2026",
+              "event_id": "rns-651b171ca6890a84c1414010",
               "headline": "Posting of Circular and Notice of General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/MAC/posting-of-circular-and-notice-of-general-meeting-mlomuzdc5ikjvu9.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/posting-of-circular-and-notice-of-general-meeting-mlomuzdc5ikjvu9.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Apr 2026",
+              "event_id": "rns-7b0e7de401ad854610fde468",
               "headline": "Weardale Lithium Receives \u00a3700k Grant",
-              "source_url": "https://www.lse.co.uk/rns/MAC/weardale-lithium-receives-163700k-grant-q2ogpwqe91pun2m.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/weardale-lithium-receives-163700k-grant-q2ogpwqe91pun2m.html",
+              "time": "1:00 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Jan 2026",
+              "event_id": "rns-96fca7ae62398cbef14d5859",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/MAC/half-year-report-bldj7kr04jts4qt.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/half-year-report-bldj7kr04jts4qt.html",
+              "time": "12:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2025",
+              "event_id": "rns-edf299d3fa79c25e3229a87b",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-agm-tf6jprcl203tw5a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/result-of-agm-tf6jprcl203tw5a.html",
+              "time": "4:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2025",
+              "event_id": "rns-c9a295acb521d26fcb696c8b",
               "headline": "Subscription, Directors' Dealings, Related Party Transaction and Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/MAC/subscription-directors-dealings-related-party-transaction-and-issue-of-equity-efzvqe81nqjdyd2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/subscription-directors-dealings-related-party-transaction-and-issue-of-equity-efzvqe81nqjdyd2.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Sep 2025",
+              "event_id": "rns-bd800f13b612c3af6054cbfd",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/MAC/notice-of-agm-bly66c3a5h8fqsv.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/notice-of-agm-bly66c3a5h8fqsv.html",
+              "time": "9:30 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Aug 2025",
+              "event_id": "rns-7fee1bae74de38c2e2be06aa",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/MAC/final-results-dau8wfus3liv3q4.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/final-results-dau8wfus3liv3q4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-c4d88a4ed223eb702c496042",
               "headline": "Issue of Options to PDMR",
-              "source_url": "https://www.lse.co.uk/rns/MAC/issue-of-options-to-pdmr-8q1ujsec66xocj2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/MAC/issue-of-options-to-pdmr-8q1ujsec66xocj2.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

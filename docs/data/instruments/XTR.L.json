@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.55,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2023-03-28",
                 "status": "EXACT"
               },
               "relative_activity": 1.55,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "XTR.L:2023-03-28",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.13,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2023-03-29",
                 "status": "EXACT"
               },
               "relative_activity": 2.13,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "XTR.L:2023-03-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-254075aa15d05c57a07a3c37",
               "headline": "Issue of equity and PDMR shareholding",
-              "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3325S",
+              "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-c4f18e98f3e101fd6c935b85",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8112Q",
+              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html",
+              "time": "1:56 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-ff8e01f4e5f352dd9c0be949",
               "headline": "Amghas Antimony Mine Update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6112Q",
+              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html",
+              "time": "12:46 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-f4a5116270f9d9cdf4f0a7b6",
               "headline": "Amghas Mine Development Update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8851P",
+              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-1d7bb11f67fe4b2337736523",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4762N",
+              "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-37a91b30d05f163e1df0783a",
               "headline": "Commencement of production at Silverking",
-              "source_url": "https://www.lse.co.uk/rns/XTR/commencement-of-production-at-silverking-7kyc32uj70917bl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7134L",
+              "source_url": "https://www.lse.co.uk/rns/XTR/commencement-of-production-at-silverking-7kyc32uj70917bl.html",
+              "time": "10:35 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-1c281ddcce4d5f30171797a5",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/XTR/final-results-n5mrsed6a8g931d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0462K",
+              "source_url": "https://www.lse.co.uk/rns/XTR/final-results-n5mrsed6a8g931d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-ab5a2475cae13558b6bd5a25",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/XTR/change-of-registered-office-c01sax5j38fexpy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1603I",
+              "source_url": "https://www.lse.co.uk/rns/XTR/change-of-registered-office-c01sax5j38fexpy.html",
+              "time": "12:15 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-1cbcdc7024268320e72bba3a",
               "headline": "Amghas mining licence grant and plant build-out",
-              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mining-licence-grant-and-plant-build-out-zv7f68e2p7x58jv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6895G",
+              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mining-licence-grant-and-plant-build-out-zv7f68e2p7x58jv.html",
+              "time": "1:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Mar 2026",
+              "event_id": "rns-3728c68bb62a303f090b551c",
               "headline": "Award of share options",
-              "source_url": "https://www.lse.co.uk/rns/XTR/award-of-share-options-x9g5dguco4ridq3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3304Y",
+              "source_url": "https://www.lse.co.uk/rns/XTR/award-of-share-options-x9g5dguco4ridq3.html",
+              "time": "4:22 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-fff30b0df5c000896bfb1ef1",
               "headline": "Wildstone towards production on antimonylicences",
-              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-towards-production-on-antimonylicences-di9q2y056v1zl6h.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5590V",
+              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-towards-production-on-antimonylicences-di9q2y056v1zl6h.html",
+              "time": "3:58 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Feb 2026",
+              "event_id": "rns-2758b8189b2e6f1286782f18",
               "headline": "Silverking Mining Licence Joint Venture",
-              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-mining-licence-joint-venture-n9riurrufnawgqm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5085R",
+              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-mining-licence-joint-venture-n9riurrufnawgqm.html",
+              "time": "9:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Nov 2025",
+              "event_id": "rns-05a7c95382947eed0cc21c0d",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/XTR/directorpdmr-shareholding-i8u2gcfycpzaxtu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6621H",
+              "source_url": "https://www.lse.co.uk/rns/XTR/directorpdmr-shareholding-i8u2gcfycpzaxtu.html",
+              "time": "3:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Nov 2025",
+              "event_id": "rns-d37f93c7ec41399ca6e826d2",
               "headline": "Fundraising for \u00a32,000,000",
-              "source_url": "https://www.lse.co.uk/rns/XTR/fundraising-for-1632000000-r13pf1l7vjv9fpn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4804H",
+              "source_url": "https://www.lse.co.uk/rns/XTR/fundraising-for-1632000000-r13pf1l7vjv9fpn.html",
+              "time": "2:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-e9359a29853ce2cd1a009109",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/XTR/half-year-report-i9cu219e4y9ou39.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2575B",
+              "source_url": "https://www.lse.co.uk/rns/XTR/half-year-report-i9cu219e4y9ou39.html",
+              "time": "2:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-215b110a1e70a4684704adc0",
               "headline": "Silverking Project Phase 2 Drilling Update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-project-phase-2-drilling-update-6n167evqb771cue.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2703B",
+              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-project-phase-2-drilling-update-6n167evqb771cue.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Sep 2025",
+              "event_id": "rns-62d6184cfc0e40e7be1cf690",
               "headline": "Acquisition of Amghas Antimony Licences",
-              "source_url": "https://www.lse.co.uk/rns/XTR/acquisition-of-amghas-antimony-licences-plnrm6rnajtibx2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5675Z",
+              "source_url": "https://www.lse.co.uk/rns/XTR/acquisition-of-amghas-antimony-licences-plnrm6rnajtibx2.html",
+              "time": "2:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2025",
+              "event_id": "rns-efd19c0aa477d6396f9170dc",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-vymv4wnv7wo03se.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4732S",
+              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-vymv4wnv7wo03se.html",
+              "time": "1:30 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2025",
+              "event_id": "rns-4bdb16921bf06c9f203bf690",
               "headline": "Wildstone exploration and corporate update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-exploration-and-corporate-update-fjsqwx5v37vnew2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3257S",
+              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-exploration-and-corporate-update-fjsqwx5v37vnew2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2025",
+              "event_id": "rns-ff9dd6313b5667e5030bdeae",
               "headline": "Increase in shareholding in Wildstone SARL",
-              "source_url": "https://www.lse.co.uk/rns/XTR/increase-in-shareholding-in-wildstone-sarl-wpug6w8p20453o9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1351R",
+              "source_url": "https://www.lse.co.uk/rns/XTR/increase-in-shareholding-in-wildstone-sarl-wpug6w8p20453o9.html",
+              "time": "11:15 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27347,39 +27455,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-03-28",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.55,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.2999999523162842,
             "date": "2023-03-28",
             "status": "EXACT"
           },
           "relative_activity": 1.55,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "XTR.L:2023-03-28",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-03-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.13,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 1.2999999523162842,
             "date": "2023-03-29",
             "status": "EXACT"
           },
           "relative_activity": 2.13,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "XTR.L:2023-03-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40927,141 +41043,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-254075aa15d05c57a07a3c37",
           "headline": "Issue of equity and PDMR shareholding",
-          "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3325S",
+          "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-14",
+          "event_id": "rns-c4f18e98f3e101fd6c935b85",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8112Q",
+          "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html",
+          "time": "1:56 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-ff8e01f4e5f352dd9c0be949",
           "headline": "Amghas Antimony Mine Update",
-          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6112Q",
+          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html",
+          "time": "12:46 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-f4a5116270f9d9cdf4f0a7b6",
           "headline": "Amghas Mine Development Update",
-          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8851P",
+          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-1d7bb11f67fe4b2337736523",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4762N",
+          "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-09",
+          "event_id": "rns-37a91b30d05f163e1df0783a",
           "headline": "Commencement of production at Silverking",
-          "source_url": "https://www.lse.co.uk/rns/XTR/commencement-of-production-at-silverking-7kyc32uj70917bl.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7134L",
+          "source_url": "https://www.lse.co.uk/rns/XTR/commencement-of-production-at-silverking-7kyc32uj70917bl.html",
+          "time": "10:35 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-29",
+          "event_id": "rns-1c281ddcce4d5f30171797a5",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/XTR/final-results-n5mrsed6a8g931d.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0462K",
+          "source_url": "https://www.lse.co.uk/rns/XTR/final-results-n5mrsed6a8g931d.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-12",
+          "event_id": "rns-ab5a2475cae13558b6bd5a25",
           "headline": "Change of Registered Office",
-          "source_url": "https://www.lse.co.uk/rns/XTR/change-of-registered-office-c01sax5j38fexpy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1603I",
+          "source_url": "https://www.lse.co.uk/rns/XTR/change-of-registered-office-c01sax5j38fexpy.html",
+          "time": "12:15 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-1cbcdc7024268320e72bba3a",
           "headline": "Amghas mining licence grant and plant build-out",
-          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mining-licence-grant-and-plant-build-out-zv7f68e2p7x58jv.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6895G",
+          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mining-licence-grant-and-plant-build-out-zv7f68e2p7x58jv.html",
+          "time": "1:16 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-26",
+          "event_id": "rns-3728c68bb62a303f090b551c",
           "headline": "Award of share options",
-          "source_url": "https://www.lse.co.uk/rns/XTR/award-of-share-options-x9g5dguco4ridq3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3304Y",
+          "source_url": "https://www.lse.co.uk/rns/XTR/award-of-share-options-x9g5dguco4ridq3.html",
+          "time": "4:22 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-05",
+          "event_id": "rns-fff30b0df5c000896bfb1ef1",
           "headline": "Wildstone towards production on antimonylicences",
-          "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-towards-production-on-antimonylicences-di9q2y056v1zl6h.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5590V",
+          "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-towards-production-on-antimonylicences-di9q2y056v1zl6h.html",
+          "time": "3:58 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-03",
+          "event_id": "rns-2758b8189b2e6f1286782f18",
           "headline": "Silverking Mining Licence Joint Venture",
-          "source_url": "https://www.lse.co.uk/rns/XTR/silverking-mining-licence-joint-venture-n9riurrufnawgqm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 5085R",
+          "source_url": "https://www.lse.co.uk/rns/XTR/silverking-mining-licence-joint-venture-n9riurrufnawgqm.html",
+          "time": "9:45 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-14",
+          "event_id": "rns-05a7c95382947eed0cc21c0d",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/XTR/directorpdmr-shareholding-i8u2gcfycpzaxtu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6621H",
+          "source_url": "https://www.lse.co.uk/rns/XTR/directorpdmr-shareholding-i8u2gcfycpzaxtu.html",
+          "time": "3:32 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-13",
+          "event_id": "rns-d37f93c7ec41399ca6e826d2",
           "headline": "Fundraising for \u00a32,000,000",
-          "source_url": "https://www.lse.co.uk/rns/XTR/fundraising-for-1632000000-r13pf1l7vjv9fpn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4804H",
+          "source_url": "https://www.lse.co.uk/rns/XTR/fundraising-for-1632000000-r13pf1l7vjv9fpn.html",
+          "time": "2:55 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-e9359a29853ce2cd1a009109",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/XTR/half-year-report-i9cu219e4y9ou39.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2575B",
+          "source_url": "https://www.lse.co.uk/rns/XTR/half-year-report-i9cu219e4y9ou39.html",
+          "time": "2:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-29",
+          "event_id": "rns-215b110a1e70a4684704adc0",
           "headline": "Silverking Project Phase 2 Drilling Update",
-          "source_url": "https://www.lse.co.uk/rns/XTR/silverking-project-phase-2-drilling-update-6n167evqb771cue.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2703B",
+          "source_url": "https://www.lse.co.uk/rns/XTR/silverking-project-phase-2-drilling-update-6n167evqb771cue.html",
+          "time": "4:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-16",
+          "event_id": "rns-62d6184cfc0e40e7be1cf690",
           "headline": "Acquisition of Amghas Antimony Licences",
-          "source_url": "https://www.lse.co.uk/rns/XTR/acquisition-of-amghas-antimony-licences-plnrm6rnajtibx2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5675Z",
+          "source_url": "https://www.lse.co.uk/rns/XTR/acquisition-of-amghas-antimony-licences-plnrm6rnajtibx2.html",
+          "time": "2:20 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-24",
+          "event_id": "rns-efd19c0aa477d6396f9170dc",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-vymv4wnv7wo03se.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4732S",
+          "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-vymv4wnv7wo03se.html",
+          "time": "1:30 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-24",
+          "event_id": "rns-4bdb16921bf06c9f203bf690",
           "headline": "Wildstone exploration and corporate update",
-          "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-exploration-and-corporate-update-fjsqwx5v37vnew2.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3257S",
+          "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-exploration-and-corporate-update-fjsqwx5v37vnew2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-15",
+          "event_id": "rns-ff9dd6313b5667e5030bdeae",
           "headline": "Increase in shareholding in Wildstone SARL",
-          "source_url": "https://www.lse.co.uk/rns/XTR/increase-in-shareholding-in-wildstone-sarl-wpug6w8p20453o9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1351R",
+          "source_url": "https://www.lse.co.uk/rns/XTR/increase-in-shareholding-in-wildstone-sarl-wpug6w8p20453o9.html",
+          "time": "11:15 am"
         }
       ],
       "rns_initial": [
@@ -41069,36 +41285,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-27",
+          "event_id": "rns-254075aa15d05c57a07a3c37",
           "headline": "Issue of equity and PDMR shareholding",
-          "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3325S",
+          "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-14",
+          "event_id": "rns-c4f18e98f3e101fd6c935b85",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8112Q",
+          "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html",
+          "time": "1:56 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-13",
+          "event_id": "rns-ff8e01f4e5f352dd9c0be949",
           "headline": "Amghas Antimony Mine Update",
-          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6112Q",
+          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html",
+          "time": "12:46 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-f4a5116270f9d9cdf4f0a7b6",
           "headline": "Amghas Mine Development Update",
-          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8851P",
+          "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-1d7bb11f67fe4b2337736523",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4762N",
+          "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41146,39 +41387,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.55,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2023-03-28",
                 "status": "EXACT"
               },
               "relative_activity": 1.55,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "XTR.L:2023-03-28",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.13,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 1.2999999523162842,
                 "date": "2023-03-29",
                 "status": "EXACT"
               },
               "relative_activity": 2.13,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "XTR.L:2023-03-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68270,141 +68519,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Aug 2026",
+              "event_id": "rns-254075aa15d05c57a07a3c37",
               "headline": "Issue of equity and PDMR shareholding",
-              "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3325S",
+              "source_url": "https://www.lse.co.uk/rns/XTR/issue-of-equity-and-pdmr-shareholding-98124uwpiue2j0j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-c4f18e98f3e101fd6c935b85",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8112Q",
+              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-bqgwmebzpupsp0r.html",
+              "time": "1:56 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Aug 2026",
+              "event_id": "rns-ff8e01f4e5f352dd9c0be949",
               "headline": "Amghas Antimony Mine Update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6112Q",
+              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-antimony-mine-update-bwbs8bluqlpbk7o.html",
+              "time": "12:46 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-f4a5116270f9d9cdf4f0a7b6",
               "headline": "Amghas Mine Development Update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8851P",
+              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mine-development-update-nfwys1m3k4w9yf7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-1d7bb11f67fe4b2337736523",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4762N",
+              "source_url": "https://www.lse.co.uk/rns/XTR/notice-of-agm-blf311qactnco4o.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jul 2026",
+              "event_id": "rns-37a91b30d05f163e1df0783a",
               "headline": "Commencement of production at Silverking",
-              "source_url": "https://www.lse.co.uk/rns/XTR/commencement-of-production-at-silverking-7kyc32uj70917bl.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7134L",
+              "source_url": "https://www.lse.co.uk/rns/XTR/commencement-of-production-at-silverking-7kyc32uj70917bl.html",
+              "time": "10:35 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jun 2026",
+              "event_id": "rns-1c281ddcce4d5f30171797a5",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/XTR/final-results-n5mrsed6a8g931d.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0462K",
+              "source_url": "https://www.lse.co.uk/rns/XTR/final-results-n5mrsed6a8g931d.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Jun 2026",
+              "event_id": "rns-ab5a2475cae13558b6bd5a25",
               "headline": "Change of Registered Office",
-              "source_url": "https://www.lse.co.uk/rns/XTR/change-of-registered-office-c01sax5j38fexpy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1603I",
+              "source_url": "https://www.lse.co.uk/rns/XTR/change-of-registered-office-c01sax5j38fexpy.html",
+              "time": "12:15 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-1cbcdc7024268320e72bba3a",
               "headline": "Amghas mining licence grant and plant build-out",
-              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mining-licence-grant-and-plant-build-out-zv7f68e2p7x58jv.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6895G",
+              "source_url": "https://www.lse.co.uk/rns/XTR/amghas-mining-licence-grant-and-plant-build-out-zv7f68e2p7x58jv.html",
+              "time": "1:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Mar 2026",
+              "event_id": "rns-3728c68bb62a303f090b551c",
               "headline": "Award of share options",
-              "source_url": "https://www.lse.co.uk/rns/XTR/award-of-share-options-x9g5dguco4ridq3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3304Y",
+              "source_url": "https://www.lse.co.uk/rns/XTR/award-of-share-options-x9g5dguco4ridq3.html",
+              "time": "4:22 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Mar 2026",
+              "event_id": "rns-fff30b0df5c000896bfb1ef1",
               "headline": "Wildstone towards production on antimonylicences",
-              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-towards-production-on-antimonylicences-di9q2y056v1zl6h.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5590V",
+              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-towards-production-on-antimonylicences-di9q2y056v1zl6h.html",
+              "time": "3:58 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Feb 2026",
+              "event_id": "rns-2758b8189b2e6f1286782f18",
               "headline": "Silverking Mining Licence Joint Venture",
-              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-mining-licence-joint-venture-n9riurrufnawgqm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 5085R",
+              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-mining-licence-joint-venture-n9riurrufnawgqm.html",
+              "time": "9:45 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Nov 2025",
+              "event_id": "rns-05a7c95382947eed0cc21c0d",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/XTR/directorpdmr-shareholding-i8u2gcfycpzaxtu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6621H",
+              "source_url": "https://www.lse.co.uk/rns/XTR/directorpdmr-shareholding-i8u2gcfycpzaxtu.html",
+              "time": "3:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Nov 2025",
+              "event_id": "rns-d37f93c7ec41399ca6e826d2",
               "headline": "Fundraising for \u00a32,000,000",
-              "source_url": "https://www.lse.co.uk/rns/XTR/fundraising-for-1632000000-r13pf1l7vjv9fpn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4804H",
+              "source_url": "https://www.lse.co.uk/rns/XTR/fundraising-for-1632000000-r13pf1l7vjv9fpn.html",
+              "time": "2:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-e9359a29853ce2cd1a009109",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/XTR/half-year-report-i9cu219e4y9ou39.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2575B",
+              "source_url": "https://www.lse.co.uk/rns/XTR/half-year-report-i9cu219e4y9ou39.html",
+              "time": "2:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Sep 2025",
+              "event_id": "rns-215b110a1e70a4684704adc0",
               "headline": "Silverking Project Phase 2 Drilling Update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-project-phase-2-drilling-update-6n167evqb771cue.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2703B",
+              "source_url": "https://www.lse.co.uk/rns/XTR/silverking-project-phase-2-drilling-update-6n167evqb771cue.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Sep 2025",
+              "event_id": "rns-62d6184cfc0e40e7be1cf690",
               "headline": "Acquisition of Amghas Antimony Licences",
-              "source_url": "https://www.lse.co.uk/rns/XTR/acquisition-of-amghas-antimony-licences-plnrm6rnajtibx2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5675Z",
+              "source_url": "https://www.lse.co.uk/rns/XTR/acquisition-of-amghas-antimony-licences-plnrm6rnajtibx2.html",
+              "time": "2:20 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2025",
+              "event_id": "rns-efd19c0aa477d6396f9170dc",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-vymv4wnv7wo03se.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4732S",
+              "source_url": "https://www.lse.co.uk/rns/XTR/result-of-agm-vymv4wnv7wo03se.html",
+              "time": "1:30 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jul 2025",
+              "event_id": "rns-4bdb16921bf06c9f203bf690",
               "headline": "Wildstone exploration and corporate update",
-              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-exploration-and-corporate-update-fjsqwx5v37vnew2.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3257S",
+              "source_url": "https://www.lse.co.uk/rns/XTR/wildstone-exploration-and-corporate-update-fjsqwx5v37vnew2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Jul 2025",
+              "event_id": "rns-ff9dd6313b5667e5030bdeae",
               "headline": "Increase in shareholding in Wildstone SARL",
-              "source_url": "https://www.lse.co.uk/rns/XTR/increase-in-shareholding-in-wildstone-sarl-wpug6w8p20453o9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1351R",
+              "source_url": "https://www.lse.co.uk/rns/XTR/increase-in-shareholding-in-wildstone-sarl-wpug6w8p20453o9.html",
+              "time": "11:15 am"
             }
           ],
           "status": "AVAILABLE",

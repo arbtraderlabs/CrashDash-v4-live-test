@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-01-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.02,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 203.0424041748047,
                 "date": "2021-01-22",
                 "status": "EXACT"
               },
               "relative_activity": 2.02,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "HMSO.L:2021-01-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-01-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.69,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 192.56600952148438,
                 "date": "2021-01-25",
                 "status": "EXACT"
               },
               "relative_activity": 1.69,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "HMSO.L:2021-01-25",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27164,113 +27172,193 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.479990Z",
+              "event_id": "rns-27a07f7f4471fcd94f267f5e",
               "headline": "Dividend Declaration",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2858T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480043Z",
+              "event_id": "rns-e22294d4fc8414b8683aded9",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2884T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480016Z",
+              "event_id": "rns-8fcbd247583f74a745caabc1",
               "headline": "PROPOSED PLACING TO FUND ACQUISITION",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3627T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480239Z",
+              "event_id": "rns-7e20ed4f98bfc23063425457",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2893S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480108Z",
+              "event_id": "rns-a2d14b1a3b02c94bee9d458b",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0545T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480264Z",
+              "event_id": "rns-7e0019ad1d616707ee14fc3b",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-7ogr6n0zt1fpg9j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1261S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-7ogr6n0zt1fpg9j.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480290Z",
+              "event_id": "rns-de910b437c0059086297fb98",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-9u30bmq4cvuzj45.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9407R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-9u30bmq4cvuzj45.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480214Z",
+              "event_id": "rns-ded2d9fac6e60402d5a43390",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-alwg65yhd9tr8xq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3078S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-alwg65yhd9tr8xq.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480138Z",
+              "event_id": "rns-129e40aaef8e3fbcb93d71ef",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-f57fo1fdiv4xty2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8727S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-f57fo1fdiv4xty2.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480188Z",
+              "event_id": "rns-7d961d710de665f1776f464c",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-is0snp02aoqw8qm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5048S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-is0snp02aoqw8qm.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480340Z",
+              "event_id": "rns-77d388211fabcaacf415fb64",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-j978mlygvzge63q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5627R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-j978mlygvzge63q.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480163Z",
+              "event_id": "rns-aa5a0652257b991f583b7357",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-kzsbr3gmn094shs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6865S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-kzsbr3gmn094shs.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.479964Z",
+              "event_id": "rns-6c04178b36762121d1294b45",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-q603hupep11dc0j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2709T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-q603hupep11dc0j.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480072Z",
+              "event_id": "rns-c40c683ae9f6af08405748fd",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-u8kdmfjlni2k5gz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0708T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-u8kdmfjlni2k5gz.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480365Z",
+              "event_id": "rns-ba0e5371fe7db389dcd7dc70",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-v4qvguorsx8zykj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3753R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-v4qvguorsx8zykj.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480315Z",
+              "event_id": "rns-604c20fe7d56b78398ac9d97",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-yom8s48hvf3bpq0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7454R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-yom8s48hvf3bpq0.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",
@@ -27357,39 +27445,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-01-22",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.02,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 203.0424041748047,
             "date": "2021-01-22",
             "status": "EXACT"
           },
           "relative_activity": 2.02,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "HMSO.L:2021-01-22",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2021-01-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.69,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 192.56600952148438,
             "date": "2021-01-25",
             "status": "EXACT"
           },
           "relative_activity": 1.69,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "HMSO.L:2021-01-25",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40937,113 +41033,193 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.479990Z",
+          "event_id": "rns-27a07f7f4471fcd94f267f5e",
           "headline": "Dividend Declaration",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2858T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480043Z",
+          "event_id": "rns-e22294d4fc8414b8683aded9",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2884T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480016Z",
+          "event_id": "rns-8fcbd247583f74a745caabc1",
           "headline": "PROPOSED PLACING TO FUND ACQUISITION",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 3627T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480239Z",
+          "event_id": "rns-7e20ed4f98bfc23063425457",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2893S",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480108Z",
+          "event_id": "rns-a2d14b1a3b02c94bee9d458b",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0545T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480264Z",
+          "event_id": "rns-7e0019ad1d616707ee14fc3b",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-7ogr6n0zt1fpg9j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1261S",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-7ogr6n0zt1fpg9j.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480290Z",
+          "event_id": "rns-de910b437c0059086297fb98",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-9u30bmq4cvuzj45.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9407R",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-9u30bmq4cvuzj45.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480214Z",
+          "event_id": "rns-ded2d9fac6e60402d5a43390",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-alwg65yhd9tr8xq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3078S",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-alwg65yhd9tr8xq.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480138Z",
+          "event_id": "rns-129e40aaef8e3fbcb93d71ef",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-f57fo1fdiv4xty2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8727S",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-f57fo1fdiv4xty2.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480188Z",
+          "event_id": "rns-7d961d710de665f1776f464c",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-is0snp02aoqw8qm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5048S",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-is0snp02aoqw8qm.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480340Z",
+          "event_id": "rns-77d388211fabcaacf415fb64",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-j978mlygvzge63q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5627R",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-j978mlygvzge63q.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480163Z",
+          "event_id": "rns-aa5a0652257b991f583b7357",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-kzsbr3gmn094shs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6865S",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-kzsbr3gmn094shs.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.479964Z",
+          "event_id": "rns-6c04178b36762121d1294b45",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-q603hupep11dc0j.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2709T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-q603hupep11dc0j.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480072Z",
+          "event_id": "rns-c40c683ae9f6af08405748fd",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-u8kdmfjlni2k5gz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0708T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-u8kdmfjlni2k5gz.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480365Z",
+          "event_id": "rns-ba0e5371fe7db389dcd7dc70",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-v4qvguorsx8zykj.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3753R",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-v4qvguorsx8zykj.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480315Z",
+          "event_id": "rns-604c20fe7d56b78398ac9d97",
           "headline": "Transaction in Own Shares",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-yom8s48hvf3bpq0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7454R",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-yom8s48hvf3bpq0.html",
+          "time": null
         }
       ],
       "rns_initial": [
@@ -41051,36 +41227,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.479990Z",
+          "event_id": "rns-27a07f7f4471fcd94f267f5e",
           "headline": "Dividend Declaration",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2858T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480043Z",
+          "event_id": "rns-e22294d4fc8414b8683aded9",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2884T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html",
+          "time": null
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480016Z",
+          "event_id": "rns-8fcbd247583f74a745caabc1",
           "headline": "PROPOSED PLACING TO FUND ACQUISITION",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 3627T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480239Z",
+          "event_id": "rns-7e20ed4f98bfc23063425457",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2893S",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:34:33.480108Z",
+          "event_id": "rns-a2d14b1a3b02c94bee9d458b",
           "headline": "Total Voting Rights",
-          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0545T",
+          "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html",
+          "time": null
         }
       ],
       "rns_records_emitted": 16,
@@ -41128,39 +41329,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-01-22",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.02,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 203.0424041748047,
                 "date": "2021-01-22",
                 "status": "EXACT"
               },
               "relative_activity": 2.02,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "HMSO.L:2021-01-22",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2021-01-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.69,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 192.56600952148438,
                 "date": "2021-01-25",
                 "status": "EXACT"
               },
               "relative_activity": 1.69,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "HMSO.L:2021-01-25",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68271,113 +68480,193 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.479990Z",
+              "event_id": "rns-27a07f7f4471fcd94f267f5e",
               "headline": "Dividend Declaration",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2858T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/dividend-declaration-zg80fpznz3lrjml.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480043Z",
+              "event_id": "rns-e22294d4fc8414b8683aded9",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2884T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/half-year-report-z294x75qb3sbam4.html",
+              "time": null
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480016Z",
+              "event_id": "rns-8fcbd247583f74a745caabc1",
               "headline": "PROPOSED PLACING TO FUND ACQUISITION",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3627T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/proposed-placing-to-fund-acquisition-8dngve2n5eakhb5.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480239Z",
+              "event_id": "rns-7e20ed4f98bfc23063425457",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2893S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-kxvxvhs3cu9tg6h.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480108Z",
+              "event_id": "rns-a2d14b1a3b02c94bee9d458b",
               "headline": "Total Voting Rights",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0545T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/total-voting-rights-wx0uzlwwc0vaopa.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480264Z",
+              "event_id": "rns-7e0019ad1d616707ee14fc3b",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-7ogr6n0zt1fpg9j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1261S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-7ogr6n0zt1fpg9j.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480290Z",
+              "event_id": "rns-de910b437c0059086297fb98",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-9u30bmq4cvuzj45.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9407R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-9u30bmq4cvuzj45.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480214Z",
+              "event_id": "rns-ded2d9fac6e60402d5a43390",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-alwg65yhd9tr8xq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3078S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-alwg65yhd9tr8xq.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480138Z",
+              "event_id": "rns-129e40aaef8e3fbcb93d71ef",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-f57fo1fdiv4xty2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8727S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-f57fo1fdiv4xty2.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480188Z",
+              "event_id": "rns-7d961d710de665f1776f464c",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-is0snp02aoqw8qm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5048S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-is0snp02aoqw8qm.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480340Z",
+              "event_id": "rns-77d388211fabcaacf415fb64",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-j978mlygvzge63q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5627R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-j978mlygvzge63q.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480163Z",
+              "event_id": "rns-aa5a0652257b991f583b7357",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-kzsbr3gmn094shs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6865S",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-kzsbr3gmn094shs.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.479964Z",
+              "event_id": "rns-6c04178b36762121d1294b45",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-q603hupep11dc0j.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2709T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-q603hupep11dc0j.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480072Z",
+              "event_id": "rns-c40c683ae9f6af08405748fd",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-u8kdmfjlni2k5gz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0708T",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-u8kdmfjlni2k5gz.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480365Z",
+              "event_id": "rns-ba0e5371fe7db389dcd7dc70",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-v4qvguorsx8zykj.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3753R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-v4qvguorsx8zykj.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:34:33.480315Z",
+              "event_id": "rns-604c20fe7d56b78398ac9d97",
               "headline": "Transaction in Own Shares",
-              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-yom8s48hvf3bpq0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7454R",
+              "source_url": "https://www.lse.co.uk/rns/HMSO/transaction-in-own-shares-yom8s48hvf3bpq0.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",

@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.26,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04100000113248825,
                 "date": "2025-09-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.26,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ARA.L:2025-09-03",
               "signal_type": "EXTREME CRASH BOTTOM"
             }
@@ -17910,141 +17914,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Nov 2025",
+              "event_id": "rns-4ecfe3f387ce50712d6ac77f",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2412I",
+              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-4ee183da8216675571930a87",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8627H",
+              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html",
+              "time": "5:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Nov 2025",
+              "event_id": "rns-891d302fd222d9d1f1c7eecd",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7264G",
+              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html",
+              "time": "2:30 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2025",
+              "event_id": "rns-54c59ad6fc21c35df8936bdd",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5428X",
+              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2025",
+              "event_id": "rns-54e7220f224b2014fea43dea",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0874S",
+              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-0306a0677845b37f5be2f3b8",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-27mh5vjvdpsbr1e.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5233I",
+              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-27mh5vjvdpsbr1e.html",
+              "time": "5:20 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Apr 2025",
+              "event_id": "rns-8a1c5231e2b46046b263792c",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-r7wroilnknusdt1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1759F",
+              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-r7wroilnknusdt1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Apr 2025",
+              "event_id": "rns-d3f1c91583d0096e71814ecf",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-51lbgtarvax5wfs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3409F",
+              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-51lbgtarvax5wfs.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Apr 2025",
+              "event_id": "rns-c5b505085f90672de79db540",
               "headline": "Restoration - Aura Renewable Acquisitions plc",
-              "source_url": "https://www.lse.co.uk/rns/ARA/restoration-aura-renewable-acquisitions-plc-120lo0rpa5fqb60.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1518F",
+              "source_url": "https://www.lse.co.uk/rns/ARA/restoration-aura-renewable-acquisitions-plc-120lo0rpa5fqb60.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2025",
+              "event_id": "rns-630631a7eb3451b6f9d8c7e3",
               "headline": "Cessation of Proposed Acquisition",
-              "source_url": "https://www.lse.co.uk/rns/ARA/cessation-of-proposed-acquisition-j9j53g99looy31u.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9895E",
+              "source_url": "https://www.lse.co.uk/rns/ARA/cessation-of-proposed-acquisition-j9j53g99looy31u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2025",
+              "event_id": "rns-432e9ac3f4e7b6c95d59a3a0",
               "headline": "Amendment of the rights of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-19oh5tlo7574ejs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4190D",
+              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-19oh5tlo7574ejs.html",
+              "time": "5:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Mar 2025",
+              "event_id": "rns-6f7aa022a0c7131a0bc4b49c",
               "headline": "Amendment of the rights of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-qxtxljy5toime5s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7634C",
+              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-qxtxljy5toime5s.html",
+              "time": "3:56 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Dec 2024",
+              "event_id": "rns-35a7238643f32754b60a2712",
               "headline": "Proposed Initial Transaction",
-              "source_url": "https://www.lse.co.uk/rns/ARA/proposed-initial-transaction-4u8xij3ay3pkeeq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2290P",
+              "source_url": "https://www.lse.co.uk/rns/ARA/proposed-initial-transaction-4u8xij3ay3pkeeq.html",
+              "time": "8:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2024",
+              "event_id": "rns-599e887f9c83a9e61118c6b6",
               "headline": "Director Declaration",
-              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-bitdhbtaf8rd9hi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1164I",
+              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-bitdhbtaf8rd9hi.html",
+              "time": "4:20 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Sep 2024",
+              "event_id": "rns-5c3466898710296aea64acef",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-rosm2hy6xk3kcsn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1520D",
+              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-rosm2hy6xk3kcsn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2024",
+              "event_id": "rns-b268b78683ca85cb019a54e3",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-friz07kdljll64b.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5753O",
+              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-friz07kdljll64b.html",
+              "time": "12:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2024",
+              "event_id": "rns-ac96f6b65eed3d19fc9d2c14",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-xfra62u3x4zdzfk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6839K",
+              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-xfra62u3x4zdzfk.html",
+              "time": "4:41 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2024",
+              "event_id": "rns-f2a71744aa980357be07496f",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-8v6yjp6nfm3suyk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5884J",
+              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-8v6yjp6nfm3suyk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jan 2024",
+              "event_id": "rns-6cd3d66f972ccf2ebeb67160",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-aeelbva16jqow0q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9815A",
+              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-aeelbva16jqow0q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Nov 2023",
+              "event_id": "rns-6e86e79dcc45a71e1a318b2c",
               "headline": "Director Declaration",
-              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-xayj2l3qxncwvho.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2275T",
+              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-xayj2l3qxncwvho.html",
+              "time": "8:33 am"
             }
           ],
           "status": "AVAILABLE",
@@ -18112,20 +18216,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-09-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 1.26,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04100000113248825,
             "date": "2025-09-03",
             "status": "EXACT"
           },
           "relative_activity": 1.26,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "ARA.L:2025-09-03",
           "signal_type": "EXTREME CRASH BOTTOM"
         }
@@ -27065,141 +27173,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-19",
+          "event_id": "rns-4ecfe3f387ce50712d6ac77f",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2412I",
+          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html",
+          "time": "5:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-17",
+          "event_id": "rns-4ee183da8216675571930a87",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8627H",
+          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html",
+          "time": "5:01 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-07",
+          "event_id": "rns-891d302fd222d9d1f1c7eecd",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7264G",
+          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html",
+          "time": "2:30 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-02",
+          "event_id": "rns-54c59ad6fc21c35df8936bdd",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5428X",
+          "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-22",
+          "event_id": "rns-54e7220f224b2014fea43dea",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0874S",
+          "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html",
+          "time": "12:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-13",
+          "event_id": "rns-0306a0677845b37f5be2f3b8",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-27mh5vjvdpsbr1e.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5233I",
+          "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-27mh5vjvdpsbr1e.html",
+          "time": "5:20 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-16",
+          "event_id": "rns-8a1c5231e2b46046b263792c",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/ARA/final-results-r7wroilnknusdt1.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1759F",
+          "source_url": "https://www.lse.co.uk/rns/ARA/final-results-r7wroilnknusdt1.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-16",
+          "event_id": "rns-d3f1c91583d0096e71814ecf",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-51lbgtarvax5wfs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3409F",
+          "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-51lbgtarvax5wfs.html",
+          "time": "4:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-16",
+          "event_id": "rns-c5b505085f90672de79db540",
           "headline": "Restoration - Aura Renewable Acquisitions plc",
-          "source_url": "https://www.lse.co.uk/rns/ARA/restoration-aura-renewable-acquisitions-plc-120lo0rpa5fqb60.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1518F",
+          "source_url": "https://www.lse.co.uk/rns/ARA/restoration-aura-renewable-acquisitions-plc-120lo0rpa5fqb60.html",
+          "time": "7:30 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-15",
+          "event_id": "rns-630631a7eb3451b6f9d8c7e3",
           "headline": "Cessation of Proposed Acquisition",
-          "source_url": "https://www.lse.co.uk/rns/ARA/cessation-of-proposed-acquisition-j9j53g99looy31u.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9895E",
+          "source_url": "https://www.lse.co.uk/rns/ARA/cessation-of-proposed-acquisition-j9j53g99looy31u.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-02",
+          "event_id": "rns-432e9ac3f4e7b6c95d59a3a0",
           "headline": "Amendment of the rights of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-19oh5tlo7574ejs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4190D",
+          "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-19oh5tlo7574ejs.html",
+          "time": "5:15 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-03-28",
+          "event_id": "rns-6f7aa022a0c7131a0bc4b49c",
           "headline": "Amendment of the rights of Warrants",
-          "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-qxtxljy5toime5s.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7634C",
+          "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-qxtxljy5toime5s.html",
+          "time": "3:56 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-12-09",
+          "event_id": "rns-35a7238643f32754b60a2712",
           "headline": "Proposed Initial Transaction",
-          "source_url": "https://www.lse.co.uk/rns/ARA/proposed-initial-transaction-4u8xij3ay3pkeeq.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2290P",
+          "source_url": "https://www.lse.co.uk/rns/ARA/proposed-initial-transaction-4u8xij3ay3pkeeq.html",
+          "time": "8:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-10-14",
+          "event_id": "rns-599e887f9c83a9e61118c6b6",
           "headline": "Director Declaration",
-          "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-bitdhbtaf8rd9hi.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1164I",
+          "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-bitdhbtaf8rd9hi.html",
+          "time": "4:20 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-09-06",
+          "event_id": "rns-5c3466898710296aea64acef",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-rosm2hy6xk3kcsn.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1520D",
+          "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-rosm2hy6xk3kcsn.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-05-15",
+          "event_id": "rns-b268b78683ca85cb019a54e3",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-friz07kdljll64b.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5753O",
+          "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-friz07kdljll64b.html",
+          "time": "12:16 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-04-15",
+          "event_id": "rns-ac96f6b65eed3d19fc9d2c14",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-xfra62u3x4zdzfk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6839K",
+          "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-xfra62u3x4zdzfk.html",
+          "time": "4:41 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-04-08",
+          "event_id": "rns-f2a71744aa980357be07496f",
           "headline": "Final Results",
-          "source_url": "https://www.lse.co.uk/rns/ARA/final-results-8v6yjp6nfm3suyk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5884J",
+          "source_url": "https://www.lse.co.uk/rns/ARA/final-results-8v6yjp6nfm3suyk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2024-01-26",
+          "event_id": "rns-6cd3d66f972ccf2ebeb67160",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-aeelbva16jqow0q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9815A",
+          "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-aeelbva16jqow0q.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2023-11-13",
+          "event_id": "rns-6e86e79dcc45a71e1a318b2c",
           "headline": "Director Declaration",
-          "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-xayj2l3qxncwvho.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2275T",
+          "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-xayj2l3qxncwvho.html",
+          "time": "8:33 am"
         }
       ],
       "rns_initial": [
@@ -27207,36 +27415,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-19",
+          "event_id": "rns-4ecfe3f387ce50712d6ac77f",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2412I",
+          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html",
+          "time": "5:00 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-17",
+          "event_id": "rns-4ee183da8216675571930a87",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8627H",
+          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html",
+          "time": "5:01 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-07",
+          "event_id": "rns-891d302fd222d9d1f1c7eecd",
           "headline": "Directorate change",
-          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7264G",
+          "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html",
+          "time": "2:30 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-02",
+          "event_id": "rns-54c59ad6fc21c35df8936bdd",
           "headline": "Half-year Report",
-          "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5428X",
+          "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-22",
+          "event_id": "rns-54e7220f224b2014fea43dea",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0874S",
+          "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html",
+          "time": "12:00 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -27284,20 +27517,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.26,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04100000113248825,
                 "date": "2025-09-03",
                 "status": "EXACT"
               },
               "relative_activity": 1.26,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "ARA.L:2025-09-03",
               "signal_type": "EXTREME CRASH BOTTOM"
             }
@@ -45173,141 +45410,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Nov 2025",
+              "event_id": "rns-4ecfe3f387ce50712d6ac77f",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2412I",
+              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-xo5ebh142nmupyq.html",
+              "time": "5:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Nov 2025",
+              "event_id": "rns-4ee183da8216675571930a87",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8627H",
+              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-2e48a33b6z4dxan.html",
+              "time": "5:01 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th Nov 2025",
+              "event_id": "rns-891d302fd222d9d1f1c7eecd",
               "headline": "Directorate change",
-              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7264G",
+              "source_url": "https://www.lse.co.uk/rns/ARA/directorate-change-lofo6x5gdgzdhrq.html",
+              "time": "2:30 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Sep 2025",
+              "event_id": "rns-54c59ad6fc21c35df8936bdd",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5428X",
+              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-92xkk4gb5n5sh9j.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2025",
+              "event_id": "rns-54e7220f224b2014fea43dea",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0874S",
+              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-9r4ntfl217oxx1h.html",
+              "time": "12:00 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th May 2025",
+              "event_id": "rns-0306a0677845b37f5be2f3b8",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-27mh5vjvdpsbr1e.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5233I",
+              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-27mh5vjvdpsbr1e.html",
+              "time": "5:20 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Apr 2025",
+              "event_id": "rns-8a1c5231e2b46046b263792c",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-r7wroilnknusdt1.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1759F",
+              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-r7wroilnknusdt1.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Apr 2025",
+              "event_id": "rns-d3f1c91583d0096e71814ecf",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-51lbgtarvax5wfs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3409F",
+              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-51lbgtarvax5wfs.html",
+              "time": "4:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "16th Apr 2025",
+              "event_id": "rns-c5b505085f90672de79db540",
               "headline": "Restoration - Aura Renewable Acquisitions plc",
-              "source_url": "https://www.lse.co.uk/rns/ARA/restoration-aura-renewable-acquisitions-plc-120lo0rpa5fqb60.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1518F",
+              "source_url": "https://www.lse.co.uk/rns/ARA/restoration-aura-renewable-acquisitions-plc-120lo0rpa5fqb60.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2025",
+              "event_id": "rns-630631a7eb3451b6f9d8c7e3",
               "headline": "Cessation of Proposed Acquisition",
-              "source_url": "https://www.lse.co.uk/rns/ARA/cessation-of-proposed-acquisition-j9j53g99looy31u.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9895E",
+              "source_url": "https://www.lse.co.uk/rns/ARA/cessation-of-proposed-acquisition-j9j53g99looy31u.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Apr 2025",
+              "event_id": "rns-432e9ac3f4e7b6c95d59a3a0",
               "headline": "Amendment of the rights of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-19oh5tlo7574ejs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4190D",
+              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-19oh5tlo7574ejs.html",
+              "time": "5:15 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Mar 2025",
+              "event_id": "rns-6f7aa022a0c7131a0bc4b49c",
               "headline": "Amendment of the rights of Warrants",
-              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-qxtxljy5toime5s.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7634C",
+              "source_url": "https://www.lse.co.uk/rns/ARA/amendment-of-the-rights-of-warrants-qxtxljy5toime5s.html",
+              "time": "3:56 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Dec 2024",
+              "event_id": "rns-35a7238643f32754b60a2712",
               "headline": "Proposed Initial Transaction",
-              "source_url": "https://www.lse.co.uk/rns/ARA/proposed-initial-transaction-4u8xij3ay3pkeeq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2290P",
+              "source_url": "https://www.lse.co.uk/rns/ARA/proposed-initial-transaction-4u8xij3ay3pkeeq.html",
+              "time": "8:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Oct 2024",
+              "event_id": "rns-599e887f9c83a9e61118c6b6",
               "headline": "Director Declaration",
-              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-bitdhbtaf8rd9hi.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1164I",
+              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-bitdhbtaf8rd9hi.html",
+              "time": "4:20 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Sep 2024",
+              "event_id": "rns-5c3466898710296aea64acef",
               "headline": "Half-year Report",
-              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-rosm2hy6xk3kcsn.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1520D",
+              "source_url": "https://www.lse.co.uk/rns/ARA/half-year-report-rosm2hy6xk3kcsn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2024",
+              "event_id": "rns-b268b78683ca85cb019a54e3",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-friz07kdljll64b.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5753O",
+              "source_url": "https://www.lse.co.uk/rns/ARA/result-of-agm-friz07kdljll64b.html",
+              "time": "12:16 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2024",
+              "event_id": "rns-ac96f6b65eed3d19fc9d2c14",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-xfra62u3x4zdzfk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6839K",
+              "source_url": "https://www.lse.co.uk/rns/ARA/notice-of-agm-xfra62u3x4zdzfk.html",
+              "time": "4:41 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Apr 2024",
+              "event_id": "rns-f2a71744aa980357be07496f",
               "headline": "Final Results",
-              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-8v6yjp6nfm3suyk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5884J",
+              "source_url": "https://www.lse.co.uk/rns/ARA/final-results-8v6yjp6nfm3suyk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jan 2024",
+              "event_id": "rns-6cd3d66f972ccf2ebeb67160",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-aeelbva16jqow0q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9815A",
+              "source_url": "https://www.lse.co.uk/rns/ARA/holdings-in-company-aeelbva16jqow0q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Nov 2023",
+              "event_id": "rns-6e86e79dcc45a71e1a318b2c",
               "headline": "Director Declaration",
-              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-xayj2l3qxncwvho.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2275T",
+              "source_url": "https://www.lse.co.uk/rns/ARA/director-declaration-xayj2l3qxncwvho.html",
+              "time": "8:33 am"
             }
           ],
           "status": "AVAILABLE",

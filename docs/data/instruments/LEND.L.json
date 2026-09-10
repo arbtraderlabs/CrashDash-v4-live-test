@@ -21,96 +21,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-08",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.0,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.44999998807907104,
                 "date": "2023-06-08",
                 "status": "EXACT"
               },
               "relative_activity": 6.0,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2023-06-08",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 16.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.44999998807907104,
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
               "relative_activity": 16.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.38,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.2849999964237213,
                 "date": "2024-06-10",
                 "status": "EXACT"
               },
               "relative_activity": 6.38,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2024-06-10",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-07-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 10.78,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.17499999701976776,
                 "date": "2024-07-01",
                 "status": "EXACT"
               },
               "relative_activity": 10.78,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2024-07-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-01-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.81,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.004000000189989805,
                 "date": "2026-01-12",
                 "status": "EXACT"
               },
               "relative_activity": 1.81,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "LEND.L:2026-01-12",
               "signal_type": "EXTREME CRASH BOTTOM"
             }
@@ -27186,141 +27206,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-03bb4e645417fe01509345ae",
               "headline": "Unaudited Interim Results Update",
-              "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7087S",
+              "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2026",
+              "event_id": "rns-c2af6e72bf9f3c0dffeebcb2",
               "headline": "Directorate Change, Trading & Bond Issue",
-              "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7921L",
+              "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-508d4a63893ecacbc5590849",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6004H",
+              "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html",
+              "time": "11:18 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th May 2026",
+              "event_id": "rns-a9f0cf810f8a881ce6189d19",
               "headline": "Trading Update and Issuance of Sancus Bond",
-              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6584F",
+              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-07ed87b6df409b5c2bea2f2e",
               "headline": "Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1184F",
+              "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2026",
+              "event_id": "rns-7fd62b5b3f45cafddc4414a6",
               "headline": "Final Results for the year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/LEND/final-results-for-the-year-ended-31-december-2025-5wo7cpp545kn325.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2152X",
+              "source_url": "https://www.lse.co.uk/rns/LEND/final-results-for-the-year-ended-31-december-2025-5wo7cpp545kn325.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2026",
+              "event_id": "rns-2902cdc483c5a6e19351061b",
               "headline": "Preference Share Amendment & Bond Subscription",
-              "source_url": "https://www.lse.co.uk/rns/LEND/preference-share-amendment-bond-subscription-gi8civ7uelpr66f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2144X",
+              "source_url": "https://www.lse.co.uk/rns/LEND/preference-share-amendment-bond-subscription-gi8civ7uelpr66f.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Feb 2026",
+              "event_id": "rns-938483a528f0d9fa10c3533e",
               "headline": "Increased and Extended Credit Facility",
-              "source_url": "https://www.lse.co.uk/rns/LEND/increased-and-extended-credit-facility-gk9cburv8rujwci.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6584S",
+              "source_url": "https://www.lse.co.uk/rns/LEND/increased-and-extended-credit-facility-gk9cburv8rujwci.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-bc553d53a0f35df585f3a828",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-bilrk0p3zxa1fcn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6091Q",
+              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-bilrk0p3zxa1fcn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-31a81b022d94122dbd038944",
               "headline": "Junior Funding Commitment",
-              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-ihiml0bf2g87ucp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5028P",
+              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-ihiml0bf2g87ucp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-7534f344f7a61333da430058",
               "headline": "Results of Meetings and Tender Offer and TVR",
-              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-232ojldte495hp1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3105M",
+              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-232ojldte495hp1.html",
+              "time": "10:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-7534f344f7a61333da430058",
               "headline": "Results of Meetings and Tender Offer and TVR",
-              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-eqhhqbg7f0zpxp6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3105M",
+              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-eqhhqbg7f0zpxp6.html",
+              "time": "10:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2025",
+              "event_id": "rns-c807f1dea93d39db0fade736",
               "headline": "Junior Funding Commitment",
-              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-knr800jso2yw9n4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2781L",
+              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-knr800jso2yw9n4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Nov 2025",
+              "event_id": "rns-5b687949b6138a10db9e44b0",
               "headline": "ZDP Tender & Amendments, RPT and Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/LEND/zdp-tender-amendments-rpt-and-trading-update-b605snchkis91cx.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3591J",
+              "source_url": "https://www.lse.co.uk/rns/LEND/zdp-tender-amendments-rpt-and-trading-update-b605snchkis91cx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Oct 2025",
+              "event_id": "rns-f24fdb95a8241c2bb3e2e01f",
               "headline": "Junior Funding Commitment",
-              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-190ouidissvixlm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8106C",
+              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-190ouidissvixlm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Sep 2025",
+              "event_id": "rns-9d6d844c88e862d61f6debcb",
               "headline": "New Company Website",
-              "source_url": "https://www.lse.co.uk/rns/LEND/new-company-website-iecpnjqbju8p2va.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2326Z",
+              "source_url": "https://www.lse.co.uk/rns/LEND/new-company-website-iecpnjqbju8p2va.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2025",
+              "event_id": "rns-e51db431e428ebd70b5d67c9",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/LEND/interim-results-0t6zdke08i5ngar.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9309X",
+              "source_url": "https://www.lse.co.uk/rns/LEND/interim-results-0t6zdke08i5ngar.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-f07e7e5446c45e115dd62fcc",
               "headline": "Trading Update and Additional Funding Facility",
-              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-additional-funding-facility-ymxgf8lo4pbqqmy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2541V",
+              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-additional-funding-facility-ymxgf8lo4pbqqmy.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-375b0f462b90a7115ffc60fd",
               "headline": "Results of Meetings and of ZDP Tender Offer",
-              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-of-zdp-tender-offer-pwjeyoa3cv8gkw5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1909O",
+              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-of-zdp-tender-offer-pwjeyoa3cv8gkw5.html",
+              "time": "11:20 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2025",
+              "event_id": "rns-cc8ae3adf9081dedd738c86a",
               "headline": "Pollen Street Facility and Junior Funding",
-              "source_url": "https://www.lse.co.uk/rns/LEND/pollen-street-facility-and-junior-funding-q6d9mivcyorbfd5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6701N",
+              "source_url": "https://www.lse.co.uk/rns/LEND/pollen-street-facility-and-junior-funding-q6d9mivcyorbfd5.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27389,96 +27509,116 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-08",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 6.0,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.44999998807907104,
             "date": "2023-06-08",
             "status": "EXACT"
           },
           "relative_activity": 6.0,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "LEND.L:2023-06-08",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-06-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 16.23,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.44999998807907104,
             "date": "2023-06-09",
             "status": "EXACT"
           },
           "relative_activity": 16.23,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "LEND.L:2023-06-09",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-06-10",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 6.38,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.2849999964237213,
             "date": "2024-06-10",
             "status": "EXACT"
           },
           "relative_activity": 6.38,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "LEND.L:2024-06-10",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-07-01",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 10.78,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.17499999701976776,
             "date": "2024-07-01",
             "status": "EXACT"
           },
           "relative_activity": 10.78,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "LEND.L:2024-07-01",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2026-01-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 1.81,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.004000000189989805,
             "date": "2026-01-12",
             "status": "EXACT"
           },
           "relative_activity": 1.81,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "LEND.L:2026-01-12",
           "signal_type": "EXTREME CRASH BOTTOM"
         }
@@ -41018,141 +41158,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-03bb4e645417fe01509345ae",
           "headline": "Unaudited Interim Results Update",
-          "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7087S",
+          "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-10",
+          "event_id": "rns-c2af6e72bf9f3c0dffeebcb2",
           "headline": "Directorate Change, Trading & Bond Issue",
-          "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7921L",
+          "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-508d4a63893ecacbc5590849",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6004H",
+          "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html",
+          "time": "11:18 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-26",
+          "event_id": "rns-a9f0cf810f8a881ce6189d19",
           "headline": "Trading Update and Issuance of Sancus Bond",
-          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6584F",
+          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-07ed87b6df409b5c2bea2f2e",
           "headline": "Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1184F",
+          "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-19",
+          "event_id": "rns-7fd62b5b3f45cafddc4414a6",
           "headline": "Final Results for the year ended 31 December 2025",
-          "source_url": "https://www.lse.co.uk/rns/LEND/final-results-for-the-year-ended-31-december-2025-5wo7cpp545kn325.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2152X",
+          "source_url": "https://www.lse.co.uk/rns/LEND/final-results-for-the-year-ended-31-december-2025-5wo7cpp545kn325.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-19",
+          "event_id": "rns-2902cdc483c5a6e19351061b",
           "headline": "Preference Share Amendment & Bond Subscription",
-          "source_url": "https://www.lse.co.uk/rns/LEND/preference-share-amendment-bond-subscription-gi8civ7uelpr66f.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2144X",
+          "source_url": "https://www.lse.co.uk/rns/LEND/preference-share-amendment-bond-subscription-gi8civ7uelpr66f.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-12",
+          "event_id": "rns-938483a528f0d9fa10c3533e",
           "headline": "Increased and Extended Credit Facility",
-          "source_url": "https://www.lse.co.uk/rns/LEND/increased-and-extended-credit-facility-gk9cburv8rujwci.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6584S",
+          "source_url": "https://www.lse.co.uk/rns/LEND/increased-and-extended-credit-facility-gk9cburv8rujwci.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-28",
+          "event_id": "rns-bc553d53a0f35df585f3a828",
           "headline": "Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-bilrk0p3zxa1fcn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6091Q",
+          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-bilrk0p3zxa1fcn.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-20",
+          "event_id": "rns-31a81b022d94122dbd038944",
           "headline": "Junior Funding Commitment",
-          "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-ihiml0bf2g87ucp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5028P",
+          "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-ihiml0bf2g87ucp.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-7534f344f7a61333da430058",
           "headline": "Results of Meetings and Tender Offer and TVR",
-          "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-232ojldte495hp1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3105M",
+          "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-232ojldte495hp1.html",
+          "time": "10:56 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-19",
+          "event_id": "rns-7534f344f7a61333da430058",
           "headline": "Results of Meetings and Tender Offer and TVR",
-          "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-eqhhqbg7f0zpxp6.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3105M",
+          "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-eqhhqbg7f0zpxp6.html",
+          "time": "10:56 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-12-12",
+          "event_id": "rns-c807f1dea93d39db0fade736",
           "headline": "Junior Funding Commitment",
-          "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-knr800jso2yw9n4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2781L",
+          "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-knr800jso2yw9n4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-28",
+          "event_id": "rns-5b687949b6138a10db9e44b0",
           "headline": "ZDP Tender & Amendments, RPT and Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/LEND/zdp-tender-amendments-rpt-and-trading-update-b605snchkis91cx.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 3591J",
+          "source_url": "https://www.lse.co.uk/rns/LEND/zdp-tender-amendments-rpt-and-trading-update-b605snchkis91cx.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-10",
+          "event_id": "rns-f24fdb95a8241c2bb3e2e01f",
           "headline": "Junior Funding Commitment",
-          "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-190ouidissvixlm.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8106C",
+          "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-190ouidissvixlm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-15",
+          "event_id": "rns-9d6d844c88e862d61f6debcb",
           "headline": "New Company Website",
-          "source_url": "https://www.lse.co.uk/rns/LEND/new-company-website-iecpnjqbju8p2va.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2326Z",
+          "source_url": "https://www.lse.co.uk/rns/LEND/new-company-website-iecpnjqbju8p2va.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-04",
+          "event_id": "rns-e51db431e428ebd70b5d67c9",
           "headline": "Interim Results",
-          "source_url": "https://www.lse.co.uk/rns/LEND/interim-results-0t6zdke08i5ngar.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9309X",
+          "source_url": "https://www.lse.co.uk/rns/LEND/interim-results-0t6zdke08i5ngar.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-14",
+          "event_id": "rns-f07e7e5446c45e115dd62fcc",
           "headline": "Trading Update and Additional Funding Facility",
-          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-additional-funding-facility-ymxgf8lo4pbqqmy.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2541V",
+          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-additional-funding-facility-ymxgf8lo4pbqqmy.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-24",
+          "event_id": "rns-375b0f462b90a7115ffc60fd",
           "headline": "Results of Meetings and of ZDP Tender Offer",
-          "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-of-zdp-tender-offer-pwjeyoa3cv8gkw5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1909O",
+          "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-of-zdp-tender-offer-pwjeyoa3cv8gkw5.html",
+          "time": "11:20 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-06-20",
+          "event_id": "rns-cc8ae3adf9081dedd738c86a",
           "headline": "Pollen Street Facility and Junior Funding",
-          "source_url": "https://www.lse.co.uk/rns/LEND/pollen-street-facility-and-junior-funding-q6d9mivcyorbfd5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6701N",
+          "source_url": "https://www.lse.co.uk/rns/LEND/pollen-street-facility-and-junior-funding-q6d9mivcyorbfd5.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41160,36 +41400,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-01",
+          "event_id": "rns-03bb4e645417fe01509345ae",
           "headline": "Unaudited Interim Results Update",
-          "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7087S",
+          "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-10",
+          "event_id": "rns-c2af6e72bf9f3c0dffeebcb2",
           "headline": "Directorate Change, Trading & Bond Issue",
-          "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7921L",
+          "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-508d4a63893ecacbc5590849",
           "headline": "Result of AGM",
-          "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6004H",
+          "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html",
+          "time": "11:18 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-26",
+          "event_id": "rns-a9f0cf810f8a881ce6189d19",
           "headline": "Trading Update and Issuance of Sancus Bond",
-          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6584F",
+          "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-21",
+          "event_id": "rns-07ed87b6df409b5c2bea2f2e",
           "headline": "Notice of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1184F",
+          "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41237,96 +41502,116 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-08",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.0,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.44999998807907104,
                 "date": "2023-06-08",
                 "status": "EXACT"
               },
               "relative_activity": 6.0,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2023-06-08",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-06-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 16.23,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.44999998807907104,
                 "date": "2023-06-09",
                 "status": "EXACT"
               },
               "relative_activity": 16.23,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2023-06-09",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-06-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 6.38,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.2849999964237213,
                 "date": "2024-06-10",
                 "status": "EXACT"
               },
               "relative_activity": 6.38,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2024-06-10",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-07-01",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 10.78,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.17499999701976776,
                 "date": "2024-07-01",
                 "status": "EXACT"
               },
               "relative_activity": 10.78,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "LEND.L:2024-07-01",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2026-01-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.81,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.004000000189989805,
                 "date": "2026-01-12",
                 "status": "EXACT"
               },
               "relative_activity": 1.81,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "LEND.L:2026-01-12",
               "signal_type": "EXTREME CRASH BOTTOM"
             }
@@ -68402,141 +68687,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "1st Sep 2026",
+              "event_id": "rns-03bb4e645417fe01509345ae",
               "headline": "Unaudited Interim Results Update",
-              "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7087S",
+              "source_url": "https://www.lse.co.uk/rns/LEND/unaudited-interim-results-update-1qu0341svoplg4a.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Jul 2026",
+              "event_id": "rns-c2af6e72bf9f3c0dffeebcb2",
               "headline": "Directorate Change, Trading & Bond Issue",
-              "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7921L",
+              "source_url": "https://www.lse.co.uk/rns/LEND/directorate-change-trading-bond-issue-w7au7ba6wo5sx2r.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-508d4a63893ecacbc5590849",
               "headline": "Result of AGM",
-              "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6004H",
+              "source_url": "https://www.lse.co.uk/rns/LEND/result-of-agm-aa7vssz9z9100g5.html",
+              "time": "11:18 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th May 2026",
+              "event_id": "rns-a9f0cf810f8a881ce6189d19",
               "headline": "Trading Update and Issuance of Sancus Bond",
-              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6584F",
+              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-issuance-of-sancus-bond-mkb8972xq2qaz1z.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "21st May 2026",
+              "event_id": "rns-07ed87b6df409b5c2bea2f2e",
               "headline": "Notice of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1184F",
+              "source_url": "https://www.lse.co.uk/rns/LEND/notice-of-annual-general-meeting-vvsobngd1cbtvzp.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2026",
+              "event_id": "rns-7fd62b5b3f45cafddc4414a6",
               "headline": "Final Results for the year ended 31 December 2025",
-              "source_url": "https://www.lse.co.uk/rns/LEND/final-results-for-the-year-ended-31-december-2025-5wo7cpp545kn325.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2152X",
+              "source_url": "https://www.lse.co.uk/rns/LEND/final-results-for-the-year-ended-31-december-2025-5wo7cpp545kn325.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Mar 2026",
+              "event_id": "rns-2902cdc483c5a6e19351061b",
               "headline": "Preference Share Amendment & Bond Subscription",
-              "source_url": "https://www.lse.co.uk/rns/LEND/preference-share-amendment-bond-subscription-gi8civ7uelpr66f.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2144X",
+              "source_url": "https://www.lse.co.uk/rns/LEND/preference-share-amendment-bond-subscription-gi8civ7uelpr66f.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Feb 2026",
+              "event_id": "rns-938483a528f0d9fa10c3533e",
               "headline": "Increased and Extended Credit Facility",
-              "source_url": "https://www.lse.co.uk/rns/LEND/increased-and-extended-credit-facility-gk9cburv8rujwci.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6584S",
+              "source_url": "https://www.lse.co.uk/rns/LEND/increased-and-extended-credit-facility-gk9cburv8rujwci.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jan 2026",
+              "event_id": "rns-bc553d53a0f35df585f3a828",
               "headline": "Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-bilrk0p3zxa1fcn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6091Q",
+              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-bilrk0p3zxa1fcn.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jan 2026",
+              "event_id": "rns-31a81b022d94122dbd038944",
               "headline": "Junior Funding Commitment",
-              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-ihiml0bf2g87ucp.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5028P",
+              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-ihiml0bf2g87ucp.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-7534f344f7a61333da430058",
               "headline": "Results of Meetings and Tender Offer and TVR",
-              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-232ojldte495hp1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3105M",
+              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-232ojldte495hp1.html",
+              "time": "10:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Dec 2025",
+              "event_id": "rns-7534f344f7a61333da430058",
               "headline": "Results of Meetings and Tender Offer and TVR",
-              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-eqhhqbg7f0zpxp6.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3105M",
+              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-tender-offer-and-tvr-eqhhqbg7f0zpxp6.html",
+              "time": "10:56 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Dec 2025",
+              "event_id": "rns-c807f1dea93d39db0fade736",
               "headline": "Junior Funding Commitment",
-              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-knr800jso2yw9n4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2781L",
+              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-knr800jso2yw9n4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Nov 2025",
+              "event_id": "rns-5b687949b6138a10db9e44b0",
               "headline": "ZDP Tender & Amendments, RPT and Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/LEND/zdp-tender-amendments-rpt-and-trading-update-b605snchkis91cx.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3591J",
+              "source_url": "https://www.lse.co.uk/rns/LEND/zdp-tender-amendments-rpt-and-trading-update-b605snchkis91cx.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Oct 2025",
+              "event_id": "rns-f24fdb95a8241c2bb3e2e01f",
               "headline": "Junior Funding Commitment",
-              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-190ouidissvixlm.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8106C",
+              "source_url": "https://www.lse.co.uk/rns/LEND/junior-funding-commitment-190ouidissvixlm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Sep 2025",
+              "event_id": "rns-9d6d844c88e862d61f6debcb",
               "headline": "New Company Website",
-              "source_url": "https://www.lse.co.uk/rns/LEND/new-company-website-iecpnjqbju8p2va.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2326Z",
+              "source_url": "https://www.lse.co.uk/rns/LEND/new-company-website-iecpnjqbju8p2va.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2025",
+              "event_id": "rns-e51db431e428ebd70b5d67c9",
               "headline": "Interim Results",
-              "source_url": "https://www.lse.co.uk/rns/LEND/interim-results-0t6zdke08i5ngar.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9309X",
+              "source_url": "https://www.lse.co.uk/rns/LEND/interim-results-0t6zdke08i5ngar.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2025",
+              "event_id": "rns-f07e7e5446c45e115dd62fcc",
               "headline": "Trading Update and Additional Funding Facility",
-              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-additional-funding-facility-ymxgf8lo4pbqqmy.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2541V",
+              "source_url": "https://www.lse.co.uk/rns/LEND/trading-update-and-additional-funding-facility-ymxgf8lo4pbqqmy.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2025",
+              "event_id": "rns-375b0f462b90a7115ffc60fd",
               "headline": "Results of Meetings and of ZDP Tender Offer",
-              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-of-zdp-tender-offer-pwjeyoa3cv8gkw5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1909O",
+              "source_url": "https://www.lse.co.uk/rns/LEND/results-of-meetings-and-of-zdp-tender-offer-pwjeyoa3cv8gkw5.html",
+              "time": "11:20 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Jun 2025",
+              "event_id": "rns-cc8ae3adf9081dedd738c86a",
               "headline": "Pollen Street Facility and Junior Funding",
-              "source_url": "https://www.lse.co.uk/rns/LEND/pollen-street-facility-and-junior-funding-q6d9mivcyorbfd5.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6701N",
+              "source_url": "https://www.lse.co.uk/rns/LEND/pollen-street-facility-and-junior-funding-q6d9mivcyorbfd5.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

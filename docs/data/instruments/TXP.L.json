@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.18,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.199999809265137,
                 "date": "2025-11-14",
                 "status": "EXACT"
               },
               "relative_activity": 3.18,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TXP.L:2025-11-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.74,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.150000095367432,
                 "date": "2025-11-17",
                 "status": "EXACT"
               },
               "relative_activity": 3.74,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TXP.L:2025-11-17",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27145,141 +27153,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-577861530dde1f1d8ffeb6c2",
               "headline": "ANNUAL LONG-TERM INCENTIVE GRANT",
-              "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2170R",
+              "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-2846086cff1866540725ec2f",
               "headline": "SECOND QUARTER 2026 RESULTS AND OPERATIONAL UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6452Q",
+              "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-926d756dbce3e5c265ed0f4d",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0291Q",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html",
+              "time": "4:02 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-7ab46b7c65954cbc211a87bc",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6549P",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html",
+              "time": "3:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-93543e4dca861d1494977a7e",
               "headline": "Results of 2026 Annual and Special Meeting",
-              "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6607N",
+              "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html",
+              "time": "5:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2026",
+              "event_id": "rns-8a8592e486056a5ade5ab134",
               "headline": "PURCHASE OF COMMON SHARES AND PDMR SHAREHOLDING",
-              "source_url": "https://www.lse.co.uk/rns/TXP/purchase-of-common-shares-and-pdmr-shareholding-l5ayhv68n0aft8e.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8772K",
+              "source_url": "https://www.lse.co.uk/rns/TXP/purchase-of-common-shares-and-pdmr-shareholding-l5ayhv68n0aft8e.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Jun 2026",
+              "event_id": "rns-b255103d18c3c64b1d7fab06",
               "headline": "Closing of the Fundraise and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TXP/closing-of-the-fundraise-and-notice-of-agm-m4sp8fp6xrywz0n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9230H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/closing-of-the-fundraise-and-notice-of-agm-m4sp8fp6xrywz0n.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-ee6a8939611abe34ef9c060f",
               "headline": "Final Results of Fundraise and Wrap Retail Offer",
-              "source_url": "https://www.lse.co.uk/rns/TXP/final-results-of-fundraise-and-wrap-retail-offer-o68otejy2tlirkk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3666H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/final-results-of-fundraise-and-wrap-retail-offer-o68otejy2tlirkk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2026",
+              "event_id": "rns-b6e8beaab5a94cf21bf55f14",
               "headline": "Initial Results of Fundraise",
-              "source_url": "https://www.lse.co.uk/rns/TXP/initial-results-of-fundraise-9t2y0eukc8183sw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1815H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/initial-results-of-fundraise-9t2y0eukc8183sw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-c20482a8523a21c5b3bc3fa1",
               "headline": "Proposed fundraise of US$10m to US$15m",
-              "source_url": "https://www.lse.co.uk/rns/TXP/proposed-fundraise-of-us10m-to-us15m-pjkh9fc8ugyrrmq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0897H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/proposed-fundraise-of-us10m-to-us15m-pjkh9fc8ugyrrmq.html",
+              "time": "4:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-7d7ed69608729a88f29e0e1e",
               "headline": "Wrap Retail Offer for up to US$1.0m",
-              "source_url": "https://www.lse.co.uk/rns/TXP/wrap-retail-offer-for-up-to-us10m-i9ll5p7kah019at.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0900H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/wrap-retail-offer-for-up-to-us10m-i9ll5p7kah019at.html",
+              "time": "4:36 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2026",
+              "event_id": "rns-23eb82acd5de7e8d794dc463",
               "headline": "OPERATIONAL UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/TXP/operational-update-mcefci07odetmss.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9599F",
+              "source_url": "https://www.lse.co.uk/rns/TXP/operational-update-mcefci07odetmss.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-cb090dba7f72824c74b2c765",
               "headline": "First Quarter 2026 Results and Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/TXP/first-quarter-2026-results-and-operational-update-kjyumieumvdroh8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3222E",
+              "source_url": "https://www.lse.co.uk/rns/TXP/first-quarter-2026-results-and-operational-update-kjyumieumvdroh8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Mar 2026",
+              "event_id": "rns-385963aa3ad277736b303dde",
               "headline": "Annual 2025 Financial and Operating Results",
-              "source_url": "https://www.lse.co.uk/rns/TXP/annual-2025-financial-and-operating-results-wwf8zk28jfc5qts.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8153Y",
+              "source_url": "https://www.lse.co.uk/rns/TXP/annual-2025-financial-and-operating-results-wwf8zk28jfc5qts.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-7e2043b4bf940a0f73a8406e",
               "headline": "Touchstone Exploration Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/TXP/touchstone-exploration-operational-update-a0n1oin39d5d1x9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5970Y",
+              "source_url": "https://www.lse.co.uk/rns/TXP/touchstone-exploration-operational-update-a0n1oin39d5d1x9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-dfc44e81ddf399ca6250fd04",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-17obmbumggaazre.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3122W",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-17obmbumggaazre.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-dfc44e81ddf399ca6250fd04",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-9big9y043kk0rid.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3122W",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-9big9y043kk0rid.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-c34ec1c3d858565e6eb08d0c",
               "headline": "2025 YEAR-END RESERVES",
-              "source_url": "https://www.lse.co.uk/rns/TXP/2025-year-end-reserves-xehko6xsvvh2z3k.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2463U",
+              "source_url": "https://www.lse.co.uk/rns/TXP/2025-year-end-reserves-xehko6xsvvh2z3k.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jan 2026",
+              "event_id": "rns-9593748330aab9c902ec3778",
               "headline": "APPOINTMENT OF NON-EXECUTIVE DIRECTOR",
-              "source_url": "https://www.lse.co.uk/rns/TXP/appointment-of-non-executive-director-t66q4kv4ozyqgz9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1585O",
+              "source_url": "https://www.lse.co.uk/rns/TXP/appointment-of-non-executive-director-t66q4kv4ozyqgz9.html",
+              "time": "8:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jan 2026",
+              "event_id": "rns-368fb2396fc26d68d202922f",
               "headline": "CARAPAL RIDGE-3 DRILLING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/TXP/carapal-ridge-3-drilling-results-ht5klhwfnffa6e1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6215N",
+              "source_url": "https://www.lse.co.uk/rns/TXP/carapal-ridge-3-drilling-results-ht5klhwfnffa6e1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27347,39 +27455,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-14",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.18,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.199999809265137,
             "date": "2025-11-14",
             "status": "EXACT"
           },
           "relative_activity": 3.18,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TXP.L:2025-11-14",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-11-17",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.74,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 6.150000095367432,
             "date": "2025-11-17",
             "status": "EXACT"
           },
           "relative_activity": 3.74,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "TXP.L:2025-11-17",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40927,141 +41043,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-577861530dde1f1d8ffeb6c2",
           "headline": "ANNUAL LONG-TERM INCENTIVE GRANT",
-          "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2170R",
+          "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-14",
+          "event_id": "rns-2846086cff1866540725ec2f",
           "headline": "SECOND QUARTER 2026 RESULTS AND OPERATIONAL UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6452Q",
+          "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-926d756dbce3e5c265ed0f4d",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0291Q",
+          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html",
+          "time": "4:02 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-7ab46b7c65954cbc211a87bc",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6549P",
+          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html",
+          "time": "3:59 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-93543e4dca861d1494977a7e",
           "headline": "Results of 2026 Annual and Special Meeting",
-          "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6607N",
+          "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html",
+          "time": "5:31 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-03",
+          "event_id": "rns-8a8592e486056a5ade5ab134",
           "headline": "PURCHASE OF COMMON SHARES AND PDMR SHAREHOLDING",
-          "source_url": "https://www.lse.co.uk/rns/TXP/purchase-of-common-shares-and-pdmr-shareholding-l5ayhv68n0aft8e.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8772K",
+          "source_url": "https://www.lse.co.uk/rns/TXP/purchase-of-common-shares-and-pdmr-shareholding-l5ayhv68n0aft8e.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-11",
+          "event_id": "rns-b255103d18c3c64b1d7fab06",
           "headline": "Closing of the Fundraise and Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/TXP/closing-of-the-fundraise-and-notice-of-agm-m4sp8fp6xrywz0n.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9230H",
+          "source_url": "https://www.lse.co.uk/rns/TXP/closing-of-the-fundraise-and-notice-of-agm-m4sp8fp6xrywz0n.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-08",
+          "event_id": "rns-ee6a8939611abe34ef9c060f",
           "headline": "Final Results of Fundraise and Wrap Retail Offer",
-          "source_url": "https://www.lse.co.uk/rns/TXP/final-results-of-fundraise-and-wrap-retail-offer-o68otejy2tlirkk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3666H",
+          "source_url": "https://www.lse.co.uk/rns/TXP/final-results-of-fundraise-and-wrap-retail-offer-o68otejy2tlirkk.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-05",
+          "event_id": "rns-b6e8beaab5a94cf21bf55f14",
           "headline": "Initial Results of Fundraise",
-          "source_url": "https://www.lse.co.uk/rns/TXP/initial-results-of-fundraise-9t2y0eukc8183sw.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1815H",
+          "source_url": "https://www.lse.co.uk/rns/TXP/initial-results-of-fundraise-9t2y0eukc8183sw.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-04",
+          "event_id": "rns-c20482a8523a21c5b3bc3fa1",
           "headline": "Proposed fundraise of US$10m to US$15m",
-          "source_url": "https://www.lse.co.uk/rns/TXP/proposed-fundraise-of-us10m-to-us15m-pjkh9fc8ugyrrmq.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0897H",
+          "source_url": "https://www.lse.co.uk/rns/TXP/proposed-fundraise-of-us10m-to-us15m-pjkh9fc8ugyrrmq.html",
+          "time": "4:35 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-04",
+          "event_id": "rns-7d7ed69608729a88f29e0e1e",
           "headline": "Wrap Retail Offer for up to US$1.0m",
-          "source_url": "https://www.lse.co.uk/rns/TXP/wrap-retail-offer-for-up-to-us10m-i9ll5p7kah019at.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0900H",
+          "source_url": "https://www.lse.co.uk/rns/TXP/wrap-retail-offer-for-up-to-us10m-i9ll5p7kah019at.html",
+          "time": "4:36 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-28",
+          "event_id": "rns-23eb82acd5de7e8d794dc463",
           "headline": "OPERATIONAL UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/TXP/operational-update-mcefci07odetmss.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9599F",
+          "source_url": "https://www.lse.co.uk/rns/TXP/operational-update-mcefci07odetmss.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-14",
+          "event_id": "rns-cb090dba7f72824c74b2c765",
           "headline": "First Quarter 2026 Results and Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/TXP/first-quarter-2026-results-and-operational-update-kjyumieumvdroh8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3222E",
+          "source_url": "https://www.lse.co.uk/rns/TXP/first-quarter-2026-results-and-operational-update-kjyumieumvdroh8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-31",
+          "event_id": "rns-385963aa3ad277736b303dde",
           "headline": "Annual 2025 Financial and Operating Results",
-          "source_url": "https://www.lse.co.uk/rns/TXP/annual-2025-financial-and-operating-results-wwf8zk28jfc5qts.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8153Y",
+          "source_url": "https://www.lse.co.uk/rns/TXP/annual-2025-financial-and-operating-results-wwf8zk28jfc5qts.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-30",
+          "event_id": "rns-7e2043b4bf940a0f73a8406e",
           "headline": "Touchstone Exploration Operational Update",
-          "source_url": "https://www.lse.co.uk/rns/TXP/touchstone-exploration-operational-update-a0n1oin39d5d1x9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5970Y",
+          "source_url": "https://www.lse.co.uk/rns/TXP/touchstone-exploration-operational-update-a0n1oin39d5d1x9.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-dfc44e81ddf399ca6250fd04",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-17obmbumggaazre.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3122W",
+          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-17obmbumggaazre.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-12",
+          "event_id": "rns-dfc44e81ddf399ca6250fd04",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-9big9y043kk0rid.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3122W",
+          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-9big9y043kk0rid.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-25",
+          "event_id": "rns-c34ec1c3d858565e6eb08d0c",
           "headline": "2025 YEAR-END RESERVES",
-          "source_url": "https://www.lse.co.uk/rns/TXP/2025-year-end-reserves-xehko6xsvvh2z3k.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2463U",
+          "source_url": "https://www.lse.co.uk/rns/TXP/2025-year-end-reserves-xehko6xsvvh2z3k.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-08",
+          "event_id": "rns-9593748330aab9c902ec3778",
           "headline": "APPOINTMENT OF NON-EXECUTIVE DIRECTOR",
-          "source_url": "https://www.lse.co.uk/rns/TXP/appointment-of-non-executive-director-t66q4kv4ozyqgz9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 1585O",
+          "source_url": "https://www.lse.co.uk/rns/TXP/appointment-of-non-executive-director-t66q4kv4ozyqgz9.html",
+          "time": "8:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-05",
+          "event_id": "rns-368fb2396fc26d68d202922f",
           "headline": "CARAPAL RIDGE-3 DRILLING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/TXP/carapal-ridge-3-drilling-results-ht5klhwfnffa6e1.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6215N",
+          "source_url": "https://www.lse.co.uk/rns/TXP/carapal-ridge-3-drilling-results-ht5klhwfnffa6e1.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -41069,36 +41285,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-19",
+          "event_id": "rns-577861530dde1f1d8ffeb6c2",
           "headline": "ANNUAL LONG-TERM INCENTIVE GRANT",
-          "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2170R",
+          "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-14",
+          "event_id": "rns-2846086cff1866540725ec2f",
           "headline": "SECOND QUARTER 2026 RESULTS AND OPERATIONAL UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6452Q",
+          "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-10",
+          "event_id": "rns-926d756dbce3e5c265ed0f4d",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0291Q",
+          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html",
+          "time": "4:02 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-06",
+          "event_id": "rns-7ab46b7c65954cbc211a87bc",
           "headline": "Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6549P",
+          "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html",
+          "time": "3:59 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-23",
+          "event_id": "rns-93543e4dca861d1494977a7e",
           "headline": "Results of 2026 Annual and Special Meeting",
-          "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6607N",
+          "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html",
+          "time": "5:31 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41146,39 +41387,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.18,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.199999809265137,
                 "date": "2025-11-14",
                 "status": "EXACT"
               },
               "relative_activity": 3.18,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TXP.L:2025-11-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-11-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.74,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 6.150000095367432,
                 "date": "2025-11-17",
                 "status": "EXACT"
               },
               "relative_activity": 3.74,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "TXP.L:2025-11-17",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68270,141 +68519,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2026",
+              "event_id": "rns-577861530dde1f1d8ffeb6c2",
               "headline": "ANNUAL LONG-TERM INCENTIVE GRANT",
-              "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2170R",
+              "source_url": "https://www.lse.co.uk/rns/TXP/annual-long-term-incentive-grant-s6uv4a1d29r7z3q.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Aug 2026",
+              "event_id": "rns-2846086cff1866540725ec2f",
               "headline": "SECOND QUARTER 2026 RESULTS AND OPERATIONAL UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6452Q",
+              "source_url": "https://www.lse.co.uk/rns/TXP/second-quarter-2026-results-and-operational-update-4d37vwdupftavza.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Aug 2026",
+              "event_id": "rns-926d756dbce3e5c265ed0f4d",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0291Q",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-tc9i0chk7g5no1m.html",
+              "time": "4:02 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Aug 2026",
+              "event_id": "rns-7ab46b7c65954cbc211a87bc",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6549P",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-z4fssos6fv9jood.html",
+              "time": "3:59 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "23rd Jul 2026",
+              "event_id": "rns-93543e4dca861d1494977a7e",
               "headline": "Results of 2026 Annual and Special Meeting",
-              "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6607N",
+              "source_url": "https://www.lse.co.uk/rns/TXP/results-of-2026-annual-and-special-meeting-6ng8v0etejw5l66.html",
+              "time": "5:31 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "3rd Jul 2026",
+              "event_id": "rns-8a8592e486056a5ade5ab134",
               "headline": "PURCHASE OF COMMON SHARES AND PDMR SHAREHOLDING",
-              "source_url": "https://www.lse.co.uk/rns/TXP/purchase-of-common-shares-and-pdmr-shareholding-l5ayhv68n0aft8e.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8772K",
+              "source_url": "https://www.lse.co.uk/rns/TXP/purchase-of-common-shares-and-pdmr-shareholding-l5ayhv68n0aft8e.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "11th Jun 2026",
+              "event_id": "rns-b255103d18c3c64b1d7fab06",
               "headline": "Closing of the Fundraise and Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/TXP/closing-of-the-fundraise-and-notice-of-agm-m4sp8fp6xrywz0n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9230H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/closing-of-the-fundraise-and-notice-of-agm-m4sp8fp6xrywz0n.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jun 2026",
+              "event_id": "rns-ee6a8939611abe34ef9c060f",
               "headline": "Final Results of Fundraise and Wrap Retail Offer",
-              "source_url": "https://www.lse.co.uk/rns/TXP/final-results-of-fundraise-and-wrap-retail-offer-o68otejy2tlirkk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3666H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/final-results-of-fundraise-and-wrap-retail-offer-o68otejy2tlirkk.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jun 2026",
+              "event_id": "rns-b6e8beaab5a94cf21bf55f14",
               "headline": "Initial Results of Fundraise",
-              "source_url": "https://www.lse.co.uk/rns/TXP/initial-results-of-fundraise-9t2y0eukc8183sw.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1815H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/initial-results-of-fundraise-9t2y0eukc8183sw.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-c20482a8523a21c5b3bc3fa1",
               "headline": "Proposed fundraise of US$10m to US$15m",
-              "source_url": "https://www.lse.co.uk/rns/TXP/proposed-fundraise-of-us10m-to-us15m-pjkh9fc8ugyrrmq.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0897H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/proposed-fundraise-of-us10m-to-us15m-pjkh9fc8ugyrrmq.html",
+              "time": "4:35 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-7d7ed69608729a88f29e0e1e",
               "headline": "Wrap Retail Offer for up to US$1.0m",
-              "source_url": "https://www.lse.co.uk/rns/TXP/wrap-retail-offer-for-up-to-us10m-i9ll5p7kah019at.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0900H",
+              "source_url": "https://www.lse.co.uk/rns/TXP/wrap-retail-offer-for-up-to-us10m-i9ll5p7kah019at.html",
+              "time": "4:36 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th May 2026",
+              "event_id": "rns-23eb82acd5de7e8d794dc463",
               "headline": "OPERATIONAL UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/TXP/operational-update-mcefci07odetmss.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9599F",
+              "source_url": "https://www.lse.co.uk/rns/TXP/operational-update-mcefci07odetmss.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2026",
+              "event_id": "rns-cb090dba7f72824c74b2c765",
               "headline": "First Quarter 2026 Results and Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/TXP/first-quarter-2026-results-and-operational-update-kjyumieumvdroh8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3222E",
+              "source_url": "https://www.lse.co.uk/rns/TXP/first-quarter-2026-results-and-operational-update-kjyumieumvdroh8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Mar 2026",
+              "event_id": "rns-385963aa3ad277736b303dde",
               "headline": "Annual 2025 Financial and Operating Results",
-              "source_url": "https://www.lse.co.uk/rns/TXP/annual-2025-financial-and-operating-results-wwf8zk28jfc5qts.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8153Y",
+              "source_url": "https://www.lse.co.uk/rns/TXP/annual-2025-financial-and-operating-results-wwf8zk28jfc5qts.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-7e2043b4bf940a0f73a8406e",
               "headline": "Touchstone Exploration Operational Update",
-              "source_url": "https://www.lse.co.uk/rns/TXP/touchstone-exploration-operational-update-a0n1oin39d5d1x9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5970Y",
+              "source_url": "https://www.lse.co.uk/rns/TXP/touchstone-exploration-operational-update-a0n1oin39d5d1x9.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-dfc44e81ddf399ca6250fd04",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-17obmbumggaazre.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3122W",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-17obmbumggaazre.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Mar 2026",
+              "event_id": "rns-dfc44e81ddf399ca6250fd04",
               "headline": "Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-9big9y043kk0rid.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3122W",
+              "source_url": "https://www.lse.co.uk/rns/TXP/notification-of-major-holdings-9big9y043kk0rid.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-c34ec1c3d858565e6eb08d0c",
               "headline": "2025 YEAR-END RESERVES",
-              "source_url": "https://www.lse.co.uk/rns/TXP/2025-year-end-reserves-xehko6xsvvh2z3k.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2463U",
+              "source_url": "https://www.lse.co.uk/rns/TXP/2025-year-end-reserves-xehko6xsvvh2z3k.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jan 2026",
+              "event_id": "rns-9593748330aab9c902ec3778",
               "headline": "APPOINTMENT OF NON-EXECUTIVE DIRECTOR",
-              "source_url": "https://www.lse.co.uk/rns/TXP/appointment-of-non-executive-director-t66q4kv4ozyqgz9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 1585O",
+              "source_url": "https://www.lse.co.uk/rns/TXP/appointment-of-non-executive-director-t66q4kv4ozyqgz9.html",
+              "time": "8:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Jan 2026",
+              "event_id": "rns-368fb2396fc26d68d202922f",
               "headline": "CARAPAL RIDGE-3 DRILLING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/TXP/carapal-ridge-3-drilling-results-ht5klhwfnffa6e1.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6215N",
+              "source_url": "https://www.lse.co.uk/rns/TXP/carapal-ridge-3-drilling-results-ht5klhwfnffa6e1.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

@@ -21,58 +21,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.61,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 137.63009643554688,
                 "date": "2022-07-14",
                 "status": "EXACT"
               },
               "relative_activity": 2.61,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AML.L:2022-07-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.36,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 150.1217041015625,
                 "date": "2022-09-05",
                 "status": "EXACT"
               },
               "relative_activity": 4.36,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AML.L:2022-09-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.57,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 125.44999694824219,
                 "date": "2022-09-29",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AML.L:2022-09-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27174,141 +27186,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-cb93afdc4b10f8eb7b8515d8",
               "headline": "Interim results for the half-year ended 30 June 26",
-              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2588O",
+              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-5887e4b45fd30f4a3a06c35d",
               "headline": "Response to investor questions",
-              "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8658N",
+              "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-3f7202d20afa2302d20f56ac",
               "headline": "New \u00a3550 million debt financing",
-              "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4672N",
+              "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html",
+              "time": "4:37 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jul 2026",
+              "event_id": "rns-fda2f88458a446a48e74fb0c",
               "headline": "Response to press coverage",
-              "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8770M",
+              "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html",
+              "time": "3:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-04f020d4bc3f349ba28fcec1",
               "headline": "Yew Tree Consortium Facility closing conditions",
-              "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8530J",
+              "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-6a6ce43149cc18446515344b",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-lsrkyot31qadq6n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6037H",
+              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-lsrkyot31qadq6n.html",
+              "time": "11:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-c556923eeb3ec69b33b077ac",
               "headline": "Issue of equity to satisfy share awards",
-              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-share-awards-ooglojjiemnl6ui.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9174G",
+              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-share-awards-ooglojjiemnl6ui.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2026",
+              "event_id": "rns-6a7030d3bae145604636da71",
               "headline": "Issue of equity to satisfy employee share awards",
-              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-lrsmcy59416b1u2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4240E",
+              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-lrsmcy59416b1u2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-9c427ce44b10f81c5ee9de8f",
               "headline": "Voting results of AGM 2026",
-              "source_url": "https://www.lse.co.uk/rns/AML/voting-results-of-agm-2026-jdzf3ys2o9h8r9p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2661D",
+              "source_url": "https://www.lse.co.uk/rns/AML/voting-results-of-agm-2026-jdzf3ys2o9h8r9p.html",
+              "time": "12:51 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-70a49471b6753b266f030cef",
               "headline": "Q1 results for three months ended 31 March 2026",
-              "source_url": "https://www.lse.co.uk/rns/AML/q1-results-for-three-months-ended-31-march-2026-69j7kd8nl4zi20i.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2963C",
+              "source_url": "https://www.lse.co.uk/rns/AML/q1-results-for-three-months-ended-31-march-2026-69j7kd8nl4zi20i.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Mar 2026",
+              "event_id": "rns-56a3a967c119e26e220cac6c",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/AML/annual-financial-report-4znv8t226p98y1a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0880Y",
+              "source_url": "https://www.lse.co.uk/rns/AML/annual-financial-report-4znv8t226p98y1a.html",
+              "time": "9:53 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Mar 2026",
+              "event_id": "rns-b29c3acbc986999d53c06761",
               "headline": "Result of Meeting",
-              "source_url": "https://www.lse.co.uk/rns/AML/result-of-meeting-5q164ygnzzlwmmr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9022V",
+              "source_url": "https://www.lse.co.uk/rns/AML/result-of-meeting-5q164ygnzzlwmmr.html",
+              "time": "12:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-c5da2666643fb8617b8b2589",
               "headline": "Preliminary Results FY2025",
-              "source_url": "https://www.lse.co.uk/rns/AML/preliminary-results-fy2025-ebjam3l50g9hqtg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2503U",
+              "source_url": "https://www.lse.co.uk/rns/AML/preliminary-results-fy2025-ebjam3l50g9hqtg.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Feb 2026",
+              "event_id": "rns-9e0d043a58f5759d4f6f7a97",
               "headline": "Notice of GM and FY 2025 Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/AML/notice-of-gm-and-fy-2025-trading-update-2v4wgi99eh98bcl.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7420T",
+              "source_url": "https://www.lse.co.uk/rns/AML/notice-of-gm-and-fy-2025-trading-update-2v4wgi99eh98bcl.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Oct 2025",
+              "event_id": "rns-fac4ea006741512b6e5c5452",
               "headline": "Q3 results for the quarter ended 30 September 2025",
-              "source_url": "https://www.lse.co.uk/rns/AML/q3-results-for-the-quarter-ended-30-september-2025-4jm8qd0l65h4lky.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1990F",
+              "source_url": "https://www.lse.co.uk/rns/AML/q3-results-for-the-quarter-ended-30-september-2025-4jm8qd0l65h4lky.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Oct 2025",
+              "event_id": "rns-de7ff82135f931b7ee32913b",
               "headline": "Q3 2025 Trading Update and revised outlook",
-              "source_url": "https://www.lse.co.uk/rns/AML/q3-2025-trading-update-and-revised-outlook-qyb2ugpami1nivm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1696C",
+              "source_url": "https://www.lse.co.uk/rns/AML/q3-2025-trading-update-and-revised-outlook-qyb2ugpami1nivm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Sep 2025",
+              "event_id": "rns-fec4a06796d000f5c5435d81",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-rou1g6yptht5kqv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8080Y",
+              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-rou1g6yptht5kqv.html",
+              "time": "11:33 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Sep 2025",
+              "event_id": "rns-3712d24f1a6fab60a0547c8c",
               "headline": "Issue of equity to satisfy employee share awards",
-              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-a6r8ovigjgm5p35.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0738Y",
+              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-a6r8ovigjgm5p35.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-aa5eb21674324c81f5db21c5",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-8e0ycmpk4talvbz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0781T",
+              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-8e0ycmpk4talvbz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2025",
+              "event_id": "rns-be9e1f73ac99600885b6c463",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/AML/directorate-change-y04g8liwlvm35aa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8610S",
+              "source_url": "https://www.lse.co.uk/rns/AML/directorate-change-y04g8liwlvm35aa.html",
+              "time": "4:33 pm"
             }
           ],
           "status": "AVAILABLE",
@@ -27386,58 +27498,70 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-07-14",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.61,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 137.63009643554688,
             "date": "2022-07-14",
             "status": "EXACT"
           },
           "relative_activity": 2.61,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AML.L:2022-07-14",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-09-05",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.36,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 150.1217041015625,
             "date": "2022-09-05",
             "status": "EXACT"
           },
           "relative_activity": 4.36,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AML.L:2022-09-05",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-09-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.57,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 125.44999694824219,
             "date": "2022-09-29",
             "status": "EXACT"
           },
           "relative_activity": 1.57,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "AML.L:2022-09-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40985,141 +41109,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-cb93afdc4b10f8eb7b8515d8",
           "headline": "Interim results for the half-year ended 30 June 26",
-          "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2588O",
+          "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-5887e4b45fd30f4a3a06c35d",
           "headline": "Response to investor questions",
-          "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8658N",
+          "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-3f7202d20afa2302d20f56ac",
           "headline": "New \u00a3550 million debt financing",
-          "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4672N",
+          "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html",
+          "time": "4:37 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-17",
+          "event_id": "rns-fda2f88458a446a48e74fb0c",
           "headline": "Response to press coverage",
-          "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8770M",
+          "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html",
+          "time": "3:07 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-26",
+          "event_id": "rns-04f020d4bc3f349ba28fcec1",
           "headline": "Yew Tree Consortium Facility closing conditions",
-          "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8530J",
+          "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html",
+          "time": "9:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-09",
+          "event_id": "rns-6a6ce43149cc18446515344b",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-lsrkyot31qadq6n.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6037H",
+          "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-lsrkyot31qadq6n.html",
+          "time": "11:32 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-04",
+          "event_id": "rns-c556923eeb3ec69b33b077ac",
           "headline": "Issue of equity to satisfy share awards",
-          "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-share-awards-ooglojjiemnl6ui.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9174G",
+          "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-share-awards-ooglojjiemnl6ui.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-15",
+          "event_id": "rns-6a7030d3bae145604636da71",
           "headline": "Issue of equity to satisfy employee share awards",
-          "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-lrsmcy59416b1u2.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4240E",
+          "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-lrsmcy59416b1u2.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-9c427ce44b10f81c5ee9de8f",
           "headline": "Voting results of AGM 2026",
-          "source_url": "https://www.lse.co.uk/rns/AML/voting-results-of-agm-2026-jdzf3ys2o9h8r9p.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2661D",
+          "source_url": "https://www.lse.co.uk/rns/AML/voting-results-of-agm-2026-jdzf3ys2o9h8r9p.html",
+          "time": "12:51 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-70a49471b6753b266f030cef",
           "headline": "Q1 results for three months ended 31 March 2026",
-          "source_url": "https://www.lse.co.uk/rns/AML/q1-results-for-three-months-ended-31-march-2026-69j7kd8nl4zi20i.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2963C",
+          "source_url": "https://www.lse.co.uk/rns/AML/q1-results-for-three-months-ended-31-march-2026-69j7kd8nl4zi20i.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-25",
+          "event_id": "rns-56a3a967c119e26e220cac6c",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/AML/annual-financial-report-4znv8t226p98y1a.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0880Y",
+          "source_url": "https://www.lse.co.uk/rns/AML/annual-financial-report-4znv8t226p98y1a.html",
+          "time": "9:53 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-09",
+          "event_id": "rns-b29c3acbc986999d53c06761",
           "headline": "Result of Meeting",
-          "source_url": "https://www.lse.co.uk/rns/AML/result-of-meeting-5q164ygnzzlwmmr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9022V",
+          "source_url": "https://www.lse.co.uk/rns/AML/result-of-meeting-5q164ygnzzlwmmr.html",
+          "time": "12:12 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-25",
+          "event_id": "rns-c5da2666643fb8617b8b2589",
           "headline": "Preliminary Results FY2025",
-          "source_url": "https://www.lse.co.uk/rns/AML/preliminary-results-fy2025-ebjam3l50g9hqtg.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2503U",
+          "source_url": "https://www.lse.co.uk/rns/AML/preliminary-results-fy2025-ebjam3l50g9hqtg.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-20",
+          "event_id": "rns-9e0d043a58f5759d4f6f7a97",
           "headline": "Notice of GM and FY 2025 Trading Update",
-          "source_url": "https://www.lse.co.uk/rns/AML/notice-of-gm-and-fy-2025-trading-update-2v4wgi99eh98bcl.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 7420T",
+          "source_url": "https://www.lse.co.uk/rns/AML/notice-of-gm-and-fy-2025-trading-update-2v4wgi99eh98bcl.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-29",
+          "event_id": "rns-fac4ea006741512b6e5c5452",
           "headline": "Q3 results for the quarter ended 30 September 2025",
-          "source_url": "https://www.lse.co.uk/rns/AML/q3-results-for-the-quarter-ended-30-september-2025-4jm8qd0l65h4lky.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 1990F",
+          "source_url": "https://www.lse.co.uk/rns/AML/q3-results-for-the-quarter-ended-30-september-2025-4jm8qd0l65h4lky.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-06",
+          "event_id": "rns-de7ff82135f931b7ee32913b",
           "headline": "Q3 2025 Trading Update and revised outlook",
-          "source_url": "https://www.lse.co.uk/rns/AML/q3-2025-trading-update-and-revised-outlook-qyb2ugpami1nivm.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1696C",
+          "source_url": "https://www.lse.co.uk/rns/AML/q3-2025-trading-update-and-revised-outlook-qyb2ugpami1nivm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-10",
+          "event_id": "rns-fec4a06796d000f5c5435d81",
           "headline": "Director/PDMR Shareholding",
-          "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-rou1g6yptht5kqv.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8080Y",
+          "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-rou1g6yptht5kqv.html",
+          "time": "11:33 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-05",
+          "event_id": "rns-3712d24f1a6fab60a0547c8c",
           "headline": "Issue of equity to satisfy employee share awards",
-          "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-a6r8ovigjgm5p35.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0738Y",
+          "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-a6r8ovigjgm5p35.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-30",
+          "event_id": "rns-aa5eb21674324c81f5db21c5",
           "headline": "Interim results",
-          "source_url": "https://www.lse.co.uk/rns/AML/interim-results-8e0ycmpk4talvbz.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 0781T",
+          "source_url": "https://www.lse.co.uk/rns/AML/interim-results-8e0ycmpk4talvbz.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-28",
+          "event_id": "rns-be9e1f73ac99600885b6c463",
           "headline": "Directorate Change",
-          "source_url": "https://www.lse.co.uk/rns/AML/directorate-change-y04g8liwlvm35aa.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8610S",
+          "source_url": "https://www.lse.co.uk/rns/AML/directorate-change-y04g8liwlvm35aa.html",
+          "time": "4:33 pm"
         }
       ],
       "rns_initial": [
@@ -41127,36 +41351,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-cb93afdc4b10f8eb7b8515d8",
           "headline": "Interim results for the half-year ended 30 June 26",
-          "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 2588O",
+          "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-27",
+          "event_id": "rns-5887e4b45fd30f4a3a06c35d",
           "headline": "Response to investor questions",
-          "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8658N",
+          "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-22",
+          "event_id": "rns-3f7202d20afa2302d20f56ac",
           "headline": "New \u00a3550 million debt financing",
-          "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 4672N",
+          "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html",
+          "time": "4:37 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-17",
+          "event_id": "rns-fda2f88458a446a48e74fb0c",
           "headline": "Response to press coverage",
-          "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8770M",
+          "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html",
+          "time": "3:07 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-26",
+          "event_id": "rns-04f020d4bc3f349ba28fcec1",
           "headline": "Yew Tree Consortium Facility closing conditions",
-          "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8530J",
+          "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html",
+          "time": "9:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -41204,58 +41453,70 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-14",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.61,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 137.63009643554688,
                 "date": "2022-07-14",
                 "status": "EXACT"
               },
               "relative_activity": 2.61,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AML.L:2022-07-14",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-05",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.36,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 150.1217041015625,
                 "date": "2022-09-05",
                 "status": "EXACT"
               },
               "relative_activity": 4.36,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AML.L:2022-09-05",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.57,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 125.44999694824219,
                 "date": "2022-09-29",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "AML.L:2022-09-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68357,141 +68618,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-cb93afdc4b10f8eb7b8515d8",
               "headline": "Interim results for the half-year ended 30 June 26",
-              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2588O",
+              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-for-the-half-year-ended-30-june-26-x2gw5m7bia8sfnm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th Jul 2026",
+              "event_id": "rns-5887e4b45fd30f4a3a06c35d",
               "headline": "Response to investor questions",
-              "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8658N",
+              "source_url": "https://www.lse.co.uk/rns/AML/response-to-investor-questions-gavzi85xjd05do4.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jul 2026",
+              "event_id": "rns-3f7202d20afa2302d20f56ac",
               "headline": "New \u00a3550 million debt financing",
-              "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 4672N",
+              "source_url": "https://www.lse.co.uk/rns/AML/new-163550-million-debt-financing-fo7wdddp59h623c.html",
+              "time": "4:37 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Jul 2026",
+              "event_id": "rns-fda2f88458a446a48e74fb0c",
               "headline": "Response to press coverage",
-              "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8770M",
+              "source_url": "https://www.lse.co.uk/rns/AML/response-to-press-coverage-h4inxm8w3jd3uw1.html",
+              "time": "3:07 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th Jun 2026",
+              "event_id": "rns-04f020d4bc3f349ba28fcec1",
               "headline": "Yew Tree Consortium Facility closing conditions",
-              "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8530J",
+              "source_url": "https://www.lse.co.uk/rns/AML/yew-tree-consortium-facility-closing-conditions-933q9vyjqluylp9.html",
+              "time": "9:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Jun 2026",
+              "event_id": "rns-6a6ce43149cc18446515344b",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-lsrkyot31qadq6n.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6037H",
+              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-lsrkyot31qadq6n.html",
+              "time": "11:32 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Jun 2026",
+              "event_id": "rns-c556923eeb3ec69b33b077ac",
               "headline": "Issue of equity to satisfy share awards",
-              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-share-awards-ooglojjiemnl6ui.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9174G",
+              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-share-awards-ooglojjiemnl6ui.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th May 2026",
+              "event_id": "rns-6a7030d3bae145604636da71",
               "headline": "Issue of equity to satisfy employee share awards",
-              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-lrsmcy59416b1u2.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4240E",
+              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-lrsmcy59416b1u2.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-9c427ce44b10f81c5ee9de8f",
               "headline": "Voting results of AGM 2026",
-              "source_url": "https://www.lse.co.uk/rns/AML/voting-results-of-agm-2026-jdzf3ys2o9h8r9p.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2661D",
+              "source_url": "https://www.lse.co.uk/rns/AML/voting-results-of-agm-2026-jdzf3ys2o9h8r9p.html",
+              "time": "12:51 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-70a49471b6753b266f030cef",
               "headline": "Q1 results for three months ended 31 March 2026",
-              "source_url": "https://www.lse.co.uk/rns/AML/q1-results-for-three-months-ended-31-march-2026-69j7kd8nl4zi20i.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 2963C",
+              "source_url": "https://www.lse.co.uk/rns/AML/q1-results-for-three-months-ended-31-march-2026-69j7kd8nl4zi20i.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Mar 2026",
+              "event_id": "rns-56a3a967c119e26e220cac6c",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/AML/annual-financial-report-4znv8t226p98y1a.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0880Y",
+              "source_url": "https://www.lse.co.uk/rns/AML/annual-financial-report-4znv8t226p98y1a.html",
+              "time": "9:53 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Mar 2026",
+              "event_id": "rns-b29c3acbc986999d53c06761",
               "headline": "Result of Meeting",
-              "source_url": "https://www.lse.co.uk/rns/AML/result-of-meeting-5q164ygnzzlwmmr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9022V",
+              "source_url": "https://www.lse.co.uk/rns/AML/result-of-meeting-5q164ygnzzlwmmr.html",
+              "time": "12:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Feb 2026",
+              "event_id": "rns-c5da2666643fb8617b8b2589",
               "headline": "Preliminary Results FY2025",
-              "source_url": "https://www.lse.co.uk/rns/AML/preliminary-results-fy2025-ebjam3l50g9hqtg.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2503U",
+              "source_url": "https://www.lse.co.uk/rns/AML/preliminary-results-fy2025-ebjam3l50g9hqtg.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Feb 2026",
+              "event_id": "rns-9e0d043a58f5759d4f6f7a97",
               "headline": "Notice of GM and FY 2025 Trading Update",
-              "source_url": "https://www.lse.co.uk/rns/AML/notice-of-gm-and-fy-2025-trading-update-2v4wgi99eh98bcl.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 7420T",
+              "source_url": "https://www.lse.co.uk/rns/AML/notice-of-gm-and-fy-2025-trading-update-2v4wgi99eh98bcl.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Oct 2025",
+              "event_id": "rns-fac4ea006741512b6e5c5452",
               "headline": "Q3 results for the quarter ended 30 September 2025",
-              "source_url": "https://www.lse.co.uk/rns/AML/q3-results-for-the-quarter-ended-30-september-2025-4jm8qd0l65h4lky.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 1990F",
+              "source_url": "https://www.lse.co.uk/rns/AML/q3-results-for-the-quarter-ended-30-september-2025-4jm8qd0l65h4lky.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th Oct 2025",
+              "event_id": "rns-de7ff82135f931b7ee32913b",
               "headline": "Q3 2025 Trading Update and revised outlook",
-              "source_url": "https://www.lse.co.uk/rns/AML/q3-2025-trading-update-and-revised-outlook-qyb2ugpami1nivm.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1696C",
+              "source_url": "https://www.lse.co.uk/rns/AML/q3-2025-trading-update-and-revised-outlook-qyb2ugpami1nivm.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Sep 2025",
+              "event_id": "rns-fec4a06796d000f5c5435d81",
               "headline": "Director/PDMR Shareholding",
-              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-rou1g6yptht5kqv.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8080Y",
+              "source_url": "https://www.lse.co.uk/rns/AML/directorpdmr-shareholding-rou1g6yptht5kqv.html",
+              "time": "11:33 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "5th Sep 2025",
+              "event_id": "rns-3712d24f1a6fab60a0547c8c",
               "headline": "Issue of equity to satisfy employee share awards",
-              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-a6r8ovigjgm5p35.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0738Y",
+              "source_url": "https://www.lse.co.uk/rns/AML/issue-of-equity-to-satisfy-employee-share-awards-a6r8ovigjgm5p35.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Jul 2025",
+              "event_id": "rns-aa5eb21674324c81f5db21c5",
               "headline": "Interim results",
-              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-8e0ycmpk4talvbz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 0781T",
+              "source_url": "https://www.lse.co.uk/rns/AML/interim-results-8e0ycmpk4talvbz.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Jul 2025",
+              "event_id": "rns-be9e1f73ac99600885b6c463",
               "headline": "Directorate Change",
-              "source_url": "https://www.lse.co.uk/rns/AML/directorate-change-y04g8liwlvm35aa.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8610S",
+              "source_url": "https://www.lse.co.uk/rns/AML/directorate-change-y04g8liwlvm35aa.html",
+              "time": "4:33 pm"
             }
           ],
           "status": "AVAILABLE",

@@ -21,39 +21,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 172.41639709472656,
                 "date": "2022-02-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITX.L:2022-02-04",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.87,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 151.17669677734375,
                 "date": "2022-02-07",
                 "status": "EXACT"
               },
               "relative_activity": 3.87,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITX.L:2022-02-07",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27155,43 +27163,73 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123177Z",
+              "event_id": "rns-2f68234f8802868274f9525a",
               "headline": "Appointment of Joint Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2931X",
+              "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123226Z",
+              "event_id": "rns-1d5837dbf53a75b919447a44",
               "headline": "Award from Frost & Sullivan",
-              "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4159R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123152Z",
+              "event_id": "rns-33a0815a0d791ab4991824d8",
               "headline": "Notice of Final Results, Briefings, and AGM",
-              "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4250A",
+              "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123275Z",
+              "event_id": "rns-ae49880f8fc650195f577fb8",
               "headline": "TR-1",
-              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3968R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123201Z",
+              "event_id": "rns-b787ac7d48c3186624ba7f4a",
               "headline": "TR-1",
-              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7194R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123250Z",
+              "event_id": "rns-373209c6030f22234f8a55b7",
               "headline": "TR-1",
-              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-lfo212cie924rqn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4081R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-lfo212cie924rqn.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",
@@ -27269,39 +27307,47 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-02-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.85,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 172.41639709472656,
             "date": "2022-02-04",
             "status": "EXACT"
           },
           "relative_activity": 1.85,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ITX.L:2022-02-04",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-02-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 3.87,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 151.17669677734375,
             "date": "2022-02-07",
             "status": "EXACT"
           },
           "relative_activity": 3.87,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "ITX.L:2022-02-07",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40849,43 +40895,73 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123177Z",
+          "event_id": "rns-2f68234f8802868274f9525a",
           "headline": "Appointment of Joint Corporate Broker",
-          "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2931X",
+          "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123226Z",
+          "event_id": "rns-1d5837dbf53a75b919447a44",
           "headline": "Award from Frost & Sullivan",
-          "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4159R",
+          "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123152Z",
+          "event_id": "rns-33a0815a0d791ab4991824d8",
           "headline": "Notice of Final Results, Briefings, and AGM",
-          "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4250A",
+          "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123275Z",
+          "event_id": "rns-ae49880f8fc650195f577fb8",
           "headline": "TR-1",
-          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3968R",
+          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123201Z",
+          "event_id": "rns-b787ac7d48c3186624ba7f4a",
           "headline": "TR-1",
-          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7194R",
+          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123250Z",
+          "event_id": "rns-373209c6030f22234f8a55b7",
           "headline": "TR-1",
-          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-lfo212cie924rqn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4081R",
+          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-lfo212cie924rqn.html",
+          "time": null
         }
       ],
       "rns_initial": [
@@ -40893,36 +40969,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123177Z",
+          "event_id": "rns-2f68234f8802868274f9525a",
           "headline": "Appointment of Joint Corporate Broker",
-          "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2931X",
+          "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123226Z",
+          "event_id": "rns-1d5837dbf53a75b919447a44",
           "headline": "Award from Frost & Sullivan",
-          "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4159R",
+          "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123152Z",
+          "event_id": "rns-33a0815a0d791ab4991824d8",
           "headline": "Notice of Final Results, Briefings, and AGM",
-          "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4250A",
+          "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123275Z",
+          "event_id": "rns-ae49880f8fc650195f577fb8",
           "headline": "TR-1",
-          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3968R",
+          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html",
+          "time": null
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-21T03:30:45.123201Z",
+          "event_id": "rns-b787ac7d48c3186624ba7f4a",
           "headline": "TR-1",
-          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 7194R",
+          "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html",
+          "time": null
         }
       ],
       "rns_records_emitted": 6,
@@ -40970,39 +41071,47 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 172.41639709472656,
                 "date": "2022-02-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITX.L:2022-02-04",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-02-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 3.87,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 151.17669677734375,
                 "date": "2022-02-07",
                 "status": "EXACT"
               },
               "relative_activity": 3.87,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "ITX.L:2022-02-07",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68104,43 +68213,73 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123177Z",
+              "event_id": "rns-2f68234f8802868274f9525a",
               "headline": "Appointment of Joint Corporate Broker",
-              "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2931X",
+              "source_url": "https://www.lse.co.uk/rns/ITX/appointment-of-joint-corporate-broker-i2bib06r2zz6ku7.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123226Z",
+              "event_id": "rns-1d5837dbf53a75b919447a44",
               "headline": "Award from Frost & Sullivan",
-              "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4159R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/award-from-frost-sullivan-wqf1vjqm2myyvlz.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123152Z",
+              "event_id": "rns-33a0815a0d791ab4991824d8",
               "headline": "Notice of Final Results, Briefings, and AGM",
-              "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4250A",
+              "source_url": "https://www.lse.co.uk/rns/ITX/notice-of-final-results-briefings-and-agm-3qvewecf2s7pprx.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123275Z",
+              "event_id": "rns-ae49880f8fc650195f577fb8",
               "headline": "TR-1",
-              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3968R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-272lt05xpiurmn3.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123201Z",
+              "event_id": "rns-b787ac7d48c3186624ba7f4a",
               "headline": "TR-1",
-              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 7194R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-2txqft6ic4hncfs.html",
+              "time": null
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2026-01-21T03:30:45.123250Z",
+              "event_id": "rns-373209c6030f22234f8a55b7",
               "headline": "TR-1",
-              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-lfo212cie924rqn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4081R",
+              "source_url": "https://www.lse.co.uk/rns/ITX/tr-1-lfo212cie924rqn.html",
+              "time": null
             }
           ],
           "status": "AVAILABLE",

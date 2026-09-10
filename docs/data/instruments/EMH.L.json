@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-09-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.02,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.25,
                 "date": "2024-09-23",
                 "status": "EXACT"
               },
               "relative_activity": 2.02,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "EMH.L:2024-09-23",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -27126,141 +27130,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-f884759b6f61072736a6cb6a",
               "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
-              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6979O",
+              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-99c32e13618ba410129f23a8",
               "headline": "Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3799O",
+              "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html",
+              "time": "10:36 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-859c6ec376c42081dae14bdd",
               "headline": "Tunnel Kiln Testwork - Clarification",
-              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2726M",
+              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html",
+              "time": "10:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2026",
+              "event_id": "rns-af9ee621192f24b4b281982f",
               "headline": "Tunnel Kiln Testwork Shows Potential Capex Saving",
-              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4520L",
+              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-86216c405b10cc9fd42da70d",
               "headline": "Change of Director's Interest Notice",
-              "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8260J",
+              "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html",
+              "time": "2:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-9183acd43797d81492c16eaf",
               "headline": "Cinovec LCP Optimisation Offers Potential Savings",
-              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-lcp-optimisation-offers-potential-savings-bidec0et0cywsba.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5456J",
+              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-lcp-optimisation-offers-potential-savings-bidec0et0cywsba.html",
+              "time": "7:11 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-c39d5799e3833d587b098beb",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/EMH/holdings-in-company-heij1d75q9fnmcu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6964G",
+              "source_url": "https://www.lse.co.uk/rns/EMH/holdings-in-company-heij1d75q9fnmcu.html",
+              "time": "2:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-a1876eb2b4794151d4f92884",
               "headline": "Results of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/EMH/results-of-annual-general-meeting-ucnthyml9g0gfyk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6992G",
+              "source_url": "https://www.lse.co.uk/rns/EMH/results-of-annual-general-meeting-ucnthyml9g0gfyk.html",
+              "time": "2:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-b1d6092be7a1e9e892246c59",
               "headline": "Cinovec Project Environmental Impact Assessment",
-              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-project-environmental-impact-assessment-69fyilk409e5vzn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2843D",
+              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-project-environmental-impact-assessment-69fyilk409e5vzn.html",
+              "time": "2:32 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-a593ae56881408748acf776e",
               "headline": "1st Quarter Results",
-              "source_url": "https://www.lse.co.uk/rns/EMH/1st-quarter-results-pftp3p6qod7dops.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3931C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/1st-quarter-results-pftp3p6qod7dops.html",
+              "time": "8:54 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-5113d39c385c4333f052425e",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/EMH/notice-of-agm-2b159w52ma713v0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3836C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/notice-of-agm-2b159w52ma713v0.html",
+              "time": "8:29 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-4509ebb7756ba3bcd1b1c359",
               "headline": "Proposed Issue of Securities",
-              "source_url": "https://www.lse.co.uk/rns/EMH/proposed-issue-of-securities-cq9n78025srwp38.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3839C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/proposed-issue-of-securities-cq9n78025srwp38.html",
+              "time": "8:36 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-aa3adac068db38e61aef2d06",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/EMH/tr-1-notification-of-major-holdings-rahbqs2kydcfh6k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3943C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/tr-1-notification-of-major-holdings-rahbqs2kydcfh6k.html",
+              "time": "9:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-ed96bebf98438f298d995efd",
               "headline": "Geomet Clarification",
-              "source_url": "https://www.lse.co.uk/rns/EMH/geomet-clarification-9jctll7t9fnkykd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6236A",
+              "source_url": "https://www.lse.co.uk/rns/EMH/geomet-clarification-9jctll7t9fnkykd.html",
+              "time": "1:44 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-97f577fea087561142ce2a84",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/EMH/annual-financial-report-my92vv3vhntkyk9.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6703Y",
+              "source_url": "https://www.lse.co.uk/rns/EMH/annual-financial-report-my92vv3vhntkyk9.html",
+              "time": "1:33 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-2cd59ad8cda0fd4c61128d1c",
               "headline": "Corporate Governance Statement",
-              "source_url": "https://www.lse.co.uk/rns/EMH/corporate-governance-statement-rb88i71xwis4elr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6708Y",
+              "source_url": "https://www.lse.co.uk/rns/EMH/corporate-governance-statement-rb88i71xwis4elr.html",
+              "time": "1:36 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Mar 2026",
+              "event_id": "rns-a7ef669c63e42f361d07b347",
               "headline": "AGM Date and Director Nominations",
-              "source_url": "https://www.lse.co.uk/rns/EMH/agm-date-and-director-nominations-jyekwlltpa2n8nh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8613V",
+              "source_url": "https://www.lse.co.uk/rns/EMH/agm-date-and-director-nominations-jyekwlltpa2n8nh.html",
+              "time": "9:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2026",
+              "event_id": "rns-7f0e34487381ed4b1a96ed31",
               "headline": "Key Approval for the Cinovec Project",
-              "source_url": "https://www.lse.co.uk/rns/EMH/key-approval-for-the-cinovec-project-rj3kjbrnmv3y6pk.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3471S",
+              "source_url": "https://www.lse.co.uk/rns/EMH/key-approval-for-the-cinovec-project-rj3kjbrnmv3y6pk.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jan 2026",
+              "event_id": "rns-ced917883571ba89ee246d11",
               "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
-              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-wfy1zl4r6r28n62.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8999Q",
+              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-wfy1zl4r6r28n62.html",
+              "time": "8:24 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2026",
+              "event_id": "rns-974ffb0533fa7a9a13a61895",
               "headline": "Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/EMH/investor-presentation-p8m6qolf4vicrik.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9540P",
+              "source_url": "https://www.lse.co.uk/rns/EMH/investor-presentation-p8m6qolf4vicrik.html",
+              "time": "9:13 am"
             }
           ],
           "status": "AVAILABLE",
@@ -27328,20 +27432,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-09-23",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 2.02,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 7.25,
             "date": "2024-09-23",
             "status": "EXACT"
           },
           "relative_activity": 2.02,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "EMH.L:2024-09-23",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -40889,141 +40997,241 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-31",
+          "event_id": "rns-f884759b6f61072736a6cb6a",
           "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
-          "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6979O",
+          "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-99c32e13618ba410129f23a8",
           "headline": "Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3799O",
+          "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html",
+          "time": "10:36 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-14",
+          "event_id": "rns-859c6ec376c42081dae14bdd",
           "headline": "Tunnel Kiln Testwork - Clarification",
-          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2726M",
+          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html",
+          "time": "10:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-08",
+          "event_id": "rns-af9ee621192f24b4b281982f",
           "headline": "Tunnel Kiln Testwork Shows Potential Capex Saving",
-          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4520L",
+          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-86216c405b10cc9fd42da70d",
           "headline": "Change of Director's Interest Notice",
-          "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8260J",
+          "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html",
+          "time": "2:55 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-24",
+          "event_id": "rns-9183acd43797d81492c16eaf",
           "headline": "Cinovec LCP Optimisation Offers Potential Savings",
-          "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-lcp-optimisation-offers-potential-savings-bidec0et0cywsba.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 5456J",
+          "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-lcp-optimisation-offers-potential-savings-bidec0et0cywsba.html",
+          "time": "7:11 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-c39d5799e3833d587b098beb",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/EMH/holdings-in-company-heij1d75q9fnmcu.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6964G",
+          "source_url": "https://www.lse.co.uk/rns/EMH/holdings-in-company-heij1d75q9fnmcu.html",
+          "time": "2:12 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-02",
+          "event_id": "rns-a1876eb2b4794151d4f92884",
           "headline": "Results of Annual General Meeting",
-          "source_url": "https://www.lse.co.uk/rns/EMH/results-of-annual-general-meeting-ucnthyml9g0gfyk.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6992G",
+          "source_url": "https://www.lse.co.uk/rns/EMH/results-of-annual-general-meeting-ucnthyml9g0gfyk.html",
+          "time": "2:32 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-06",
+          "event_id": "rns-b1d6092be7a1e9e892246c59",
           "headline": "Cinovec Project Environmental Impact Assessment",
-          "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-project-environmental-impact-assessment-69fyilk409e5vzn.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2843D",
+          "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-project-environmental-impact-assessment-69fyilk409e5vzn.html",
+          "time": "2:32 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-a593ae56881408748acf776e",
           "headline": "1st Quarter Results",
-          "source_url": "https://www.lse.co.uk/rns/EMH/1st-quarter-results-pftp3p6qod7dops.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3931C",
+          "source_url": "https://www.lse.co.uk/rns/EMH/1st-quarter-results-pftp3p6qod7dops.html",
+          "time": "8:54 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-5113d39c385c4333f052425e",
           "headline": "Notice of AGM",
-          "source_url": "https://www.lse.co.uk/rns/EMH/notice-of-agm-2b159w52ma713v0.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3836C",
+          "source_url": "https://www.lse.co.uk/rns/EMH/notice-of-agm-2b159w52ma713v0.html",
+          "time": "8:29 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-4509ebb7756ba3bcd1b1c359",
           "headline": "Proposed Issue of Securities",
-          "source_url": "https://www.lse.co.uk/rns/EMH/proposed-issue-of-securities-cq9n78025srwp38.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3839C",
+          "source_url": "https://www.lse.co.uk/rns/EMH/proposed-issue-of-securities-cq9n78025srwp38.html",
+          "time": "8:36 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-29",
+          "event_id": "rns-aa3adac068db38e61aef2d06",
           "headline": "TR-1 Notification of Major Holdings",
-          "source_url": "https://www.lse.co.uk/rns/EMH/tr-1-notification-of-major-holdings-rahbqs2kydcfh6k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3943C",
+          "source_url": "https://www.lse.co.uk/rns/EMH/tr-1-notification-of-major-holdings-rahbqs2kydcfh6k.html",
+          "time": "9:15 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-15",
+          "event_id": "rns-ed96bebf98438f298d995efd",
           "headline": "Geomet Clarification",
-          "source_url": "https://www.lse.co.uk/rns/EMH/geomet-clarification-9jctll7t9fnkykd.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6236A",
+          "source_url": "https://www.lse.co.uk/rns/EMH/geomet-clarification-9jctll7t9fnkykd.html",
+          "time": "1:44 pm"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-30",
+          "event_id": "rns-97f577fea087561142ce2a84",
           "headline": "Annual Financial Report",
-          "source_url": "https://www.lse.co.uk/rns/EMH/annual-financial-report-my92vv3vhntkyk9.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6703Y",
+          "source_url": "https://www.lse.co.uk/rns/EMH/annual-financial-report-my92vv3vhntkyk9.html",
+          "time": "1:33 pm"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-30",
+          "event_id": "rns-2cd59ad8cda0fd4c61128d1c",
           "headline": "Corporate Governance Statement",
-          "source_url": "https://www.lse.co.uk/rns/EMH/corporate-governance-statement-rb88i71xwis4elr.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6708Y",
+          "source_url": "https://www.lse.co.uk/rns/EMH/corporate-governance-statement-rb88i71xwis4elr.html",
+          "time": "1:36 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-09",
+          "event_id": "rns-a7ef669c63e42f361d07b347",
           "headline": "AGM Date and Director Nominations",
-          "source_url": "https://www.lse.co.uk/rns/EMH/agm-date-and-director-nominations-jyekwlltpa2n8nh.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 8613V",
+          "source_url": "https://www.lse.co.uk/rns/EMH/agm-date-and-director-nominations-jyekwlltpa2n8nh.html",
+          "time": "9:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-10",
+          "event_id": "rns-7f0e34487381ed4b1a96ed31",
           "headline": "Key Approval for the Cinovec Project",
-          "source_url": "https://www.lse.co.uk/rns/EMH/key-approval-for-the-cinovec-project-rj3kjbrnmv3y6pk.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 3471S",
+          "source_url": "https://www.lse.co.uk/rns/EMH/key-approval-for-the-cinovec-project-rj3kjbrnmv3y6pk.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-29",
+          "event_id": "rns-ced917883571ba89ee246d11",
           "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
-          "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-wfy1zl4r6r28n62.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8999Q",
+          "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-wfy1zl4r6r28n62.html",
+          "time": "8:24 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-01-22",
+          "event_id": "rns-974ffb0533fa7a9a13a61895",
           "headline": "Investor Presentation",
-          "source_url": "https://www.lse.co.uk/rns/EMH/investor-presentation-p8m6qolf4vicrik.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9540P",
+          "source_url": "https://www.lse.co.uk/rns/EMH/investor-presentation-p8m6qolf4vicrik.html",
+          "time": "9:13 am"
         }
       ],
       "rns_initial": [
@@ -41031,36 +41239,61 @@
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-31",
+          "event_id": "rns-f884759b6f61072736a6cb6a",
           "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
-          "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 6979O",
+          "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-29",
+          "event_id": "rns-99c32e13618ba410129f23a8",
           "headline": "Issue of Equity",
-          "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3799O",
+          "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html",
+          "time": "10:36 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-14",
+          "event_id": "rns-859c6ec376c42081dae14bdd",
           "headline": "Tunnel Kiln Testwork - Clarification",
-          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2726M",
+          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html",
+          "time": "10:43 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-07-08",
+          "event_id": "rns-af9ee621192f24b4b281982f",
           "headline": "Tunnel Kiln Testwork Shows Potential Capex Saving",
-          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 4520L",
+          "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html",
+          "time": "7:00 am"
         },
         {
           "category": "BULLISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-06-25",
+          "event_id": "rns-86216c405b10cc9fd42da70d",
           "headline": "Change of Director's Interest Notice",
-          "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html"
+          "published_at": null,
+          "rating": "BULLISH",
+          "rns_number": "RNS Number : 8260J",
+          "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html",
+          "time": "2:55 pm"
         }
       ],
       "rns_records_emitted": 20,
@@ -41108,20 +41341,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-09-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 2.02,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 7.25,
                 "date": "2024-09-23",
                 "status": "EXACT"
               },
               "relative_activity": 2.02,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "EMH.L:2024-09-23",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -68213,141 +68450,241 @@
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "31st Jul 2026",
+              "event_id": "rns-f884759b6f61072736a6cb6a",
               "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
-              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6979O",
+              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-5lgoq775gtzilsb.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2026",
+              "event_id": "rns-99c32e13618ba410129f23a8",
               "headline": "Issue of Equity",
-              "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3799O",
+              "source_url": "https://www.lse.co.uk/rns/EMH/issue-of-equity-ekjk5y5xnpzlw94.html",
+              "time": "10:36 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th Jul 2026",
+              "event_id": "rns-859c6ec376c42081dae14bdd",
               "headline": "Tunnel Kiln Testwork - Clarification",
-              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2726M",
+              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-clarification-4yxemynko16js1t.html",
+              "time": "10:43 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "8th Jul 2026",
+              "event_id": "rns-af9ee621192f24b4b281982f",
               "headline": "Tunnel Kiln Testwork Shows Potential Capex Saving",
-              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 4520L",
+              "source_url": "https://www.lse.co.uk/rns/EMH/tunnel-kiln-testwork-shows-potential-capex-saving-o6jpn6p4okeaiee.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Jun 2026",
+              "event_id": "rns-86216c405b10cc9fd42da70d",
               "headline": "Change of Director's Interest Notice",
-              "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8260J",
+              "source_url": "https://www.lse.co.uk/rns/EMH/change-of-directors-interest-notice-vcrq4feytjsun06.html",
+              "time": "2:55 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Jun 2026",
+              "event_id": "rns-9183acd43797d81492c16eaf",
               "headline": "Cinovec LCP Optimisation Offers Potential Savings",
-              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-lcp-optimisation-offers-potential-savings-bidec0et0cywsba.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 5456J",
+              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-lcp-optimisation-offers-potential-savings-bidec0et0cywsba.html",
+              "time": "7:11 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-c39d5799e3833d587b098beb",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/EMH/holdings-in-company-heij1d75q9fnmcu.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6964G",
+              "source_url": "https://www.lse.co.uk/rns/EMH/holdings-in-company-heij1d75q9fnmcu.html",
+              "time": "2:12 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Jun 2026",
+              "event_id": "rns-a1876eb2b4794151d4f92884",
               "headline": "Results of Annual General Meeting",
-              "source_url": "https://www.lse.co.uk/rns/EMH/results-of-annual-general-meeting-ucnthyml9g0gfyk.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6992G",
+              "source_url": "https://www.lse.co.uk/rns/EMH/results-of-annual-general-meeting-ucnthyml9g0gfyk.html",
+              "time": "2:32 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "6th May 2026",
+              "event_id": "rns-b1d6092be7a1e9e892246c59",
               "headline": "Cinovec Project Environmental Impact Assessment",
-              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-project-environmental-impact-assessment-69fyilk409e5vzn.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2843D",
+              "source_url": "https://www.lse.co.uk/rns/EMH/cinovec-project-environmental-impact-assessment-69fyilk409e5vzn.html",
+              "time": "2:32 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-a593ae56881408748acf776e",
               "headline": "1st Quarter Results",
-              "source_url": "https://www.lse.co.uk/rns/EMH/1st-quarter-results-pftp3p6qod7dops.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3931C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/1st-quarter-results-pftp3p6qod7dops.html",
+              "time": "8:54 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-5113d39c385c4333f052425e",
               "headline": "Notice of AGM",
-              "source_url": "https://www.lse.co.uk/rns/EMH/notice-of-agm-2b159w52ma713v0.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3836C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/notice-of-agm-2b159w52ma713v0.html",
+              "time": "8:29 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-4509ebb7756ba3bcd1b1c359",
               "headline": "Proposed Issue of Securities",
-              "source_url": "https://www.lse.co.uk/rns/EMH/proposed-issue-of-securities-cq9n78025srwp38.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3839C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/proposed-issue-of-securities-cq9n78025srwp38.html",
+              "time": "8:36 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2026",
+              "event_id": "rns-aa3adac068db38e61aef2d06",
               "headline": "TR-1 Notification of Major Holdings",
-              "source_url": "https://www.lse.co.uk/rns/EMH/tr-1-notification-of-major-holdings-rahbqs2kydcfh6k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3943C",
+              "source_url": "https://www.lse.co.uk/rns/EMH/tr-1-notification-of-major-holdings-rahbqs2kydcfh6k.html",
+              "time": "9:15 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "15th Apr 2026",
+              "event_id": "rns-ed96bebf98438f298d995efd",
               "headline": "Geomet Clarification",
-              "source_url": "https://www.lse.co.uk/rns/EMH/geomet-clarification-9jctll7t9fnkykd.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6236A",
+              "source_url": "https://www.lse.co.uk/rns/EMH/geomet-clarification-9jctll7t9fnkykd.html",
+              "time": "1:44 pm"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-97f577fea087561142ce2a84",
               "headline": "Annual Financial Report",
-              "source_url": "https://www.lse.co.uk/rns/EMH/annual-financial-report-my92vv3vhntkyk9.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6703Y",
+              "source_url": "https://www.lse.co.uk/rns/EMH/annual-financial-report-my92vv3vhntkyk9.html",
+              "time": "1:33 pm"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "30th Mar 2026",
+              "event_id": "rns-2cd59ad8cda0fd4c61128d1c",
               "headline": "Corporate Governance Statement",
-              "source_url": "https://www.lse.co.uk/rns/EMH/corporate-governance-statement-rb88i71xwis4elr.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 6708Y",
+              "source_url": "https://www.lse.co.uk/rns/EMH/corporate-governance-statement-rb88i71xwis4elr.html",
+              "time": "1:36 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Mar 2026",
+              "event_id": "rns-a7ef669c63e42f361d07b347",
               "headline": "AGM Date and Director Nominations",
-              "source_url": "https://www.lse.co.uk/rns/EMH/agm-date-and-director-nominations-jyekwlltpa2n8nh.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 8613V",
+              "source_url": "https://www.lse.co.uk/rns/EMH/agm-date-and-director-nominations-jyekwlltpa2n8nh.html",
+              "time": "9:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "10th Feb 2026",
+              "event_id": "rns-7f0e34487381ed4b1a96ed31",
               "headline": "Key Approval for the Cinovec Project",
-              "source_url": "https://www.lse.co.uk/rns/EMH/key-approval-for-the-cinovec-project-rj3kjbrnmv3y6pk.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 3471S",
+              "source_url": "https://www.lse.co.uk/rns/EMH/key-approval-for-the-cinovec-project-rj3kjbrnmv3y6pk.html",
+              "time": "7:00 am"
             },
             {
               "category": "BULLISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jan 2026",
+              "event_id": "rns-ced917883571ba89ee246d11",
               "headline": "Quarterly Activities/Appendix 5B Cash Flow Report",
-              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-wfy1zl4r6r28n62.html"
+              "published_at": null,
+              "rating": "BULLISH",
+              "rns_number": "RNS Number : 8999Q",
+              "source_url": "https://www.lse.co.uk/rns/EMH/quarterly-activitiesappendix-5b-cash-flow-report-wfy1zl4r6r28n62.html",
+              "time": "8:24 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "22nd Jan 2026",
+              "event_id": "rns-974ffb0533fa7a9a13a61895",
               "headline": "Investor Presentation",
-              "source_url": "https://www.lse.co.uk/rns/EMH/investor-presentation-p8m6qolf4vicrik.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9540P",
+              "source_url": "https://www.lse.co.uk/rns/EMH/investor-presentation-p8m6qolf4vicrik.html",
+              "time": "9:13 am"
             }
           ],
           "status": "AVAILABLE",

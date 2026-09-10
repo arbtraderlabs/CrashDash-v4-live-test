@@ -21,20 +21,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.58,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 18,
                 "date": "2023-03-29",
                 "status": "EXACT"
               },
               "relative_activity": 1.58,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SOUC.L:2023-03-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -20624,141 +20628,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2026",
+              "event_id": "rns-5202e74b7303c6f13e5bbf93",
               "headline": "RESTRICTED SHARE AWARD GRANT",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3720T",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-9cee7461bd65b548a58f4b0d",
               "headline": "Q2 2026 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9546R",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-1d2fa08cd55ce432b3872960",
               "headline": "OPERATIONS UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3499Q",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th May 2026",
+              "event_id": "rns-051063629afee93da81d6014",
               "headline": "Q1 2026 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6565F",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-8bb59433613ec8e9e3d97811",
               "headline": "Fourth Quarter and Year End 2025 Results",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1107C",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Mar 2026",
+              "event_id": "rns-1828b1d8ceea1ac515229da2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-ape5wr2osr5vxa8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0350X",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-ape5wr2osr5vxa8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Feb 2026",
+              "event_id": "rns-e3830ff99bd6ccb7be9411e1",
               "headline": "Completion of Financing and Royalty Sale",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/completion-of-financing-and-royalty-sale-k414nzmz2btwccn.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8631S",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/completion-of-financing-and-royalty-sale-k414nzmz2btwccn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-9081e0e660b1487082576697",
               "headline": "US$23.5 million Financings and Royalty Sale",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/us235-million-financings-and-royalty-sale-j9s48tk69gvlkvz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2199S",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/us235-million-financings-and-royalty-sale-j9s48tk69gvlkvz.html",
+              "time": "7:47 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-5ff3f6c8cc64b5814f5a0bab",
               "headline": "Block Admission Six Monthly Return & Cancellation",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-cancellation-lvc9ux4astg9d07.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2784R",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-cancellation-lvc9ux4astg9d07.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Nov 2025",
+              "event_id": "rns-341c8ad3a1291e99335acd50",
               "headline": "Q3 2025 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q3-2025-financial-and-operating-results-r1lg8k8ns4wavn4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8890H",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q3-2025-financial-and-operating-results-r1lg8k8ns4wavn4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Oct 2025",
+              "event_id": "rns-fa7838c8865b93ec0963a163",
               "headline": "Result of AGM and Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/result-of-agm-and-board-changes-aaq9huq18s1vd5k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0197F",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/result-of-agm-and-board-changes-aaq9huq18s1vd5k.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Sep 2025",
+              "event_id": "rns-b283b021baaf633b7a87d9df",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-6wv69cwjd8aauhr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6864A",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-6wv69cwjd8aauhr.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Aug 2025",
+              "event_id": "rns-1b3e2eec7828c7cd5c4e4238",
               "headline": "RESTRICTED SHARE AWARD GRANT",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-88ohbr7sw7zb70k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9859V",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-88ohbr7sw7zb70k.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2025",
+              "event_id": "rns-0655d903e4b3ad0bde9b5666",
               "headline": "Q2 2025 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2025-financial-and-operating-results-hlq1mboyiz8nuy7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7974V",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2025-financial-and-operating-results-hlq1mboyiz8nuy7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2025",
+              "event_id": "rns-0b069c155fc92c1e4ec0b254",
               "headline": "OPERATIONS UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-w6vpmxyxd99uv7v.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9631S",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-w6vpmxyxd99uv7v.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2025",
+              "event_id": "rns-8855a5021379682b05073075",
               "headline": "Q1 2025 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2025-financial-and-operating-results-tebtjw9b9yfbx94.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1438K",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2025-financial-and-operating-results-tebtjw9b9yfbx94.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2025",
+              "event_id": "rns-509f2fd08a1d2bcf1266416f",
               "headline": "OPERATIONS UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-5gfj0n88y7wuina.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6101I",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-5gfj0n88y7wuina.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2025",
+              "event_id": "rns-e1beceb4501aefc59684580d",
               "headline": "BLOCK ADMISSION SIX MONTHLY RETURN",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-nxvprpn7u05zvek.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6506H",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-nxvprpn7u05zvek.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2025",
+              "event_id": "rns-41a9571eb431d9b6d5d59fe0",
               "headline": "FOURTH QUARTER AND YEAR END 2024 RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2024-results-2m7tp45xldatao5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5155G",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2024-results-2m7tp45xldatao5.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2025",
+              "event_id": "rns-afc28050a54455027e666065",
               "headline": "LISTING OF WARRANTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/listing-of-warrants-97xvuy2n42dvry6.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3287F",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/listing-of-warrants-97xvuy2n42dvry6.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",
@@ -20836,20 +20940,24 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-03-29",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.58,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 18,
             "date": "2023-03-29",
             "status": "EXACT"
           },
           "relative_activity": 1.58,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "SOUC.L:2023-03-29",
           "signal_type": "CRASH ZONE BOTTOM"
         }
@@ -31141,141 +31249,241 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-04",
+          "event_id": "rns-5202e74b7303c6f13e5bbf93",
           "headline": "RESTRICTED SHARE AWARD GRANT",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3720T",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-9cee7461bd65b548a58f4b0d",
           "headline": "Q2 2026 FINANCIAL AND OPERATING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9546R",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-1d2fa08cd55ce432b3872960",
           "headline": "OPERATIONS UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 3499Q",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html",
+          "time": "7:30 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-26",
+          "event_id": "rns-051063629afee93da81d6014",
           "headline": "Q1 2026 FINANCIAL AND OPERATING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6565F",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-8bb59433613ec8e9e3d97811",
           "headline": "Fourth Quarter and Year End 2025 Results",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1107C",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-03-18",
+          "event_id": "rns-1828b1d8ceea1ac515229da2",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-ape5wr2osr5vxa8.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0350X",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-ape5wr2osr5vxa8.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-13",
+          "event_id": "rns-e3830ff99bd6ccb7be9411e1",
           "headline": "Completion of Financing and Royalty Sale",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/completion-of-financing-and-royalty-sale-k414nzmz2btwccn.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8631S",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/completion-of-financing-and-royalty-sale-k414nzmz2btwccn.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-09",
+          "event_id": "rns-9081e0e660b1487082576697",
           "headline": "US$23.5 million Financings and Royalty Sale",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/us235-million-financings-and-royalty-sale-j9s48tk69gvlkvz.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 2199S",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/us235-million-financings-and-royalty-sale-j9s48tk69gvlkvz.html",
+          "time": "7:47 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-02-02",
+          "event_id": "rns-5ff3f6c8cc64b5814f5a0bab",
           "headline": "Block Admission Six Monthly Return & Cancellation",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-cancellation-lvc9ux4astg9d07.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 2784R",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-cancellation-lvc9ux4astg9d07.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-11-18",
+          "event_id": "rns-341c8ad3a1291e99335acd50",
           "headline": "Q3 2025 FINANCIAL AND OPERATING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/q3-2025-financial-and-operating-results-r1lg8k8ns4wavn4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 8890H",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/q3-2025-financial-and-operating-results-r1lg8k8ns4wavn4.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-10-28",
+          "event_id": "rns-fa7838c8865b93ec0963a163",
           "headline": "Result of AGM and Board Changes",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/result-of-agm-and-board-changes-aaq9huq18s1vd5k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 0197F",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/result-of-agm-and-board-changes-aaq9huq18s1vd5k.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-09-24",
+          "event_id": "rns-b283b021baaf633b7a87d9df",
           "headline": "Holding(s) in Company",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-6wv69cwjd8aauhr.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6864A",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-6wv69cwjd8aauhr.html",
+          "time": "3:30 pm"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-20",
+          "event_id": "rns-1b3e2eec7828c7cd5c4e4238",
           "headline": "RESTRICTED SHARE AWARD GRANT",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-88ohbr7sw7zb70k.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9859V",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-88ohbr7sw7zb70k.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-08-19",
+          "event_id": "rns-0655d903e4b3ad0bde9b5666",
           "headline": "Q2 2025 FINANCIAL AND OPERATING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2025-financial-and-operating-results-hlq1mboyiz8nuy7.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 7974V",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2025-financial-and-operating-results-hlq1mboyiz8nuy7.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-07-29",
+          "event_id": "rns-0b069c155fc92c1e4ec0b254",
           "headline": "OPERATIONS UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-w6vpmxyxd99uv7v.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 9631S",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-w6vpmxyxd99uv7v.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-27",
+          "event_id": "rns-8855a5021379682b05073075",
           "headline": "Q1 2025 FINANCIAL AND OPERATING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2025-financial-and-operating-results-tebtjw9b9yfbx94.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1438K",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2025-financial-and-operating-results-tebtjw9b9yfbx94.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-14",
+          "event_id": "rns-509f2fd08a1d2bcf1266416f",
           "headline": "OPERATIONS UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-5gfj0n88y7wuina.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6101I",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-5gfj0n88y7wuina.html",
+          "time": "7:00 am"
         },
         {
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-05-07",
+          "event_id": "rns-e1beceb4501aefc59684580d",
           "headline": "BLOCK ADMISSION SIX MONTHLY RETURN",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-nxvprpn7u05zvek.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 6506H",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-nxvprpn7u05zvek.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-29",
+          "event_id": "rns-41a9571eb431d9b6d5d59fe0",
           "headline": "FOURTH QUARTER AND YEAR END 2024 RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2024-results-2m7tp45xldatao5.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 5155G",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2024-results-2m7tp45xldatao5.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2025-04-17",
+          "event_id": "rns-afc28050a54455027e666065",
           "headline": "LISTING OF WARRANTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/listing-of-warrants-97xvuy2n42dvry6.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 3287F",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/listing-of-warrants-97xvuy2n42dvry6.html",
+          "time": "7:00 am"
         }
       ],
       "rns_initial": [
@@ -31283,36 +31491,61 @@
           "category": "NEUTRAL",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-09-04",
+          "event_id": "rns-5202e74b7303c6f13e5bbf93",
           "headline": "RESTRICTED SHARE AWARD GRANT",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html"
+          "published_at": null,
+          "rating": "NEUTRAL",
+          "rns_number": "RNS Number : 3720T",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-25",
+          "event_id": "rns-9cee7461bd65b548a58f4b0d",
           "headline": "Q2 2026 FINANCIAL AND OPERATING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 9546R",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-08-12",
+          "event_id": "rns-1d2fa08cd55ce432b3872960",
           "headline": "OPERATIONS UPDATE",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 3499Q",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html",
+          "time": "7:30 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-05-26",
+          "event_id": "rns-051063629afee93da81d6014",
           "headline": "Q1 2026 FINANCIAL AND OPERATING RESULTS",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 6565F",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html",
+          "time": "7:00 am"
         },
         {
           "category": "BEARISH",
           "content_status": "CONTENT_AVAILABLE",
           "date": "2026-04-28",
+          "event_id": "rns-8bb59433613ec8e9e3d97811",
           "headline": "Fourth Quarter and Year End 2025 Results",
-          "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html"
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": "RNS Number : 1107C",
+          "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html",
+          "time": "7:00 am"
         }
       ],
       "rns_records_emitted": 20,
@@ -31360,20 +31593,24 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-03-29",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.58,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 18,
                 "date": "2023-03-29",
                 "status": "EXACT"
               },
               "relative_activity": 1.58,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "SOUC.L:2023-03-29",
               "signal_type": "CRASH ZONE BOTTOM"
             }
@@ -51963,141 +52200,241 @@
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "4th Sep 2026",
+              "event_id": "rns-5202e74b7303c6f13e5bbf93",
               "headline": "RESTRICTED SHARE AWARD GRANT",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 3720T",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-w1cwcxlyyp8upfe.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "25th Aug 2026",
+              "event_id": "rns-9cee7461bd65b548a58f4b0d",
               "headline": "Q2 2026 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 9546R",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2026-financial-and-operating-results-bqmii6e0fzy0j7l.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "12th Aug 2026",
+              "event_id": "rns-1d2fa08cd55ce432b3872960",
               "headline": "OPERATIONS UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3499Q",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-4rbcj4xusizktf4.html",
+              "time": "7:30 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "26th May 2026",
+              "event_id": "rns-051063629afee93da81d6014",
               "headline": "Q1 2026 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 6565F",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2026-financial-and-operating-results-et0cs8mkeck1u6c.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Apr 2026",
+              "event_id": "rns-8bb59433613ec8e9e3d97811",
               "headline": "Fourth Quarter and Year End 2025 Results",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1107C",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2025-results-y4kgcio064331jh.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Mar 2026",
+              "event_id": "rns-1828b1d8ceea1ac515229da2",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-ape5wr2osr5vxa8.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0350X",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-ape5wr2osr5vxa8.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "13th Feb 2026",
+              "event_id": "rns-e3830ff99bd6ccb7be9411e1",
               "headline": "Completion of Financing and Royalty Sale",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/completion-of-financing-and-royalty-sale-k414nzmz2btwccn.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8631S",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/completion-of-financing-and-royalty-sale-k414nzmz2btwccn.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "9th Feb 2026",
+              "event_id": "rns-9081e0e660b1487082576697",
               "headline": "US$23.5 million Financings and Royalty Sale",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/us235-million-financings-and-royalty-sale-j9s48tk69gvlkvz.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 2199S",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/us235-million-financings-and-royalty-sale-j9s48tk69gvlkvz.html",
+              "time": "7:47 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "2nd Feb 2026",
+              "event_id": "rns-5ff3f6c8cc64b5814f5a0bab",
               "headline": "Block Admission Six Monthly Return & Cancellation",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-cancellation-lvc9ux4astg9d07.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 2784R",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-cancellation-lvc9ux4astg9d07.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "18th Nov 2025",
+              "event_id": "rns-341c8ad3a1291e99335acd50",
               "headline": "Q3 2025 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q3-2025-financial-and-operating-results-r1lg8k8ns4wavn4.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 8890H",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q3-2025-financial-and-operating-results-r1lg8k8ns4wavn4.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "28th Oct 2025",
+              "event_id": "rns-fa7838c8865b93ec0963a163",
               "headline": "Result of AGM and Board Changes",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/result-of-agm-and-board-changes-aaq9huq18s1vd5k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 0197F",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/result-of-agm-and-board-changes-aaq9huq18s1vd5k.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "24th Sep 2025",
+              "event_id": "rns-b283b021baaf633b7a87d9df",
               "headline": "Holding(s) in Company",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-6wv69cwjd8aauhr.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6864A",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/holdings-in-company-6wv69cwjd8aauhr.html",
+              "time": "3:30 pm"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "20th Aug 2025",
+              "event_id": "rns-1b3e2eec7828c7cd5c4e4238",
               "headline": "RESTRICTED SHARE AWARD GRANT",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-88ohbr7sw7zb70k.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9859V",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/restricted-share-award-grant-88ohbr7sw7zb70k.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "19th Aug 2025",
+              "event_id": "rns-0655d903e4b3ad0bde9b5666",
               "headline": "Q2 2025 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2025-financial-and-operating-results-hlq1mboyiz8nuy7.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 7974V",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q2-2025-financial-and-operating-results-hlq1mboyiz8nuy7.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Jul 2025",
+              "event_id": "rns-0b069c155fc92c1e4ec0b254",
               "headline": "OPERATIONS UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-w6vpmxyxd99uv7v.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 9631S",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-w6vpmxyxd99uv7v.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "27th May 2025",
+              "event_id": "rns-8855a5021379682b05073075",
               "headline": "Q1 2025 FINANCIAL AND OPERATING RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2025-financial-and-operating-results-tebtjw9b9yfbx94.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 1438K",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/q1-2025-financial-and-operating-results-tebtjw9b9yfbx94.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "14th May 2025",
+              "event_id": "rns-509f2fd08a1d2bcf1266416f",
               "headline": "OPERATIONS UPDATE",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-5gfj0n88y7wuina.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6101I",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/operations-update-5gfj0n88y7wuina.html",
+              "time": "7:00 am"
             },
             {
               "category": "NEUTRAL",
               "content_status": "CONTENT_AVAILABLE",
               "date": "7th May 2025",
+              "event_id": "rns-e1beceb4501aefc59684580d",
               "headline": "BLOCK ADMISSION SIX MONTHLY RETURN",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-nxvprpn7u05zvek.html"
+              "published_at": null,
+              "rating": "NEUTRAL",
+              "rns_number": "RNS Number : 6506H",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/block-admission-six-monthly-return-nxvprpn7u05zvek.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "29th Apr 2025",
+              "event_id": "rns-41a9571eb431d9b6d5d59fe0",
               "headline": "FOURTH QUARTER AND YEAR END 2024 RESULTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2024-results-2m7tp45xldatao5.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 5155G",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/fourth-quarter-and-year-end-2024-results-2m7tp45xldatao5.html",
+              "time": "7:00 am"
             },
             {
               "category": "BEARISH",
               "content_status": "CONTENT_AVAILABLE",
               "date": "17th Apr 2025",
+              "event_id": "rns-afc28050a54455027e666065",
               "headline": "LISTING OF WARRANTS",
-              "source_url": "https://www.lse.co.uk/rns/SOUC/listing-of-warrants-97xvuy2n42dvry6.html"
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": "RNS Number : 3287F",
+              "source_url": "https://www.lse.co.uk/rns/SOUC/listing-of-warrants-97xvuy2n42dvry6.html",
+              "time": "7:00 am"
             }
           ],
           "status": "AVAILABLE",

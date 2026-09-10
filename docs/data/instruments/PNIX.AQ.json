@@ -21,533 +21,645 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-05-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.67,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.012299999594688416,
                 "date": "2022-05-23",
                 "status": "EXACT"
               },
               "relative_activity": 4.67,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-23",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-05-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.62,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.012149999849498272,
                 "date": "2022-05-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.62,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-24",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-05-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.22,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.01209999993443489,
                 "date": "2022-05-25",
                 "status": "EXACT"
               },
               "relative_activity": 2.22,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-25",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-05-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.4,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.012249999679625034,
                 "date": "2022-05-27",
                 "status": "EXACT"
               },
               "relative_activity": 2.4,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-27",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.57,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.010250000283122063,
                 "date": "2022-07-13",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-07-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-08-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 6.45,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.009750000201165676,
                 "date": "2022-08-12",
                 "status": "EXACT"
               },
               "relative_activity": 6.45,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-08-12",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.71,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.00925000011920929,
                 "date": "2022-09-21",
                 "status": "EXACT"
               },
               "relative_activity": 1.71,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2022-09-21",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.58,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.009499999694526196,
                 "date": "2022-09-23",
                 "status": "EXACT"
               },
               "relative_activity": 7.58,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-09-23",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-09-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.16,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.009499999694526196,
                 "date": "2022-09-26",
                 "status": "EXACT"
               },
               "relative_activity": 2.16,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-09-26",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 13.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.008249999955296516,
                 "date": "2023-01-13",
                 "status": "EXACT"
               },
               "relative_activity": 13.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2023-01-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 15.96,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.008249999955296516,
                 "date": "2023-01-17",
                 "status": "EXACT"
               },
               "relative_activity": 15.96,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2023-01-17",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-10-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.23,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04650000110268593,
                 "date": "2024-10-15",
                 "status": "EXACT"
               },
               "relative_activity": 2.23,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2024-10-15",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 4.55,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.05249999836087227,
                 "date": "2025-01-27",
                 "status": "EXACT"
               },
               "relative_activity": 4.55,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-01-27",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 4.61,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04899999871850014,
                 "date": "2025-01-28",
                 "status": "EXACT"
               },
               "relative_activity": 4.61,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-01-28",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.3,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04800000041723251,
                 "date": "2025-02-06",
                 "status": "EXACT"
               },
               "relative_activity": 1.3,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-02-06",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.75,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04600000008940697,
                 "date": "2025-02-27",
                 "status": "EXACT"
               },
               "relative_activity": 2.75,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-02-27",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 2.19,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04699999839067459,
                 "date": "2025-03-03",
                 "status": "EXACT"
               },
               "relative_activity": 2.19,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "PNIX.AQ:2025-03-03",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.35,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.35,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-03-04",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.91,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-06",
                 "status": "EXACT"
               },
               "relative_activity": 1.91,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-03-06",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.95,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-07",
                 "status": "EXACT"
               },
               "relative_activity": 1.95,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-03-07",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 4.52,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-10",
                 "status": "EXACT"
               },
               "relative_activity": 4.52,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "PNIX.AQ:2025-03-10",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.51,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.039000000804662704,
                 "date": "2025-03-28",
                 "status": "EXACT"
               },
               "relative_activity": 1.51,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "PNIX.AQ:2025-03-28",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 9.56,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.035999998450279236,
                 "date": "2025-04-07",
                 "status": "EXACT"
               },
               "relative_activity": 9.56,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-04-07",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-08",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 7.18,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03449999913573265,
                 "date": "2025-04-08",
                 "status": "EXACT"
               },
               "relative_activity": 7.18,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-04-08",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 3.15,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03449999913573265,
                 "date": "2025-04-09",
                 "status": "EXACT"
               },
               "relative_activity": 3.15,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-04-09",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.95,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03550000116229057,
                 "date": "2025-04-10",
                 "status": "EXACT"
               },
               "relative_activity": 2.95,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-04-10",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-09-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 4.75,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04800000041723251,
                 "date": "2025-09-24",
                 "status": "EXACT"
               },
               "relative_activity": 4.75,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-09-24",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 4.73,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04149999842047691,
                 "date": "2025-09-30",
                 "status": "EXACT"
               },
               "relative_activity": 4.73,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-09-30",
               "signal_type": "DEEP CRASH BOTTOM"
             }
@@ -22488,533 +22600,645 @@
       "historical_alerts": [
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-05-23",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 4.67,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.012299999594688416,
             "date": "2022-05-23",
             "status": "EXACT"
           },
           "relative_activity": 4.67,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-05-23",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2022-05-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 1.62,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.012149999849498272,
             "date": "2022-05-24",
             "status": "EXACT"
           },
           "relative_activity": 1.62,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-05-24",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2022-05-25",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 2.22,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.01209999993443489,
             "date": "2022-05-25",
             "status": "EXACT"
           },
           "relative_activity": 2.22,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-05-25",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2022-05-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 2.4,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.012249999679625034,
             "date": "2022-05-27",
             "status": "EXACT"
           },
           "relative_activity": 2.4,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-05-27",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-07-13",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 1.57,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.010250000283122063,
             "date": "2022-07-13",
             "status": "EXACT"
           },
           "relative_activity": 1.57,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-07-13",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2022-08-12",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 6.45,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.009750000201165676,
             "date": "2022-08-12",
             "status": "EXACT"
           },
           "relative_activity": 6.45,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-08-12",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-09-21",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.71,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.00925000011920929,
             "date": "2022-09-21",
             "status": "EXACT"
           },
           "relative_activity": 1.71,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2022-09-21",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2022-09-23",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 7.58,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.009499999694526196,
             "date": "2022-09-23",
             "status": "EXACT"
           },
           "relative_activity": 7.58,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-09-23",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2022-09-26",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 2.16,
-            "severity": "PURPLE",
+            "severity": "CLOSE WATCH",
             "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.009499999694526196,
             "date": "2022-09-26",
             "status": "EXACT"
           },
           "relative_activity": 2.16,
-          "severity": "PURPLE",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2022-09-26",
           "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-01-13",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 13.85,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.008249999955296516,
             "date": "2023-01-13",
             "status": "EXACT"
           },
           "relative_activity": 13.85,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2023-01-13",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2023-01-17",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "YELLOW",
             "relative_activity": 15.96,
-            "severity": "YELLOW",
+            "severity": "CLOSE WATCH",
             "signal_state": "CRASH ZONE BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.008249999955296516,
             "date": "2023-01-17",
             "status": "EXACT"
           },
           "relative_activity": 15.96,
-          "severity": "YELLOW",
+          "severity": "CLOSE WATCH",
           "signal_id": "PNIX.AQ:2023-01-17",
           "signal_type": "CRASH ZONE BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2024-10-15",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.23,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04650000110268593,
             "date": "2024-10-15",
             "status": "EXACT"
           },
           "relative_activity": 2.23,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2024-10-15",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-01-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "RED",
             "relative_activity": 4.55,
-            "severity": "RED",
+            "severity": "EXTREME CAUTION",
             "signal_state": "ULTRA CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.05249999836087227,
             "date": "2025-01-27",
             "status": "EXACT"
           },
           "relative_activity": 4.55,
-          "severity": "RED",
+          "severity": "EXTREME CAUTION",
           "signal_id": "PNIX.AQ:2025-01-27",
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-01-28",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "RED",
             "relative_activity": 4.61,
-            "severity": "RED",
+            "severity": "EXTREME CAUTION",
             "signal_state": "ULTRA CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04899999871850014,
             "date": "2025-01-28",
             "status": "EXACT"
           },
           "relative_activity": 4.61,
-          "severity": "RED",
+          "severity": "EXTREME CAUTION",
           "signal_id": "PNIX.AQ:2025-01-28",
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-02-06",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.3,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04800000041723251,
             "date": "2025-02-06",
             "status": "EXACT"
           },
           "relative_activity": 1.3,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-02-06",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-02-27",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.75,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04600000008940697,
             "date": "2025-02-27",
             "status": "EXACT"
           },
           "relative_activity": 2.75,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-02-27",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-03",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 2.19,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04699999839067459,
             "date": "2025-03-03",
             "status": "EXACT"
           },
           "relative_activity": 2.19,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "PNIX.AQ:2025-03-03",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-04",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.35,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.045499999076128006,
             "date": "2025-03-04",
             "status": "EXACT"
           },
           "relative_activity": 1.35,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-03-04",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-06",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.91,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.045499999076128006,
             "date": "2025-03-06",
             "status": "EXACT"
           },
           "relative_activity": 1.91,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-03-06",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 1.95,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.045499999076128006,
             "date": "2025-03-07",
             "status": "EXACT"
           },
           "relative_activity": 1.95,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-03-07",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-10",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 4.52,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.045499999076128006,
             "date": "2025-03-10",
             "status": "EXACT"
           },
           "relative_activity": 4.52,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "PNIX.AQ:2025-03-10",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-03-28",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
             "relative_activity": 1.51,
-            "severity": "ORANGE",
+            "severity": "HIGH",
             "signal_state": "EXTREME CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.039000000804662704,
             "date": "2025-03-28",
             "status": "EXACT"
           },
           "relative_activity": 1.51,
-          "severity": "ORANGE",
+          "severity": "HIGH",
           "signal_id": "PNIX.AQ:2025-03-28",
           "signal_type": "EXTREME CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-04-07",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "RED",
             "relative_activity": 9.56,
-            "severity": "RED",
+            "severity": "EXTREME CAUTION",
             "signal_state": "ULTRA CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.035999998450279236,
             "date": "2025-04-07",
             "status": "EXACT"
           },
           "relative_activity": 9.56,
-          "severity": "RED",
+          "severity": "EXTREME CAUTION",
           "signal_id": "PNIX.AQ:2025-04-07",
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-04-08",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "RED",
             "relative_activity": 7.18,
-            "severity": "RED",
+            "severity": "EXTREME CAUTION",
             "signal_state": "ULTRA CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.03449999913573265,
             "date": "2025-04-08",
             "status": "EXACT"
           },
           "relative_activity": 7.18,
-          "severity": "RED",
+          "severity": "EXTREME CAUTION",
           "signal_id": "PNIX.AQ:2025-04-08",
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-04-09",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "RED",
             "relative_activity": 3.15,
-            "severity": "RED",
+            "severity": "EXTREME CAUTION",
             "signal_state": "ULTRA CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.03449999913573265,
             "date": "2025-04-09",
             "status": "EXACT"
           },
           "relative_activity": 3.15,
-          "severity": "RED",
+          "severity": "EXTREME CAUTION",
           "signal_id": "PNIX.AQ:2025-04-09",
           "signal_type": "ULTRA CRASH BOTTOM"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-04-10",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 2.95,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.03550000116229057,
             "date": "2025-04-10",
             "status": "EXACT"
           },
           "relative_activity": 2.95,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-04-10",
           "signal_type": "DEEP CRASH BOTTOM"
         },
         {
           "accumulation": "DETECTED",
+          "current": false,
           "date": "2025-09-24",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "DETECTED",
+            "raw_signal_color": "PURPLE",
             "relative_activity": 4.75,
-            "severity": "PURPLE",
+            "severity": "ELEVATED",
             "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04800000041723251,
             "date": "2025-09-24",
             "status": "EXACT"
           },
           "relative_activity": 4.75,
-          "severity": "PURPLE",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-09-24",
           "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
         },
         {
           "accumulation": "NOT_DETECTED",
+          "current": false,
           "date": "2025-09-30",
+          "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
             "relative_activity": 4.73,
-            "severity": "GREEN",
+            "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
+          "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
             "close": 0.04149999842047691,
             "date": "2025-09-30",
             "status": "EXACT"
           },
           "relative_activity": 4.73,
-          "severity": "GREEN",
+          "severity": "ELEVATED",
           "signal_id": "PNIX.AQ:2025-09-30",
           "signal_type": "DEEP CRASH BOTTOM"
         }
@@ -33996,533 +34220,645 @@
           "alert_markers": [
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-05-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 4.67,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.012299999594688416,
                 "date": "2022-05-23",
                 "status": "EXACT"
               },
               "relative_activity": 4.67,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-23",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-05-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 1.62,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.012149999849498272,
                 "date": "2022-05-24",
                 "status": "EXACT"
               },
               "relative_activity": 1.62,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-24",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-05-25",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.22,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.01209999993443489,
                 "date": "2022-05-25",
                 "status": "EXACT"
               },
               "relative_activity": 2.22,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-25",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-05-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.4,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.012249999679625034,
                 "date": "2022-05-27",
                 "status": "EXACT"
               },
               "relative_activity": 2.4,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-05-27",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-07-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 1.57,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.010250000283122063,
                 "date": "2022-07-13",
                 "status": "EXACT"
               },
               "relative_activity": 1.57,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-07-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-08-12",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 6.45,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.009750000201165676,
                 "date": "2022-08-12",
                 "status": "EXACT"
               },
               "relative_activity": 6.45,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-08-12",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-21",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.71,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.00925000011920929,
                 "date": "2022-09-21",
                 "status": "EXACT"
               },
               "relative_activity": 1.71,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2022-09-21",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2022-09-23",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 7.58,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.009499999694526196,
                 "date": "2022-09-23",
                 "status": "EXACT"
               },
               "relative_activity": 7.58,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-09-23",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2022-09-26",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 2.16,
-                "severity": "PURPLE",
+                "severity": "CLOSE WATCH",
                 "signal_state": "ENHANCED CRASH CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.009499999694526196,
                 "date": "2022-09-26",
                 "status": "EXACT"
               },
               "relative_activity": 2.16,
-              "severity": "PURPLE",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2022-09-26",
               "signal_type": "ENHANCED CRASH CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-13",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 13.85,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.008249999955296516,
                 "date": "2023-01-13",
                 "status": "EXACT"
               },
               "relative_activity": 13.85,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2023-01-13",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2023-01-17",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "YELLOW",
                 "relative_activity": 15.96,
-                "severity": "YELLOW",
+                "severity": "CLOSE WATCH",
                 "signal_state": "CRASH ZONE BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.008249999955296516,
                 "date": "2023-01-17",
                 "status": "EXACT"
               },
               "relative_activity": 15.96,
-              "severity": "YELLOW",
+              "severity": "CLOSE WATCH",
               "signal_id": "PNIX.AQ:2023-01-17",
               "signal_type": "CRASH ZONE BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2024-10-15",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.23,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04650000110268593,
                 "date": "2024-10-15",
                 "status": "EXACT"
               },
               "relative_activity": 2.23,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2024-10-15",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 4.55,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.05249999836087227,
                 "date": "2025-01-27",
                 "status": "EXACT"
               },
               "relative_activity": 4.55,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-01-27",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-01-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 4.61,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04899999871850014,
                 "date": "2025-01-28",
                 "status": "EXACT"
               },
               "relative_activity": 4.61,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-01-28",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.3,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04800000041723251,
                 "date": "2025-02-06",
                 "status": "EXACT"
               },
               "relative_activity": 1.3,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-02-06",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-02-27",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.75,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04600000008940697,
                 "date": "2025-02-27",
                 "status": "EXACT"
               },
               "relative_activity": 2.75,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-02-27",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-03",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 2.19,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04699999839067459,
                 "date": "2025-03-03",
                 "status": "EXACT"
               },
               "relative_activity": 2.19,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "PNIX.AQ:2025-03-03",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-04",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.35,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-04",
                 "status": "EXACT"
               },
               "relative_activity": 1.35,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-03-04",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-06",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.91,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-06",
                 "status": "EXACT"
               },
               "relative_activity": 1.91,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-03-06",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 1.95,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-07",
                 "status": "EXACT"
               },
               "relative_activity": 1.95,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-03-07",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 4.52,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.045499999076128006,
                 "date": "2025-03-10",
                 "status": "EXACT"
               },
               "relative_activity": 4.52,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "PNIX.AQ:2025-03-10",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-03-28",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "ORANGE",
                 "relative_activity": 1.51,
-                "severity": "ORANGE",
+                "severity": "HIGH",
                 "signal_state": "EXTREME CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.039000000804662704,
                 "date": "2025-03-28",
                 "status": "EXACT"
               },
               "relative_activity": 1.51,
-              "severity": "ORANGE",
+              "severity": "HIGH",
               "signal_id": "PNIX.AQ:2025-03-28",
               "signal_type": "EXTREME CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-07",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 9.56,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.035999998450279236,
                 "date": "2025-04-07",
                 "status": "EXACT"
               },
               "relative_activity": 9.56,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-04-07",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-08",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 7.18,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03449999913573265,
                 "date": "2025-04-08",
                 "status": "EXACT"
               },
               "relative_activity": 7.18,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-04-08",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-09",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "RED",
                 "relative_activity": 3.15,
-                "severity": "RED",
+                "severity": "EXTREME CAUTION",
                 "signal_state": "ULTRA CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03449999913573265,
                 "date": "2025-04-09",
                 "status": "EXACT"
               },
               "relative_activity": 3.15,
-              "severity": "RED",
+              "severity": "EXTREME CAUTION",
               "signal_id": "PNIX.AQ:2025-04-09",
               "signal_type": "ULTRA CRASH BOTTOM"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-04-10",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 2.95,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.03550000116229057,
                 "date": "2025-04-10",
                 "status": "EXACT"
               },
               "relative_activity": 2.95,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-04-10",
               "signal_type": "DEEP CRASH BOTTOM"
             },
             {
               "accumulation": "DETECTED",
+              "current": false,
               "date": "2025-09-24",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "DETECTED",
+                "raw_signal_color": "PURPLE",
                 "relative_activity": 4.75,
-                "severity": "PURPLE",
+                "severity": "ELEVATED",
                 "signal_state": "ENHANCED DEEP CRASH-ACCUM COMBO"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04800000041723251,
                 "date": "2025-09-24",
                 "status": "EXACT"
               },
               "relative_activity": 4.75,
-              "severity": "PURPLE",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-09-24",
               "signal_type": "ENHANCED DEEP CRASH-ACCUM COMBO"
             },
             {
               "accumulation": "NOT_DETECTED",
+              "current": false,
               "date": "2025-09-30",
+              "event_type": "CRASHDASH_SIGNAL",
               "evidence": {
                 "accumulation": "NOT_DETECTED",
+                "raw_signal_color": "GREEN",
                 "relative_activity": 4.73,
-                "severity": "GREEN",
+                "severity": "ELEVATED",
                 "signal_state": "DEEP CRASH BOTTOM"
               },
+              "marker_type": "CRASHDASH_SIGNAL",
               "price_context": {
                 "close": 0.04149999842047691,
                 "date": "2025-09-30",
                 "status": "EXACT"
               },
               "relative_activity": 4.73,
-              "severity": "GREEN",
+              "severity": "ELEVATED",
               "signal_id": "PNIX.AQ:2025-09-30",
               "signal_type": "DEEP CRASH BOTTOM"
             }
