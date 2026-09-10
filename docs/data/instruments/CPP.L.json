@@ -1,0 +1,1413 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "company_name": "CPPGroup Plc",
+      "currency": "GBP",
+      "current_price": null,
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exchange": "LSE",
+      "freshness": "UNKNOWN",
+      "industry": "Specialty Business Services",
+      "instrument_id": "CPP.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-07",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.37,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.37,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-07",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-08",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 4.9,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 4.9,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-08",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-10",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.38,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 1.38,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-10",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-16",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.66,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 1.66,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-16",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-20",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.64,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 21,
+                "date": "2026-07-20",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.64,
+              "severity": "GREEN",
+              "signal_id": "CPP.L:2026-07-20",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-21",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 4.43,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 13,
+                "date": "2026-07-21",
+                "status": "EXACT"
+              },
+              "relative_activity": 4.43,
+              "severity": "ORANGE",
+              "signal_id": "CPP.L:2026-07-21",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-22",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 4.59,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 18.5,
+                "date": "2026-07-22",
+                "status": "EXACT"
+              },
+              "relative_activity": 4.59,
+              "severity": "GREEN",
+              "signal_id": "CPP.L:2026-07-22",
+              "signal_type": "DEEP CRASH BOTTOM"
+            }
+          ],
+          "price_points": [
+            {
+              "close": 26.5,
+              "date": "2026-07-17",
+              "high": 27.450000762939453,
+              "low": 26,
+              "open": 27,
+              "volume": 22213
+            },
+            {
+              "close": 21,
+              "date": "2026-07-20",
+              "high": 27.299999237060547,
+              "low": 18.75,
+              "open": 24,
+              "volume": 125363
+            },
+            {
+              "close": 13,
+              "date": "2026-07-21",
+              "high": 24,
+              "low": 12,
+              "open": 20,
+              "volume": 269869
+            },
+            {
+              "close": 18.5,
+              "date": "2026-07-22",
+              "high": 20,
+              "low": 10.479999542236328,
+              "open": 14,
+              "volume": 362819
+            },
+            {
+              "close": 20,
+              "date": "2026-07-23",
+              "high": 21,
+              "low": 11,
+              "open": 17,
+              "volume": 324402
+            }
+          ]
+        },
+        "metadata": {
+          "company_name": "CPPGroup Plc",
+          "currency": "GBP",
+          "current_close": null,
+          "exchange": "LSE",
+          "industry": "Specialty Business Services",
+          "market": "AIM",
+          "market_cap": null,
+          "quote_unit": null,
+          "quote_unit_status": "BLOCKED",
+          "sector": "Industrials",
+          "ticker": "CPP.L"
+        },
+        "price_history": [
+          {
+            "close": 26.5,
+            "date": "2026-07-17",
+            "high": 27.450000762939453,
+            "low": 26,
+            "open": 27,
+            "volume": 22213
+          },
+          {
+            "close": 21,
+            "date": "2026-07-20",
+            "high": 27.299999237060547,
+            "low": 18.75,
+            "open": 24,
+            "volume": 125363
+          },
+          {
+            "close": 13,
+            "date": "2026-07-21",
+            "high": 24,
+            "low": 12,
+            "open": 20,
+            "volume": 269869
+          },
+          {
+            "close": 18.5,
+            "date": "2026-07-22",
+            "high": 20,
+            "low": 10.479999542236328,
+            "open": 14,
+            "volume": 362819
+          },
+          {
+            "close": 20,
+            "date": "2026-07-23",
+            "high": 21,
+            "low": 11,
+            "open": 17,
+            "volume": 324402
+          }
+        ],
+        "provenance": {
+          "metadata_available": false,
+          "price_history_available": true
+        },
+        "rns": [],
+        "source_as_of": null,
+        "source_status": "AVAILABLE"
+      },
+      "market": "AIM",
+      "market_cap": null,
+      "price_at_signal": null,
+      "profile": {
+        "corporate_actions": {
+          "events": [
+            {
+              "date": "2020-05-29",
+              "detected_at": "2026-01-26T17:45:59.999411",
+              "market": "LSE_AIM",
+              "ratio": 0.01,
+              "ratio_display": "1/100",
+              "source": "yahoo",
+              "type": "stock_split"
+            }
+          ],
+          "status": "AVAILABLE"
+        },
+        "current_price": null,
+        "identity": {
+          "company_name": "CPPGroup Plc",
+          "currency": "GBP",
+          "exchange": "LSE",
+          "industry": "Specialty Business Services",
+          "market": "AIM",
+          "sector": "Industrials",
+          "ticker": "CPP.L"
+        },
+        "latest_signal": {
+          "accumulation_state": "UNKNOWN",
+          "relative_activity": 2.37,
+          "severity": "YELLOW",
+          "signal_date": "2026-07-07",
+          "ticker": "CPP.L"
+        },
+        "market_cap": null,
+        "research": {
+          "data": null,
+          "status": "ANALYSIS_PENDING"
+        },
+        "rns": {
+          "records": [
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Jul 2026",
+              "headline": "Cancellation - CPPGroup Plc",
+              "source_url": "https://www.lse.co.uk/rns/CPP/cancellation-cppgroup-plc-7ebra8y4jo9l8nf.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "22nd Jul 2026",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-wz73n7yk6h7qpml.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "21st Jul 2026",
+              "headline": "CPPGroup",
+              "source_url": "https://www.lse.co.uk/rns/CPP/cppgroup-573hij7mc07tpc8.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "14th Jul 2026",
+              "headline": "Result of Meeting",
+              "source_url": "https://www.lse.co.uk/rns/CPP/result-of-meeting-zqxacucr6z0rbiq.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Jun 2026",
+              "headline": "Result of AGM",
+              "source_url": "https://www.lse.co.uk/rns/CPP/result-of-agm-8pt2pfis263yzrn.html"
+            },
+            {
+              "category": "BEARISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Jun 2026",
+              "headline": "Notice of GM",
+              "source_url": "https://www.lse.co.uk/rns/CPP/notice-of-gm-w2u97du7jhbkqqx.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th Jun 2026",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-7jypg303cj4fh4y.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th Jun 2026",
+              "headline": "Posting of Annual Report and Notice of AGM",
+              "source_url": "https://www.lse.co.uk/rns/CPP/posting-of-annual-report-and-notice-of-agm-5bfgf72mhxe94tt.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "2nd Jun 2026",
+              "headline": "PRELIMINARY RESULTS YEAR ENDED 31 DECEMBER 2025",
+              "source_url": "https://www.lse.co.uk/rns/CPP/preliminary-results-year-ended-31-december-2025-67ex0h16s3qc7vp.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "22nd Apr 2026",
+              "headline": "BLOCK LISTING 6 MONTHLY RETURN AND CANCELLATION",
+              "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-6-monthly-return-and-cancellation-6f3o8rfer1sfdf4.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "10th Apr 2026",
+              "headline": "Company Update",
+              "source_url": "https://www.lse.co.uk/rns/CPP/company-update-vb4fer2wm3uxmid.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "16th Mar 2026",
+              "headline": "Company Update",
+              "source_url": "https://www.lse.co.uk/rns/CPP/company-update-8ms5xpje0wj39qg.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "16th Mar 2026",
+              "headline": "Company Update",
+              "source_url": "https://www.lse.co.uk/rns/CPP/company-update-mbmxzug7nl1xop1.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "20th Jan 2026",
+              "headline": "Board Appointment and Review of AIM Listing Status",
+              "source_url": "https://www.lse.co.uk/rns/CPP/board-appointment-and-review-of-aim-listing-status-p7nwu2hc4xc26dh.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "7th Jan 2026",
+              "headline": "Block listing Interim Review",
+              "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-interim-review-8vbet54x0ya355i.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "9th Dec 2025",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-abohx30llshzkfw.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th Dec 2025",
+              "headline": "Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/CPP/total-voting-rights-ettotafw9nv8wr3.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "21st Oct 2025",
+              "headline": "Block listing Interim Review",
+              "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-interim-review-b4f8bbapu2gv5f0.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "14th Oct 2025",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-odskkaeqyq7xlph.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "10th Oct 2025",
+              "headline": "Director/PDMR Shareholding",
+              "source_url": "https://www.lse.co.uk/rns/CPP/directorpdmr-shareholding-caxio7m0p3sj8o2.html"
+            }
+          ],
+          "status": "AVAILABLE",
+          "total_available": 54
+        },
+        "sharechat_snapshot": {
+          "analysed_at": null,
+          "analysis_status": "ANALYSIS_PENDING",
+          "sample_fingerprint": "93bbbe5180d09faa5b430b8e10bc27fe91bb5d9d013b7ee24b8a1e1ae82db054",
+          "sample_size": 12,
+          "sentiment": null,
+          "source_observed_at": "2026-08-10T22:09:56.349592",
+          "summary": null,
+          "ticker": "CPP.L",
+          "total_posts": 345
+        },
+        "signal_statistics": {
+          "by_signal_type": {
+            "CRASH ZONE BOTTOM": 4,
+            "DEEP CRASH BOTTOM": 2,
+            "EXTREME CRASH BOTTOM": 1
+          },
+          "current_signal_count": 0,
+          "historical_signal_count": 7
+        },
+        "trends": {
+          "records": [],
+          "status": "NOT_IMPLEMENTED"
+        }
+      },
+      "rns_records_emitted": 20,
+      "rns_total_available": 54,
+      "sector": "Industrials",
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-07-22",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "CPP.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "CPPGroup Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Specialty Business Services",
+        "market": "AIM",
+        "sector": "Industrials",
+        "ticker": "CPP.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "corporate_actions": {
+        "events": [
+          {
+            "date": "2020-05-29",
+            "detected_at": "2026-01-26T17:45:59.999411",
+            "market": "LSE_AIM",
+            "ratio": 0.01,
+            "ratio_display": "1/100",
+            "source": "yahoo",
+            "type": "stock_split"
+          }
+        ],
+        "status": "AVAILABLE"
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-07",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.37,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.37,
+          "severity": "YELLOW",
+          "signal_id": "CPP.L:2026-07-07",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-08",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.9,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 4.9,
+          "severity": "YELLOW",
+          "signal_id": "CPP.L:2026-07-08",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-10",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.38,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.38,
+          "severity": "YELLOW",
+          "signal_id": "CPP.L:2026-07-10",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-16",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.66,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 1.66,
+          "severity": "YELLOW",
+          "signal_id": "CPP.L:2026-07-16",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-20",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.64,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 21,
+            "date": "2026-07-20",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.64,
+          "severity": "GREEN",
+          "signal_id": "CPP.L:2026-07-20",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-21",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.43,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 13,
+            "date": "2026-07-21",
+            "status": "EXACT"
+          },
+          "relative_activity": 4.43,
+          "severity": "ORANGE",
+          "signal_id": "CPP.L:2026-07-21",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 4.59,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 18.5,
+            "date": "2026-07-22",
+            "status": "EXACT"
+          },
+          "relative_activity": 4.59,
+          "severity": "GREEN",
+          "signal_id": "CPP.L:2026-07-22",
+          "signal_type": "DEEP CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "CPPGroup Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Specialty Business Services",
+        "market": "AIM",
+        "sector": "Industrials",
+        "ticker": "CPP.L"
+      },
+      "market_cap": null,
+      "price_series": [
+        {
+          "close": 26.5,
+          "date": "2026-07-17",
+          "high": 27.450000762939453,
+          "low": 26,
+          "open": 27,
+          "volume": 22213
+        },
+        {
+          "close": 21,
+          "date": "2026-07-20",
+          "high": 27.299999237060547,
+          "low": 18.75,
+          "open": 24,
+          "volume": 125363
+        },
+        {
+          "close": 13,
+          "date": "2026-07-21",
+          "high": 24,
+          "low": 12,
+          "open": 20,
+          "volume": 269869
+        },
+        {
+          "close": 18.5,
+          "date": "2026-07-22",
+          "high": 20,
+          "low": 10.479999542236328,
+          "open": 14,
+          "volume": 362819
+        },
+        {
+          "close": 20,
+          "date": "2026-07-23",
+          "high": 21,
+          "low": 11,
+          "open": 17,
+          "volume": 324402
+        }
+      ],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-24",
+          "headline": "Cancellation - CPPGroup Plc",
+          "source_url": "https://www.lse.co.uk/rns/CPP/cancellation-cppgroup-plc-7ebra8y4jo9l8nf.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-22",
+          "headline": "Holding(s) in Company",
+          "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-wz73n7yk6h7qpml.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-21",
+          "headline": "CPPGroup",
+          "source_url": "https://www.lse.co.uk/rns/CPP/cppgroup-573hij7mc07tpc8.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-14",
+          "headline": "Result of Meeting",
+          "source_url": "https://www.lse.co.uk/rns/CPP/result-of-meeting-zqxacucr6z0rbiq.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-30",
+          "headline": "Result of AGM",
+          "source_url": "https://www.lse.co.uk/rns/CPP/result-of-agm-8pt2pfis263yzrn.html"
+        },
+        {
+          "category": "BEARISH",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-24",
+          "headline": "Notice of GM",
+          "source_url": "https://www.lse.co.uk/rns/CPP/notice-of-gm-w2u97du7jhbkqqx.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-05",
+          "headline": "Holding(s) in Company",
+          "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-7jypg303cj4fh4y.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-05",
+          "headline": "Posting of Annual Report and Notice of AGM",
+          "source_url": "https://www.lse.co.uk/rns/CPP/posting-of-annual-report-and-notice-of-agm-5bfgf72mhxe94tt.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-02",
+          "headline": "PRELIMINARY RESULTS YEAR ENDED 31 DECEMBER 2025",
+          "source_url": "https://www.lse.co.uk/rns/CPP/preliminary-results-year-ended-31-december-2025-67ex0h16s3qc7vp.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-22",
+          "headline": "BLOCK LISTING 6 MONTHLY RETURN AND CANCELLATION",
+          "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-6-monthly-return-and-cancellation-6f3o8rfer1sfdf4.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-10",
+          "headline": "Company Update",
+          "source_url": "https://www.lse.co.uk/rns/CPP/company-update-vb4fer2wm3uxmid.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-03-16",
+          "headline": "Company Update",
+          "source_url": "https://www.lse.co.uk/rns/CPP/company-update-8ms5xpje0wj39qg.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-03-16",
+          "headline": "Company Update",
+          "source_url": "https://www.lse.co.uk/rns/CPP/company-update-mbmxzug7nl1xop1.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-01-20",
+          "headline": "Board Appointment and Review of AIM Listing Status",
+          "source_url": "https://www.lse.co.uk/rns/CPP/board-appointment-and-review-of-aim-listing-status-p7nwu2hc4xc26dh.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-01-07",
+          "headline": "Block listing Interim Review",
+          "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-interim-review-8vbet54x0ya355i.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2025-12-09",
+          "headline": "Holding(s) in Company",
+          "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-abohx30llshzkfw.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2025-12-05",
+          "headline": "Total Voting Rights",
+          "source_url": "https://www.lse.co.uk/rns/CPP/total-voting-rights-ettotafw9nv8wr3.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2025-10-21",
+          "headline": "Block listing Interim Review",
+          "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-interim-review-b4f8bbapu2gv5f0.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2025-10-14",
+          "headline": "Holding(s) in Company",
+          "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-odskkaeqyq7xlph.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2025-10-10",
+          "headline": "Director/PDMR Shareholding",
+          "source_url": "https://www.lse.co.uk/rns/CPP/directorpdmr-shareholding-caxio7m0p3sj8o2.html"
+        }
+      ],
+      "rns_initial": [
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-24",
+          "headline": "Cancellation - CPPGroup Plc",
+          "source_url": "https://www.lse.co.uk/rns/CPP/cancellation-cppgroup-plc-7ebra8y4jo9l8nf.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-22",
+          "headline": "Holding(s) in Company",
+          "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-wz73n7yk6h7qpml.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-21",
+          "headline": "CPPGroup",
+          "source_url": "https://www.lse.co.uk/rns/CPP/cppgroup-573hij7mc07tpc8.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-07-14",
+          "headline": "Result of Meeting",
+          "source_url": "https://www.lse.co.uk/rns/CPP/result-of-meeting-zqxacucr6z0rbiq.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-30",
+          "headline": "Result of AGM",
+          "source_url": "https://www.lse.co.uk/rns/CPP/result-of-agm-8pt2pfis263yzrn.html"
+        }
+      ],
+      "rns_records_emitted": 20,
+      "rns_total_available": 54,
+      "sharechat_snapshot": {
+        "analysed_at": null,
+        "analysis_status": "ANALYSIS_PENDING",
+        "sample_fingerprint": "93bbbe5180d09faa5b430b8e10bc27fe91bb5d9d013b7ee24b8a1e1ae82db054",
+        "sample_size": 12,
+        "sentiment": null,
+        "source_observed_at": "2026-08-10T22:09:56.349592",
+        "summary": null,
+        "ticker": "CPP.L",
+        "total_posts": 345
+      },
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "company_name": "CPPGroup Plc",
+      "currency": "GBP",
+      "current_price": null,
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 4.59,
+        "legacy_signal_color": "GREEN",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "exchange": "LSE",
+      "freshness": "UNKNOWN",
+      "industry": "Specialty Business Services",
+      "instrument_id": "CPP.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-07",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.37,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.37,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-07",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-08",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 4.9,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 4.9,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-08",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-10",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.38,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 1.38,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-10",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-16",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.66,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 1.66,
+              "severity": "YELLOW",
+              "signal_id": "CPP.L:2026-07-16",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-20",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.64,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 21,
+                "date": "2026-07-20",
+                "status": "EXACT"
+              },
+              "relative_activity": 2.64,
+              "severity": "GREEN",
+              "signal_id": "CPP.L:2026-07-20",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-21",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 4.43,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 13,
+                "date": "2026-07-21",
+                "status": "EXACT"
+              },
+              "relative_activity": 4.43,
+              "severity": "ORANGE",
+              "signal_id": "CPP.L:2026-07-21",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-22",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 4.59,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 18.5,
+                "date": "2026-07-22",
+                "status": "EXACT"
+              },
+              "relative_activity": 4.59,
+              "severity": "GREEN",
+              "signal_id": "CPP.L:2026-07-22",
+              "signal_type": "DEEP CRASH BOTTOM"
+            }
+          ],
+          "price_points": [
+            {
+              "close": 26.5,
+              "date": "2026-07-17",
+              "high": 27.450000762939453,
+              "low": 26,
+              "open": 27,
+              "volume": 22213
+            },
+            {
+              "close": 21,
+              "date": "2026-07-20",
+              "high": 27.299999237060547,
+              "low": 18.75,
+              "open": 24,
+              "volume": 125363
+            },
+            {
+              "close": 13,
+              "date": "2026-07-21",
+              "high": 24,
+              "low": 12,
+              "open": 20,
+              "volume": 269869
+            },
+            {
+              "close": 18.5,
+              "date": "2026-07-22",
+              "high": 20,
+              "low": 10.479999542236328,
+              "open": 14,
+              "volume": 362819
+            },
+            {
+              "close": 20,
+              "date": "2026-07-23",
+              "high": 21,
+              "low": 11,
+              "open": 17,
+              "volume": 324402
+            }
+          ]
+        },
+        "metadata": {
+          "company_name": "CPPGroup Plc",
+          "currency": "GBP",
+          "current_close": null,
+          "exchange": "LSE",
+          "industry": "Specialty Business Services",
+          "market": "AIM",
+          "market_cap": null,
+          "quote_unit": null,
+          "quote_unit_status": "BLOCKED",
+          "sector": "Industrials",
+          "ticker": "CPP.L"
+        },
+        "price_history": [
+          {
+            "close": 26.5,
+            "date": "2026-07-17",
+            "high": 27.450000762939453,
+            "low": 26,
+            "open": 27,
+            "volume": 22213
+          },
+          {
+            "close": 21,
+            "date": "2026-07-20",
+            "high": 27.299999237060547,
+            "low": 18.75,
+            "open": 24,
+            "volume": 125363
+          },
+          {
+            "close": 13,
+            "date": "2026-07-21",
+            "high": 24,
+            "low": 12,
+            "open": 20,
+            "volume": 269869
+          },
+          {
+            "close": 18.5,
+            "date": "2026-07-22",
+            "high": 20,
+            "low": 10.479999542236328,
+            "open": 14,
+            "volume": 362819
+          },
+          {
+            "close": 20,
+            "date": "2026-07-23",
+            "high": 21,
+            "low": 11,
+            "open": 17,
+            "volume": 324402
+          }
+        ],
+        "provenance": {
+          "metadata_available": false,
+          "price_history_available": true
+        },
+        "rns": [],
+        "source_as_of": null,
+        "source_status": "AVAILABLE"
+      },
+      "market": "AIM",
+      "market_cap": null,
+      "price_at_signal": null,
+      "profile": {
+        "corporate_actions": {
+          "events": [
+            {
+              "date": "2020-05-29",
+              "detected_at": "2026-01-26T17:45:59.999411",
+              "market": "LSE_AIM",
+              "ratio": 0.01,
+              "ratio_display": "1/100",
+              "source": "yahoo",
+              "type": "stock_split"
+            }
+          ],
+          "status": "AVAILABLE"
+        },
+        "current_price": null,
+        "identity": {
+          "company_name": "CPPGroup Plc",
+          "currency": "GBP",
+          "exchange": "LSE",
+          "industry": "Specialty Business Services",
+          "market": "AIM",
+          "sector": "Industrials",
+          "ticker": "CPP.L"
+        },
+        "latest_signal": {
+          "accumulation_state": "UNKNOWN",
+          "relative_activity": 2.37,
+          "severity": "YELLOW",
+          "signal_date": "2026-07-07",
+          "ticker": "CPP.L"
+        },
+        "market_cap": null,
+        "research": {
+          "data": null,
+          "status": "ANALYSIS_PENDING"
+        },
+        "rns": {
+          "records": [
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Jul 2026",
+              "headline": "Cancellation - CPPGroup Plc",
+              "source_url": "https://www.lse.co.uk/rns/CPP/cancellation-cppgroup-plc-7ebra8y4jo9l8nf.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "22nd Jul 2026",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-wz73n7yk6h7qpml.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "21st Jul 2026",
+              "headline": "CPPGroup",
+              "source_url": "https://www.lse.co.uk/rns/CPP/cppgroup-573hij7mc07tpc8.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "14th Jul 2026",
+              "headline": "Result of Meeting",
+              "source_url": "https://www.lse.co.uk/rns/CPP/result-of-meeting-zqxacucr6z0rbiq.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Jun 2026",
+              "headline": "Result of AGM",
+              "source_url": "https://www.lse.co.uk/rns/CPP/result-of-agm-8pt2pfis263yzrn.html"
+            },
+            {
+              "category": "BEARISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Jun 2026",
+              "headline": "Notice of GM",
+              "source_url": "https://www.lse.co.uk/rns/CPP/notice-of-gm-w2u97du7jhbkqqx.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th Jun 2026",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-7jypg303cj4fh4y.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th Jun 2026",
+              "headline": "Posting of Annual Report and Notice of AGM",
+              "source_url": "https://www.lse.co.uk/rns/CPP/posting-of-annual-report-and-notice-of-agm-5bfgf72mhxe94tt.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "2nd Jun 2026",
+              "headline": "PRELIMINARY RESULTS YEAR ENDED 31 DECEMBER 2025",
+              "source_url": "https://www.lse.co.uk/rns/CPP/preliminary-results-year-ended-31-december-2025-67ex0h16s3qc7vp.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "22nd Apr 2026",
+              "headline": "BLOCK LISTING 6 MONTHLY RETURN AND CANCELLATION",
+              "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-6-monthly-return-and-cancellation-6f3o8rfer1sfdf4.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "10th Apr 2026",
+              "headline": "Company Update",
+              "source_url": "https://www.lse.co.uk/rns/CPP/company-update-vb4fer2wm3uxmid.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "16th Mar 2026",
+              "headline": "Company Update",
+              "source_url": "https://www.lse.co.uk/rns/CPP/company-update-8ms5xpje0wj39qg.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "16th Mar 2026",
+              "headline": "Company Update",
+              "source_url": "https://www.lse.co.uk/rns/CPP/company-update-mbmxzug7nl1xop1.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "20th Jan 2026",
+              "headline": "Board Appointment and Review of AIM Listing Status",
+              "source_url": "https://www.lse.co.uk/rns/CPP/board-appointment-and-review-of-aim-listing-status-p7nwu2hc4xc26dh.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "7th Jan 2026",
+              "headline": "Block listing Interim Review",
+              "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-interim-review-8vbet54x0ya355i.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "9th Dec 2025",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-abohx30llshzkfw.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th Dec 2025",
+              "headline": "Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/CPP/total-voting-rights-ettotafw9nv8wr3.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "21st Oct 2025",
+              "headline": "Block listing Interim Review",
+              "source_url": "https://www.lse.co.uk/rns/CPP/block-listing-interim-review-b4f8bbapu2gv5f0.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "14th Oct 2025",
+              "headline": "Holding(s) in Company",
+              "source_url": "https://www.lse.co.uk/rns/CPP/holdings-in-company-odskkaeqyq7xlph.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "10th Oct 2025",
+              "headline": "Director/PDMR Shareholding",
+              "source_url": "https://www.lse.co.uk/rns/CPP/directorpdmr-shareholding-caxio7m0p3sj8o2.html"
+            }
+          ],
+          "status": "AVAILABLE",
+          "total_available": 54
+        },
+        "sharechat_snapshot": {
+          "analysed_at": null,
+          "analysis_status": "ANALYSIS_PENDING",
+          "sample_fingerprint": "93bbbe5180d09faa5b430b8e10bc27fe91bb5d9d013b7ee24b8a1e1ae82db054",
+          "sample_size": 12,
+          "sentiment": null,
+          "source_observed_at": "2026-08-10T22:09:56.349592",
+          "summary": null,
+          "ticker": "CPP.L",
+          "total_posts": 345
+        },
+        "signal_statistics": {
+          "by_signal_type": {
+            "CRASH ZONE BOTTOM": 4,
+            "DEEP CRASH BOTTOM": 2,
+            "EXTREME CRASH BOTTOM": 1
+          },
+          "current_signal_count": 0,
+          "historical_signal_count": 7
+        },
+        "trends": {
+          "records": [],
+          "status": "NOT_IMPLEMENTED"
+        }
+      },
+      "provenance_refs": [],
+      "rns_records_emitted": 20,
+      "rns_total_available": 54,
+      "sector": "Industrials",
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-07-22",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "CPP.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

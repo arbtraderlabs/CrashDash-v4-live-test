@@ -1,0 +1,889 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "company_name": "Altona Rare Earths Plc",
+      "currency": "GBP",
+      "current_price": null,
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exchange": "LSE",
+      "freshness": "UNKNOWN",
+      "industry": "Other Industrial Metals & Mining",
+      "instrument_id": "REE.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2024-06-26",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.99,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.99,
+              "severity": "YELLOW",
+              "signal_id": "REE.L:2024-06-26",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2024-06-27",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 7.47,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 7.47,
+              "severity": "YELLOW",
+              "signal_id": "REE.L:2024-06-27",
+              "signal_type": "CRASH ZONE BOTTOM"
+            }
+          ],
+          "price_points": []
+        },
+        "metadata": {
+          "company_name": "Altona Rare Earths Plc",
+          "currency": "GBP",
+          "current_close": null,
+          "exchange": "LSE",
+          "industry": "Other Industrial Metals & Mining",
+          "market": "MAIN",
+          "market_cap": null,
+          "quote_unit": null,
+          "quote_unit_status": "BLOCKED",
+          "sector": "Basic Materials",
+          "ticker": "REE.L"
+        },
+        "price_history": [],
+        "provenance": {
+          "metadata_available": false,
+          "price_history_available": false
+        },
+        "rns": [],
+        "source_as_of": null,
+        "source_status": "UNAVAILABLE"
+      },
+      "market": "MAIN",
+      "market_cap": null,
+      "price_at_signal": null,
+      "profile": {
+        "corporate_actions": {
+          "events": [],
+          "status": "VALID_EMPTY"
+        },
+        "current_price": null,
+        "identity": {
+          "company_name": "Altona Rare Earths Plc",
+          "currency": "GBP",
+          "exchange": "LSE",
+          "industry": "Other Industrial Metals & Mining",
+          "market": "MAIN",
+          "sector": "Basic Materials",
+          "ticker": "REE.L"
+        },
+        "latest_signal": {
+          "accumulation_state": "UNKNOWN",
+          "relative_activity": 2.99,
+          "severity": "YELLOW",
+          "signal_date": "2024-06-26",
+          "ticker": "REE.L"
+        },
+        "market_cap": null,
+        "research": {
+          "data": null,
+          "status": "ANALYSIS_PENDING"
+        },
+        "rns": {
+          "records": [
+            {
+              "category": "BULLISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "22nd Jun 2026",
+              "headline": "Change of Name",
+              "source_url": "https://www.lse.co.uk/rns/REE/change-of-name-5pp7u3shq7af09p.html"
+            },
+            {
+              "category": "BULLISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "4th Jun 2026",
+              "headline": "Heavy Rare Earths Enrichment Confirmed",
+              "source_url": "https://www.lse.co.uk/rns/REE/heavy-rare-earths-enrichment-confirmed-vg9wj9dlztjyg5i.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "1st Jun 2026",
+              "headline": "Notification of Admission and Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-1uzkv5j6gu0vvsh.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "11th May 2026",
+              "headline": "Director/PDMR Shareholding",
+              "source_url": "https://www.lse.co.uk/rns/REE/directorpdmr-shareholding-6d1dep9syk7gw3t.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "8th May 2026",
+              "headline": "Share Price Movement",
+              "source_url": "https://www.lse.co.uk/rns/REE/share-price-movement-d0pvz2eyzfyldd6.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "6th May 2026",
+              "headline": "Growth Capital Facility",
+              "source_url": "https://www.lse.co.uk/rns/REE/growth-capital-facility-5nkllaiquno7yf9.html"
+            },
+            {
+              "category": "BEARISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th May 2026",
+              "headline": "Monte Muambe MRE Results - Fluorspar and Gallium",
+              "source_url": "https://www.lse.co.uk/rns/REE/monte-muambe-mre-results-fluorspar-and-gallium-5eefr7q6zczt0sz.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Apr 2026",
+              "headline": "Conference presentation notification 5th May 2026",
+              "source_url": "https://www.lse.co.uk/rns/REE/conference-presentation-notification-5th-may-2026-19qos1zo0oheprv.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Apr 2026",
+              "headline": "Notification of Admission and Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-d59eolwmv0wvlxs.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Apr 2026",
+              "headline": "Exercise of warrants and share issue",
+              "source_url": "https://www.lse.co.uk/rns/REE/exercise-of-warrants-and-share-issue-je3ftcl02yf91gj.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Apr 2026",
+              "headline": "TR1 - Notification of Holdings in the Company",
+              "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-the-company-8537qtcan0bgmnq.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "21st Apr 2026",
+              "headline": "Exercise of Warrants",
+              "source_url": "https://www.lse.co.uk/rns/REE/exercise-of-warrants-n6dps9rbjcoo0fl.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "15th Apr 2026",
+              "headline": "TR1 - Notification of Holdings in Company",
+              "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-company-az1eempnx0mmwa6.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "14th Apr 2026",
+              "headline": "Heavy Rare Earths Identified at Monte Muambe",
+              "source_url": "https://www.lse.co.uk/rns/REE/heavy-rare-earths-identified-at-monte-muambe-ya6tqhr6rqbjcpc.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "10th Apr 2026",
+              "headline": "Warrant Exercise",
+              "source_url": "https://www.lse.co.uk/rns/REE/warrant-exercise-0vyd1sru24z2tr1.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "7th Apr 2026",
+              "headline": "Director/PDMR Shareholding",
+              "source_url": "https://www.lse.co.uk/rns/REE/directorpdmr-shareholding-8knd5xmnxfo9wn1.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "31st Mar 2026",
+              "headline": "Notification of Admission and Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-4f7wu7vy2y855vh.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "31st Mar 2026",
+              "headline": "TR1 - Notification of Holdings in Company",
+              "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-company-nvqycs2dge85pcs.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Mar 2026",
+              "headline": "USTDA-Funded Rare Earths Workstream Advances",
+              "source_url": "https://www.lse.co.uk/rns/REE/ustda-funded-rare-earths-workstream-advances-kyb0km4z25slzux.html"
+            },
+            {
+              "category": "BEARISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "26th Mar 2026",
+              "headline": "Half-year Financial Report",
+              "source_url": "https://www.lse.co.uk/rns/REE/half-year-financial-report-0ml6uzrb0w76aig.html"
+            }
+          ],
+          "status": "AVAILABLE",
+          "total_available": 95
+        },
+        "sharechat_snapshot": {
+          "analysed_at": null,
+          "analysis_status": "ANALYSIS_PENDING",
+          "sample_fingerprint": "d8847b2412042b5a3dd3bf8452a766899abfd855a22da1d99bbf8c42291fac84",
+          "sample_size": 12,
+          "sentiment": null,
+          "source_observed_at": "2026-07-29T23:26:39.492023",
+          "summary": null,
+          "ticker": "REE.L",
+          "total_posts": 2367
+        },
+        "signal_statistics": {
+          "by_signal_type": {
+            "CRASH ZONE BOTTOM": 2
+          },
+          "current_signal_count": 0,
+          "historical_signal_count": 2
+        },
+        "trends": {
+          "records": [],
+          "status": "NOT_IMPLEMENTED"
+        }
+      },
+      "rns_records_emitted": 20,
+      "rns_total_available": 95,
+      "sector": "Basic Materials",
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2024-06-27",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "REE.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Altona Rare Earths Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Other Industrial Metals & Mining",
+        "market": "MAIN",
+        "sector": "Basic Materials",
+        "ticker": "REE.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "corporate_actions": {
+        "events": [],
+        "status": "VALID_EMPTY"
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-26",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.99,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.99,
+          "severity": "YELLOW",
+          "signal_id": "REE.L:2024-06-26",
+          "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2024-06-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 7.47,
+            "severity": "YELLOW",
+            "signal_state": "CRASH ZONE BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 7.47,
+          "severity": "YELLOW",
+          "signal_id": "REE.L:2024-06-27",
+          "signal_type": "CRASH ZONE BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Altona Rare Earths Plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "Other Industrial Metals & Mining",
+        "market": "MAIN",
+        "sector": "Basic Materials",
+        "ticker": "REE.L"
+      },
+      "market_cap": null,
+      "price_series": [],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [
+        {
+          "category": "BULLISH",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-22",
+          "headline": "Change of Name",
+          "source_url": "https://www.lse.co.uk/rns/REE/change-of-name-5pp7u3shq7af09p.html"
+        },
+        {
+          "category": "BULLISH",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-04",
+          "headline": "Heavy Rare Earths Enrichment Confirmed",
+          "source_url": "https://www.lse.co.uk/rns/REE/heavy-rare-earths-enrichment-confirmed-vg9wj9dlztjyg5i.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-01",
+          "headline": "Notification of Admission and Total Voting Rights",
+          "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-1uzkv5j6gu0vvsh.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-05-11",
+          "headline": "Director/PDMR Shareholding",
+          "source_url": "https://www.lse.co.uk/rns/REE/directorpdmr-shareholding-6d1dep9syk7gw3t.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-05-08",
+          "headline": "Share Price Movement",
+          "source_url": "https://www.lse.co.uk/rns/REE/share-price-movement-d0pvz2eyzfyldd6.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-05-06",
+          "headline": "Growth Capital Facility",
+          "source_url": "https://www.lse.co.uk/rns/REE/growth-capital-facility-5nkllaiquno7yf9.html"
+        },
+        {
+          "category": "BEARISH",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-05-05",
+          "headline": "Monte Muambe MRE Results - Fluorspar and Gallium",
+          "source_url": "https://www.lse.co.uk/rns/REE/monte-muambe-mre-results-fluorspar-and-gallium-5eefr7q6zczt0sz.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-30",
+          "headline": "Conference presentation notification 5th May 2026",
+          "source_url": "https://www.lse.co.uk/rns/REE/conference-presentation-notification-5th-may-2026-19qos1zo0oheprv.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-30",
+          "headline": "Notification of Admission and Total Voting Rights",
+          "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-d59eolwmv0wvlxs.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-24",
+          "headline": "Exercise of warrants and share issue",
+          "source_url": "https://www.lse.co.uk/rns/REE/exercise-of-warrants-and-share-issue-je3ftcl02yf91gj.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-24",
+          "headline": "TR1 - Notification of Holdings in the Company",
+          "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-the-company-8537qtcan0bgmnq.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-21",
+          "headline": "Exercise of Warrants",
+          "source_url": "https://www.lse.co.uk/rns/REE/exercise-of-warrants-n6dps9rbjcoo0fl.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-15",
+          "headline": "TR1 - Notification of Holdings in Company",
+          "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-company-az1eempnx0mmwa6.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-14",
+          "headline": "Heavy Rare Earths Identified at Monte Muambe",
+          "source_url": "https://www.lse.co.uk/rns/REE/heavy-rare-earths-identified-at-monte-muambe-ya6tqhr6rqbjcpc.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-10",
+          "headline": "Warrant Exercise",
+          "source_url": "https://www.lse.co.uk/rns/REE/warrant-exercise-0vyd1sru24z2tr1.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-04-07",
+          "headline": "Director/PDMR Shareholding",
+          "source_url": "https://www.lse.co.uk/rns/REE/directorpdmr-shareholding-8knd5xmnxfo9wn1.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-03-31",
+          "headline": "Notification of Admission and Total Voting Rights",
+          "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-4f7wu7vy2y855vh.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-03-31",
+          "headline": "TR1 - Notification of Holdings in Company",
+          "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-company-nvqycs2dge85pcs.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-03-30",
+          "headline": "USTDA-Funded Rare Earths Workstream Advances",
+          "source_url": "https://www.lse.co.uk/rns/REE/ustda-funded-rare-earths-workstream-advances-kyb0km4z25slzux.html"
+        },
+        {
+          "category": "BEARISH",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-03-26",
+          "headline": "Half-year Financial Report",
+          "source_url": "https://www.lse.co.uk/rns/REE/half-year-financial-report-0ml6uzrb0w76aig.html"
+        }
+      ],
+      "rns_initial": [
+        {
+          "category": "BULLISH",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-22",
+          "headline": "Change of Name",
+          "source_url": "https://www.lse.co.uk/rns/REE/change-of-name-5pp7u3shq7af09p.html"
+        },
+        {
+          "category": "BULLISH",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-04",
+          "headline": "Heavy Rare Earths Enrichment Confirmed",
+          "source_url": "https://www.lse.co.uk/rns/REE/heavy-rare-earths-enrichment-confirmed-vg9wj9dlztjyg5i.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-06-01",
+          "headline": "Notification of Admission and Total Voting Rights",
+          "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-1uzkv5j6gu0vvsh.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-05-11",
+          "headline": "Director/PDMR Shareholding",
+          "source_url": "https://www.lse.co.uk/rns/REE/directorpdmr-shareholding-6d1dep9syk7gw3t.html"
+        },
+        {
+          "category": "NEUTRAL",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": "2026-05-08",
+          "headline": "Share Price Movement",
+          "source_url": "https://www.lse.co.uk/rns/REE/share-price-movement-d0pvz2eyzfyldd6.html"
+        }
+      ],
+      "rns_records_emitted": 20,
+      "rns_total_available": 95,
+      "sharechat_snapshot": {
+        "analysed_at": null,
+        "analysis_status": "ANALYSIS_PENDING",
+        "sample_fingerprint": "d8847b2412042b5a3dd3bf8452a766899abfd855a22da1d99bbf8c42291fac84",
+        "sample_size": 12,
+        "sentiment": null,
+        "source_observed_at": "2026-07-29T23:26:39.492023",
+        "summary": null,
+        "ticker": "REE.L",
+        "total_posts": 2367
+      },
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "company_name": "Altona Rare Earths Plc",
+      "currency": "GBP",
+      "current_price": null,
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 7.47,
+        "legacy_signal_color": "YELLOW",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "exchange": "LSE",
+      "freshness": "UNKNOWN",
+      "industry": "Other Industrial Metals & Mining",
+      "instrument_id": "REE.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2024-06-26",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.99,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.99,
+              "severity": "YELLOW",
+              "signal_id": "REE.L:2024-06-26",
+              "signal_type": "CRASH ZONE BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2024-06-27",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 7.47,
+                "severity": "YELLOW",
+                "signal_state": "CRASH ZONE BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 7.47,
+              "severity": "YELLOW",
+              "signal_id": "REE.L:2024-06-27",
+              "signal_type": "CRASH ZONE BOTTOM"
+            }
+          ],
+          "price_points": []
+        },
+        "metadata": {
+          "company_name": "Altona Rare Earths Plc",
+          "currency": "GBP",
+          "current_close": null,
+          "exchange": "LSE",
+          "industry": "Other Industrial Metals & Mining",
+          "market": "MAIN",
+          "market_cap": null,
+          "quote_unit": null,
+          "quote_unit_status": "BLOCKED",
+          "sector": "Basic Materials",
+          "ticker": "REE.L"
+        },
+        "price_history": [],
+        "provenance": {
+          "metadata_available": false,
+          "price_history_available": false
+        },
+        "rns": [],
+        "source_as_of": null,
+        "source_status": "UNAVAILABLE"
+      },
+      "market": "MAIN",
+      "market_cap": null,
+      "price_at_signal": null,
+      "profile": {
+        "corporate_actions": {
+          "events": [],
+          "status": "VALID_EMPTY"
+        },
+        "current_price": null,
+        "identity": {
+          "company_name": "Altona Rare Earths Plc",
+          "currency": "GBP",
+          "exchange": "LSE",
+          "industry": "Other Industrial Metals & Mining",
+          "market": "MAIN",
+          "sector": "Basic Materials",
+          "ticker": "REE.L"
+        },
+        "latest_signal": {
+          "accumulation_state": "UNKNOWN",
+          "relative_activity": 2.99,
+          "severity": "YELLOW",
+          "signal_date": "2024-06-26",
+          "ticker": "REE.L"
+        },
+        "market_cap": null,
+        "research": {
+          "data": null,
+          "status": "ANALYSIS_PENDING"
+        },
+        "rns": {
+          "records": [
+            {
+              "category": "BULLISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "22nd Jun 2026",
+              "headline": "Change of Name",
+              "source_url": "https://www.lse.co.uk/rns/REE/change-of-name-5pp7u3shq7af09p.html"
+            },
+            {
+              "category": "BULLISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "4th Jun 2026",
+              "headline": "Heavy Rare Earths Enrichment Confirmed",
+              "source_url": "https://www.lse.co.uk/rns/REE/heavy-rare-earths-enrichment-confirmed-vg9wj9dlztjyg5i.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "1st Jun 2026",
+              "headline": "Notification of Admission and Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-1uzkv5j6gu0vvsh.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "11th May 2026",
+              "headline": "Director/PDMR Shareholding",
+              "source_url": "https://www.lse.co.uk/rns/REE/directorpdmr-shareholding-6d1dep9syk7gw3t.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "8th May 2026",
+              "headline": "Share Price Movement",
+              "source_url": "https://www.lse.co.uk/rns/REE/share-price-movement-d0pvz2eyzfyldd6.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "6th May 2026",
+              "headline": "Growth Capital Facility",
+              "source_url": "https://www.lse.co.uk/rns/REE/growth-capital-facility-5nkllaiquno7yf9.html"
+            },
+            {
+              "category": "BEARISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "5th May 2026",
+              "headline": "Monte Muambe MRE Results - Fluorspar and Gallium",
+              "source_url": "https://www.lse.co.uk/rns/REE/monte-muambe-mre-results-fluorspar-and-gallium-5eefr7q6zczt0sz.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Apr 2026",
+              "headline": "Conference presentation notification 5th May 2026",
+              "source_url": "https://www.lse.co.uk/rns/REE/conference-presentation-notification-5th-may-2026-19qos1zo0oheprv.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Apr 2026",
+              "headline": "Notification of Admission and Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-d59eolwmv0wvlxs.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Apr 2026",
+              "headline": "Exercise of warrants and share issue",
+              "source_url": "https://www.lse.co.uk/rns/REE/exercise-of-warrants-and-share-issue-je3ftcl02yf91gj.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "24th Apr 2026",
+              "headline": "TR1 - Notification of Holdings in the Company",
+              "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-the-company-8537qtcan0bgmnq.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "21st Apr 2026",
+              "headline": "Exercise of Warrants",
+              "source_url": "https://www.lse.co.uk/rns/REE/exercise-of-warrants-n6dps9rbjcoo0fl.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "15th Apr 2026",
+              "headline": "TR1 - Notification of Holdings in Company",
+              "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-company-az1eempnx0mmwa6.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "14th Apr 2026",
+              "headline": "Heavy Rare Earths Identified at Monte Muambe",
+              "source_url": "https://www.lse.co.uk/rns/REE/heavy-rare-earths-identified-at-monte-muambe-ya6tqhr6rqbjcpc.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "10th Apr 2026",
+              "headline": "Warrant Exercise",
+              "source_url": "https://www.lse.co.uk/rns/REE/warrant-exercise-0vyd1sru24z2tr1.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "7th Apr 2026",
+              "headline": "Director/PDMR Shareholding",
+              "source_url": "https://www.lse.co.uk/rns/REE/directorpdmr-shareholding-8knd5xmnxfo9wn1.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "31st Mar 2026",
+              "headline": "Notification of Admission and Total Voting Rights",
+              "source_url": "https://www.lse.co.uk/rns/REE/notification-of-admission-and-total-voting-rights-4f7wu7vy2y855vh.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "31st Mar 2026",
+              "headline": "TR1 - Notification of Holdings in Company",
+              "source_url": "https://www.lse.co.uk/rns/REE/tr1-notification-of-holdings-in-company-nvqycs2dge85pcs.html"
+            },
+            {
+              "category": "NEUTRAL",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "30th Mar 2026",
+              "headline": "USTDA-Funded Rare Earths Workstream Advances",
+              "source_url": "https://www.lse.co.uk/rns/REE/ustda-funded-rare-earths-workstream-advances-kyb0km4z25slzux.html"
+            },
+            {
+              "category": "BEARISH",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": "26th Mar 2026",
+              "headline": "Half-year Financial Report",
+              "source_url": "https://www.lse.co.uk/rns/REE/half-year-financial-report-0ml6uzrb0w76aig.html"
+            }
+          ],
+          "status": "AVAILABLE",
+          "total_available": 95
+        },
+        "sharechat_snapshot": {
+          "analysed_at": null,
+          "analysis_status": "ANALYSIS_PENDING",
+          "sample_fingerprint": "d8847b2412042b5a3dd3bf8452a766899abfd855a22da1d99bbf8c42291fac84",
+          "sample_size": 12,
+          "sentiment": null,
+          "source_observed_at": "2026-07-29T23:26:39.492023",
+          "summary": null,
+          "ticker": "REE.L",
+          "total_posts": 2367
+        },
+        "signal_statistics": {
+          "by_signal_type": {
+            "CRASH ZONE BOTTOM": 2
+          },
+          "current_signal_count": 0,
+          "historical_signal_count": 2
+        },
+        "trends": {
+          "records": [],
+          "status": "NOT_IMPLEMENTED"
+        }
+      },
+      "provenance_refs": [],
+      "rns_records_emitted": 20,
+      "rns_total_available": 95,
+      "sector": "Basic Materials",
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2024-06-27",
+      "signal_state": "CRASH ZONE BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "REE.L",
+      "watch_severity": "CLOSE WATCH",
+      "why_crashdash_noticed": [
+        "CRASH ZONE BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}

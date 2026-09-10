@@ -1,0 +1,2008 @@
+{
+  "data": {
+    "beginner": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "company_name": "Social Housing REIT plc",
+      "currency": "GBP",
+      "current_price": null,
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exchange": "LSE",
+      "freshness": "UNKNOWN",
+      "industry": "REIT - Residential",
+      "instrument_id": "SOHO.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-14",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.18,
+                "severity": "RED",
+                "signal_state": "ULTRA CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.18,
+              "severity": "RED",
+              "signal_id": "SOHO.L:2026-07-14",
+              "signal_type": "ULTRA CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-15",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.01,
+                "severity": "RED",
+                "signal_state": "ULTRA CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.01,
+              "severity": "RED",
+              "signal_id": "SOHO.L:2026-07-15",
+              "signal_type": "ULTRA CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-20",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.62,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.7960000038146973,
+                "date": "2026-07-20",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.62,
+              "severity": "ORANGE",
+              "signal_id": "SOHO.L:2026-07-20",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-22",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.43,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.7900000214576721,
+                "date": "2026-07-22",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.43,
+              "severity": "GREEN",
+              "signal_id": "SOHO.L:2026-07-22",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-27",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.44,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.7860000133514404,
+                "date": "2026-07-27",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.44,
+              "severity": "GREEN",
+              "signal_id": "SOHO.L:2026-07-27",
+              "signal_type": "DEEP CRASH BOTTOM"
+            }
+          ],
+          "price_points": [
+            {
+              "close": 0.7870000004768372,
+              "date": "2026-07-17",
+              "high": 0.7990000247955322,
+              "low": 0.7860000133514404,
+              "open": 0.7929999828338623,
+              "volume": 348085
+            },
+            {
+              "close": 0.7960000038146973,
+              "date": "2026-07-20",
+              "high": 0.8029999732971191,
+              "low": 0.781000018119812,
+              "open": 0.7950000166893005,
+              "volume": 1272013
+            },
+            {
+              "close": 0.7960000038146973,
+              "date": "2026-07-21",
+              "high": 0.800000011920929,
+              "low": 0.7799999713897705,
+              "open": 0.7820000052452087,
+              "volume": 394326
+            },
+            {
+              "close": 0.7900000214576721,
+              "date": "2026-07-22",
+              "high": 0.8040000200271606,
+              "low": 0.7799999713897705,
+              "open": 0.7829999923706055,
+              "volume": 1097277
+            },
+            {
+              "close": 0.7850000262260437,
+              "date": "2026-07-23",
+              "high": 0.800000011920929,
+              "low": 0.781000018119812,
+              "open": 0.796999990940094,
+              "volume": 743363
+            },
+            {
+              "close": 0.7839999794960022,
+              "date": "2026-07-24",
+              "high": 0.7960000038146973,
+              "low": 0.781000018119812,
+              "open": 0.781000018119812,
+              "volume": 513027
+            },
+            {
+              "close": 0.7860000133514404,
+              "date": "2026-07-27",
+              "high": 0.7960000038146973,
+              "low": 0.7850000262260437,
+              "open": 0.7850000262260437,
+              "volume": 1160183
+            },
+            {
+              "close": 0.7739999890327454,
+              "date": "2026-07-28",
+              "high": 0.7960000038146973,
+              "low": 0.7739999890327454,
+              "open": 0.7929999828338623,
+              "volume": 802576
+            },
+            {
+              "close": 0.7710000276565552,
+              "date": "2026-07-29",
+              "high": 0.7960000038146973,
+              "low": 0.7680000066757202,
+              "open": 0.7749999761581421,
+              "volume": 667873
+            },
+            {
+              "close": 0.777999997138977,
+              "date": "2026-07-30",
+              "high": 0.7820000052452087,
+              "low": 0.7559999823570251,
+              "open": 0.7689999938011169,
+              "volume": 497851
+            },
+            {
+              "close": 0.7720000147819519,
+              "date": "2026-07-31",
+              "high": 0.7929999828338623,
+              "low": 0.7590000033378601,
+              "open": 0.7590000033378601,
+              "volume": 682806
+            },
+            {
+              "close": 0.7870000004768372,
+              "date": "2026-08-03",
+              "high": 0.7960000038146973,
+              "low": 0.7590000033378601,
+              "open": 0.7699999809265137,
+              "volume": 924906
+            },
+            {
+              "close": 0.7739999890327454,
+              "date": "2026-08-04",
+              "high": 0.7870000004768372,
+              "low": 0.7609999775886536,
+              "open": 0.7609999775886536,
+              "volume": 548725
+            },
+            {
+              "close": 0.7649999856948853,
+              "date": "2026-08-05",
+              "high": 0.7950000166893005,
+              "low": 0.7609999775886536,
+              "open": 0.7639999985694885,
+              "volume": 551731
+            },
+            {
+              "close": 0.765999972820282,
+              "date": "2026-08-06",
+              "high": 0.7960000038146973,
+              "low": 0.7620000243186951,
+              "open": 0.7699999809265137,
+              "volume": 327526
+            },
+            {
+              "close": 76,
+              "date": "2026-08-11",
+              "high": 79,
+              "low": 75,
+              "open": 79,
+              "volume": 1069826
+            },
+            {
+              "close": 75.69999694824219,
+              "date": "2026-08-12",
+              "high": 76.69999694824219,
+              "low": 75.19999694824219,
+              "open": 76.0999984741211,
+              "volume": 744353
+            },
+            {
+              "close": 76.0999984741211,
+              "date": "2026-08-13",
+              "high": 76.9000015258789,
+              "low": 75,
+              "open": 75.0999984741211,
+              "volume": 376947
+            },
+            {
+              "close": 76.19999694824219,
+              "date": "2026-08-14",
+              "high": 77.9000015258789,
+              "low": 74.9000015258789,
+              "open": 76.19999694824219,
+              "volume": 401873
+            },
+            {
+              "close": 74.69999694824219,
+              "date": "2026-08-17",
+              "high": 76.4000015258789,
+              "low": 74.69999694824219,
+              "open": 75.5,
+              "volume": 384137
+            },
+            {
+              "close": 75,
+              "date": "2026-08-18",
+              "high": 77.19999694824219,
+              "low": 74.5,
+              "open": 74.5,
+              "volume": 1931235
+            },
+            {
+              "close": 75.5,
+              "date": "2026-08-19",
+              "high": 76.4000015258789,
+              "low": 74.80000305175781,
+              "open": 75.5,
+              "volume": 367159
+            },
+            {
+              "close": 76,
+              "date": "2026-08-20",
+              "high": 76,
+              "low": 74.5,
+              "open": 74.5,
+              "volume": 346821
+            },
+            {
+              "close": 76,
+              "date": "2026-08-21",
+              "high": 77.5999984741211,
+              "low": 75.30000305175781,
+              "open": 76,
+              "volume": 832855
+            },
+            {
+              "close": 75.80000305175781,
+              "date": "2026-08-24",
+              "high": 77.69999694824219,
+              "low": 75.19999694824219,
+              "open": 76,
+              "volume": 263745
+            },
+            {
+              "close": 76.5,
+              "date": "2026-08-25",
+              "high": 76.9000015258789,
+              "low": 75.0999984741211,
+              "open": 75.80000305175781,
+              "volume": 565931
+            },
+            {
+              "close": 76.80000305175781,
+              "date": "2026-08-26",
+              "high": 77,
+              "low": 75.19999694824219,
+              "open": 76.69999694824219,
+              "volume": 320471
+            },
+            {
+              "close": 75,
+              "date": "2026-08-27",
+              "high": 76.5999984741211,
+              "low": 75,
+              "open": 76,
+              "volume": 412653
+            },
+            {
+              "close": 76.30000305175781,
+              "date": "2026-08-28",
+              "high": 77,
+              "low": 75,
+              "open": 75.0999984741211,
+              "volume": 875045
+            },
+            {
+              "close": 75.30000305175781,
+              "date": "2026-09-01",
+              "high": 77,
+              "low": 74.19999694824219,
+              "open": 77,
+              "volume": 468096
+            },
+            {
+              "close": 74.5999984741211,
+              "date": "2026-09-02",
+              "high": 76,
+              "low": 74.5,
+              "open": 76,
+              "volume": 288178
+            },
+            {
+              "close": 74.0999984741211,
+              "date": "2026-09-03",
+              "high": 77,
+              "low": 74.0999984741211,
+              "open": 74.5,
+              "volume": 600269
+            },
+            {
+              "close": 73.80000305175781,
+              "date": "2026-09-04",
+              "high": 76.80000305175781,
+              "low": 73.69999694824219,
+              "open": 76.80000305175781,
+              "volume": 492612
+            },
+            {
+              "close": 73.9000015258789,
+              "date": "2026-09-07",
+              "high": 76,
+              "low": 73.69999694824219,
+              "open": 76,
+              "volume": 483865
+            },
+            {
+              "close": 73.9000015258789,
+              "date": "2026-09-08",
+              "high": 76.19999694824219,
+              "low": 73.19999694824219,
+              "open": 73.69999694824219,
+              "volume": 494211
+            }
+          ]
+        },
+        "metadata": {
+          "company_name": "Social Housing REIT plc",
+          "currency": "GBP",
+          "current_close": null,
+          "exchange": "LSE",
+          "industry": "REIT - Residential",
+          "market": "MAIN",
+          "market_cap": null,
+          "quote_unit": null,
+          "quote_unit_status": "BLOCKED",
+          "sector": "Real Estate",
+          "ticker": "SOHO.L"
+        },
+        "price_history": [
+          {
+            "close": 0.7870000004768372,
+            "date": "2026-07-17",
+            "high": 0.7990000247955322,
+            "low": 0.7860000133514404,
+            "open": 0.7929999828338623,
+            "volume": 348085
+          },
+          {
+            "close": 0.7960000038146973,
+            "date": "2026-07-20",
+            "high": 0.8029999732971191,
+            "low": 0.781000018119812,
+            "open": 0.7950000166893005,
+            "volume": 1272013
+          },
+          {
+            "close": 0.7960000038146973,
+            "date": "2026-07-21",
+            "high": 0.800000011920929,
+            "low": 0.7799999713897705,
+            "open": 0.7820000052452087,
+            "volume": 394326
+          },
+          {
+            "close": 0.7900000214576721,
+            "date": "2026-07-22",
+            "high": 0.8040000200271606,
+            "low": 0.7799999713897705,
+            "open": 0.7829999923706055,
+            "volume": 1097277
+          },
+          {
+            "close": 0.7850000262260437,
+            "date": "2026-07-23",
+            "high": 0.800000011920929,
+            "low": 0.781000018119812,
+            "open": 0.796999990940094,
+            "volume": 743363
+          },
+          {
+            "close": 0.7839999794960022,
+            "date": "2026-07-24",
+            "high": 0.7960000038146973,
+            "low": 0.781000018119812,
+            "open": 0.781000018119812,
+            "volume": 513027
+          },
+          {
+            "close": 0.7860000133514404,
+            "date": "2026-07-27",
+            "high": 0.7960000038146973,
+            "low": 0.7850000262260437,
+            "open": 0.7850000262260437,
+            "volume": 1160183
+          },
+          {
+            "close": 0.7739999890327454,
+            "date": "2026-07-28",
+            "high": 0.7960000038146973,
+            "low": 0.7739999890327454,
+            "open": 0.7929999828338623,
+            "volume": 802576
+          },
+          {
+            "close": 0.7710000276565552,
+            "date": "2026-07-29",
+            "high": 0.7960000038146973,
+            "low": 0.7680000066757202,
+            "open": 0.7749999761581421,
+            "volume": 667873
+          },
+          {
+            "close": 0.777999997138977,
+            "date": "2026-07-30",
+            "high": 0.7820000052452087,
+            "low": 0.7559999823570251,
+            "open": 0.7689999938011169,
+            "volume": 497851
+          },
+          {
+            "close": 0.7720000147819519,
+            "date": "2026-07-31",
+            "high": 0.7929999828338623,
+            "low": 0.7590000033378601,
+            "open": 0.7590000033378601,
+            "volume": 682806
+          },
+          {
+            "close": 0.7870000004768372,
+            "date": "2026-08-03",
+            "high": 0.7960000038146973,
+            "low": 0.7590000033378601,
+            "open": 0.7699999809265137,
+            "volume": 924906
+          },
+          {
+            "close": 0.7739999890327454,
+            "date": "2026-08-04",
+            "high": 0.7870000004768372,
+            "low": 0.7609999775886536,
+            "open": 0.7609999775886536,
+            "volume": 548725
+          },
+          {
+            "close": 0.7649999856948853,
+            "date": "2026-08-05",
+            "high": 0.7950000166893005,
+            "low": 0.7609999775886536,
+            "open": 0.7639999985694885,
+            "volume": 551731
+          },
+          {
+            "close": 0.765999972820282,
+            "date": "2026-08-06",
+            "high": 0.7960000038146973,
+            "low": 0.7620000243186951,
+            "open": 0.7699999809265137,
+            "volume": 327526
+          },
+          {
+            "close": 76,
+            "date": "2026-08-11",
+            "high": 79,
+            "low": 75,
+            "open": 79,
+            "volume": 1069826
+          },
+          {
+            "close": 75.69999694824219,
+            "date": "2026-08-12",
+            "high": 76.69999694824219,
+            "low": 75.19999694824219,
+            "open": 76.0999984741211,
+            "volume": 744353
+          },
+          {
+            "close": 76.0999984741211,
+            "date": "2026-08-13",
+            "high": 76.9000015258789,
+            "low": 75,
+            "open": 75.0999984741211,
+            "volume": 376947
+          },
+          {
+            "close": 76.19999694824219,
+            "date": "2026-08-14",
+            "high": 77.9000015258789,
+            "low": 74.9000015258789,
+            "open": 76.19999694824219,
+            "volume": 401873
+          },
+          {
+            "close": 74.69999694824219,
+            "date": "2026-08-17",
+            "high": 76.4000015258789,
+            "low": 74.69999694824219,
+            "open": 75.5,
+            "volume": 384137
+          },
+          {
+            "close": 75,
+            "date": "2026-08-18",
+            "high": 77.19999694824219,
+            "low": 74.5,
+            "open": 74.5,
+            "volume": 1931235
+          },
+          {
+            "close": 75.5,
+            "date": "2026-08-19",
+            "high": 76.4000015258789,
+            "low": 74.80000305175781,
+            "open": 75.5,
+            "volume": 367159
+          },
+          {
+            "close": 76,
+            "date": "2026-08-20",
+            "high": 76,
+            "low": 74.5,
+            "open": 74.5,
+            "volume": 346821
+          },
+          {
+            "close": 76,
+            "date": "2026-08-21",
+            "high": 77.5999984741211,
+            "low": 75.30000305175781,
+            "open": 76,
+            "volume": 832855
+          },
+          {
+            "close": 75.80000305175781,
+            "date": "2026-08-24",
+            "high": 77.69999694824219,
+            "low": 75.19999694824219,
+            "open": 76,
+            "volume": 263745
+          },
+          {
+            "close": 76.5,
+            "date": "2026-08-25",
+            "high": 76.9000015258789,
+            "low": 75.0999984741211,
+            "open": 75.80000305175781,
+            "volume": 565931
+          },
+          {
+            "close": 76.80000305175781,
+            "date": "2026-08-26",
+            "high": 77,
+            "low": 75.19999694824219,
+            "open": 76.69999694824219,
+            "volume": 320471
+          },
+          {
+            "close": 75,
+            "date": "2026-08-27",
+            "high": 76.5999984741211,
+            "low": 75,
+            "open": 76,
+            "volume": 412653
+          },
+          {
+            "close": 76.30000305175781,
+            "date": "2026-08-28",
+            "high": 77,
+            "low": 75,
+            "open": 75.0999984741211,
+            "volume": 875045
+          },
+          {
+            "close": 75.30000305175781,
+            "date": "2026-09-01",
+            "high": 77,
+            "low": 74.19999694824219,
+            "open": 77,
+            "volume": 468096
+          },
+          {
+            "close": 74.5999984741211,
+            "date": "2026-09-02",
+            "high": 76,
+            "low": 74.5,
+            "open": 76,
+            "volume": 288178
+          },
+          {
+            "close": 74.0999984741211,
+            "date": "2026-09-03",
+            "high": 77,
+            "low": 74.0999984741211,
+            "open": 74.5,
+            "volume": 600269
+          },
+          {
+            "close": 73.80000305175781,
+            "date": "2026-09-04",
+            "high": 76.80000305175781,
+            "low": 73.69999694824219,
+            "open": 76.80000305175781,
+            "volume": 492612
+          },
+          {
+            "close": 73.9000015258789,
+            "date": "2026-09-07",
+            "high": 76,
+            "low": 73.69999694824219,
+            "open": 76,
+            "volume": 483865
+          },
+          {
+            "close": 73.9000015258789,
+            "date": "2026-09-08",
+            "high": 76.19999694824219,
+            "low": 73.19999694824219,
+            "open": 73.69999694824219,
+            "volume": 494211
+          }
+        ],
+        "provenance": {
+          "metadata_available": false,
+          "price_history_available": true
+        },
+        "rns": [],
+        "source_as_of": null,
+        "source_status": "AVAILABLE"
+      },
+      "market": "MAIN",
+      "market_cap": null,
+      "price_at_signal": null,
+      "profile": {
+        "corporate_actions": {
+          "events": [],
+          "status": "VALID_EMPTY"
+        },
+        "current_price": null,
+        "identity": {
+          "company_name": "Social Housing REIT plc",
+          "currency": "GBP",
+          "exchange": "LSE",
+          "industry": "REIT - Residential",
+          "market": "MAIN",
+          "sector": "Real Estate",
+          "ticker": "SOHO.L"
+        },
+        "latest_signal": {
+          "accumulation_state": "UNKNOWN",
+          "relative_activity": 2.18,
+          "severity": "RED",
+          "signal_date": "2026-07-14",
+          "ticker": "SOHO.L"
+        },
+        "market_cap": null,
+        "research": {
+          "data": null,
+          "status": "ANALYSIS_PENDING"
+        },
+        "rns": {
+          "records": [],
+          "status": "NOT_AVAILABLE",
+          "total_available": 0
+        },
+        "sharechat_snapshot": {
+          "analysed_at": null,
+          "analysis_status": "NOT_AVAILABLE",
+          "sample_size": 0,
+          "sentiment": null,
+          "source_observed_at": null,
+          "summary": null,
+          "ticker": "SOHO.L",
+          "total_posts": 0
+        },
+        "signal_statistics": {
+          "by_signal_type": {
+            "DEEP CRASH BOTTOM": 2,
+            "EXTREME CRASH BOTTOM": 1,
+            "ULTRA CRASH BOTTOM": 2
+          },
+          "current_signal_count": 0,
+          "historical_signal_count": 5
+        },
+        "trends": {
+          "records": [],
+          "status": "NOT_IMPLEMENTED"
+        }
+      },
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sector": "Real Estate",
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-07-27",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "ticker": "SOHO.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    },
+    "instrument_detail": {
+      "company_metadata": {
+        "company_name": "Social Housing REIT plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "REIT - Residential",
+        "market": "MAIN",
+        "sector": "Real Estate",
+        "ticker": "SOHO.L"
+      },
+      "company_summary": {
+        "current_state": null,
+        "status": "UNAVAILABLE",
+        "what_they_do": null,
+        "why_it_matters": null
+      },
+      "corporate_actions": {
+        "events": [],
+        "status": "VALID_EMPTY"
+      },
+      "current_alerts": [],
+      "historical_alerts": [
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-14",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.18,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.18,
+          "severity": "RED",
+          "signal_id": "SOHO.L:2026-07-14",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-15",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 2.01,
+            "severity": "RED",
+            "signal_state": "ULTRA CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": null,
+            "date": null,
+            "status": "NOT_AVAILABLE"
+          },
+          "relative_activity": 2.01,
+          "severity": "RED",
+          "signal_id": "SOHO.L:2026-07-15",
+          "signal_type": "ULTRA CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-20",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.62,
+            "severity": "ORANGE",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 0.7960000038146973,
+            "date": "2026-07-20",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.62,
+          "severity": "ORANGE",
+          "signal_id": "SOHO.L:2026-07-20",
+          "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-22",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.43,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 0.7900000214576721,
+            "date": "2026-07-22",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.43,
+          "severity": "GREEN",
+          "signal_id": "SOHO.L:2026-07-22",
+          "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "UNKNOWN",
+          "date": "2026-07-27",
+          "evidence": {
+            "accumulation": "UNKNOWN",
+            "relative_activity": 1.44,
+            "severity": "GREEN",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "price_context": {
+            "close": 0.7860000133514404,
+            "date": "2026-07-27",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.44,
+          "severity": "GREEN",
+          "signal_id": "SOHO.L:2026-07-27",
+          "signal_type": "DEEP CRASH BOTTOM"
+        }
+      ],
+      "identity": {
+        "company_name": "Social Housing REIT plc",
+        "currency": "GBP",
+        "exchange": "LSE",
+        "industry": "REIT - Residential",
+        "market": "MAIN",
+        "sector": "Real Estate",
+        "ticker": "SOHO.L"
+      },
+      "market_cap": null,
+      "price_series": [
+        {
+          "close": 0.7870000004768372,
+          "date": "2026-07-17",
+          "high": 0.7990000247955322,
+          "low": 0.7860000133514404,
+          "open": 0.7929999828338623,
+          "volume": 348085
+        },
+        {
+          "close": 0.7960000038146973,
+          "date": "2026-07-20",
+          "high": 0.8029999732971191,
+          "low": 0.781000018119812,
+          "open": 0.7950000166893005,
+          "volume": 1272013
+        },
+        {
+          "close": 0.7960000038146973,
+          "date": "2026-07-21",
+          "high": 0.800000011920929,
+          "low": 0.7799999713897705,
+          "open": 0.7820000052452087,
+          "volume": 394326
+        },
+        {
+          "close": 0.7900000214576721,
+          "date": "2026-07-22",
+          "high": 0.8040000200271606,
+          "low": 0.7799999713897705,
+          "open": 0.7829999923706055,
+          "volume": 1097277
+        },
+        {
+          "close": 0.7850000262260437,
+          "date": "2026-07-23",
+          "high": 0.800000011920929,
+          "low": 0.781000018119812,
+          "open": 0.796999990940094,
+          "volume": 743363
+        },
+        {
+          "close": 0.7839999794960022,
+          "date": "2026-07-24",
+          "high": 0.7960000038146973,
+          "low": 0.781000018119812,
+          "open": 0.781000018119812,
+          "volume": 513027
+        },
+        {
+          "close": 0.7860000133514404,
+          "date": "2026-07-27",
+          "high": 0.7960000038146973,
+          "low": 0.7850000262260437,
+          "open": 0.7850000262260437,
+          "volume": 1160183
+        },
+        {
+          "close": 0.7739999890327454,
+          "date": "2026-07-28",
+          "high": 0.7960000038146973,
+          "low": 0.7739999890327454,
+          "open": 0.7929999828338623,
+          "volume": 802576
+        },
+        {
+          "close": 0.7710000276565552,
+          "date": "2026-07-29",
+          "high": 0.7960000038146973,
+          "low": 0.7680000066757202,
+          "open": 0.7749999761581421,
+          "volume": 667873
+        },
+        {
+          "close": 0.777999997138977,
+          "date": "2026-07-30",
+          "high": 0.7820000052452087,
+          "low": 0.7559999823570251,
+          "open": 0.7689999938011169,
+          "volume": 497851
+        },
+        {
+          "close": 0.7720000147819519,
+          "date": "2026-07-31",
+          "high": 0.7929999828338623,
+          "low": 0.7590000033378601,
+          "open": 0.7590000033378601,
+          "volume": 682806
+        },
+        {
+          "close": 0.7870000004768372,
+          "date": "2026-08-03",
+          "high": 0.7960000038146973,
+          "low": 0.7590000033378601,
+          "open": 0.7699999809265137,
+          "volume": 924906
+        },
+        {
+          "close": 0.7739999890327454,
+          "date": "2026-08-04",
+          "high": 0.7870000004768372,
+          "low": 0.7609999775886536,
+          "open": 0.7609999775886536,
+          "volume": 548725
+        },
+        {
+          "close": 0.7649999856948853,
+          "date": "2026-08-05",
+          "high": 0.7950000166893005,
+          "low": 0.7609999775886536,
+          "open": 0.7639999985694885,
+          "volume": 551731
+        },
+        {
+          "close": 0.765999972820282,
+          "date": "2026-08-06",
+          "high": 0.7960000038146973,
+          "low": 0.7620000243186951,
+          "open": 0.7699999809265137,
+          "volume": 327526
+        },
+        {
+          "close": 76,
+          "date": "2026-08-11",
+          "high": 79,
+          "low": 75,
+          "open": 79,
+          "volume": 1069826
+        },
+        {
+          "close": 75.69999694824219,
+          "date": "2026-08-12",
+          "high": 76.69999694824219,
+          "low": 75.19999694824219,
+          "open": 76.0999984741211,
+          "volume": 744353
+        },
+        {
+          "close": 76.0999984741211,
+          "date": "2026-08-13",
+          "high": 76.9000015258789,
+          "low": 75,
+          "open": 75.0999984741211,
+          "volume": 376947
+        },
+        {
+          "close": 76.19999694824219,
+          "date": "2026-08-14",
+          "high": 77.9000015258789,
+          "low": 74.9000015258789,
+          "open": 76.19999694824219,
+          "volume": 401873
+        },
+        {
+          "close": 74.69999694824219,
+          "date": "2026-08-17",
+          "high": 76.4000015258789,
+          "low": 74.69999694824219,
+          "open": 75.5,
+          "volume": 384137
+        },
+        {
+          "close": 75,
+          "date": "2026-08-18",
+          "high": 77.19999694824219,
+          "low": 74.5,
+          "open": 74.5,
+          "volume": 1931235
+        },
+        {
+          "close": 75.5,
+          "date": "2026-08-19",
+          "high": 76.4000015258789,
+          "low": 74.80000305175781,
+          "open": 75.5,
+          "volume": 367159
+        },
+        {
+          "close": 76,
+          "date": "2026-08-20",
+          "high": 76,
+          "low": 74.5,
+          "open": 74.5,
+          "volume": 346821
+        },
+        {
+          "close": 76,
+          "date": "2026-08-21",
+          "high": 77.5999984741211,
+          "low": 75.30000305175781,
+          "open": 76,
+          "volume": 832855
+        },
+        {
+          "close": 75.80000305175781,
+          "date": "2026-08-24",
+          "high": 77.69999694824219,
+          "low": 75.19999694824219,
+          "open": 76,
+          "volume": 263745
+        },
+        {
+          "close": 76.5,
+          "date": "2026-08-25",
+          "high": 76.9000015258789,
+          "low": 75.0999984741211,
+          "open": 75.80000305175781,
+          "volume": 565931
+        },
+        {
+          "close": 76.80000305175781,
+          "date": "2026-08-26",
+          "high": 77,
+          "low": 75.19999694824219,
+          "open": 76.69999694824219,
+          "volume": 320471
+        },
+        {
+          "close": 75,
+          "date": "2026-08-27",
+          "high": 76.5999984741211,
+          "low": 75,
+          "open": 76,
+          "volume": 412653
+        },
+        {
+          "close": 76.30000305175781,
+          "date": "2026-08-28",
+          "high": 77,
+          "low": 75,
+          "open": 75.0999984741211,
+          "volume": 875045
+        },
+        {
+          "close": 75.30000305175781,
+          "date": "2026-09-01",
+          "high": 77,
+          "low": 74.19999694824219,
+          "open": 77,
+          "volume": 468096
+        },
+        {
+          "close": 74.5999984741211,
+          "date": "2026-09-02",
+          "high": 76,
+          "low": 74.5,
+          "open": 76,
+          "volume": 288178
+        },
+        {
+          "close": 74.0999984741211,
+          "date": "2026-09-03",
+          "high": 77,
+          "low": 74.0999984741211,
+          "open": 74.5,
+          "volume": 600269
+        },
+        {
+          "close": 73.80000305175781,
+          "date": "2026-09-04",
+          "high": 76.80000305175781,
+          "low": 73.69999694824219,
+          "open": 76.80000305175781,
+          "volume": 492612
+        },
+        {
+          "close": 73.9000015258789,
+          "date": "2026-09-07",
+          "high": 76,
+          "low": 73.69999694824219,
+          "open": 76,
+          "volume": 483865
+        },
+        {
+          "close": 73.9000015258789,
+          "date": "2026-09-08",
+          "high": 76.19999694824219,
+          "low": 73.19999694824219,
+          "open": 73.69999694824219,
+          "volume": 494211
+        }
+      ],
+      "provenance": {
+        "master": "authoritative ticker master",
+        "price": "local market-data CSV",
+        "rns": "canonical RNS records attached to staged signal artifact",
+        "sharechat": "canonical ShareChat records attached to staged signal artifact",
+        "signals": "staged CrashDash signal artifact"
+      },
+      "research": {
+        "data": null,
+        "generated_at": null,
+        "model": null,
+        "source": null,
+        "status": "ANALYSIS_PENDING"
+      },
+      "rns": [],
+      "rns_initial": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sharechat_snapshot": {
+        "analysed_at": null,
+        "analysis_status": "NOT_AVAILABLE",
+        "sample_fingerprint": null,
+        "sample_size": 0,
+        "sentiment": null,
+        "source_observed_at": null,
+        "summary": null,
+        "ticker": "SOHO.L",
+        "total_posts": 0
+      },
+      "trends": {
+        "records": [],
+        "status": "NOT_IMPLEMENTED"
+      }
+    },
+    "pro": {
+      "accumulation_state": "UNKNOWN",
+      "ai_analysis": null,
+      "ai_status": "ANALYSIS_PENDING",
+      "company_name": "Social Housing REIT plc",
+      "currency": "GBP",
+      "current_price": null,
+      "data_quality": "READY",
+      "evidence_refs": [],
+      "exact_evidence": {
+        "activity_multiple": 1.44,
+        "legacy_signal_color": "GREEN",
+        "social_comparison_status": "NO_DATA",
+        "social_records": []
+      },
+      "exchange": "LSE",
+      "freshness": "UNKNOWN",
+      "industry": "REIT - Residential",
+      "instrument_id": "SOHO.L",
+      "limitations": [
+        "RNS context is not currently available."
+      ],
+      "local_enrichment": {
+        "convergence": {
+          "alert_markers": [
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-14",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.18,
+                "severity": "RED",
+                "signal_state": "ULTRA CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.18,
+              "severity": "RED",
+              "signal_id": "SOHO.L:2026-07-14",
+              "signal_type": "ULTRA CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-15",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 2.01,
+                "severity": "RED",
+                "signal_state": "ULTRA CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": null,
+                "date": null,
+                "status": "NOT_AVAILABLE"
+              },
+              "relative_activity": 2.01,
+              "severity": "RED",
+              "signal_id": "SOHO.L:2026-07-15",
+              "signal_type": "ULTRA CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-20",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.62,
+                "severity": "ORANGE",
+                "signal_state": "EXTREME CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.7960000038146973,
+                "date": "2026-07-20",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.62,
+              "severity": "ORANGE",
+              "signal_id": "SOHO.L:2026-07-20",
+              "signal_type": "EXTREME CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-22",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.43,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.7900000214576721,
+                "date": "2026-07-22",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.43,
+              "severity": "GREEN",
+              "signal_id": "SOHO.L:2026-07-22",
+              "signal_type": "DEEP CRASH BOTTOM"
+            },
+            {
+              "accumulation": "UNKNOWN",
+              "date": "2026-07-27",
+              "evidence": {
+                "accumulation": "UNKNOWN",
+                "relative_activity": 1.44,
+                "severity": "GREEN",
+                "signal_state": "DEEP CRASH BOTTOM"
+              },
+              "price_context": {
+                "close": 0.7860000133514404,
+                "date": "2026-07-27",
+                "status": "EXACT"
+              },
+              "relative_activity": 1.44,
+              "severity": "GREEN",
+              "signal_id": "SOHO.L:2026-07-27",
+              "signal_type": "DEEP CRASH BOTTOM"
+            }
+          ],
+          "price_points": [
+            {
+              "close": 0.7870000004768372,
+              "date": "2026-07-17",
+              "high": 0.7990000247955322,
+              "low": 0.7860000133514404,
+              "open": 0.7929999828338623,
+              "volume": 348085
+            },
+            {
+              "close": 0.7960000038146973,
+              "date": "2026-07-20",
+              "high": 0.8029999732971191,
+              "low": 0.781000018119812,
+              "open": 0.7950000166893005,
+              "volume": 1272013
+            },
+            {
+              "close": 0.7960000038146973,
+              "date": "2026-07-21",
+              "high": 0.800000011920929,
+              "low": 0.7799999713897705,
+              "open": 0.7820000052452087,
+              "volume": 394326
+            },
+            {
+              "close": 0.7900000214576721,
+              "date": "2026-07-22",
+              "high": 0.8040000200271606,
+              "low": 0.7799999713897705,
+              "open": 0.7829999923706055,
+              "volume": 1097277
+            },
+            {
+              "close": 0.7850000262260437,
+              "date": "2026-07-23",
+              "high": 0.800000011920929,
+              "low": 0.781000018119812,
+              "open": 0.796999990940094,
+              "volume": 743363
+            },
+            {
+              "close": 0.7839999794960022,
+              "date": "2026-07-24",
+              "high": 0.7960000038146973,
+              "low": 0.781000018119812,
+              "open": 0.781000018119812,
+              "volume": 513027
+            },
+            {
+              "close": 0.7860000133514404,
+              "date": "2026-07-27",
+              "high": 0.7960000038146973,
+              "low": 0.7850000262260437,
+              "open": 0.7850000262260437,
+              "volume": 1160183
+            },
+            {
+              "close": 0.7739999890327454,
+              "date": "2026-07-28",
+              "high": 0.7960000038146973,
+              "low": 0.7739999890327454,
+              "open": 0.7929999828338623,
+              "volume": 802576
+            },
+            {
+              "close": 0.7710000276565552,
+              "date": "2026-07-29",
+              "high": 0.7960000038146973,
+              "low": 0.7680000066757202,
+              "open": 0.7749999761581421,
+              "volume": 667873
+            },
+            {
+              "close": 0.777999997138977,
+              "date": "2026-07-30",
+              "high": 0.7820000052452087,
+              "low": 0.7559999823570251,
+              "open": 0.7689999938011169,
+              "volume": 497851
+            },
+            {
+              "close": 0.7720000147819519,
+              "date": "2026-07-31",
+              "high": 0.7929999828338623,
+              "low": 0.7590000033378601,
+              "open": 0.7590000033378601,
+              "volume": 682806
+            },
+            {
+              "close": 0.7870000004768372,
+              "date": "2026-08-03",
+              "high": 0.7960000038146973,
+              "low": 0.7590000033378601,
+              "open": 0.7699999809265137,
+              "volume": 924906
+            },
+            {
+              "close": 0.7739999890327454,
+              "date": "2026-08-04",
+              "high": 0.7870000004768372,
+              "low": 0.7609999775886536,
+              "open": 0.7609999775886536,
+              "volume": 548725
+            },
+            {
+              "close": 0.7649999856948853,
+              "date": "2026-08-05",
+              "high": 0.7950000166893005,
+              "low": 0.7609999775886536,
+              "open": 0.7639999985694885,
+              "volume": 551731
+            },
+            {
+              "close": 0.765999972820282,
+              "date": "2026-08-06",
+              "high": 0.7960000038146973,
+              "low": 0.7620000243186951,
+              "open": 0.7699999809265137,
+              "volume": 327526
+            },
+            {
+              "close": 76,
+              "date": "2026-08-11",
+              "high": 79,
+              "low": 75,
+              "open": 79,
+              "volume": 1069826
+            },
+            {
+              "close": 75.69999694824219,
+              "date": "2026-08-12",
+              "high": 76.69999694824219,
+              "low": 75.19999694824219,
+              "open": 76.0999984741211,
+              "volume": 744353
+            },
+            {
+              "close": 76.0999984741211,
+              "date": "2026-08-13",
+              "high": 76.9000015258789,
+              "low": 75,
+              "open": 75.0999984741211,
+              "volume": 376947
+            },
+            {
+              "close": 76.19999694824219,
+              "date": "2026-08-14",
+              "high": 77.9000015258789,
+              "low": 74.9000015258789,
+              "open": 76.19999694824219,
+              "volume": 401873
+            },
+            {
+              "close": 74.69999694824219,
+              "date": "2026-08-17",
+              "high": 76.4000015258789,
+              "low": 74.69999694824219,
+              "open": 75.5,
+              "volume": 384137
+            },
+            {
+              "close": 75,
+              "date": "2026-08-18",
+              "high": 77.19999694824219,
+              "low": 74.5,
+              "open": 74.5,
+              "volume": 1931235
+            },
+            {
+              "close": 75.5,
+              "date": "2026-08-19",
+              "high": 76.4000015258789,
+              "low": 74.80000305175781,
+              "open": 75.5,
+              "volume": 367159
+            },
+            {
+              "close": 76,
+              "date": "2026-08-20",
+              "high": 76,
+              "low": 74.5,
+              "open": 74.5,
+              "volume": 346821
+            },
+            {
+              "close": 76,
+              "date": "2026-08-21",
+              "high": 77.5999984741211,
+              "low": 75.30000305175781,
+              "open": 76,
+              "volume": 832855
+            },
+            {
+              "close": 75.80000305175781,
+              "date": "2026-08-24",
+              "high": 77.69999694824219,
+              "low": 75.19999694824219,
+              "open": 76,
+              "volume": 263745
+            },
+            {
+              "close": 76.5,
+              "date": "2026-08-25",
+              "high": 76.9000015258789,
+              "low": 75.0999984741211,
+              "open": 75.80000305175781,
+              "volume": 565931
+            },
+            {
+              "close": 76.80000305175781,
+              "date": "2026-08-26",
+              "high": 77,
+              "low": 75.19999694824219,
+              "open": 76.69999694824219,
+              "volume": 320471
+            },
+            {
+              "close": 75,
+              "date": "2026-08-27",
+              "high": 76.5999984741211,
+              "low": 75,
+              "open": 76,
+              "volume": 412653
+            },
+            {
+              "close": 76.30000305175781,
+              "date": "2026-08-28",
+              "high": 77,
+              "low": 75,
+              "open": 75.0999984741211,
+              "volume": 875045
+            },
+            {
+              "close": 75.30000305175781,
+              "date": "2026-09-01",
+              "high": 77,
+              "low": 74.19999694824219,
+              "open": 77,
+              "volume": 468096
+            },
+            {
+              "close": 74.5999984741211,
+              "date": "2026-09-02",
+              "high": 76,
+              "low": 74.5,
+              "open": 76,
+              "volume": 288178
+            },
+            {
+              "close": 74.0999984741211,
+              "date": "2026-09-03",
+              "high": 77,
+              "low": 74.0999984741211,
+              "open": 74.5,
+              "volume": 600269
+            },
+            {
+              "close": 73.80000305175781,
+              "date": "2026-09-04",
+              "high": 76.80000305175781,
+              "low": 73.69999694824219,
+              "open": 76.80000305175781,
+              "volume": 492612
+            },
+            {
+              "close": 73.9000015258789,
+              "date": "2026-09-07",
+              "high": 76,
+              "low": 73.69999694824219,
+              "open": 76,
+              "volume": 483865
+            },
+            {
+              "close": 73.9000015258789,
+              "date": "2026-09-08",
+              "high": 76.19999694824219,
+              "low": 73.19999694824219,
+              "open": 73.69999694824219,
+              "volume": 494211
+            }
+          ]
+        },
+        "metadata": {
+          "company_name": "Social Housing REIT plc",
+          "currency": "GBP",
+          "current_close": null,
+          "exchange": "LSE",
+          "industry": "REIT - Residential",
+          "market": "MAIN",
+          "market_cap": null,
+          "quote_unit": null,
+          "quote_unit_status": "BLOCKED",
+          "sector": "Real Estate",
+          "ticker": "SOHO.L"
+        },
+        "price_history": [
+          {
+            "close": 0.7870000004768372,
+            "date": "2026-07-17",
+            "high": 0.7990000247955322,
+            "low": 0.7860000133514404,
+            "open": 0.7929999828338623,
+            "volume": 348085
+          },
+          {
+            "close": 0.7960000038146973,
+            "date": "2026-07-20",
+            "high": 0.8029999732971191,
+            "low": 0.781000018119812,
+            "open": 0.7950000166893005,
+            "volume": 1272013
+          },
+          {
+            "close": 0.7960000038146973,
+            "date": "2026-07-21",
+            "high": 0.800000011920929,
+            "low": 0.7799999713897705,
+            "open": 0.7820000052452087,
+            "volume": 394326
+          },
+          {
+            "close": 0.7900000214576721,
+            "date": "2026-07-22",
+            "high": 0.8040000200271606,
+            "low": 0.7799999713897705,
+            "open": 0.7829999923706055,
+            "volume": 1097277
+          },
+          {
+            "close": 0.7850000262260437,
+            "date": "2026-07-23",
+            "high": 0.800000011920929,
+            "low": 0.781000018119812,
+            "open": 0.796999990940094,
+            "volume": 743363
+          },
+          {
+            "close": 0.7839999794960022,
+            "date": "2026-07-24",
+            "high": 0.7960000038146973,
+            "low": 0.781000018119812,
+            "open": 0.781000018119812,
+            "volume": 513027
+          },
+          {
+            "close": 0.7860000133514404,
+            "date": "2026-07-27",
+            "high": 0.7960000038146973,
+            "low": 0.7850000262260437,
+            "open": 0.7850000262260437,
+            "volume": 1160183
+          },
+          {
+            "close": 0.7739999890327454,
+            "date": "2026-07-28",
+            "high": 0.7960000038146973,
+            "low": 0.7739999890327454,
+            "open": 0.7929999828338623,
+            "volume": 802576
+          },
+          {
+            "close": 0.7710000276565552,
+            "date": "2026-07-29",
+            "high": 0.7960000038146973,
+            "low": 0.7680000066757202,
+            "open": 0.7749999761581421,
+            "volume": 667873
+          },
+          {
+            "close": 0.777999997138977,
+            "date": "2026-07-30",
+            "high": 0.7820000052452087,
+            "low": 0.7559999823570251,
+            "open": 0.7689999938011169,
+            "volume": 497851
+          },
+          {
+            "close": 0.7720000147819519,
+            "date": "2026-07-31",
+            "high": 0.7929999828338623,
+            "low": 0.7590000033378601,
+            "open": 0.7590000033378601,
+            "volume": 682806
+          },
+          {
+            "close": 0.7870000004768372,
+            "date": "2026-08-03",
+            "high": 0.7960000038146973,
+            "low": 0.7590000033378601,
+            "open": 0.7699999809265137,
+            "volume": 924906
+          },
+          {
+            "close": 0.7739999890327454,
+            "date": "2026-08-04",
+            "high": 0.7870000004768372,
+            "low": 0.7609999775886536,
+            "open": 0.7609999775886536,
+            "volume": 548725
+          },
+          {
+            "close": 0.7649999856948853,
+            "date": "2026-08-05",
+            "high": 0.7950000166893005,
+            "low": 0.7609999775886536,
+            "open": 0.7639999985694885,
+            "volume": 551731
+          },
+          {
+            "close": 0.765999972820282,
+            "date": "2026-08-06",
+            "high": 0.7960000038146973,
+            "low": 0.7620000243186951,
+            "open": 0.7699999809265137,
+            "volume": 327526
+          },
+          {
+            "close": 76,
+            "date": "2026-08-11",
+            "high": 79,
+            "low": 75,
+            "open": 79,
+            "volume": 1069826
+          },
+          {
+            "close": 75.69999694824219,
+            "date": "2026-08-12",
+            "high": 76.69999694824219,
+            "low": 75.19999694824219,
+            "open": 76.0999984741211,
+            "volume": 744353
+          },
+          {
+            "close": 76.0999984741211,
+            "date": "2026-08-13",
+            "high": 76.9000015258789,
+            "low": 75,
+            "open": 75.0999984741211,
+            "volume": 376947
+          },
+          {
+            "close": 76.19999694824219,
+            "date": "2026-08-14",
+            "high": 77.9000015258789,
+            "low": 74.9000015258789,
+            "open": 76.19999694824219,
+            "volume": 401873
+          },
+          {
+            "close": 74.69999694824219,
+            "date": "2026-08-17",
+            "high": 76.4000015258789,
+            "low": 74.69999694824219,
+            "open": 75.5,
+            "volume": 384137
+          },
+          {
+            "close": 75,
+            "date": "2026-08-18",
+            "high": 77.19999694824219,
+            "low": 74.5,
+            "open": 74.5,
+            "volume": 1931235
+          },
+          {
+            "close": 75.5,
+            "date": "2026-08-19",
+            "high": 76.4000015258789,
+            "low": 74.80000305175781,
+            "open": 75.5,
+            "volume": 367159
+          },
+          {
+            "close": 76,
+            "date": "2026-08-20",
+            "high": 76,
+            "low": 74.5,
+            "open": 74.5,
+            "volume": 346821
+          },
+          {
+            "close": 76,
+            "date": "2026-08-21",
+            "high": 77.5999984741211,
+            "low": 75.30000305175781,
+            "open": 76,
+            "volume": 832855
+          },
+          {
+            "close": 75.80000305175781,
+            "date": "2026-08-24",
+            "high": 77.69999694824219,
+            "low": 75.19999694824219,
+            "open": 76,
+            "volume": 263745
+          },
+          {
+            "close": 76.5,
+            "date": "2026-08-25",
+            "high": 76.9000015258789,
+            "low": 75.0999984741211,
+            "open": 75.80000305175781,
+            "volume": 565931
+          },
+          {
+            "close": 76.80000305175781,
+            "date": "2026-08-26",
+            "high": 77,
+            "low": 75.19999694824219,
+            "open": 76.69999694824219,
+            "volume": 320471
+          },
+          {
+            "close": 75,
+            "date": "2026-08-27",
+            "high": 76.5999984741211,
+            "low": 75,
+            "open": 76,
+            "volume": 412653
+          },
+          {
+            "close": 76.30000305175781,
+            "date": "2026-08-28",
+            "high": 77,
+            "low": 75,
+            "open": 75.0999984741211,
+            "volume": 875045
+          },
+          {
+            "close": 75.30000305175781,
+            "date": "2026-09-01",
+            "high": 77,
+            "low": 74.19999694824219,
+            "open": 77,
+            "volume": 468096
+          },
+          {
+            "close": 74.5999984741211,
+            "date": "2026-09-02",
+            "high": 76,
+            "low": 74.5,
+            "open": 76,
+            "volume": 288178
+          },
+          {
+            "close": 74.0999984741211,
+            "date": "2026-09-03",
+            "high": 77,
+            "low": 74.0999984741211,
+            "open": 74.5,
+            "volume": 600269
+          },
+          {
+            "close": 73.80000305175781,
+            "date": "2026-09-04",
+            "high": 76.80000305175781,
+            "low": 73.69999694824219,
+            "open": 76.80000305175781,
+            "volume": 492612
+          },
+          {
+            "close": 73.9000015258789,
+            "date": "2026-09-07",
+            "high": 76,
+            "low": 73.69999694824219,
+            "open": 76,
+            "volume": 483865
+          },
+          {
+            "close": 73.9000015258789,
+            "date": "2026-09-08",
+            "high": 76.19999694824219,
+            "low": 73.19999694824219,
+            "open": 73.69999694824219,
+            "volume": 494211
+          }
+        ],
+        "provenance": {
+          "metadata_available": false,
+          "price_history_available": true
+        },
+        "rns": [],
+        "source_as_of": null,
+        "source_status": "AVAILABLE"
+      },
+      "market": "MAIN",
+      "market_cap": null,
+      "price_at_signal": null,
+      "profile": {
+        "corporate_actions": {
+          "events": [],
+          "status": "VALID_EMPTY"
+        },
+        "current_price": null,
+        "identity": {
+          "company_name": "Social Housing REIT plc",
+          "currency": "GBP",
+          "exchange": "LSE",
+          "industry": "REIT - Residential",
+          "market": "MAIN",
+          "sector": "Real Estate",
+          "ticker": "SOHO.L"
+        },
+        "latest_signal": {
+          "accumulation_state": "UNKNOWN",
+          "relative_activity": 2.18,
+          "severity": "RED",
+          "signal_date": "2026-07-14",
+          "ticker": "SOHO.L"
+        },
+        "market_cap": null,
+        "research": {
+          "data": null,
+          "status": "ANALYSIS_PENDING"
+        },
+        "rns": {
+          "records": [],
+          "status": "NOT_AVAILABLE",
+          "total_available": 0
+        },
+        "sharechat_snapshot": {
+          "analysed_at": null,
+          "analysis_status": "NOT_AVAILABLE",
+          "sample_size": 0,
+          "sentiment": null,
+          "source_observed_at": null,
+          "summary": null,
+          "ticker": "SOHO.L",
+          "total_posts": 0
+        },
+        "signal_statistics": {
+          "by_signal_type": {
+            "DEEP CRASH BOTTOM": 2,
+            "EXTREME CRASH BOTTOM": 1,
+            "ULTRA CRASH BOTTOM": 2
+          },
+          "current_signal_count": 0,
+          "historical_signal_count": 5
+        },
+        "trends": {
+          "records": [],
+          "status": "NOT_IMPLEMENTED"
+        }
+      },
+      "provenance_refs": [],
+      "rns_records_emitted": 0,
+      "rns_total_available": 0,
+      "sector": "Real Estate",
+      "sharechat_records_emitted": 0,
+      "sharechat_total_available": 0,
+      "signal_date": "2026-07-27",
+      "signal_state": "DEEP CRASH BOTTOM",
+      "social_records": [],
+      "social_status": "NO_DATA",
+      "source_quality": "READY",
+      "temporal_class": "SIGNAL_TIME",
+      "ticker": "SOHO.L",
+      "watch_severity": "ELEVATED",
+      "why_crashdash_noticed": [
+        "DEEP CRASH BOTTOM"
+      ]
+    }
+  },
+  "schema_version": "V1"
+}
