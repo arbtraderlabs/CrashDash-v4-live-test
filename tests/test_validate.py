@@ -158,7 +158,7 @@ def test_intelligence_bounds_accepts_compact_sharechat_snapshot(complete_candida
     path = complete_candidate / "data" / "instruments" / "TEST1.L.json"
     payload = json.loads(path.read_text())
     payload["data"]["instrument_detail"]["sharechat_snapshot"] = {
-        "ticker": "TEST1.L", "captured_at": "2026-09-09T22:30:00+01:00", "total_posts": 5235,
+        "ticker": "TEST1.L", "source_observed_at": "2026-09-09T22:30:00+01:00", "analysed_at": None, "total_posts": 5235,
         "sample_size": 12, "sentiment": None, "summary": None, "analysis_status": "ANALYSIS_PENDING",
     }
     path.write_text(json.dumps(payload), encoding="utf-8")
@@ -170,7 +170,7 @@ def test_intelligence_bounds_rejects_fabricated_sentiment_without_available_stat
     path = complete_candidate / "data" / "instruments" / "TEST1.L.json"
     payload = json.loads(path.read_text())
     payload["data"]["instrument_detail"]["sharechat_snapshot"] = {
-        "ticker": "TEST1.L", "captured_at": "2026-09-09T22:30:00+01:00", "total_posts": 5235,
+        "ticker": "TEST1.L", "source_observed_at": "2026-09-09T22:30:00+01:00", "analysed_at": None, "total_posts": 5235,
         "sample_size": 12, "sentiment": "BULLISH", "summary": "looks fabricated", "analysis_status": "ANALYSIS_PENDING",
     }
     path.write_text(json.dumps(payload), encoding="utf-8")
