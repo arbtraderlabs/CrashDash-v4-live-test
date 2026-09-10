@@ -661,8 +661,16 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
   const rangeControls = CHART_RANGES.map(([key]) => `<button type="button" class="chart-range${chartRange === key ? " active" : ""}" data-chart-range="${key}" aria-pressed="${chartRange === key}">${key === "FULL" ? "ALL" : key}</button>`).join("");
   const earlierNote = chartData.earlierAlerts ? `<p class="chart-note">${chartData.earlierAlerts} earlier Research Alert(s) exist outside this range.</p>` : "";
   const socialRecords = Array.isArray(model.social_records) ? model.social_records : [];
+  const socialSnapshot = model.sharechat_snapshot && typeof model.sharechat_snapshot === "object"
+    ? model.sharechat_snapshot : null;
   const socialStatus = model.social_status || "NO_DATA";
-  const socialText = socialStatus === "READY"
+  const socialText = socialSnapshot?.analysis_status === "AVAILABLE"
+    ? `${socialSnapshot.total_posts || 0} ShareChat posts observed. ${socialSnapshot.sentiment ? `Sentiment: ${socialSnapshot.sentiment}.` : ""} ${socialSnapshot.summary || "No stored community summary is available."}`
+    : socialSnapshot?.analysis_status === "ANALYSIS_PENDING"
+      ? `${socialSnapshot.total_posts || 0} ShareChat posts observed. Community analysis is pending.`
+      : socialSnapshot?.analysis_status === "NOT_AVAILABLE"
+        ? "ShareChat community analysis is not currently available."
+        : socialStatus === "READY"
     ? `${socialRecords.length} recorded discussion item(s) are available.`
     : socialStatus === "STALE"
       ? "Stored discussion context is stale and should not be read as current."
@@ -687,6 +695,13 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
   const socialInitial = socialRecords.slice(0, 10);
   const socialRemaining = socialRecords.slice(10);
   const renderSocial = (item) => `<li>${escapeHtml(item.text || item.content || item.headline || "Community discussion item")}${item.date ? ` · ${escapeHtml(String(item.date))}` : ""}</li>`;
+  const corporateActions = model.corporate_actions && typeof model.corporate_actions === "object"
+    ? model.corporate_actions : null;
+  const corporateActionText = corporateActions?.status === "AVAILABLE" && Array.isArray(corporateActions.events) && corporateActions.events.length
+    ? corporateActions.events.map((event) => `${event.type || "Corporate action"}${event.ratio_display ? ` (${event.ratio_display})` : ""}${event.date ? ` on ${event.date}` : ""}`).join("; ")
+    : corporateActions?.status === "VALID_EMPTY"
+      ? "No corporate actions are recorded in the public profile."
+      : "Corporate-action history is not currently available.";
   return `<section class="chart-card" aria-label="CrashDash History chart">
       <div class="section-heading"><div><p class="eyebrow">CrashDash History</p><h2>CrashDash History</h2><p class="chart-subtitle">Price · Research Alerts · Accumulation · Company Announcements</p></div><div class="chart-legend" aria-label="Chart event filters">${renderChartLegend(filterState)}</div></div>
       <div class="chart-ranges" aria-label="Chart history range">${rangeControls}</div>
@@ -713,6 +728,7 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
       <article class="research-card"><h3>CrashDash intelligence</h3><p>CrashDash noticed this instrument because the evidence listed above aligned with a ${escapeHtml(model.watch_severity || "current")} signal.</p></article>
       <article class="research-card"><h3>Official RNS evidence</h3><p>${rnsAvailable ? `${rnsAvailable} announcements available. Showing the latest ${Math.min(5, rnsInitial.length)} first.` : "RNS headers are not currently available."}</p>${rnsInitial.map(renderRns).join("")}${rnsRemaining.length ? `<details class="evidence-more"><summary>Show more RNS announcements</summary>${rnsRemaining.map(renderRns).join("")}</details>` : ""}</article>
       <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : ""}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></details>` : ""}</article>
+      ${corporateActions ? `<article class="research-card"><h3>Corporate actions</h3><p>${escapeHtml(corporateActionText)}</p></article>` : ""}
       <article class="research-card"><h3>Stored AI analysis</h3><p>${escapeHtml(aiText)}</p>${aiTimestamp ? `<p class="research-source">Source timestamp: ${escapeHtml(String(aiTimestamp))}</p>` : ""}</article>
       <article class="research-card"><h3>Risk flags</h3><p>Review the data-quality note and unavailable evidence before drawing conclusions.</p></article>
     </section>`;

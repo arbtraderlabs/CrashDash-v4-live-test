@@ -23,6 +23,14 @@ const model = {
       rns_markers: [{ date: "2026-08-28", headline: "Announcement", event_type: "RNS" }],
     },
   },
+  sharechat_snapshot: {
+    analysis_status: "ANALYSIS_PENDING",
+    total_posts: 12,
+  },
+  corporate_actions: {
+    status: "AVAILABLE",
+    events: [{ type: "stock_split", ratio_display: "1/10", date: "2025-10-14" }],
+  },
 };
 
 test("live shell renders typed CrashDash and RNS markers separately", () => {
@@ -31,5 +39,7 @@ test("live shell renders typed CrashDash and RNS markers separately", () => {
   assert.match(markup, /<polygon class="chart-signal-marker severity-marker-extreme-caution historical"/);
   assert.match(markup, /class="chart-signal-marker severity-marker-elevated current"/);
   assert.match(markup, /class="chart-rns-marker"[^>]*data-event-type="RNS"/);
+  assert.match(markup, /ShareChat posts observed\. Community analysis is pending/);
+  assert.match(markup, /stock_split \(1\/10\) on 2025-10-14/);
   assert.doesNotMatch(markup, /GREEN|ORANGE|RED|YELLOW/);
 });
