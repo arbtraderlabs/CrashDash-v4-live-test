@@ -241,6 +241,7 @@
     .research-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .65rem; }
     .research-cards .section-heading { grid-column: 1 / -1; margin-bottom: 0; }
     .research-card { padding: .85rem; border: 1px solid var(--line); border-radius: 10px; background: var(--panel-raised); }
+    .market-tape-card { grid-column: 1 / -1; }
     /* Company in 30 Seconds: green here is component identity/company
      * context only -- never a bullish/positive-severity signal. Body text
      * stays normal light/white; only the border, heading, and number use
@@ -289,6 +290,21 @@
     }
     .research-card h3 { margin-bottom: .35rem; font-size: .9rem; }
     .research-card p { margin: 0; color: var(--muted); font-size: .78rem; line-height: 1.45; }
+    .research-primary, .research-supporting { display: grid; gap: .65rem; }
+    .research-primary { grid-template-columns: minmax(0, 1.35fr) minmax(240px, .65fr); }
+    .research-supporting { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: .65rem; }
+    .research-card-heading { display: flex; align-items: center; justify-content: space-between; gap: .6rem; }
+    .rns-item { margin-top: .55rem; border: 1px solid var(--line); border-left: 3px solid var(--rns-tone, var(--accent)); border-radius: 8px; background: rgba(11, 16, 32, .42); overflow: hidden; }
+    .rns-tone-bullish { --rns-tone: #73d6a0; --rns-tint: rgba(115, 214, 160, .15); } .rns-tone-bearish { --rns-tone: #f07878; --rns-tint: rgba(240, 120, 120, .15); } .rns-tone-neutral { --rns-tone: #3b82f6; --rns-tint: rgba(59, 130, 246, .15); } .rns-tone-caution { --rns-tone: #f59e0b; --rns-tint: rgba(245, 158, 11, .15); }
+    .rns-item-header { display: grid; grid-template-columns: 1.7rem minmax(0, 1fr) auto; gap: .45rem; align-items: start; padding: .6rem; background: linear-gradient(90deg, var(--rns-tint, rgba(121, 169, 255, .08)), transparent); }
+    .rns-number { display: grid; place-items: center; width: 1.35rem; height: 1.35rem; border: 1px solid var(--rns-tone, var(--accent)); border-radius: 50%; color: var(--rns-tone, var(--accent)); font: 700 .68rem/1 ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .rns-kicker { margin: 0 0 .1rem !important; color: var(--rns-tone, var(--accent)) !important; font: 700 .58rem/1.2 ui-monospace, SFMono-Regular, Menlo, monospace !important; letter-spacing: .08em; text-transform: uppercase; }
+    .rns-item-heading h4 { margin: 0; color: var(--text); font-size: .75rem; line-height: 1.35; overflow-wrap: anywhere; } .rns-date { color: var(--muted); font: .64rem/1.35 ui-monospace, SFMono-Regular, Menlo, monospace; text-align: right; white-space: nowrap; }
+    .rns-item-meta { display: flex; flex-wrap: wrap; gap: .25rem .45rem; padding: 0 .6rem .45rem 2.75rem; color: var(--muted); font-size: .62rem; } .rns-tone-badge { color: var(--rns-tone, var(--accent)); font: 700 .6rem/1 ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .rns-evidence summary { display: flex; justify-content: flex-end; padding: .45rem .6rem; color: var(--rns-tone, var(--accent)); cursor: pointer; font: 700 .62rem/1.2 ui-monospace, SFMono-Regular, Menlo, monospace; list-style: none; } .rns-evidence summary::-webkit-details-marker { display: none; }
+    .rns-collapse { display: none; } .rns-evidence[open] .rns-expand { display: none; } .rns-evidence[open] .rns-collapse { display: inline; }
+    .rns-content { max-height: 11rem; margin: 0 .6rem .55rem; overflow: auto; padding: .6rem; border: 1px solid rgba(155, 168, 196, .14); border-radius: 6px; background: rgba(5, 9, 19, .62); color: var(--text); font: .68rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; white-space: pre-wrap; overflow-wrap: anywhere; }
+    .research-state { margin-top: .7rem !important; border-left: 2px solid var(--accent); padding-left: .55rem; } .community-list { display: grid; gap: .3rem; margin: .55rem 0 0; padding-left: 1.1rem; color: var(--muted); font-size: .7rem; }
     .research-source { margin-top: .45rem !important; }
     .research-source a { color: var(--accent); }
     .mode-pro { border-left: 3px solid var(--accent); padding-left: .75rem; background: rgba(112, 195, 255, .035); }
@@ -306,8 +322,11 @@
     @media (max-width: 640px) {
       .instrument-heading { display: block; }
       .state-chips { justify-content: start; margin-top: .85rem; }
-      .research-cards { grid-template-columns: 1fr; }
+      .research-cards, .research-primary, .research-supporting { grid-template-columns: 1fr; }
       .research-cards .section-heading { grid-column: auto; }
+      .rns-item-header { grid-template-columns: 1.7rem minmax(0, 1fr); }
+      .rns-date { grid-column: 2; text-align: left; white-space: normal; }
+      .rns-item-meta { padding-left: .6rem; }
     }
     @media (prefers-reduced-motion: reduce) {
       .chart-plot, .chart-plot .chart-line, .chart-plot .chart-area, .chart-plot .chart-signal-marker, .chart-plot .chart-accumulation-marker, .chart-plot .chart-rns-marker { transition: none; }
