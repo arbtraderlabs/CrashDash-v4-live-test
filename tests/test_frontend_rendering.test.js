@@ -1,6 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
-import { renderBeginner } from "../src/publication/static/browser.js";
+import { renderBeginner, safeExternalUrl } from "../src/publication/static/browser.js";
 
 const model = {
   ticker: "BCG.L",
@@ -35,15 +35,47 @@ const model = {
 
 test("live shell renders typed CrashDash and RNS markers separately", () => {
   const markup = renderBeginner(model, { chartRange: "FULL" });
-  assert.match(markup, /<polygon class="chart-signal-marker severity-marker-high historical"/);
-  assert.match(markup, /<polygon class="chart-signal-marker severity-marker-extreme-caution historical"/);
-  assert.match(markup, /class="chart-signal-marker severity-marker-elevated current"/);
+  assert.match(markup, /<circle class="chart-signal-marker severity-marker-high historical"[^>]*r="4\.5"/);
+  assert.match(markup, /<circle class="chart-signal-marker severity-marker-extreme-caution historical"[^>]*r="4\.5"/);
+  assert.match(markup, /class="chart-signal-marker severity-marker-elevated current"[^>]*r="6\.5"/);
   assert.match(markup, /class="chart-rns-marker"[^>]*data-event-type="RNS"/);
   assert.match(markup, /ShareChat posts observed\. Community analysis is pending/);
   assert.doesNotMatch(markup, /Showing the latest 0 of 12/);
   assert.match(markup, /stock_split \(1\/10\) on 2025-10-14/);
-  assert.match(markup, /<polygon class="chart-signal-marker/);
+  assert.doesNotMatch(markup, /<polygon class="chart-signal-marker/);
   assert.doesNotMatch(markup, /GREEN|ORANGE|RED|YELLOW/);
+});
+
+test("public links and event attributes reject active content", () => {
+  assert.equal(safeExternalUrl("javascript:alert(1)"), "");
+  assert.equal(safeExternalUrl("data:text/html,<script>alert(1)</script>"), "");
+  assert.equal(safeExternalUrl("https://example.com/announcement"), "https://example.com/announcement");
+  const markup = renderBeginner({
+    ...model,
+    local_enrichment: {
+      ...model.local_enrichment,
+      convergence: {
+        ...model.local_enrichment.convergence,
+        alert_markers: [{
+          date: "2026-09-08",
+          signal_type: "DEEP CRASH BOTTOM",
+          event_type: '" onmouseover="alert(1)',
+          current: true,
+        }],
+      },
+    },
+    profile: {
+      rns: {
+        records: [{
+          date: "2026-09-08",
+          headline: "Announcement",
+          url: "javascript:alert(1)",
+        }],
+      },
+    },
+  }, { chartRange: "FULL" });
+  assert.doesNotMatch(markup, /onmouseover="alert\(1\)/);
+  assert.doesNotMatch(markup, /href="javascript:/);
 });
 
 test("RNS renders newest five with bounded expansion and supplied rating", () => {

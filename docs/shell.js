@@ -5,7 +5,7 @@
  * shell_views.js as pure, independently testable functions.
  */
 
-import { formatQuotePrice, humanDate, renderBeginner, renderPointEventContext, renderPro } from "./browser.js?v=004j";
+import { escapeHtml, formatQuotePrice, humanDate, renderBeginner, renderPointEventContext, renderPro } from "./browser.js?v=004j";
 import { normaliseDashboard, normaliseHistory, normaliseRealBundle } from "./shell_data.js?v=004j";
 import { parseState, serializeState } from "./shell_state.js";
 import {
@@ -247,9 +247,9 @@ function renderInstrumentUnavailablePanel(selectedId) {
     return '<section class="status dashboard-empty"><p>Select a current signal to view research.</p></section>';
   }
   if (instrumentUnavailableReason === "CONTRACT_ERROR") {
-    return `<section class="status error-panel"><p>Instrument detail for ${selectedId} could not be read (CONTRACT_ERROR): the published file was not valid JSON or did not match the expected contract.</p></section>`;
+    return `<section class="status error-panel"><p>Instrument detail for ${escapeHtml(selectedId)} could not be read (CONTRACT_ERROR): the published file was not valid JSON or did not match the expected contract.</p></section>`;
   }
-  return `<section class="status dashboard-empty"><p>Instrument detail for ${selectedId} is not available (NOT_AVAILABLE). Other instruments are unaffected.</p></section>`;
+  return `<section class="status dashboard-empty"><p>Instrument detail for ${escapeHtml(selectedId)} is not available (NOT_AVAILABLE). Other instruments are unaffected.</p></section>`;
 }
 
 function renderProductStatusBanner() {

@@ -24,6 +24,22 @@ release checkpoint.)
 Nothing else was copied. No CSS files exist separately (styles are inline
 in `index.html`, as in the source).
 
+## Marker synchronization record
+
+On 2026-09-12, the chart-marker policy was reconciled with
+`CrashDash-integration` commit
+`072404c134b667726bcb0ffc12e6ea84db31e8d7`:
+
+| Live-test file | Integration source |
+| --- | --- |
+| `src/publication/static/browser.js` | `src/crashdash/vnext/browser.js` |
+| `tests/test_frontend_rendering.test.js` | `tests/browser/vnext_browser.test.js` |
+
+Both paths now enforce the same policy: CrashDash signals are circles
+(current radius `6.5`, historical radius `4.5`) and RNS events remain rotated
+square/diamond markers. The live-test security hardening and its generated
+publication output were preserved.
+
 ## Deviations from the source (and why)
 
 ### 1. `../browser.js` → `./browser.js` (path portability fix, required)

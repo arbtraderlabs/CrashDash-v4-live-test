@@ -4,7 +4,7 @@
  * DOM (see tests/browser/vnext_shell.test.js).
  */
 
-import { escapeHtml, formatMarketCap, formatNumber, humanDate } from "./browser.js?v=004j";
+import { escapeHtml, formatMarketCap, formatNumber, humanDate, safeExternalUrl } from "./browser.js?v=004j";
 
 export const SEVERITY_ORDER = Object.freeze({
   "EXTREME CAUTION": 0,
@@ -348,7 +348,7 @@ export function renderTimeline(records) {
     for (const rns of Array.isArray(record.rns_records) ? record.rns_records : []) {
       const date = rns.date || rns.published_at || rns.published;
       if (!date) continue;
-      events.push({ date: String(date).slice(0, 10), kind: "Official RNS", text: rns.title || rns.headline || `${record.ticker} announcement`, href: rns.url || rns.link || rns.source_url });
+      events.push({ date: String(date).slice(0, 10), kind: "Official RNS", text: rns.title || rns.headline || `${record.ticker} announcement`, href: safeExternalUrl(rns.url || rns.link || rns.source_url) });
     }
   }
   events.sort((left, right) => right.date.localeCompare(left.date));

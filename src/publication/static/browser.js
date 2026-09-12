@@ -25,6 +25,16 @@ export function escapeHtml(value) {
   })[character]);
 }
 
+export function safeExternalUrl(value) {
+  if (!value) return "";
+  try {
+    const url = new URL(String(value));
+    return url.protocol === "https:" ? url.href : "";
+  } catch {
+    return "";
+  }
+}
+
 export function formatPercent(value) {
   return typeof value === "number" ? `${value.toFixed(1)}%` : null;
 }
@@ -547,11 +557,12 @@ function renderChartMarkers(points, markers, className, label, scale) {
     const title = `${label}: ${marker.date}${marker.severity ? ` - ${marker.severity}` : ""}${marker.signal_type ? ` - ${marker.signal_type}` : ""}${marker.relative_activity ? ` - ${marker.relative_activity}x activity` : ""}${marker.accumulation ? " - Accumulation Detected" : ""}`;
     const markerState = marker.current ? " current" : " historical";
     const eventType = marker.event_type || marker.marker_type || (className === "chart-rns-marker" ? "RNS" : "CRASHDASH_SIGNAL");
+    const safeEventType = escapeHtml(eventType);
     const shape = className === "chart-rns-marker"
-      ? `<rect class="${className}" data-event-type="${eventType}" x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" transform="rotate(45 ${x.toFixed(1)} ${y.toFixed(1)})" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></rect>`
+      ? `<rect class="${className}" data-event-type="${safeEventType}" x="${(x - 5).toFixed(1)}" y="${(y - 5).toFixed(1)}" width="10" height="10" transform="rotate(45 ${x.toFixed(1)} ${y.toFixed(1)})" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></rect>`
       : marker.current
-        ? `<circle class="${className}${severityClass}${markerState}" data-event-type="${eventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : "6.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`
-        : `<polygon class="${className}${severityClass}${markerState}" data-event-type="${eventType}" points="${x.toFixed(1)},${(y - 6).toFixed(1)} ${(x + 6).toFixed(1)},${y.toFixed(1)} ${x.toFixed(1)},${(y + 6).toFixed(1)} ${(x - 6).toFixed(1)},${y.toFixed(1)}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></polygon>`;
+        ? `<circle class="${className}${severityClass}${markerState}" data-event-type="${safeEventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : "6.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`
+        : `<circle class="${className}${severityClass}${markerState}" data-event-type="${safeEventType}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${className === "chart-accumulation-marker" ? "8" : "4.5"}" tabindex="0" data-chart-event="${escapeHtml(marker.chart_id || "")}" data-chart-x="${x.toFixed(1)}"><title>${escapeHtml(title)}</title></circle>`;
     return marker.chart_id ? `<a href="#${escapeHtml(marker.chart_id)}" aria-label="${escapeHtml(title)}">${shape}</a>` : shape;
   }).join("");
 }
@@ -720,7 +731,7 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
     const rating = ["BULLISH", "NEUTRAL", "BEARISH"].includes(String(item.category || item.rating || item.sentiment).toUpperCase())
       ? String(item.category || item.rating || item.sentiment).toUpperCase()
       : "";
-    const sourceUrl = item.url || item.source_url;
+    const sourceUrl = safeExternalUrl(item.url || item.source_url);
     return `<details class="rns-evidence" id="${escapeHtml(item.chart_id || "")}"><summary>${escapeHtml(cleanDisplayText(item.headline, "Company update"))} &middot; ${escapeHtml(humanDate(dateValue) || dateValue || "Date unavailable")}</summary><p class="rns-meta">Official company announcement · ${escapeHtml(item.source || "RNS")}${rating ? ` · Rating: ${escapeHtml(rating)}` : ""}${item.rns_number ? ` · ${escapeHtml(item.rns_number)}` : ""}</p><div class="rns-content">${escapeHtml(item.content || item.full_content || "Full announcement text is not available in this local evidence record.")}</div>${sourceUrl ? `<p class="research-source"><a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noreferrer">Original source</a></p>` : ""}</details>`;
   };
   const rnsSummary = rnsRemaining.length
