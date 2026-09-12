@@ -1,13 +1,17 @@
 # Frontend source
 
-The static application shell in `src/publication/static/` was copied
-verbatim from the CrashDash V4 integration repository
-(`CrashDash-integration`, branch `v4-integration`) at commit:
+The canonical development source is the CrashDash V4 integration repository
+(`CrashDash-integration`, branch `v4-integration`). The publication shell is
+synchronized from that source at commit:
 
-    ec00dde14374614578f25ef908709211dc25383f
+    072404c134b667726bcb0ffc12e6ea84db31e8d7
 
-(This is the same commit tagged `v4-product-gate4-20260909` — the Gate 4
-release checkpoint.)
+The synchronized files are checked by:
+
+    make check-frontend-sync
+
+The check compares every mapped file and applies only the documented
+publication import-path transform.
 
 ## Files copied
 
@@ -24,25 +28,30 @@ release checkpoint.)
 Nothing else was copied. No CSS files exist separately (styles are inline
 in `index.html`, as in the source).
 
-## Marker synchronization record
+## Synchronization record
 
-On 2026-09-12, the chart-marker policy was reconciled with
-`CrashDash-integration` commit
-`072404c134b667726bcb0ffc12e6ea84db31e8d7`:
+On 2026-09-12, the frontend was reconciled with integration commit
+`072404c134b667726bcb0ffc12e6ea84db31e8d7`. Shared security and resilience
+behavior now lives in both repositories:
 
 | Live-test file | Integration source |
 | --- | --- |
 | `src/publication/static/browser.js` | `src/crashdash/vnext/browser.js` |
+| `src/publication/static/shell.js` | `src/crashdash/vnext/preview/shell.js` |
+| `src/publication/static/shell_views.js` | `src/crashdash/vnext/preview/shell_views.js` |
+| `src/publication/static/shell_data.js` | `src/crashdash/vnext/preview/shell_data.js` |
+| `src/publication/static/shell_state.js` | `src/crashdash/vnext/preview/shell_state.js` |
+| `src/publication/static/real_contract.js` | `src/crashdash/vnext/preview/real_contract.js` |
+| `src/publication/static/index.html` | `src/crashdash/vnext/preview/shell.html` |
 | `tests/test_frontend_rendering.test.js` | `tests/browser/vnext_browser.test.js` |
 
-Both paths now enforce the same policy: CrashDash signals are circles
+Both frontend paths enforce the same marker policy: CrashDash signals are circles
 (current radius `6.5`, historical radius `4.5`) and RNS events remain rotated
-square/diamond markers. The live-test security hardening and its generated
-publication output were preserved.
+square/diamond markers.
 
-## Deviations from the source (and why)
+## Publication-only difference
 
-### 1. `../browser.js` → `./browser.js` (path portability fix, required)
+### `../browser.js` → `./browser.js` (path portability fix, required)
 
 In the source repository, `shell.js`, `shell_views.js`, `shell_data.js`, and
 `real_contract.js` import `browser.js` via a **parent-relative** path
@@ -64,49 +73,21 @@ exactly as GitHub Pages hosts this repository
 `../browser.js` resolves to `https://arbtraderlabs.github.io/browser.js` —
 outside the project entirely. 404.
 
-**Fix applied in this repo only** (never in `CrashDash-integration`, which
-remains untouched and is treated as read-only): every `from "../browser.js"`
-was changed to `from "./browser.js"` in `shell.js`, `shell_views.js`,
-`shell_data.js`, and `real_contract.js`. This is a one-line-per-file,
-mechanical path fix — no application logic was changed. It is covered by
-`tests/test_validate.py::test_static_shell_source_has_no_parent_relative_imports`
-and by the `path_portability` validator, which fails any candidate that
-reintroduces a parent-relative import.
+**Fix applied in the publication copy only:** the four flattened preview
+modules import the sibling `browser.js` with `./browser.js`. This is a
+mechanical path-portability transform; no application logic is changed. It
+is enforced by `make check-frontend-sync` and the publication validator.
 
-### 2. Zero-data / degraded-data resilience (added in this repo only)
+## Reconciliation classification
 
-The source `shell.js` was written assuming the backend/data feed is always
-present: `bootstrap()` fetched `dashboard.json`/`beginner.json`/`pro.json`
-with `Promise.all` and no per-file failure handling, and
-`loadInstrumentBundle()` let a failed per-instrument `fetch()` propagate as
-an unhandled promise rejection.
-
-This repository's mission requires the static site to render correctly with
-no data published at all, with only a dashboard, with some instruments
-missing, and with malformed data rejected before publication (see the
-"Zero-data / degraded-data contract" in the main README). The following
-functions were added or rewritten in `src/publication/static/shell.js`
-(again: only in this repository's copy, never upstream):
-
-- `safeFetchJson()` — classifies every top-level fetch as `AVAILABLE`,
-  `NOT_AVAILABLE` (404), or `CONTRACT_ERROR` (non-2xx or invalid JSON)
-  instead of throwing.
-- `fetchInstrumentDetail()` — same classification for one instrument's
-  detail file, isolating its failure from every other instrument.
-- `bootstrap()` — now always calls `attachNav()` first (navigation must
-  never depend on data loading succeeding), then uses `safeFetchJson()` for
-  every top-level artifact and sets an explicit `productDataStatus`
-  (`LOADING` / `AVAILABLE` / `EMPTY` / `CONTRACT_ERROR`).
-- `renderProductStatusBanner()` / `renderInstrumentUnavailablePanel()` —
-  explicit, honest copy per failure reason, never a bare "unknown" and never
-  a page crash.
-- `ensureHistoryLoaded()` — now classifies 404 vs. contract errors the same
-  way, with matching explicit copy.
-
-No rendering logic for *available* data was changed; these are additive
-resilience paths only, exercised by `make test-empty` /
-`test-dashboard-only` / `test-partial` / `test-invalid` and this
-repository's fixtures.
+- **SHARED_FRONTEND:** marker rendering, HTTPS-only external links, escaped
+  SVG event attributes, zero/degraded-data handling, and common rendering
+  behavior now exist in integration and live-test.
+- **PUBLICATION_ONLY:** the flattened sibling import paths in the four
+  preview modules.
+- **STALE/OBSOLETE:** the former live-test-only copies of security,
+  resilience, and divergent browser rendering. They were replaced by the
+  validated integration source; generated `docs/` is not source.
 
 ## What was intentionally NOT copied or forked
 

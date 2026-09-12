@@ -1,4 +1,4 @@
-.PHONY: help doctor clean ingest build validate preview promote manifest publish smoke release dry-run \
+.PHONY: help doctor check-frontend-sync clean ingest build validate preview promote manifest publish smoke release dry-run \
         test-empty test-dashboard-only test-partial test-invalid test-complete
 
 PYTHON      ?= python3
@@ -11,6 +11,7 @@ help:
 	@echo "CrashDash V4 public live-test publication vertical"
 	@echo ""
 	@echo "  make doctor                 verify tools/config/paths"
+	@echo "  make check-frontend-sync   verify the publication shell matches integration"
 	@echo "  make clean                  clear generated candidate only (build/)"
 	@echo "  make ingest SOURCE_MODE=fixture SOURCE=complete   ingest supplied source contract"
 	@echo "  make build                  construct candidate static site (build/candidate)"
@@ -31,6 +32,9 @@ help:
 
 doctor:
 	$(PYTHON) scripts/orchestrate.py doctor
+
+check-frontend-sync:
+	$(PYTHON) scripts/check_frontend_sync.py
 
 clean:
 	$(PYTHON) scripts/orchestrate.py clean

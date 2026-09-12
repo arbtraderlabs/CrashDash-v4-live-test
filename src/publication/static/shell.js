@@ -37,24 +37,16 @@ const buildNote = document.querySelector("#build-status");
 const navLinks = [...document.querySelectorAll("[data-nav-view]")];
 
 let state = parseState(location.search);
-/* Empty-but-valid shape used whenever dashboard.json is absent or invalid so
- * every view function can keep operating on real arrays/objects instead of
- * null-checking throughout the render tree. */
+/* Empty-but-valid shape used whenever dashboard.json is absent or invalid. */
 const EMPTY_DASHBOARD = { as_of: null, details: {}, records: [] };
-
 let dashboard = EMPTY_DASHBOARD;
 const instrumentDetails = new Map();
-/* instrumentId -> "NOT_AVAILABLE" | "CONTRACT_ERROR", tracked separately from
- * instrumentDetails so a failed fetch is remembered without polluting the
- * successful-detail cache. */
 const instrumentFailures = new Map();
 let bundle = null;
 let historyData = null;
 let historyLoadPromise = null;
 let loadedInstrumentId = null;
 let instrumentUnavailableReason = null;
-/* One of: "LOADING" | "AVAILABLE" | "EMPTY" | "CONTRACT_ERROR". Drives the
- * product-data-unavailable banner; never collapsed into a generic crash. */
 let productDataStatus = "LOADING";
 let chartRange = "1Y";
 let selectedChartDate = null;
@@ -117,10 +109,6 @@ function updateNav() {
   }
 }
 
-/* Fetches one instrument detail file, isolating any failure (missing file,
- * network error, malformed JSON) to this single instrument: it must never
- * throw, and a failure here must never prevent other instruments, the
- * dashboard, or navigation from working. */
 async function fetchInstrumentDetail(detailPath) {
   try {
     const response = await fetch(`./${detailPath}`);
@@ -238,10 +226,6 @@ function renderTodayView() {
   root.innerHTML = renderProductStatusBanner() + renderToday(summary, featured);
 }
 
-/* Distinct, honest copy per failure reason -- never a bare "unknown" and
- * never a page crash. Selecting an instrument that legitimately has no
- * detail attempt yet (no selection made) still gets the original neutral
- * prompt. */
 function renderInstrumentUnavailablePanel(selectedId) {
   if (!selectedId || loadedInstrumentId !== selectedId) {
     return '<section class="status dashboard-empty"><p>Select a current signal to view research.</p></section>';
@@ -769,9 +753,6 @@ window.addEventListener("popstate", () => {
   showTour();
 });
 
-/* Fetches and parses one top-level JSON artifact, classifying every
- * failure mode instead of throwing, so bootstrap can render a controlled
- * product-data-unavailable state and still attach navigation. */
 async function safeFetchJson(path) {
   try {
     const response = await fetch(path);
@@ -788,10 +769,7 @@ async function safeFetchJson(path) {
 }
 
 async function bootstrap() {
-  /* Navigation is static markup; wiring it up must never depend on whether
-   * any product data successfully loads (MODE 1/EMPTY requirement). */
   attachNav();
-
   const dashboardResult = await safeFetchJson("./data/dashboard.json");
   if (dashboardResult.status === "AVAILABLE") {
     try {
@@ -805,27 +783,23 @@ async function bootstrap() {
     dashboard = EMPTY_DASHBOARD;
     productDataStatus = dashboardResult.status === "NOT_AVAILABLE" ? "EMPTY" : "CONTRACT_ERROR";
   }
-
   const [beginnerResult, proResult, buildInfoResult] = await Promise.all([
     safeFetchJson("./data/beginner.json"),
     safeFetchJson("./data/pro.json"),
     safeFetchJson("./build.json"),
   ]);
-  try {
-    bundle = (beginnerResult.status === "AVAILABLE" && proResult.status === "AVAILABLE")
-      ? normaliseRealBundle(beginnerResult.payload, proResult.payload)
-      : null;
-  } catch {
-    bundle = null;
+  if (beginnerResult.status === "AVAILABLE" && proResult.status === "AVAILABLE") {
+    try {
+      bundle = normaliseRealBundle(beginnerResult.payload, proResult.payload);
+    } catch {
+      bundle = null;
+    }
   }
-
   if (!state.ticker && dashboard.records[0]) state.ticker = dashboard.records[0].instrument_id;
   if (buildInfoResult.status === "AVAILABLE" && buildInfoResult.payload?.generated_at && buildNote) {
     buildNote.textContent = `Data generated ${new Date(buildInfoResult.payload.generated_at).toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" })}`;
   }
-  status.textContent = productDataStatus === "AVAILABLE"
-    ? "Real REDPILL Production signals"
-    : "Product data unavailable";
+  status.textContent = productDataStatus === "AVAILABLE" ? "Real REDPILL Production signals" : "Product data unavailable";
   render();
   if (state.view === "historical") ensureHistoryLoaded();
 }

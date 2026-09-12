@@ -66,6 +66,16 @@ function cleanDisplayText(value, fallback = "") {
   return text || fallback;
 }
 
+function rnsTone(item) {
+  const value = item.sentiment || item.announcement_class || item.classification || item.tone || "";
+  const normalized = String(value).trim().toUpperCase().replace(/[\s-]+/g, "_");
+  if (normalized.includes("BULLISH") || normalized.includes("POSITIVE")) return "bullish";
+  if (normalized.includes("BEARISH") || normalized.includes("NEGATIVE")) return "bearish";
+  if (normalized.includes("CAUTION") || normalized.includes("CAUTIOUS")) return "caution";
+  if (normalized.includes("NEUTRAL")) return "neutral";
+  return "unavailable";
+}
+
 /*
  * Single authoritative customer price-display policy, shared by the header,
  * chart axis, and chart inspection panel (docs/architecture/AIM_MARKETCAP_CONTRACT.md;
@@ -706,6 +716,13 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
       : socialStatus === "UNAVAILABLE"
         ? "ShareChat discussion data is not currently available."
         : "No recorded discussion is available for this view.";
+  const activity = profile.sharechat_activity && typeof profile.sharechat_activity === "object"
+    ? profile.sharechat_activity : {};
+  const activityObservation = activity.observation && typeof activity.observation === "object"
+    ? activity.observation : {};
+  const activitySummary = activity.status === "AVAILABLE"
+    ? `<strong>Activity state:</strong> ${escapeHtml(String(activityObservation.activity_state || "unavailable"))}${activityObservation.percentage_change !== undefined ? ` · <strong>Day-over-day:</strong> ${escapeHtml(String(activityObservation.percentage_change))}%` : ""}`
+    : "";
   const storedResearch = profile.research && typeof profile.research === "object"
     ? profile.research : null;
   const ai = model.ai_analysis || storedResearch?.data;
@@ -728,11 +745,12 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
   const rnsRemaining = rnsVisible.slice(5);
   const renderRns = (item) => {
     const dateValue = cleanDisplayText(eventDateValue(item), "");
+    const tone = rnsTone(item);
     const rating = ["BULLISH", "NEUTRAL", "BEARISH"].includes(String(item.category || item.rating || item.sentiment).toUpperCase())
       ? String(item.category || item.rating || item.sentiment).toUpperCase()
       : "";
     const sourceUrl = safeExternalUrl(item.url || item.source_url);
-    return `<details class="rns-evidence" id="${escapeHtml(item.chart_id || "")}"><summary>${escapeHtml(cleanDisplayText(item.headline, "Company update"))} &middot; ${escapeHtml(humanDate(dateValue) || dateValue || "Date unavailable")}</summary><p class="rns-meta">Official company announcement · ${escapeHtml(item.source || "RNS")}${rating ? ` · Rating: ${escapeHtml(rating)}` : ""}${item.rns_number ? ` · ${escapeHtml(item.rns_number)}` : ""}</p><div class="rns-content">${escapeHtml(item.content || item.full_content || "Full announcement text is not available in this local evidence record.")}</div>${sourceUrl ? `<p class="research-source"><a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noreferrer">Original source</a></p>` : ""}</details>`;
+    return `<details class="rns-evidence rns-tone-${tone}" data-rns-tone="${tone}" id="${escapeHtml(item.chart_id || "")}"><summary>${escapeHtml(cleanDisplayText(item.headline, "Company update"))} &middot; ${escapeHtml(humanDate(dateValue) || dateValue || "Date unavailable")} <span class="rns-expand">VIEW FULL RNS</span><span class="rns-collapse">HIDE FULL RNS</span></summary><p class="rns-meta">Official company announcement · ${escapeHtml(item.source || "RNS")}${rating ? ` · Rating: ${escapeHtml(rating)}` : ""}${item.rns_number ? ` · ${escapeHtml(item.rns_number)}` : ""}</p><div class="rns-content">${escapeHtml(item.content || item.full_content || "Full announcement text is not available in this local evidence record.")}</div>${sourceUrl ? `<p class="research-source"><a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noreferrer">Original source</a></p>` : ""}</details>`;
   };
   const rnsSummary = rnsRemaining.length
     ? `<details class="evidence-more"><summary><span class="rns-show-more">Show more</span><span class="rns-showing-expanded">Showing latest ${rnsVisible.length} of ${rnsAvailable} · Show less</span></summary>${rnsRemaining.map(renderRns).join("")}</details>`
@@ -747,7 +765,32 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
     ? corporateActions.events.map((event) => `${event.type || "Corporate action"}${event.ratio_display ? ` (${event.ratio_display})` : ""}${event.date ? ` on ${event.date}` : ""}`).join("; ")
     : corporateActions?.status === "VALID_EMPTY"
       ? "No corporate actions are recorded in the public profile."
-      : "Corporate-action history is not currently available.";
+      : model.corporate_action_status || "Corporate-action history is not currently available.";
+  const marketTape = profile.market_tape && typeof profile.market_tape === "object" ? profile.market_tape : {};
+  const marketTapeAnalysis = marketTape.analysis && typeof marketTape.analysis === "object" ? marketTape.analysis : {};
+  const marketTapeTone = marketTapeAnalysis.investor_tone && typeof marketTapeAnalysis.investor_tone === "object"
+    ? marketTapeAnalysis.investor_tone : {};
+  const marketTapeDetails = marketTapeAnalysis.market_tape && typeof marketTapeAnalysis.market_tape === "object"
+    ? marketTapeAnalysis.market_tape : {};
+  const marketTapeAvailable = marketTape.status === "SUCCESS";
+  const marketTapeDate = marketTape.analysis_as_of_date || marketTape.generated_at;
+  const marketTapeText = marketTapeAvailable
+    ? (marketTapeAnalysis.user_summary || "Persisted Market Tape analysis is available.")
+    : marketTape.status === "NOT_AVAILABLE"
+      ? "Persisted Market Tape analysis is not currently available."
+      : "Persisted Market Tape analysis is pending.";
+  const marketTapeCard = `<article class="research-card market-tape-card">
+    <div class="research-card-heading"><h3>Market Tape intelligence</h3><span class="state-chip ${marketTapeAvailable ? "available" : "placeholder"}">${marketTapeAvailable ? "PERSISTED" : escapeHtml(marketTape.status || "NOT_AVAILABLE")}</span></div>
+    <p class="research-state">${escapeHtml(marketTapeText)}</p>
+    ${marketTapeDate ? `<p class="research-source">${marketTape.analysis_as_of_date ? "Analysis as of" : "Persisted at"}: ${escapeHtml(String(marketTapeDate))}</p>` : ""}
+    ${marketTapeTone.bias ? `<p><strong>Investor tone:</strong> ${escapeHtml(String(marketTapeTone.bias))}</p>` : ""}
+    ${marketTapeDetails.focus ? `<p><strong>Focus:</strong> ${escapeHtml(String(marketTapeDetails.focus))}</p>` : ""}
+    ${marketTapeDetails.bull_case ? `<p><strong>Bull case:</strong> ${escapeHtml(String(marketTapeDetails.bull_case))}</p>` : ""}
+    ${marketTapeDetails.bear_case ? `<p><strong>Bear case:</strong> ${escapeHtml(String(marketTapeDetails.bear_case))}</p>` : ""}
+    ${marketTapeDetails.shift ? `<p><strong>Narrative shift:</strong> ${escapeHtml(String(marketTapeDetails.shift))}</p>` : ""}
+    ${marketTapeDetails.activity_state ? `<p><strong>Activity state:</strong> ${escapeHtml(String(marketTapeDetails.activity_state))}</p>` : ""}
+    ${marketTapeDetails.percentage_change !== undefined ? `<p><strong>Day-over-day:</strong> ${escapeHtml(String(marketTapeDetails.percentage_change))}%</p>` : ""}
+  </article>`;
   return `<section class="chart-card" aria-label="CrashDash History chart">
       <div class="section-heading"><div><p class="eyebrow">CrashDash History</p><h2>CrashDash History</h2><p class="chart-subtitle">Price · Research Alerts · Accumulation · Company Announcements</p></div><div class="chart-legend" aria-label="Chart event filters">${renderChartLegend(filterState)}</div></div>
       <div class="chart-ranges" aria-label="Chart history range">${rangeControls}</div>
@@ -771,10 +814,11 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
     </section>${renderAlertHistory(convergence.alert_markers)}${primaryContext}
     <section class="research-cards" aria-labelledby="research-intelligence-heading">
       <div class="section-heading"><div><p class="eyebrow">AI-enhanced research</p><h2 id="research-intelligence-heading">Research intelligence</h2></div><span class="state-chip placeholder">Evidence-led summary</span></div>
+      <article class="research-card"><h3>Official RNS evidence</h3><p>${rnsAvailable ? `<span class="rns-count">${rnsAvailable} available</span> · ${rnsAvailable} announcements found · showing latest ${rnsInitial.length}` : "RNS announcements are not currently available."}</p>${rnsInitial.map(renderRns).join("")}${rnsSummary}</article>
       <article class="research-card"><h3>CrashDash intelligence</h3><p>CrashDash noticed this instrument because the evidence listed above aligned with a ${escapeHtml(model.watch_severity || "current")} signal.</p></article>
-      <article class="research-card"><h3>Official RNS evidence</h3><p>${rnsAvailable ? `${rnsAvailable} announcements found · showing latest ${rnsInitial.length}` : "RNS announcements are not currently available."}</p>${rnsInitial.map(renderRns).join("")}${rnsSummary}</article>
-      <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${socialSnapshot ? "" : (socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : "")}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></details>` : ""}</article>
-      ${corporateActions ? `<article class="research-card"><h3>Corporate actions</h3><p>${escapeHtml(corporateActionText)}</p></article>` : ""}
+      ${marketTapeCard}
+      <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${activitySummary ? ` ${activitySummary}` : ""}${socialSnapshot ? "" : (socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : "")}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></details>` : ""}</article>
+      ${corporateActions || model.corporate_action_status ? `<article class="research-card"><h3>Corporate actions</h3><p>${escapeHtml(corporateActionText)}</p></article>` : ""}
       <article class="research-card"><h3>Stored AI analysis</h3><p>${escapeHtml(aiText)}</p>${aiTimestamp ? `<p class="research-source">Source timestamp: ${escapeHtml(String(aiTimestamp))}</p>` : ""}</article>
       <article class="research-card"><h3>Risk flags</h3><p>Review the data-quality note and unavailable evidence before drawing conclusions.</p></article>
     </section>`;
