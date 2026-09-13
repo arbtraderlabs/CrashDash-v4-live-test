@@ -5,8 +5,8 @@
  * shell_views.js as pure, independently testable functions.
  */
 
-import { escapeHtml, formatQuotePrice, humanDate, renderBeginner, renderPointEventContext, renderPro } from "./browser.js?v=004j";
-import { normaliseDashboard, normaliseHistory, normaliseRealBundle } from "./shell_data.js?v=004j";
+import { escapeHtml, formatQuotePrice, humanDate, renderBeginner, renderPointEventContext, renderPro } from "./browser.js?v=007rns";
+import { normaliseDashboard, normaliseHistory, normaliseRealBundle } from "./shell_data.js?v=007rns";
 import { parseState, serializeState } from "./shell_state.js";
 import {
   filterHistoryRecords,
@@ -22,7 +22,7 @@ import {
   renderToday,
   selectTodayAlerts,
   summariseToday,
-} from "./shell_views.js?v=004j";
+} from "./shell_views.js?v=007rns";
 
 function cleanChartEventText(value) {
   return String(value ?? "")
@@ -34,6 +34,10 @@ function cleanChartEventText(value) {
 const root = document.querySelector("#app-view");
 const status = document.querySelector("#load-status");
 const buildNote = document.querySelector("#build-status");
+const buildStatusText = document.querySelector("#build-status-text");
+const previewContext = document.querySelector("#preview-context");
+const previewBranch = document.querySelector("#preview-branch");
+const previewFolder = document.querySelector("#preview-folder");
 const navLinks = [...document.querySelectorAll("[data-nav-view]")];
 
 let state = parseState(location.search);
@@ -58,6 +62,53 @@ const historyFilters = { severity: "ALL", accumulationOnly: false, year: "ALL", 
 function prefersReducedMotion() {
   return window.matchMedia?.("(prefers-reduced-motion: reduce)").matches ?? false;
 }
+
+function bindEvidenceMoreTransitions() {
+  const transitionTokens = new WeakMap();
+  document.addEventListener("click", (event) => {
+    const summary = event.target.closest(".evidence-more > summary");
+    if (!summary || prefersReducedMotion()) return;
+    const details = summary.parentElement;
+    const content = details?.querySelector(":scope > .evidence-more-content");
+    if (!details || !content) return;
+    event.preventDefault();
+    const opening = !details.open;
+    const token = (transitionTokens.get(details) || 0) + 1;
+    transitionTokens.set(details, token);
+    const finish = (transitionEvent) => {
+      if (transitionEvent.propertyName !== "height") return;
+      content.removeEventListener("transitionend", finish);
+      if (transitionTokens.get(details) !== token) return;
+      content.style.height = opening ? "auto" : "0px";
+    };
+    if (opening) {
+      details.open = true;
+      content.style.height = "0px";
+      content.getBoundingClientRect();
+      requestAnimationFrame(() => {
+        content.style.height = `${content.scrollHeight}px`;
+      });
+    } else {
+      content.style.height = `${content.scrollHeight}px`;
+      content.getBoundingClientRect();
+      requestAnimationFrame(() => {
+        content.style.height = "0px";
+      });
+    }
+    content.addEventListener("transitionend", finish);
+    if (!opening) {
+      const closeDetails = (transitionEvent) => {
+        if (transitionEvent.propertyName !== "height") return;
+        content.removeEventListener("transitionend", closeDetails);
+        if (transitionTokens.get(details) !== token) return;
+        details.open = false;
+      };
+      content.addEventListener("transitionend", closeDetails);
+    }
+  }, true);
+}
+
+bindEvidenceMoreTransitions();
 
 /* Smoothly (~300ms total: 150ms fade-out + 150ms fade-in) swaps the chart
  * plot's content for a new range without inventing any interpolated price
@@ -768,6 +819,25 @@ async function safeFetchJson(path) {
   }
 }
 
+async function loadPreviewContext() {
+  if (!previewContext) return;
+  try {
+    const response = await fetch("./preview-context.txt", { cache: "no-store" });
+    if (!response.ok) return;
+    const lines = (await response.text()).split("\n").map((line) => line.trim()).filter(Boolean);
+    const values = Object.fromEntries(lines.map((line) => {
+      const separator = line.indexOf("=");
+      return separator === -1 ? [line, ""] : [line.slice(0, separator), line.slice(separator + 1)];
+    }));
+    const branch = values.branch || "branch unavailable";
+    const folder = values.folder || "folder unavailable";
+    if (previewBranch) previewBranch.textContent = `Preview: ${branch}`;
+    if (previewFolder) previewFolder.textContent = folder;
+  } catch {
+    previewContext.textContent = "Preview source unavailable";
+  }
+}
+
 async function bootstrap() {
   attachNav();
   const dashboardResult = await safeFetchJson("./data/dashboard.json");
@@ -797,8 +867,11 @@ async function bootstrap() {
   }
   if (!state.ticker && dashboard.records[0]) state.ticker = dashboard.records[0].instrument_id;
   if (buildInfoResult.status === "AVAILABLE" && buildInfoResult.payload?.generated_at && buildNote) {
-    buildNote.textContent = `Data generated ${new Date(buildInfoResult.payload.generated_at).toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" })}`;
+    if (buildStatusText) {
+      buildStatusText.textContent = `Data generated ${new Date(buildInfoResult.payload.generated_at).toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" })}`;
+    }
   }
+  await loadPreviewContext();
   status.textContent = productDataStatus === "AVAILABLE" ? "Real REDPILL Production signals" : "Product data unavailable";
   render();
   if (state.view === "historical") ensureHistoryLoaded();

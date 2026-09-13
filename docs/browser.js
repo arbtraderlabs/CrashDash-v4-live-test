@@ -67,13 +67,39 @@ function cleanDisplayText(value, fallback = "") {
 }
 
 function rnsTone(item) {
-  const value = item.sentiment || item.announcement_class || item.classification || item.tone || "";
+  const value = item.sentiment || item.announcement_class || item.category || item.rating || item.classification || item.tone || "";
   const normalized = String(value).trim().toUpperCase().replace(/[\s-]+/g, "_");
   if (normalized.includes("BULLISH") || normalized.includes("POSITIVE")) return "bullish";
   if (normalized.includes("BEARISH") || normalized.includes("NEGATIVE")) return "bearish";
   if (normalized.includes("CAUTION") || normalized.includes("CAUTIOUS")) return "caution";
   if (normalized.includes("NEUTRAL")) return "neutral";
   return "unavailable";
+}
+
+function renderRnsExtraction(item) {
+  const keyPoints = Array.isArray(item.key_points) ? item.key_points : [];
+  const keyMetrics = Array.isArray(item.key_metrics) ? item.key_metrics : [];
+  const entities = Array.isArray(item.entities) ? item.entities : [];
+  const visiblePoints = keyPoints.slice(0, 3);
+  const visibleMetrics = keyMetrics.slice(0, 8);
+  const pointsMarkup = visiblePoints.length
+    ? `<ul class="rns-detail-list">${visiblePoints.map((point) => { const text = cleanDisplayText(point.text, "Announcement detail"); return `<li>${escapeHtml(text.length > 280 ? `${text.slice(0, 277)}…` : text)}</li>`; }).join("")}</ul>${keyPoints.length > visiblePoints.length ? `<p class="rns-more-note">+${keyPoints.length - visiblePoints.length} more extracted points</p>` : ""}`
+    : `<p class="rns-unavailable">No structured key points available.</p>`;
+  const metricsMarkup = visibleMetrics.length
+    ? `<dl class="rns-metric-list">${visibleMetrics.map((metric) => `<div><dt>${escapeHtml(cleanDisplayText(metric.label, "Metric"))}</dt><dd>${escapeHtml(cleanDisplayText(metric.value, "Unavailable"))}${metric.unit ? ` ${escapeHtml(metric.unit)}` : ""}</dd></div>`).join("")}</dl>${keyMetrics.length > visibleMetrics.length ? `<p class="rns-more-note">+${keyMetrics.length - visibleMetrics.length} more extracted metrics</p>` : ""}`
+    : `<p class="rns-unavailable">No structured metrics available.</p>`;
+  const entitiesMarkup = entities.length
+    ? `<ul class="rns-detail-list">${entities.map((entity) => `<li><strong>${escapeHtml(cleanDisplayText(entity.name, "Entity"))}</strong>${entity.type ? ` <span>${escapeHtml(cleanDisplayText(entity.type, "entity"))}</span>` : ""}</li>`).join("")}</ul>`
+    : `<p class="rns-unavailable">No extracted entities available.</p>`;
+  return `<div class="rns-structured"><div><h4>Key data points</h4>${pointsMarkup}</div><div><h4>Key metrics</h4>${metricsMarkup}</div><div><h4>Entities</h4>${entitiesMarkup}</div></div>`;
+}
+
+function renderRnsBody(item, sourceUrl) {
+  const body = cleanDisplayText(item.content || item.full_content, "");
+  if (body) {
+    return `<div class="rns-body"><h4 class="rns-body-label">Full announcement</h4><div class="rns-content">${escapeHtml(body)}</div></div>`;
+  }
+  return `<div class="rns-body-missing"><strong>Full announcement text is not included in this preview record.</strong><span>Use the original source link below to read the complete announcement.</span>${sourceUrl ? `<a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noreferrer">Open full RNS at source</a>` : ""}</div>`;
 }
 
 /*
@@ -117,6 +143,16 @@ export function humanDate(value) {
     day: "numeric",
     month: "long",
     year: "numeric",
+  }).format(date);
+}
+
+function humanTime(value) {
+  if (!value || !/[T ]\d{2}:\d{2}/.test(String(value))) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.valueOf())) return "";
+  return new Intl.DateTimeFormat("en-GB", {
+    hour: "numeric",
+    minute: "2-digit",
   }).format(date);
 }
 
@@ -641,6 +677,33 @@ function eventDateValue(item) {
   return item?.timestamp || item?.datetime || item?.date || "";
 }
 
+function renderDeterministicRiskPanel(model) {
+  const severity = String(model.watch_severity || "").trim().toUpperCase();
+  if (!severity || severity === "UNAVAILABLE") return "";
+  const signal = String(model.signal_state || "").trim();
+  return `<aside class="deterministic-risk-panel severity-${severityClass(severity)}" aria-label="CrashDash deterministic risk">
+        <div><p class="eyebrow">CrashDash Risk Level</p><strong>${escapeHtml(severity)}</strong></div>
+        <p><span class="deterministic-risk-label">Deterministic signal</span> ${escapeHtml(signal || "Signal state unavailable")}${model.signal_date ? ` · ${escapeHtml(humanDate(model.signal_date))}` : ""}</p>
+      </aside>`;
+}
+
+function renderRiskFactors(model) {
+  const storedResearch = model.research && typeof model.research === "object"
+    ? model.research.data
+    : model.profile?.research && typeof model.profile.research === "object"
+      ? model.profile.research.data
+      : null;
+  const analysis = model.ai_analysis && typeof model.ai_analysis === "object"
+    ? model.ai_analysis
+    : storedResearch && typeof storedResearch === "object" ? storedResearch : null;
+  const flags = Array.isArray(analysis?.risk_flags)
+    ? analysis.risk_flags.map((flag) => cleanDisplayText(flag, "")).filter(Boolean).slice(0, 6)
+    : [];
+  if (!flags.length) return "";
+  const recordedDate = analysis.completed_at || analysis.updated_at || model.signal_date;
+  return `<section class="risk-factors" aria-labelledby="risk-factors-heading"><h3 id="risk-factors-heading">Risk factors</h3><div class="risk-factor-list">${flags.map((flag) => `<span class="risk-factor-chip">${escapeHtml(flag)}</span>`).join("")}</div>${recordedDate ? `<p class="risk-factors-date">Recorded with evidence on ${escapeHtml(humanDate(recordedDate) || String(recordedDate))}</p>` : ""}</section>`;
+}
+
 function compareNewestFirst(left, right) {
   const normalize = (value) => String(value || "").replace(/^(\d{1,2})(st|nd|rd|th)\b/i, "$1");
   const rightValue = normalize(eventDateValue(right));
@@ -746,14 +809,14 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
   const renderRns = (item) => {
     const dateValue = cleanDisplayText(eventDateValue(item), "");
     const tone = rnsTone(item);
-    const rating = ["BULLISH", "NEUTRAL", "BEARISH"].includes(String(item.category || item.rating || item.sentiment).toUpperCase())
-      ? String(item.category || item.rating || item.sentiment).toUpperCase()
-      : "";
+    const rating = tone === "unavailable" ? "" : tone.toUpperCase();
     const sourceUrl = safeExternalUrl(item.url || item.source_url);
-    return `<details class="rns-evidence rns-tone-${tone}" data-rns-tone="${tone}" id="${escapeHtml(item.chart_id || "")}"><summary>${escapeHtml(cleanDisplayText(item.headline, "Company update"))} &middot; ${escapeHtml(humanDate(dateValue) || dateValue || "Date unavailable")} <span class="rns-expand">VIEW FULL RNS</span><span class="rns-collapse">HIDE FULL RNS</span></summary><p class="rns-meta">Official company announcement · ${escapeHtml(item.source || "RNS")}${rating ? ` · Rating: ${escapeHtml(rating)}` : ""}${item.rns_number ? ` · ${escapeHtml(item.rns_number)}` : ""}</p><div class="rns-content">${escapeHtml(item.content || item.full_content || "Full announcement text is not available in this local evidence record.")}</div>${sourceUrl ? `<p class="research-source"><a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noreferrer">Original source</a></p>` : ""}</details>`;
+    const displayDate = humanDate(dateValue) || dateValue || "Date unavailable";
+    const displayTime = humanTime(dateValue);
+    return `<details class="rns-evidence rns-tone-${tone}" data-rns-tone="${tone}" id="${escapeHtml(item.chart_id || "")}"><summary><span class="rns-summary-main"><span class="rns-summary-title">${escapeHtml(cleanDisplayText(item.headline, "Company update"))}</span><span class="rns-summary-badge-line"><span class="rns-badge">${escapeHtml(rating || "UNAVAILABLE")}</span></span></span><span class="rns-summary-action" aria-label="View RNS details"><span class="rns-expand">VIEW DETAILS <span aria-hidden="true">↓</span></span><span class="rns-collapse">HIDE DETAILS <span aria-hidden="true">↑</span></span></span><span class="rns-summary-side"><span class="rns-summary-date"><span>${escapeHtml(displayDate)}</span>${displayTime ? `<small>${escapeHtml(displayTime)}</small>` : ""}</span></span></summary><p class="rns-meta">Official company announcement · ${escapeHtml(item.source || "RNS")}${rating ? ` · Rating: ${escapeHtml(rating)}` : ""}${item.rns_number ? ` · ${escapeHtml(item.rns_number)}` : ""}</p>${renderRnsExtraction(item)}${renderRnsBody(item, sourceUrl)}${sourceUrl ? `<p class="research-source"><a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noreferrer">Original source</a></p>` : ""}</details>`;
   };
   const rnsSummary = rnsRemaining.length
-    ? `<details class="evidence-more"><summary><span class="rns-show-more">Show more</span><span class="rns-showing-expanded">Showing latest ${rnsVisible.length} of ${rnsAvailable} · Show less</span></summary>${rnsRemaining.map(renderRns).join("")}</details>`
+    ? `<details class="evidence-more"><summary><span class="rns-show-more">Show more <span aria-hidden="true">↓</span></span><span class="rns-showing-expanded">Showing latest ${rnsVisible.length} of ${rnsAvailable} · Show less <span aria-hidden="true">↑</span></span></summary><div class="evidence-more-content">${rnsRemaining.map(renderRns).join("")}</div></details>`
     : "";
   const socialTotal = Number.isFinite(Number(model.sharechat_total_available)) ? Number(model.sharechat_total_available) : socialRecords.length;
   const socialInitial = socialRecords.slice(0, 10);
@@ -779,17 +842,51 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
     : marketTape.status === "NOT_AVAILABLE"
       ? "Persisted Market Tape analysis is not currently available."
       : "Persisted Market Tape analysis is pending.";
+  const marketTone = String(marketTapeTone.bias || "").trim().toUpperCase();
+  const marketToneClass = {
+    BULLISH: "bullish",
+    BEARISH: "bearish",
+    NEUTRAL: "neutral",
+    CAUTION: "caution",
+  }[marketTone] || "";
+  const marketTapeBlock = (label, value, className = "") => value
+    ? `<div class="market-tape-block${className ? ` ${className}` : ""}"><h4>${escapeHtml(label)}</h4><p>${escapeHtml(String(value))}</p></div>`
+    : "";
+  const marketTapeEventsBlock = (label, entries) => {
+    if (!Array.isArray(entries) || !entries.length) return "";
+    const timingRank = (value) => /^(?:\d{4}(?:-\d{2}(?:-\d{2})?)?|NEAR_TERM|ONGOING|UNKNOWN)$/.test(String(value || "")) ? String(value) : "UNKNOWN";
+    const sorted = entries.slice(0, 5).sort((left, right) => {
+      const a = timingRank(left?.estimated_timing);
+      const b = timingRank(right?.estimated_timing);
+      if (a === "UNKNOWN") return b === "UNKNOWN" ? 0 : 1;
+      if (b === "UNKNOWN") return -1;
+      return a.localeCompare(b);
+    });
+    return `<div class="market-tape-block market-tape-events"><h4>${escapeHtml(label)}</h4><ul>${sorted.map((entry) => {
+      const timing = entry?.estimated_timing || "UNKNOWN";
+      const confidence = entry?.confidence ? ` · ${String(entry.confidence).toUpperCase()} confidence` : "";
+      const basis = entry?.timing_basis ? ` <span>${escapeHtml(String(entry.timing_basis))}</span>` : "";
+      return `<li><strong>${escapeHtml(String(entry?.event || "Supported event"))}</strong><small>${escapeHtml(String(timing))}${escapeHtml(confidence)}${basis}</small></li>`;
+    }).join("")}</ul></div>`;
+  };
+  const marketToneMarkup = marketTone
+    ? `<div class="market-tape-tone"><span class="market-tape-label">Investor tone</span><span class="sentiment-badge sentiment-${marketToneClass || "unknown"}">${escapeHtml(marketTone)}</span></div>`
+    : "";
   const marketTapeCard = `<article class="research-card market-tape-card">
     <div class="research-card-heading"><h3>Market Tape intelligence</h3><span class="state-chip ${marketTapeAvailable ? "available" : "placeholder"}">${marketTapeAvailable ? "PERSISTED" : escapeHtml(marketTape.status || "NOT_AVAILABLE")}</span></div>
-    <p class="research-state">${escapeHtml(marketTapeText)}</p>
+    ${marketTapeBlock("Summary", marketTapeText, "market-tape-summary")}
     ${marketTapeDate ? `<p class="research-source">${marketTape.analysis_as_of_date ? "Analysis as of" : "Persisted at"}: ${escapeHtml(String(marketTapeDate))}</p>` : ""}
-    ${marketTapeTone.bias ? `<p><strong>Investor tone:</strong> ${escapeHtml(String(marketTapeTone.bias))}</p>` : ""}
-    ${marketTapeDetails.focus ? `<p><strong>Focus:</strong> ${escapeHtml(String(marketTapeDetails.focus))}</p>` : ""}
-    ${marketTapeDetails.bull_case ? `<p><strong>Bull case:</strong> ${escapeHtml(String(marketTapeDetails.bull_case))}</p>` : ""}
-    ${marketTapeDetails.bear_case ? `<p><strong>Bear case:</strong> ${escapeHtml(String(marketTapeDetails.bear_case))}</p>` : ""}
-    ${marketTapeDetails.shift ? `<p><strong>Narrative shift:</strong> ${escapeHtml(String(marketTapeDetails.shift))}</p>` : ""}
-    ${marketTapeDetails.activity_state ? `<p><strong>Activity state:</strong> ${escapeHtml(String(marketTapeDetails.activity_state))}</p>` : ""}
-    ${marketTapeDetails.percentage_change !== undefined ? `<p><strong>Day-over-day:</strong> ${escapeHtml(String(marketTapeDetails.percentage_change))}%</p>` : ""}
+    ${marketToneMarkup}
+    <div class="market-tape-grid">
+      ${marketTapeBlock("Focus", marketTapeDetails.focus)}
+      ${marketTapeBlock("Bull case", marketTapeDetails.bull_case, "market-tape-bull")}
+      ${marketTapeBlock("Bear case", marketTapeDetails.bear_case, "market-tape-bear")}
+      ${marketTapeBlock("Narrative shift", marketTapeDetails.shift)}
+      ${marketTapeEventsBlock("Expected", marketTapeAnalysis.expected)}
+      ${marketTapeEventsBlock("Catalysts", marketTapeAnalysis.catalysts)}
+      ${marketTapeEventsBlock("Watch for", marketTapeAnalysis.watch_for)}
+      ${marketTapeDetails.activity_state || marketTapeDetails.percentage_change !== undefined ? `<div class="market-tape-block"><h4>Activity</h4><p>${marketTapeDetails.activity_state ? `<strong>State:</strong> ${escapeHtml(String(marketTapeDetails.activity_state))}` : ""}${marketTapeDetails.percentage_change !== undefined ? `${marketTapeDetails.activity_state ? " · " : ""}<strong>Day-over-day:</strong> ${escapeHtml(String(marketTapeDetails.percentage_change))}%` : ""}</p></div>` : ""}
+    </div>
   </article>`;
   return `<section class="chart-card" aria-label="CrashDash History chart">
       <div class="section-heading"><div><p class="eyebrow">CrashDash History</p><h2>CrashDash History</h2><p class="chart-subtitle">Price · Research Alerts · Accumulation · Company Announcements</p></div><div class="chart-legend" aria-label="Chart event filters">${renderChartLegend(filterState)}</div></div>
@@ -815,9 +912,8 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
     <section class="research-cards" aria-labelledby="research-intelligence-heading">
       <div class="section-heading"><div><p class="eyebrow">AI-enhanced research</p><h2 id="research-intelligence-heading">Research intelligence</h2></div><span class="state-chip placeholder">Evidence-led summary</span></div>
       <article class="research-card"><h3>Official RNS evidence</h3><p>${rnsAvailable ? `<span class="rns-count">${rnsAvailable} available</span> · ${rnsAvailable} announcements found · showing latest ${rnsInitial.length}` : "RNS announcements are not currently available."}</p>${rnsInitial.map(renderRns).join("")}${rnsSummary}</article>
-      <article class="research-card"><h3>CrashDash intelligence</h3><p>CrashDash noticed this instrument because the evidence listed above aligned with a ${escapeHtml(model.watch_severity || "current")} signal.</p></article>
       ${marketTapeCard}
-      <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${activitySummary ? ` ${activitySummary}` : ""}${socialSnapshot ? "" : (socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : "")}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></details>` : ""}</article>
+      <article class="research-card"><h3>ShareChat context</h3><p>${escapeHtml(socialText)}${activitySummary ? ` ${activitySummary}` : ""}${socialSnapshot ? "" : (socialTotal ? ` Showing the latest ${Math.min(10, socialInitial.length)} of ${socialTotal}.` : "")}</p>${socialInitial.length ? `<ol class="community-list">${socialInitial.map(renderSocial).join("")}</ol>` : ""}${socialRemaining.length ? `<details class="evidence-more"><summary>Show more community discussion</summary><div class="evidence-more-content"><ol class="community-list">${socialRemaining.map(renderSocial).join("")}</ol></div></details>` : ""}</article>
       ${corporateActions || model.corporate_action_status ? `<article class="research-card"><h3>Corporate actions</h3><p>${escapeHtml(corporateActionText)}</p></article>` : ""}
       <article class="research-card"><h3>Stored AI analysis</h3><p>${escapeHtml(aiText)}</p>${aiTimestamp ? `<p class="research-source">Source timestamp: ${escapeHtml(String(aiTimestamp))}</p>` : ""}</article>
       <article class="research-card"><h3>Risk flags</h3><p>Review the data-quality note and unavailable evidence before drawing conclusions.</p></article>
@@ -825,6 +921,7 @@ function renderResearchSections(model, chartRange = "1Y", primaryContext = "", f
 }
 
 export function renderBeginner(model, { forPro = false, chartRange = "1Y", chartFilters = {} } = {}) {
+  const deterministicSignal = String(model.signal_state || "").trim().toUpperCase();
   const reasons = uniqueMessages(
     (model.why_crashdash_noticed || [])
       .filter(Boolean)
@@ -832,7 +929,7 @@ export function renderBeginner(model, { forPro = false, chartRange = "1Y", chart
       .filter(Boolean)
       .filter((message) => !isDataQualityMessage(message))
       .filter((message) => !isImplementationMessage(message)),
-  );
+  ).filter((message) => !deterministicSignal || message.trim().toUpperCase() !== deterministicSignal);
   const notices = uniqueMessages([
     ...reasons,
     ...(model.limitations || []).filter(Boolean).map(customerMessage).filter(Boolean),
@@ -889,7 +986,7 @@ export function renderBeginner(model, { forPro = false, chartRange = "1Y", chart
   const signalDate = model.signal_date
     ? `<p class="instrument-meta">Signal detected ${escapeHtml(humanDate(model.signal_date))}</p>`
     : "";
-  const primaryContext = `<div class="customer-section"><p class="eyebrow">Primary context</p><h2>Why CrashDash noticed this</h2><ul class="reason-list">${reasonMarkup || "<li>Some evidence is not currently available.</li>"}</ul>${caveat}${!forPro ? dataNote : ""}<p class="context-note">Research context only — not a trading recommendation.</p></div>`;
+  const primaryContext = `<div class="customer-section"><p class="eyebrow">Primary context</p><h2>Why CrashDash noticed this</h2>${renderDeterministicRiskPanel(model)}${renderRiskFactors(model)}<ul class="reason-list">${reasonMarkup || "<li>Some evidence is not currently available.</li>"}</ul>${caveat}${!forPro ? dataNote : ""}<p class="context-note">Research context only — not a trading recommendation.</p></div>`;
   return `<section class="customer-view severity-${severityToken}" data-mode="beginner">
     <div class="instrument-heading">
       <div class="instrument-identity"><p class="eyebrow">Instrument profile</p><h1>${escapeHtml(model.ticker || "Unknown instrument")}</h1>${companyName}</div>
