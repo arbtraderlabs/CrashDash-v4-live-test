@@ -4,7 +4,7 @@ The canonical development source is the CrashDash V4 integration repository
 (`CrashDash-integration`, branch `v4-integration`). The publication shell is
 synchronized from that source at commit:
 
-    072404c134b667726bcb0ffc12e6ea84db31e8d7
+    53c803f214d05511da22951cdbcacd1f3aa8273f
 
 The synchronized files are checked by:
 
@@ -29,6 +29,14 @@ Nothing else was copied. No CSS files exist separately (styles are inline
 in `index.html`, as in the source).
 
 ## Synchronization record
+
+On 2026-09-13, the frontend was reconciled with integration commit
+`53c803f214d05511da22951cdbcacd1f3aa8273f` (B1 research/frontend closeout:
+RNS evidence presentation, sentiment-tinted rows and filled badges, smooth
+`<details>` expand/collapse transitions for RNS and ShareChat, and mobile
+responsive layout). `browser.js`, `index.html`, and `shell.js` changed;
+`shell_views.js`, `shell_data.js`, `shell_state.js`, and `real_contract.js`
+had no drift. `make check-frontend-sync` passed (7/7 mapped files).
 
 On 2026-09-12, the frontend was reconciled with integration commit
 `072404c134b667726bcb0ffc12e6ea84db31e8d7`. Shared security and resilience
