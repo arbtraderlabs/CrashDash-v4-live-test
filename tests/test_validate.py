@@ -85,6 +85,21 @@ def test_ohlc_contract_rejects_bare_nan_token(complete_candidate):
     assert not _check(report, "json_parseable").passed
 
 
+def test_json_parseable_ignores_infinity_word_inside_quoted_prose(complete_candidate):
+    """A real company/product name containing the word "Infinity" inside a
+    quoted JSON string is not a bare token and must not be rejected (see
+    RNS content for AIQ.L "GBS Infinity Holding Ltd" and DSG.L "Infinity
+    Connect")."""
+    path = complete_candidate / "data" / "instruments" / "TEST1.L.json"
+    payload = json.loads(path.read_text())
+    payload["data"]["instrument_detail"]["rns"][0]["headline"] = (
+        "Update from GBS Infinity Holding Ltd regarding the Infinity Connect product"
+    )
+    path.write_text(json.dumps(payload), encoding="utf-8")
+    report = validate_site(complete_candidate)
+    assert _check(report, "json_parseable").passed
+
+
 def test_alert_price_contract_rejects_exact_without_close(complete_candidate):
     path = complete_candidate / "data" / "instruments" / "TEST1.L.json"
     payload = json.loads(path.read_text())
@@ -184,6 +199,32 @@ def test_public_safety_scan_rejects_leaked_home_path(complete_candidate):
     )
     report = validate_site(complete_candidate)
     assert not _check(report, "public_safety_scan").passed
+
+
+def test_public_safety_scan_ignores_businesswire_home_path(complete_candidate):
+    """A legitimate BusinessWire RNS syndication URL contains "/home/" as
+    part of its own URL scheme (e.g. businesswire.com/news/home/...), not a
+    local filesystem leak, and must not be rejected."""
+    (complete_candidate / "data" / "legit_wire.json").write_text(
+        json.dumps({
+            "note": "https://www.businesswire.com/news/home/20260129322720/en/ Copyright Business Wire",
+        }),
+        encoding="utf-8",
+    )
+    report = validate_site(complete_candidate)
+    assert _check(report, "public_safety_scan").passed
+
+
+def test_public_safety_scan_ignores_company_secretary_signature_block(complete_candidate):
+    """The RNS signature-block job title "COMPANY SECRETARY" contains
+    "SECRET" as a substring but is ordinary announcement prose, not a
+    leaked credential, and must not be rejected."""
+    (complete_candidate / "data" / "legit_signature.json").write_text(
+        json.dumps({"note": "Carly Terzanidis\nCOMPANY SECRETARY\nCONTACT\nwww.example.com"}),
+        encoding="utf-8",
+    )
+    report = validate_site(complete_candidate)
+    assert _check(report, "public_safety_scan").passed
 
 
 def test_public_safety_scan_rejects_localhost_reference(complete_candidate):

@@ -20,7 +20,6 @@ from typing import Any
 
 from .config import PublicationConfig, default_paths, load_config
 
-_NAN_INF_TOKEN_RE = re.compile(r"(?<![\w.])(NaN|Infinity|-Infinity)(?![\w])")
 _ROOT_RELATIVE_RE = re.compile(r'''(?:src|href|from)\s*=?\s*["'](/(?!/)[^"']*)["']''')
 _PARENT_RELATIVE_IMPORT_RE = re.compile(r'''from\s+["']\.\./''')
 
@@ -50,17 +49,33 @@ class ValidationReport:
 
 
 def _load_json_text(path: Path) -> tuple[Any, str | None]:
-    """Returns (parsed_or_None, error_or_None). Never raises."""
+    """Returns (parsed_or_None, error_or_None). Never raises.
+
+    Bare ``NaN``/``Infinity``/``-Infinity`` tokens are not valid public JSON
+    (RFC 8259), but the literal English words legitimately appear inside
+    quoted announcement prose (company/product names such as "GBS Infinity
+    Holding Ltd"). Detecting the true bare-token case requires parsing, not a
+    raw-text regex: ``json.loads``'s ``parse_constant`` hook is invoked only
+    when the parser encounters one of these tokens as an actual JSON value
+    (outside any string), so it cannot false-positive on quoted content.
+    """
     try:
         text = path.read_text(encoding="utf-8")
     except OSError as exc:
         return None, f"could not read {path}: {exc}"
-    if _NAN_INF_TOKEN_RE.search(text):
-        return None, f"{path} contains a bare NaN/Infinity token, which is not valid public JSON"
+    bare_constants: list[str] = []
+
+    def _reject_constant(token: str) -> float:
+        bare_constants.append(token)
+        return float(token)
+
     try:
-        return json.loads(text), None
+        parsed = json.loads(text, parse_constant=_reject_constant)
     except json.JSONDecodeError as exc:
         return None, f"{path} is not valid JSON: {exc}"
+    if bare_constants:
+        return None, f"{path} contains a bare NaN/Infinity token, which is not valid public JSON"
+    return parsed, None
 
 
 def _unwrap(payload: Any) -> Any:
