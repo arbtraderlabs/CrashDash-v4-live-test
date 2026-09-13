@@ -114,6 +114,20 @@ in [engineering/FRONTEND_SOURCE.md](engineering/FRONTEND_SOURCE.md).
 (`python3 -m http.server`-equivalent) on `http://127.0.0.1:8770/` — files
 only, no API endpoints, no backend.
 
+For the repeatable developer review loop, build the candidate and use the
+integration repository's local runner:
+
+```sh
+make build
+CRASHDASH_WEB_ROOT="$PWD/build/candidate" \
+  ../CrashDash-integration/scripts/run-local-web.sh
+```
+
+The integration-owned runner replaces a previous recognized local preview
+session and serves the selected output on `http://127.0.0.1:8055/`, bound to
+loopback only. It never serves Production or the GitHub Pages `docs/`
+deployment tree. Stop it with `Ctrl-C`; no background service is installed.
+
 ## Makefile
 
 Run `make help` for the full command list. The common path:
