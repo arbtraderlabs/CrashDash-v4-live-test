@@ -7326,6 +7326,38 @@
             "low": 0.25,
             "open": 0.30000001192092896,
             "volume": 388805
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-09",
+            "high": 0.30000001192092896,
+            "low": 0.30000001192092896,
+            "open": 0.30000001192092896,
+            "volume": 0
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-10",
+            "high": 0.30000001192092896,
+            "low": 0.30000001192092896,
+            "open": 0.30000001192092896,
+            "volume": 0
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-11",
+            "high": 0.25,
+            "low": 0.25,
+            "open": 0.30000001192092896,
+            "volume": 994400
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-14",
+            "high": 0.257999986410141,
+            "low": 0.257999986410141,
+            "open": 0.257999986410141,
+            "volume": 240892
           }
         ],
         "provenance": {
@@ -7368,25 +7400,45 @@
         "market_cap": 11166620.603721619,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-09",
+                "event": "Cancellation of Consolidation",
+                "timing_basis": "LSE_RNS 2026-09-09"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-09",
+                "event": "Result of General Meeting",
+                "timing_basis": "LSE_RNS 2026-09-09"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-09",
+                "event": "Corporate update",
+                "timing_basis": "LSE_RNS 2026-09-09"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "NO_CLEAR_TONE",
-              "explanation": "Investor posts are scarce and ambiguous; recent RNS are bearish but lack active discussion."
+              "bias": "NEUTRAL",
+              "explanation": "One neutral ShareChat post with no strong bullish or bearish language."
             },
             "market_tape": {
-              "bear_case": "The company announced cancellation of its consolidation plan and reported modest outcomes from the recent general meeting, signalling limited upside and potential stagnation.",
-              "confidence": 0.7,
-              "focus": "Discussion is focused on the cancellation of consolidation and the general meeting results.",
-              "interpretation": "Investors appear to interpret the RNS as an indication of stalled growth and a potential undervaluation of the stock.",
+              "bear_case": "Cancellation of consolidation and the result of the general meeting may indicate financial or strategic challenges for CLA.L.",
+              "confidence": 0.0,
+              "focus": "Recent corporate announcements",
+              "interpretation": "Corporate actions suggest a potential downside view for the stock.",
               "linked_event": "Cancellation of Consolidation",
-              "quality": "MEANINGFUL"
+              "quality": "MEANINGFUL",
+              "shift": "Shift from neutral to bearish sentiment following the corporate announcements."
             },
-            "user_summary": "Recent RNS filings show the company has cancelled its consolidation plan and delivered modest results from the latest general meeting, raising concerns about future growth. Investor discussion is minimal and largely neutral, with a single ShareChat post hinting at a 'temperature drop'. The market is in a crash\u2011zone bottom state with a yellow severity alert, suggesting caution.",
+            "user_summary": "Recent corporate announcements, including the cancellation of consolidation and the result of the general meeting, suggest a negative outlook for CLA.L. The deterministic signal indicates the share price is in a stressed state but does not imply further decline. No bullish developments were reported. Investors may consider the impact of these corporate actions.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:09:34.172652+00:00",
+          "generated_at": "2026-09-14T21:13:36.441677+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -8144,25 +8196,45 @@
       "market_cap": 11166620.603721619,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
+          "catalysts": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-09",
+              "event": "Cancellation of Consolidation",
+              "timing_basis": "LSE_RNS 2026-09-09"
+            },
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-09",
+              "event": "Result of General Meeting",
+              "timing_basis": "LSE_RNS 2026-09-09"
+            },
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-09",
+              "event": "Corporate update",
+              "timing_basis": "LSE_RNS 2026-09-09"
+            }
+          ],
           "expected": [],
           "investor_tone": {
-            "bias": "NO_CLEAR_TONE",
-            "explanation": "Investor posts are scarce and ambiguous; recent RNS are bearish but lack active discussion."
+            "bias": "NEUTRAL",
+            "explanation": "One neutral ShareChat post with no strong bullish or bearish language."
           },
           "market_tape": {
-            "bear_case": "The company announced cancellation of its consolidation plan and reported modest outcomes from the recent general meeting, signalling limited upside and potential stagnation.",
-            "confidence": 0.7,
-            "focus": "Discussion is focused on the cancellation of consolidation and the general meeting results.",
-            "interpretation": "Investors appear to interpret the RNS as an indication of stalled growth and a potential undervaluation of the stock.",
+            "bear_case": "Cancellation of consolidation and the result of the general meeting may indicate financial or strategic challenges for CLA.L.",
+            "confidence": 0.0,
+            "focus": "Recent corporate announcements",
+            "interpretation": "Corporate actions suggest a potential downside view for the stock.",
             "linked_event": "Cancellation of Consolidation",
-            "quality": "MEANINGFUL"
+            "quality": "MEANINGFUL",
+            "shift": "Shift from neutral to bearish sentiment following the corporate announcements."
           },
-          "user_summary": "Recent RNS filings show the company has cancelled its consolidation plan and delivered modest results from the latest general meeting, raising concerns about future growth. Investor discussion is minimal and largely neutral, with a single ShareChat post hinting at a 'temperature drop'. The market is in a crash\u2011zone bottom state with a yellow severity alert, suggesting caution.",
+          "user_summary": "Recent corporate announcements, including the cancellation of consolidation and the result of the general meeting, suggest a negative outlook for CLA.L. The deterministic signal indicates the share price is in a stressed state but does not imply further decline. No bullish developments were reported. Investors may consider the impact of these corporate actions.",
           "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:09:34.172652+00:00",
+        "generated_at": "2026-09-14T21:13:36.441677+00:00",
         "model": "openai/gpt-oss-20b",
         "provider": "Groq",
         "status": "SUCCESS",
@@ -15464,6 +15536,38 @@
           "low": 0.25,
           "open": 0.30000001192092896,
           "volume": 388805
+        },
+        {
+          "close": 0.30000001192092896,
+          "date": "2026-09-09",
+          "high": 0.30000001192092896,
+          "low": 0.30000001192092896,
+          "open": 0.30000001192092896,
+          "volume": 0
+        },
+        {
+          "close": 0.30000001192092896,
+          "date": "2026-09-10",
+          "high": 0.30000001192092896,
+          "low": 0.30000001192092896,
+          "open": 0.30000001192092896,
+          "volume": 0
+        },
+        {
+          "close": 0.30000001192092896,
+          "date": "2026-09-11",
+          "high": 0.25,
+          "low": 0.25,
+          "open": 0.30000001192092896,
+          "volume": 994400
+        },
+        {
+          "close": 0.30000001192092896,
+          "date": "2026-09-14",
+          "high": 0.257999986410141,
+          "low": 0.257999986410141,
+          "open": 0.257999986410141,
+          "volume": 240892
         }
       ],
       "provenance": {
@@ -24013,6 +24117,38 @@
             "low": 0.25,
             "open": 0.30000001192092896,
             "volume": 388805
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-09",
+            "high": 0.30000001192092896,
+            "low": 0.30000001192092896,
+            "open": 0.30000001192092896,
+            "volume": 0
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-10",
+            "high": 0.30000001192092896,
+            "low": 0.30000001192092896,
+            "open": 0.30000001192092896,
+            "volume": 0
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-11",
+            "high": 0.25,
+            "low": 0.25,
+            "open": 0.30000001192092896,
+            "volume": 994400
+          },
+          {
+            "close": 0.30000001192092896,
+            "date": "2026-09-14",
+            "high": 0.257999986410141,
+            "low": 0.257999986410141,
+            "open": 0.257999986410141,
+            "volume": 240892
           }
         ],
         "provenance": {
@@ -24055,25 +24191,45 @@
         "market_cap": 11166620.603721619,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-09",
+                "event": "Cancellation of Consolidation",
+                "timing_basis": "LSE_RNS 2026-09-09"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-09",
+                "event": "Result of General Meeting",
+                "timing_basis": "LSE_RNS 2026-09-09"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-09",
+                "event": "Corporate update",
+                "timing_basis": "LSE_RNS 2026-09-09"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "NO_CLEAR_TONE",
-              "explanation": "Investor posts are scarce and ambiguous; recent RNS are bearish but lack active discussion."
+              "bias": "NEUTRAL",
+              "explanation": "One neutral ShareChat post with no strong bullish or bearish language."
             },
             "market_tape": {
-              "bear_case": "The company announced cancellation of its consolidation plan and reported modest outcomes from the recent general meeting, signalling limited upside and potential stagnation.",
-              "confidence": 0.7,
-              "focus": "Discussion is focused on the cancellation of consolidation and the general meeting results.",
-              "interpretation": "Investors appear to interpret the RNS as an indication of stalled growth and a potential undervaluation of the stock.",
+              "bear_case": "Cancellation of consolidation and the result of the general meeting may indicate financial or strategic challenges for CLA.L.",
+              "confidence": 0.0,
+              "focus": "Recent corporate announcements",
+              "interpretation": "Corporate actions suggest a potential downside view for the stock.",
               "linked_event": "Cancellation of Consolidation",
-              "quality": "MEANINGFUL"
+              "quality": "MEANINGFUL",
+              "shift": "Shift from neutral to bearish sentiment following the corporate announcements."
             },
-            "user_summary": "Recent RNS filings show the company has cancelled its consolidation plan and delivered modest results from the latest general meeting, raising concerns about future growth. Investor discussion is minimal and largely neutral, with a single ShareChat post hinting at a 'temperature drop'. The market is in a crash\u2011zone bottom state with a yellow severity alert, suggesting caution.",
+            "user_summary": "Recent corporate announcements, including the cancellation of consolidation and the result of the general meeting, suggest a negative outlook for CLA.L. The deterministic signal indicates the share price is in a stressed state but does not imply further decline. No bullish developments were reported. Investors may consider the impact of these corporate actions.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:09:34.172652+00:00",
+          "generated_at": "2026-09-14T21:13:36.441677+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",

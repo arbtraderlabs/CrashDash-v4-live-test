@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Beverages - Wineries & Distilleries",
           "market": "AIM",
-          "market_cap": 1063677.252760187,
+          "market_cap": null,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -13536,12 +13536,28 @@
             "volume": 0
           },
           {
-            "close": 0.052299998700618744,
+            "close": 0.05999999865889549,
             "date": "2026-09-09",
-            "high": 0.052299998700618744,
-            "low": 0.052299998700618744,
-            "open": 0.052299998700618744,
+            "high": 0.052000001072883606,
+            "low": 0.052000001072883606,
+            "open": 0.05999999865889549,
             "volume": 164568
+          },
+          {
+            "close": 0.05999999865889549,
+            "date": "2026-09-10",
+            "high": 0.05000000074505806,
+            "low": 0.05000000074505806,
+            "open": 0.05999999865889549,
+            "volume": 1000
+          },
+          {
+            "close": 0.05999999865889549,
+            "date": "2026-09-11",
+            "high": 0.05299999937415123,
+            "low": 0.05299999937415123,
+            "open": 0.05999999865889549,
+            "volume": 49546
           }
         ],
         "provenance": {
@@ -13553,7 +13569,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 1063677.252760187,
+      "market_cap": null,
       "price_at_signal": 0.048,
       "profile": {
         "corporate_actions": {
@@ -13567,7 +13583,6 @@
           "exchange": "LSE",
           "industry": "Beverages - Wineries & Distilleries",
           "market": "AIM",
-          "market_cap": 1063677.252760187,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -13581,10 +13596,38 @@
           "signal_id": "DIS.L:2026-08-05",
           "ticker": "DIS.L"
         },
-        "market_cap": 1063677.252760187,
+        "market_cap": null,
         "market_tape": {
-          "analysis": null,
-          "status": "NOT_AVAILABLE"
+          "analysis": {
+            "catalysts": [],
+            "expected": [],
+            "investor_tone": {
+              "bias": "NEUTRAL",
+              "explanation": "Investors are discussing the impact of a recent share split on the share price, noting that the split did not create new value."
+            },
+            "market_tape": {
+              "confidence": 0.0,
+              "focus": "Share split and AGM activity",
+              "interpretation": "The current CRASH ZONE BOTTOM signal indicates the share price is in a stressed state, but this is an observation rather than a forecast of further decline.",
+              "linked_event": "Share split",
+              "quality": "MIXED_SIGNAL"
+            },
+            "user_summary": "The share price is currently in a stressed state as per the CRASH ZONE BOTTOM signal. Investors are debating the effect of a recent share split, with many noting it did not add value. The only official announcement with potential relevance is the proposed capital reorganisation announced on 11 August 2026. No clear bullish or bearish case emerges from the available official data.",
+            "watch_for": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Outcome of proposed capital reorganisation",
+                "timing_basis": "RNS 11th Aug 2026"
+              }
+            ]
+          },
+          "analysis_as_of_date": null,
+          "generated_at": "2026-09-14T21:16:50.113679+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
+          "status": "SUCCESS",
+          "ticker": "DIS.L"
         },
         "research": {
           "data": null,
@@ -15299,10 +15342,38 @@
         "sector": "Consumer Defensive",
         "ticker": "DIS.L"
       },
-      "market_cap": 1063677.252760187,
+      "market_cap": null,
       "market_tape": {
-        "analysis": null,
-        "status": "NOT_AVAILABLE"
+        "analysis": {
+          "catalysts": [],
+          "expected": [],
+          "investor_tone": {
+            "bias": "NEUTRAL",
+            "explanation": "Investors are discussing the impact of a recent share split on the share price, noting that the split did not create new value."
+          },
+          "market_tape": {
+            "confidence": 0.0,
+            "focus": "Share split and AGM activity",
+            "interpretation": "The current CRASH ZONE BOTTOM signal indicates the share price is in a stressed state, but this is an observation rather than a forecast of further decline.",
+            "linked_event": "Share split",
+            "quality": "MIXED_SIGNAL"
+          },
+          "user_summary": "The share price is currently in a stressed state as per the CRASH ZONE BOTTOM signal. Investors are debating the effect of a recent share split, with many noting it did not add value. The only official announcement with potential relevance is the proposed capital reorganisation announced on 11 August 2026. No clear bullish or bearish case emerges from the available official data.",
+          "watch_for": [
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Outcome of proposed capital reorganisation",
+              "timing_basis": "RNS 11th Aug 2026"
+            }
+          ]
+        },
+        "analysis_as_of_date": null,
+        "generated_at": "2026-09-14T21:16:50.113679+00:00",
+        "model": "openai/gpt-oss-20b",
+        "provider": "Groq",
+        "status": "SUCCESS",
+        "ticker": "DIS.L"
       },
       "price_series": [
         {
@@ -28810,12 +28881,28 @@
           "volume": 0
         },
         {
-          "close": 0.052299998700618744,
+          "close": 0.05999999865889549,
           "date": "2026-09-09",
-          "high": 0.052299998700618744,
-          "low": 0.052299998700618744,
-          "open": 0.052299998700618744,
+          "high": 0.052000001072883606,
+          "low": 0.052000001072883606,
+          "open": 0.05999999865889549,
           "volume": 164568
+        },
+        {
+          "close": 0.05999999865889549,
+          "date": "2026-09-10",
+          "high": 0.05000000074505806,
+          "low": 0.05000000074505806,
+          "open": 0.05999999865889549,
+          "volume": 1000
+        },
+        {
+          "close": 0.05999999865889549,
+          "date": "2026-09-11",
+          "high": 0.05299999937415123,
+          "low": 0.05299999937415123,
+          "open": 0.05999999865889549,
+          "volume": 49546
         }
       ],
       "provenance": {
@@ -30232,7 +30319,7 @@
           "exchange": "LSE",
           "industry": "Beverages - Wineries & Distilleries",
           "market": "AIM",
-          "market_cap": 1063677.252760187,
+          "market_cap": null,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -43744,12 +43831,28 @@
             "volume": 0
           },
           {
-            "close": 0.052299998700618744,
+            "close": 0.05999999865889549,
             "date": "2026-09-09",
-            "high": 0.052299998700618744,
-            "low": 0.052299998700618744,
-            "open": 0.052299998700618744,
+            "high": 0.052000001072883606,
+            "low": 0.052000001072883606,
+            "open": 0.05999999865889549,
             "volume": 164568
+          },
+          {
+            "close": 0.05999999865889549,
+            "date": "2026-09-10",
+            "high": 0.05000000074505806,
+            "low": 0.05000000074505806,
+            "open": 0.05999999865889549,
+            "volume": 1000
+          },
+          {
+            "close": 0.05999999865889549,
+            "date": "2026-09-11",
+            "high": 0.05299999937415123,
+            "low": 0.05299999937415123,
+            "open": 0.05999999865889549,
+            "volume": 49546
           }
         ],
         "provenance": {
@@ -43761,7 +43864,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 1063677.252760187,
+      "market_cap": null,
       "price_at_signal": 0.048,
       "profile": {
         "corporate_actions": {
@@ -43775,7 +43878,6 @@
           "exchange": "LSE",
           "industry": "Beverages - Wineries & Distilleries",
           "market": "AIM",
-          "market_cap": 1063677.252760187,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -43789,10 +43891,38 @@
           "signal_id": "DIS.L:2026-08-05",
           "ticker": "DIS.L"
         },
-        "market_cap": 1063677.252760187,
+        "market_cap": null,
         "market_tape": {
-          "analysis": null,
-          "status": "NOT_AVAILABLE"
+          "analysis": {
+            "catalysts": [],
+            "expected": [],
+            "investor_tone": {
+              "bias": "NEUTRAL",
+              "explanation": "Investors are discussing the impact of a recent share split on the share price, noting that the split did not create new value."
+            },
+            "market_tape": {
+              "confidence": 0.0,
+              "focus": "Share split and AGM activity",
+              "interpretation": "The current CRASH ZONE BOTTOM signal indicates the share price is in a stressed state, but this is an observation rather than a forecast of further decline.",
+              "linked_event": "Share split",
+              "quality": "MIXED_SIGNAL"
+            },
+            "user_summary": "The share price is currently in a stressed state as per the CRASH ZONE BOTTOM signal. Investors are debating the effect of a recent share split, with many noting it did not add value. The only official announcement with potential relevance is the proposed capital reorganisation announced on 11 August 2026. No clear bullish or bearish case emerges from the available official data.",
+            "watch_for": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Outcome of proposed capital reorganisation",
+                "timing_basis": "RNS 11th Aug 2026"
+              }
+            ]
+          },
+          "analysis_as_of_date": null,
+          "generated_at": "2026-09-14T21:16:50.113679+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
+          "status": "SUCCESS",
+          "ticker": "DIS.L"
         },
         "research": {
           "data": null,

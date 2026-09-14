@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 13096353446.64,
+          "market_cap": 11938980027.35088,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -13528,12 +13528,36 @@
             "volume": 732
           },
           {
-            "close": 4986,
+            "close": 4974,
             "date": "2026-09-09",
             "high": 5080,
             "low": 4950,
             "open": 5065,
-            "volume": 664
+            "volume": 1329
+          },
+          {
+            "close": 5010,
+            "date": "2026-09-10",
+            "high": 5010,
+            "low": 4774,
+            "open": 4992,
+            "volume": 6096
+          },
+          {
+            "close": 4840,
+            "date": "2026-09-11",
+            "high": 4938,
+            "low": 4812,
+            "open": 4850,
+            "volume": 8504
+          },
+          {
+            "close": 4545.36865234375,
+            "date": "2026-09-14",
+            "high": 4638,
+            "low": 4428,
+            "open": 4626,
+            "volume": 1675
           }
         ],
         "provenance": {
@@ -13545,7 +13569,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 13096353446.64,
+      "market_cap": 11938980027.35088,
       "price_at_signal": 968.07,
       "profile": {
         "corporate_actions": {
@@ -13559,7 +13583,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 13096353446.64,
+          "market_cap": 11938980027.35088,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -13573,24 +13597,26 @@
           "signal_id": "BC94.L:2026-07-29",
           "ticker": "BC94.L"
         },
-        "market_cap": 13096353446.64,
+        "market_cap": 11938980027.35088,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
               "bias": "NO_CLEAR_TONE",
-              "explanation": "No recent investor posts or sentiment data are available to infer a bias."
+              "explanation": "No recent investor discussion available."
             },
             "market_tape": {
               "confidence": 0.0,
+              "focus": "Deterministic CrashDash observation indicating price is in a crash zone bottom",
+              "interpretation": "The signal reflects an unusually stressed price level; no directional inference is implied.",
               "quality": "MOSTLY_NOISE"
             },
-            "user_summary": "BC94.L has a recent market signal suggesting it may be at a bottom, but there is no current investor chatter or company news to substantiate this view. Activity remains minimal, with only a single post from 2013. The lack of recent discussion limits the ability to form a clear bullish or bearish stance at this time.",
+            "user_summary": "BC94.L is currently flagged by CrashDash as being in a crash zone bottom, with the latest observation on 2026-07-29 at a price of 968.07. No recent official announcements or investor discussion provide additional context. Consequently, there is no clear bullish or bearish narrative emerging from available evidence.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T00:02:16.012517+00:00",
+          "generated_at": "2026-09-14T21:11:27.648592+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -13713,24 +13739,26 @@
         "sector": "Technology",
         "ticker": "BC94.L"
       },
-      "market_cap": 13096353446.64,
+      "market_cap": 11938980027.35088,
       "market_tape": {
         "analysis": {
           "catalysts": [],
           "expected": [],
           "investor_tone": {
             "bias": "NO_CLEAR_TONE",
-            "explanation": "No recent investor posts or sentiment data are available to infer a bias."
+            "explanation": "No recent investor discussion available."
           },
           "market_tape": {
             "confidence": 0.0,
+            "focus": "Deterministic CrashDash observation indicating price is in a crash zone bottom",
+            "interpretation": "The signal reflects an unusually stressed price level; no directional inference is implied.",
             "quality": "MOSTLY_NOISE"
           },
-          "user_summary": "BC94.L has a recent market signal suggesting it may be at a bottom, but there is no current investor chatter or company news to substantiate this view. Activity remains minimal, with only a single post from 2013. The lack of recent discussion limits the ability to form a clear bullish or bearish stance at this time.",
+          "user_summary": "BC94.L is currently flagged by CrashDash as being in a crash zone bottom, with the latest observation on 2026-07-29 at a price of 968.07. No recent official announcements or investor discussion provide additional context. Consequently, there is no clear bullish or bearish narrative emerging from available evidence.",
           "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T00:02:16.012517+00:00",
+        "generated_at": "2026-09-14T21:11:27.648592+00:00",
         "model": "openai/gpt-oss-20b",
         "provider": "Groq",
         "status": "SUCCESS",
@@ -27234,12 +27262,36 @@
           "volume": 732
         },
         {
-          "close": 4986,
+          "close": 4974,
           "date": "2026-09-09",
           "high": 5080,
           "low": 4950,
           "open": 5065,
-          "volume": 664
+          "volume": 1329
+        },
+        {
+          "close": 5010,
+          "date": "2026-09-10",
+          "high": 5010,
+          "low": 4774,
+          "open": 4992,
+          "volume": 6096
+        },
+        {
+          "close": 4840,
+          "date": "2026-09-11",
+          "high": 4938,
+          "low": 4812,
+          "open": 4850,
+          "volume": 8504
+        },
+        {
+          "close": 4545.36865234375,
+          "date": "2026-09-14",
+          "high": 4638,
+          "low": 4428,
+          "open": 4626,
+          "volume": 1675
         }
       ],
       "provenance": {
@@ -27317,7 +27369,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 13096353446.64,
+          "market_cap": 11938980027.35088,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -40821,12 +40873,36 @@
             "volume": 732
           },
           {
-            "close": 4986,
+            "close": 4974,
             "date": "2026-09-09",
             "high": 5080,
             "low": 4950,
             "open": 5065,
-            "volume": 664
+            "volume": 1329
+          },
+          {
+            "close": 5010,
+            "date": "2026-09-10",
+            "high": 5010,
+            "low": 4774,
+            "open": 4992,
+            "volume": 6096
+          },
+          {
+            "close": 4840,
+            "date": "2026-09-11",
+            "high": 4938,
+            "low": 4812,
+            "open": 4850,
+            "volume": 8504
+          },
+          {
+            "close": 4545.36865234375,
+            "date": "2026-09-14",
+            "high": 4638,
+            "low": 4428,
+            "open": 4626,
+            "volume": 1675
           }
         ],
         "provenance": {
@@ -40838,7 +40914,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 13096353446.64,
+      "market_cap": 11938980027.35088,
       "price_at_signal": 968.07,
       "profile": {
         "corporate_actions": {
@@ -40852,7 +40928,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 13096353446.64,
+          "market_cap": 11938980027.35088,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -40866,24 +40942,26 @@
           "signal_id": "BC94.L:2026-07-29",
           "ticker": "BC94.L"
         },
-        "market_cap": 13096353446.64,
+        "market_cap": 11938980027.35088,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
               "bias": "NO_CLEAR_TONE",
-              "explanation": "No recent investor posts or sentiment data are available to infer a bias."
+              "explanation": "No recent investor discussion available."
             },
             "market_tape": {
               "confidence": 0.0,
+              "focus": "Deterministic CrashDash observation indicating price is in a crash zone bottom",
+              "interpretation": "The signal reflects an unusually stressed price level; no directional inference is implied.",
               "quality": "MOSTLY_NOISE"
             },
-            "user_summary": "BC94.L has a recent market signal suggesting it may be at a bottom, but there is no current investor chatter or company news to substantiate this view. Activity remains minimal, with only a single post from 2013. The lack of recent discussion limits the ability to form a clear bullish or bearish stance at this time.",
+            "user_summary": "BC94.L is currently flagged by CrashDash as being in a crash zone bottom, with the latest observation on 2026-07-29 at a price of 968.07. No recent official announcements or investor discussion provide additional context. Consequently, there is no clear bullish or bearish narrative emerging from available evidence.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T00:02:16.012517+00:00",
+          "generated_at": "2026-09-14T21:11:27.648592+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",

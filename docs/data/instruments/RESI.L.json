@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "REIT - Residential",
           "market": "MAIN",
-          "market_cap": 14220539.66294616,
+          "market_cap": 13516919.866170932,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Real Estate",
@@ -13536,12 +13536,36 @@
             "volume": 297029
           },
           {
-            "close": 7.679999828338623,
+            "close": 7.300000190734863,
             "date": "2026-09-09",
             "high": 8.420000076293945,
-            "low": 7.274400234222412,
-            "open": 7.274400234222412,
-            "volume": 222561
+            "low": 7.27400016784668,
+            "open": 7.300000190734863,
+            "volume": 229139
+          },
+          {
+            "close": 7.300000190734863,
+            "date": "2026-09-10",
+            "high": 8.420000076293945,
+            "low": 7.199999809265137,
+            "open": 7.300000190734863,
+            "volume": 744281
+          },
+          {
+            "close": 7.340000152587891,
+            "date": "2026-09-11",
+            "high": 8.420000076293945,
+            "low": 7.289999961853027,
+            "open": 7.360000133514404,
+            "volume": 468690
+          },
+          {
+            "close": 7.300000190734863,
+            "date": "2026-09-14",
+            "high": 8.420000076293945,
+            "low": 7.300000190734863,
+            "open": 7.420000076293945,
+            "volume": 531645
           }
         ],
         "provenance": {
@@ -13553,7 +13577,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 14220539.66294616,
+      "market_cap": 13516919.866170932,
       "price_at_signal": 7.4,
       "profile": {
         "corporate_actions": {
@@ -13567,7 +13591,7 @@
           "exchange": "LSE",
           "industry": "REIT - Residential",
           "market": "MAIN",
-          "market_cap": 14220539.66294616,
+          "market_cap": 13516919.866170932,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Real Estate",
@@ -13581,30 +13605,44 @@
           "signal_id": "RESI.L:2026-09-07",
           "ticker": "RESI.L"
         },
-        "market_cap": 14220539.66294616,
+        "market_cap": 13516919.866170932,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "2026-08-28",
+                "event": "Cancellation of share premium account",
+                "timing_basis": "RNS 28th Aug 2026"
+              },
+              {
+                "confidence": "LOW",
+                "estimated_timing": "2026-08-21",
+                "event": "Holding(s) in Company",
+                "timing_basis": "RNS 21st Aug 2026"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "BULLISH",
-              "explanation": "A recent investor post confirms the receipt of a 19p per share payment from the B Share Scheme and suggests further positive developments are anticipated for RESI.L."
+              "bias": "NO_CLEAR_TONE",
+              "explanation": "Only a single neutral post is available, providing no clear bullish or bearish consensus."
             },
             "market_tape": {
-              "bull_case": "Bullish posts centre on the successful execution of the B Share Scheme, with investors confirming receipt of payments and expressing anticipation for additional positive developments. The 'CRASH ZONE BOTTOM' signal may also be interpreted as a potential entry point.",
-              "confidence": 0.2,
-              "focus": "Discussion is focused on the recent capital return and income distribution via the B Share Scheme.",
-              "interpretation": "Investors appear to interpret the RNS regarding the 'Initial B Share Scheme Cap Return & Prop Inc Distn' as a positive event, with one investor confirming receipt of 19p per share. The 'Cancellation of share premium account' RNS on 28th August is likely a procedural step related to these capital returns.",
-              "linked_event": "The 'Initial B Share Scheme Cap Return & Prop Inc Distn' RNS on 14th August 2026 and the 'Cancellation of share premium account' RNS on 28th August 2026 are linked to the investor's comment about receiving 19p per share.",
-              "quality": "MOSTLY_NOISE"
+              "confidence": 0.0,
+              "divergence": "Signal indicates a stressed price state but does not imply further movement.",
+              "focus": "Recent RNS announcements and the current stressed price condition.",
+              "interpretation": "The company has issued neutral announcements regarding share premium cancellation and holdings, while the deterministic signal shows the share price is in a stressed state. No clear directional inference can be drawn from the signal alone.",
+              "linked_event": "Cancellation of share premium account (RNS 28 Aug 2026)",
+              "missed_angle": "Potential implications for capital structure have not been discussed by the market.",
+              "quality": "MIXED_SIGNAL"
             },
-            "user_summary": "Investors are discussing the recent 19p per share payment received from RESI.L's B Share Scheme, with one investor confirming receipt and anticipating further positive developments. This follows RNS announcements regarding capital return and a share premium account cancellation. The stock is currently in a 'CRASH ZONE BOTTOM' signal state.",
+            "user_summary": "RESI.L has issued neutral RNS filings, including the cancellation of a share premium account and several holdings disclosures. The deterministic signal shows the share price is in a stressed state, but no direction is implied. Investor discussion remains limited and neutral, with no strong bullish or bearish consensus. No imminent catalysts beyond the recent RNS filings are evident.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:16:30.795087+00:00",
-          "model": "gemini-2.5-flash",
-          "provider": "Gemini fallback",
+          "generated_at": "2026-09-14T21:26:08.534534+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
           "status": "SUCCESS",
           "ticker": "RESI.L"
         },
@@ -14778,30 +14816,44 @@
         "sector": "Real Estate",
         "ticker": "RESI.L"
       },
-      "market_cap": 14220539.66294616,
+      "market_cap": 13516919.866170932,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
+          "catalysts": [
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "2026-08-28",
+              "event": "Cancellation of share premium account",
+              "timing_basis": "RNS 28th Aug 2026"
+            },
+            {
+              "confidence": "LOW",
+              "estimated_timing": "2026-08-21",
+              "event": "Holding(s) in Company",
+              "timing_basis": "RNS 21st Aug 2026"
+            }
+          ],
           "expected": [],
           "investor_tone": {
-            "bias": "BULLISH",
-            "explanation": "A recent investor post confirms the receipt of a 19p per share payment from the B Share Scheme and suggests further positive developments are anticipated for RESI.L."
+            "bias": "NO_CLEAR_TONE",
+            "explanation": "Only a single neutral post is available, providing no clear bullish or bearish consensus."
           },
           "market_tape": {
-            "bull_case": "Bullish posts centre on the successful execution of the B Share Scheme, with investors confirming receipt of payments and expressing anticipation for additional positive developments. The 'CRASH ZONE BOTTOM' signal may also be interpreted as a potential entry point.",
-            "confidence": 0.2,
-            "focus": "Discussion is focused on the recent capital return and income distribution via the B Share Scheme.",
-            "interpretation": "Investors appear to interpret the RNS regarding the 'Initial B Share Scheme Cap Return & Prop Inc Distn' as a positive event, with one investor confirming receipt of 19p per share. The 'Cancellation of share premium account' RNS on 28th August is likely a procedural step related to these capital returns.",
-            "linked_event": "The 'Initial B Share Scheme Cap Return & Prop Inc Distn' RNS on 14th August 2026 and the 'Cancellation of share premium account' RNS on 28th August 2026 are linked to the investor's comment about receiving 19p per share.",
-            "quality": "MOSTLY_NOISE"
+            "confidence": 0.0,
+            "divergence": "Signal indicates a stressed price state but does not imply further movement.",
+            "focus": "Recent RNS announcements and the current stressed price condition.",
+            "interpretation": "The company has issued neutral announcements regarding share premium cancellation and holdings, while the deterministic signal shows the share price is in a stressed state. No clear directional inference can be drawn from the signal alone.",
+            "linked_event": "Cancellation of share premium account (RNS 28 Aug 2026)",
+            "missed_angle": "Potential implications for capital structure have not been discussed by the market.",
+            "quality": "MIXED_SIGNAL"
           },
-          "user_summary": "Investors are discussing the recent 19p per share payment received from RESI.L's B Share Scheme, with one investor confirming receipt and anticipating further positive developments. This follows RNS announcements regarding capital return and a share premium account cancellation. The stock is currently in a 'CRASH ZONE BOTTOM' signal state.",
+          "user_summary": "RESI.L has issued neutral RNS filings, including the cancellation of a share premium account and several holdings disclosures. The deterministic signal shows the share price is in a stressed state, but no direction is implied. Investor discussion remains limited and neutral, with no strong bullish or bearish consensus. No imminent catalysts beyond the recent RNS filings are evident.",
           "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:16:30.795087+00:00",
-        "model": "gemini-2.5-flash",
-        "provider": "Gemini fallback",
+        "generated_at": "2026-09-14T21:26:08.534534+00:00",
+        "model": "openai/gpt-oss-20b",
+        "provider": "Groq",
         "status": "SUCCESS",
         "ticker": "RESI.L"
       },
@@ -28311,12 +28363,36 @@
           "volume": 297029
         },
         {
-          "close": 7.679999828338623,
+          "close": 7.300000190734863,
           "date": "2026-09-09",
           "high": 8.420000076293945,
-          "low": 7.274400234222412,
-          "open": 7.274400234222412,
-          "volume": 222561
+          "low": 7.27400016784668,
+          "open": 7.300000190734863,
+          "volume": 229139
+        },
+        {
+          "close": 7.300000190734863,
+          "date": "2026-09-10",
+          "high": 8.420000076293945,
+          "low": 7.199999809265137,
+          "open": 7.300000190734863,
+          "volume": 744281
+        },
+        {
+          "close": 7.340000152587891,
+          "date": "2026-09-11",
+          "high": 8.420000076293945,
+          "low": 7.289999961853027,
+          "open": 7.360000133514404,
+          "volume": 468690
+        },
+        {
+          "close": 7.300000190734863,
+          "date": "2026-09-14",
+          "high": 8.420000076293945,
+          "low": 7.300000190734863,
+          "open": 7.420000076293945,
+          "volume": 531645
         }
       ],
       "provenance": {
@@ -29537,7 +29613,7 @@
           "exchange": "LSE",
           "industry": "REIT - Residential",
           "market": "MAIN",
-          "market_cap": 14220539.66294616,
+          "market_cap": 13516919.866170932,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Real Estate",
@@ -43049,12 +43125,36 @@
             "volume": 297029
           },
           {
-            "close": 7.679999828338623,
+            "close": 7.300000190734863,
             "date": "2026-09-09",
             "high": 8.420000076293945,
-            "low": 7.274400234222412,
-            "open": 7.274400234222412,
-            "volume": 222561
+            "low": 7.27400016784668,
+            "open": 7.300000190734863,
+            "volume": 229139
+          },
+          {
+            "close": 7.300000190734863,
+            "date": "2026-09-10",
+            "high": 8.420000076293945,
+            "low": 7.199999809265137,
+            "open": 7.300000190734863,
+            "volume": 744281
+          },
+          {
+            "close": 7.340000152587891,
+            "date": "2026-09-11",
+            "high": 8.420000076293945,
+            "low": 7.289999961853027,
+            "open": 7.360000133514404,
+            "volume": 468690
+          },
+          {
+            "close": 7.300000190734863,
+            "date": "2026-09-14",
+            "high": 8.420000076293945,
+            "low": 7.300000190734863,
+            "open": 7.420000076293945,
+            "volume": 531645
           }
         ],
         "provenance": {
@@ -43066,7 +43166,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 14220539.66294616,
+      "market_cap": 13516919.866170932,
       "price_at_signal": 7.4,
       "profile": {
         "corporate_actions": {
@@ -43080,7 +43180,7 @@
           "exchange": "LSE",
           "industry": "REIT - Residential",
           "market": "MAIN",
-          "market_cap": 14220539.66294616,
+          "market_cap": 13516919.866170932,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Real Estate",
@@ -43094,30 +43194,44 @@
           "signal_id": "RESI.L:2026-09-07",
           "ticker": "RESI.L"
         },
-        "market_cap": 14220539.66294616,
+        "market_cap": 13516919.866170932,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "2026-08-28",
+                "event": "Cancellation of share premium account",
+                "timing_basis": "RNS 28th Aug 2026"
+              },
+              {
+                "confidence": "LOW",
+                "estimated_timing": "2026-08-21",
+                "event": "Holding(s) in Company",
+                "timing_basis": "RNS 21st Aug 2026"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "BULLISH",
-              "explanation": "A recent investor post confirms the receipt of a 19p per share payment from the B Share Scheme and suggests further positive developments are anticipated for RESI.L."
+              "bias": "NO_CLEAR_TONE",
+              "explanation": "Only a single neutral post is available, providing no clear bullish or bearish consensus."
             },
             "market_tape": {
-              "bull_case": "Bullish posts centre on the successful execution of the B Share Scheme, with investors confirming receipt of payments and expressing anticipation for additional positive developments. The 'CRASH ZONE BOTTOM' signal may also be interpreted as a potential entry point.",
-              "confidence": 0.2,
-              "focus": "Discussion is focused on the recent capital return and income distribution via the B Share Scheme.",
-              "interpretation": "Investors appear to interpret the RNS regarding the 'Initial B Share Scheme Cap Return & Prop Inc Distn' as a positive event, with one investor confirming receipt of 19p per share. The 'Cancellation of share premium account' RNS on 28th August is likely a procedural step related to these capital returns.",
-              "linked_event": "The 'Initial B Share Scheme Cap Return & Prop Inc Distn' RNS on 14th August 2026 and the 'Cancellation of share premium account' RNS on 28th August 2026 are linked to the investor's comment about receiving 19p per share.",
-              "quality": "MOSTLY_NOISE"
+              "confidence": 0.0,
+              "divergence": "Signal indicates a stressed price state but does not imply further movement.",
+              "focus": "Recent RNS announcements and the current stressed price condition.",
+              "interpretation": "The company has issued neutral announcements regarding share premium cancellation and holdings, while the deterministic signal shows the share price is in a stressed state. No clear directional inference can be drawn from the signal alone.",
+              "linked_event": "Cancellation of share premium account (RNS 28 Aug 2026)",
+              "missed_angle": "Potential implications for capital structure have not been discussed by the market.",
+              "quality": "MIXED_SIGNAL"
             },
-            "user_summary": "Investors are discussing the recent 19p per share payment received from RESI.L's B Share Scheme, with one investor confirming receipt and anticipating further positive developments. This follows RNS announcements regarding capital return and a share premium account cancellation. The stock is currently in a 'CRASH ZONE BOTTOM' signal state.",
+            "user_summary": "RESI.L has issued neutral RNS filings, including the cancellation of a share premium account and several holdings disclosures. The deterministic signal shows the share price is in a stressed state, but no direction is implied. Investor discussion remains limited and neutral, with no strong bullish or bearish consensus. No imminent catalysts beyond the recent RNS filings are evident.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:16:30.795087+00:00",
-          "model": "gemini-2.5-flash",
-          "provider": "Gemini fallback",
+          "generated_at": "2026-09-14T21:26:08.534534+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
           "status": "SUCCESS",
           "ticker": "RESI.L"
         },

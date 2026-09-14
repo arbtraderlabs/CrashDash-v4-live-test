@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10236688.367481438,
+          "market_cap": 10020829.386777759,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -10504,20 +10504,44 @@
             "volume": 1827444
           },
           {
-            "close": 2.430000066757202,
+            "close": 2.399625062942505,
             "date": "2026-09-08",
-            "high": 2.5480000972747803,
-            "low": 2.3940000534057617,
-            "open": 2.5480000972747803,
+            "high": 2.516150092933894,
+            "low": 2.364075049802109,
+            "open": 2.516150092933894,
             "volume": 1744294
           },
           {
-            "close": 2.4660000801086426,
+            "close": 2.449000120162964,
             "date": "2026-09-09",
-            "high": 2.555999994277954,
-            "low": 2.4240000247955322,
-            "open": 2.555999994277954,
-            "volume": 287489
+            "high": 2.5240500987825847,
+            "low": 2.393700123525435,
+            "open": 2.5240500987825847,
+            "volume": 849251
+          },
+          {
+            "close": 2.4140000343322754,
+            "date": "2026-09-10",
+            "high": 2.4600000381469727,
+            "low": 2.3320000171661377,
+            "open": 2.3320000171661377,
+            "volume": 2015635
+          },
+          {
+            "close": 2.436000108718872,
+            "date": "2026-09-11",
+            "high": 2.5299999713897705,
+            "low": 2.3459999561309814,
+            "open": 2.5299999713897705,
+            "volume": 1462813
+          },
+          {
+            "close": 2.4140000343322754,
+            "date": "2026-09-14",
+            "high": 2.4779999256134033,
+            "low": 2.3499999046325684,
+            "open": 2.3499999046325684,
+            "volume": 986045
           }
         ],
         "provenance": {
@@ -10529,7 +10553,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 10236688.367481438,
+      "market_cap": 10020829.386777759,
       "price_at_signal": 2.43,
       "profile": {
         "corporate_actions": {
@@ -10543,7 +10567,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10236688.367481438,
+          "market_cap": 10020829.386777759,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -10557,29 +10581,54 @@
           "signal_id": "BCG.L:2026-09-08",
           "ticker": "BCG.L"
         },
-        "market_cap": 10236688.367481438,
+        "market_cap": 10020829.386777759,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Transaction in Own Shares",
+                "timing_basis": "rns-fd9c4846effaefe988e02604"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "UNKNOWN",
+                "event": "Directorate change",
+                "timing_basis": "rns-4552d3d46e031e83fa068302"
+              }
+            ],
             "expected": [],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "Activity is minimal with a single bullish comment, while the official RNS is bearish."
+              "explanation": "Community post is bullish, but official RNS announcements are bearish."
             },
             "market_tape": {
-              "bear_case": "BCG.L has announced a transaction in its own shares, which may reflect management\u2019s attempt to support the share price but also signals a lack of alternative capital deployment opportunities.",
-              "confidence": 0.0,
-              "divergence": "Bullish sentiment on ShareChat diverges from the bearish tone of the RNS announcement.",
-              "focus": "Own\u2011share transaction",
-              "interpretation": "The CrashDash signal shows a deep crash bottom, indicating the share price is in an unusually stressed state but does not imply further decline.",
+              "bear_case": "The company announced a transaction in its own shares and a directorate change, both classified as bearish, indicating potential management or financial adjustments that could weigh on the stock.",
+              "confidence": 0.5,
+              "focus": "Recent RNS announcements",
+              "interpretation": "Official announcements are negative; community sentiment is limited and bullish but not supported by corporate facts.",
               "linked_event": "Transaction in Own Shares",
-              "quality": "MIXED_SIGNAL"
+              "quality": "MEANINGFUL"
             },
-            "user_summary": "BCG.L\u2019s recent RNS disclosed a transaction in its own shares, a move the company labels as bearish. A single ShareChat post suggests the price is at a bottom and could climb to \u00a32 over ten weeks, but overall trading activity remains low. The CrashDash signal indicates a deep crash bottom, signalling extreme stress but no directional forecast. Investors should note the mixed signals and limited market activity.",
-            "watch_for": []
+            "user_summary": "BCG.L issued two bearish RNS items: a share buyback and a directorate change. Community sentiment is bullish but minimal. The deterministic signal indicates the share price is in a stressed state, but no future direction can be inferred. Investors should monitor the impact of the buyback and management changes.",
+            "watch_for": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Transaction in Own Shares",
+                "timing_basis": "rns-fd9c4846effaefe988e02604"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "UNKNOWN",
+                "event": "Directorate change",
+                "timing_basis": "rns-4552d3d46e031e83fa068302"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-13T12:26:24.494674+00:00",
+          "generated_at": "2026-09-14T21:11:31.470707+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -10724,10 +10773,152 @@
               "rns_number": null,
               "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-fes47hql1eyw7cv.html",
               "time": "10:18 am"
+            },
+            {
+              "category": "BEARISH",
+              "content": "Baltic Classifieds Group Regulatory News. Live BCG RNS. Regulatory News Articles for Baltic Classifieds Group Plc Ord Gbp0.01 Home Home About Us Advertise With Us Investor Relations What's New Share Prices Share Prices Financial Diary Commodities UK Industry Sectors Aquis Stock Exchange Share Prices Euronext Share Prices US Share Prices UK Indices FTSE 100 FTSE 250 FTSE All-Share FTSE Small Cap FTSE 350 FTSE AIM All-Share Share Risers Tribal Grp. (TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat. Set up virtual watchlists and portfolios See more trades and share info. Register for FREE Now Sign In Register for Free Join our 300,000+ users: Register for FREE Sign In Get Live Data Follow Kelso\u2019s Retail Offer via RetailBook here . Less Ads, More Data, More Tools Register for FREE REMOVE ADS REMOVE ADS Home Share Prices Financial Diary UK Indices UK Industry Sectors Commodities Company Lookup Share Risers Share Fallers Finance Glossary Euronext US Share Prices Share Research Share Chat FX News & RNS Media Trading Brokers Finance Tools Members Latest Share Chat TEXF.BR. &......cdl.....turning blue ... NTVO. Tick tock, I\u2019m guessing a nu... PANR. You\u2019d have to be somebody se... ECR. C1p2d...Stated this would be... TEXF.BR. &.......panr.......bzt.....s... BRES. I wouldn't be surprised if w... SML. Summary by AI BETAClose XStr... SML. Https://www.investormeetcomp... THG. 23p (22.90) is the all time ... FOXT. Let's compare Winkwoth' s R... REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles. Click here to refresh the page. BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 . Sean will join the Audit, Nomination and Remuneration Committees and will succeed Kristel Volver as Chair of the Audit Committee with effect from 1 January 2027. Kristel will continue to serve as a member of the Audit Committee. Sean is a highly experienced finance executive with extensive listed company and board-level experience. He has held senior finance roles at a number of UK-listed companies, serving as Chief Financial Officer of Auto Trader Group plc and Funding Circle Holdings plc, and as Interim Chief Financial Officer of ASOS plc. Sean is a qualified Chartered Accountant. Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair. Commenting on the appointment, Trevor Mather, Chair, said: \"We are delighted to welcome Sean to the Board. His extensive financial and listed company experience will further strengthen the Board and make him well suited to chair our Audit Committee. We very much look forward to working with him.\" Commenting on his appointment, Sean Glithero said: \"I am very pleased to be joining the Board of BCG. It is a high-quality business with strong market positions and a clear strategy, and I look forward to working with the Board and management team as the Group continues to grow and deliver long-term value for shareholders.\" There is no further information to be disclosed pursuant to UK Listing Rule 6.4.8R. Enquiries: Company Secretary: E-mail: cosec@balticclassifieds.com About Baltic Classifieds Group PLC Baltic Classifieds Group PLC is the leading online classifieds group in the Baltics, which owns and operates fourteen leading vertical and generalist online classifieds portals in Lithuania, Estonia and Latvia. BCG's online classifieds portfolio comprises four business lines - auto, real estate, jobs & services and generalist. The Group listed on the London Stock Exchange in July 2021 and is a member of the FTSE 250 Index. For more information, please visit https://balticclassifieds.com/ Baltic Classifieds Group PLC LEI: 213800I1RPHCFSSQS969 This information is provided by RNS, the news service of the London Stock Exchange. RNS is approved by the Financial Conduct Authority to act as a Primary Information Provider in the United Kingdom. Terms and conditions relating to the use and distribution of this information may apply. For further information, please contact rns@lseg.com or visit www.rns.com .RNS may use your IP address to confirm compliance with the terms and conditions, to analyse how you engage with the information contained in this communication, and to share such analysis on an anonymised basis with others as part of our commercial services. For further information about how RNS and the London Stock Exchange use the personal data you provide us, please see our Privacy Policy . END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor. We apologise for the inconvenience. To access our Live RNS you must confirm you are a private investor by using the button below. I am a Private Investor Follow the stocks that matter to you Create a free LSE account to: Track shares with a personal watchlist Join investor discussions See more trading activity Receive free RNS Alerts Already a member? Log in Create Free Account Create your free account Continue with Google Continue with Apple Or Continue with Email Email Address Password Sign me up for the FREE market reports I agree to the T&C's and Privacy Policy Marketing I am happy to receive emails from London South East I am happy to receive e",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": null,
+              "entities": [],
+              "event_id": "rns-4552d3d46e031e83fa068302",
+              "headline": "Directorate change",
+              "key_metrics": [
+                {
+                  "label": "for Baltic Classifieds Group Plc Ord Gbp",
+                  "unit": "",
+                  "value": "0.01"
+                },
+                {
+                  "label": "re Prices US Share Prices UK Indices FTSE",
+                  "unit": "",
+                  "value": "100"
+                },
+                {
+                  "label": "FTSE",
+                  "unit": "",
+                  "value": "250"
+                },
+                {
+                  "label": "FTSE All-Share FTSE Small Cap FTSE",
+                  "unit": "",
+                  "value": "350"
+                },
+                {
+                  "label": "ips Share Chat Share Chat Share Chat FTSE",
+                  "unit": "",
+                  "value": "100"
+                },
+                {
+                  "label": "Top Recommended Element",
+                  "unit": "",
+                  "value": "1"
+                },
+                {
+                  "label": "HarChris",
+                  "unit": "",
+                  "value": "312"
+                },
+                {
+                  "label": "Janiax",
+                  "unit": "",
+                  "value": "306"
+                },
+                {
+                  "label": "Troajan",
+                  "unit": "M",
+                  "value": "277"
+                },
+                {
+                  "label": "isterPositive",
+                  "unit": "",
+                  "value": "236"
+                },
+                {
+                  "label": "News Risers and Fallers News RNS RNS FTSE",
+                  "unit": "",
+                  "value": "100"
+                },
+                {
+                  "label": "RNS FTSE",
+                  "unit": "",
+                  "value": "250"
+                },
+                {
+                  "label": "erts Premium Membership Live Prices Level",
+                  "unit": "M",
+                  "value": "2"
+                },
+                {
+                  "label": "There are",
+                  "unit": "",
+                  "value": "0"
+                },
+                {
+                  "label": "BCG Share Price BCG Share News",
+                  "unit": "",
+                  "value": "0"
+                },
+                {
+                  "label": "BCG Share Chat",
+                  "unit": "",
+                  "value": "0"
+                },
+                {
+                  "label": "BCG Share Trades",
+                  "unit": "",
+                  "value": "2"
+                },
+                {
+                  "label": "BCG Live RNS",
+                  "unit": "",
+                  "value": "1"
+                },
+                {
+                  "label": "BCG Share Charts BCG Level",
+                  "unit": "",
+                  "value": "2"
+                },
+                {
+                  "label": "e BCG Live Share Price BCG Broker Ratings",
+                  "unit": "",
+                  "value": "0"
+                }
+              ],
+              "key_points": [
+                {
+                  "category": "announcement_detail",
+                  "text": "(TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 ."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "Contact Us About Us Advertise With Us focusIR Sitemap Terms & Conditions Cookies Privacy Manage Consent About this Website Design Desktop View Please enter at least 2 characters No results found Search results Trending BRES Blencowe Resources LSE -19.49% PANR Pantheon Resources plc LSE 14.31% SML Strategic Minerals LSE 3.00% EME Empyrean LSE 0.00% MDH Mendell Helium LSE 6.86% REMOVE ADS Login to your account Sign in with Google Sign in with Apple Or Continue with Email Email Address Forgotten your password?"
+                }
+              ],
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/BCG/directorate-change-qxxrk18caz7qe3l.html",
+              "time": "8:01 am"
             }
           ],
           "status": "AVAILABLE",
-          "total_available": 1
+          "total_available": 2
         },
         "sharechat_activity": {
           "observation": {
@@ -10817,7 +11008,7 @@
           },
           "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
-            "close": 2.430000066757202,
+            "close": 2.399625062942505,
             "date": "2026-09-08",
             "status": "EXACT"
           },
@@ -10955,29 +11146,54 @@
         "sector": "Communication Services",
         "ticker": "BCG.L"
       },
-      "market_cap": 10236688.367481438,
+      "market_cap": 10020829.386777759,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
+          "catalysts": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-10",
+              "event": "Transaction in Own Shares",
+              "timing_basis": "rns-fd9c4846effaefe988e02604"
+            },
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "UNKNOWN",
+              "event": "Directorate change",
+              "timing_basis": "rns-4552d3d46e031e83fa068302"
+            }
+          ],
           "expected": [],
           "investor_tone": {
             "bias": "MIXED",
-            "explanation": "Activity is minimal with a single bullish comment, while the official RNS is bearish."
+            "explanation": "Community post is bullish, but official RNS announcements are bearish."
           },
           "market_tape": {
-            "bear_case": "BCG.L has announced a transaction in its own shares, which may reflect management\u2019s attempt to support the share price but also signals a lack of alternative capital deployment opportunities.",
-            "confidence": 0.0,
-            "divergence": "Bullish sentiment on ShareChat diverges from the bearish tone of the RNS announcement.",
-            "focus": "Own\u2011share transaction",
-            "interpretation": "The CrashDash signal shows a deep crash bottom, indicating the share price is in an unusually stressed state but does not imply further decline.",
+            "bear_case": "The company announced a transaction in its own shares and a directorate change, both classified as bearish, indicating potential management or financial adjustments that could weigh on the stock.",
+            "confidence": 0.5,
+            "focus": "Recent RNS announcements",
+            "interpretation": "Official announcements are negative; community sentiment is limited and bullish but not supported by corporate facts.",
             "linked_event": "Transaction in Own Shares",
-            "quality": "MIXED_SIGNAL"
+            "quality": "MEANINGFUL"
           },
-          "user_summary": "BCG.L\u2019s recent RNS disclosed a transaction in its own shares, a move the company labels as bearish. A single ShareChat post suggests the price is at a bottom and could climb to \u00a32 over ten weeks, but overall trading activity remains low. The CrashDash signal indicates a deep crash bottom, signalling extreme stress but no directional forecast. Investors should note the mixed signals and limited market activity.",
-          "watch_for": []
+          "user_summary": "BCG.L issued two bearish RNS items: a share buyback and a directorate change. Community sentiment is bullish but minimal. The deterministic signal indicates the share price is in a stressed state, but no future direction can be inferred. Investors should monitor the impact of the buyback and management changes.",
+          "watch_for": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-10",
+              "event": "Transaction in Own Shares",
+              "timing_basis": "rns-fd9c4846effaefe988e02604"
+            },
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "UNKNOWN",
+              "event": "Directorate change",
+              "timing_basis": "rns-4552d3d46e031e83fa068302"
+            }
+          ]
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-13T12:26:24.494674+00:00",
+        "generated_at": "2026-09-14T21:11:31.470707+00:00",
         "model": "openai/gpt-oss-20b",
         "provider": "Groq",
         "status": "SUCCESS",
@@ -21457,20 +21673,44 @@
           "volume": 1827444
         },
         {
-          "close": 2.430000066757202,
+          "close": 2.399625062942505,
           "date": "2026-09-08",
-          "high": 2.5480000972747803,
-          "low": 2.3940000534057617,
-          "open": 2.5480000972747803,
+          "high": 2.516150092933894,
+          "low": 2.364075049802109,
+          "open": 2.516150092933894,
           "volume": 1744294
         },
         {
-          "close": 2.4660000801086426,
+          "close": 2.449000120162964,
           "date": "2026-09-09",
-          "high": 2.555999994277954,
-          "low": 2.4240000247955322,
-          "open": 2.555999994277954,
-          "volume": 287489
+          "high": 2.5240500987825847,
+          "low": 2.393700123525435,
+          "open": 2.5240500987825847,
+          "volume": 849251
+        },
+        {
+          "close": 2.4140000343322754,
+          "date": "2026-09-10",
+          "high": 2.4600000381469727,
+          "low": 2.3320000171661377,
+          "open": 2.3320000171661377,
+          "volume": 2015635
+        },
+        {
+          "close": 2.436000108718872,
+          "date": "2026-09-11",
+          "high": 2.5299999713897705,
+          "low": 2.3459999561309814,
+          "open": 2.5299999713897705,
+          "volume": 1462813
+        },
+        {
+          "close": 2.4140000343322754,
+          "date": "2026-09-14",
+          "high": 2.4779999256134033,
+          "low": 2.3499999046325684,
+          "open": 2.3499999046325684,
+          "volume": 986045
         }
       ],
       "provenance": {
@@ -21621,6 +21861,148 @@
           "rns_number": null,
           "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-fes47hql1eyw7cv.html",
           "time": "10:18 am"
+        },
+        {
+          "category": "BEARISH",
+          "content": "Baltic Classifieds Group Regulatory News. Live BCG RNS. Regulatory News Articles for Baltic Classifieds Group Plc Ord Gbp0.01 Home Home About Us Advertise With Us Investor Relations What's New Share Prices Share Prices Financial Diary Commodities UK Industry Sectors Aquis Stock Exchange Share Prices Euronext Share Prices US Share Prices UK Indices FTSE 100 FTSE 250 FTSE All-Share FTSE Small Cap FTSE 350 FTSE AIM All-Share Share Risers Tribal Grp. (TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat. Set up virtual watchlists and portfolios See more trades and share info. Register for FREE Now Sign In Register for Free Join our 300,000+ users: Register for FREE Sign In Get Live Data Follow Kelso\u2019s Retail Offer via RetailBook here . Less Ads, More Data, More Tools Register for FREE REMOVE ADS REMOVE ADS Home Share Prices Financial Diary UK Indices UK Industry Sectors Commodities Company Lookup Share Risers Share Fallers Finance Glossary Euronext US Share Prices Share Research Share Chat FX News & RNS Media Trading Brokers Finance Tools Members Latest Share Chat TEXF.BR. &......cdl.....turning blue ... NTVO. Tick tock, I\u2019m guessing a nu... PANR. You\u2019d have to be somebody se... ECR. C1p2d...Stated this would be... TEXF.BR. &.......panr.......bzt.....s... BRES. I wouldn't be surprised if w... SML. Summary by AI BETAClose XStr... SML. Https://www.investormeetcomp... THG. 23p (22.90) is the all time ... FOXT. Let's compare Winkwoth' s R... REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles. Click here to refresh the page. BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 . Sean will join the Audit, Nomination and Remuneration Committees and will succeed Kristel Volver as Chair of the Audit Committee with effect from 1 January 2027. Kristel will continue to serve as a member of the Audit Committee. Sean is a highly experienced finance executive with extensive listed company and board-level experience. He has held senior finance roles at a number of UK-listed companies, serving as Chief Financial Officer of Auto Trader Group plc and Funding Circle Holdings plc, and as Interim Chief Financial Officer of ASOS plc. Sean is a qualified Chartered Accountant. Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair. Commenting on the appointment, Trevor Mather, Chair, said: \"We are delighted to welcome Sean to the Board. His extensive financial and listed company experience will further strengthen the Board and make him well suited to chair our Audit Committee. We very much look forward to working with him.\" Commenting on his appointment, Sean Glithero said: \"I am very pleased to be joining the Board of BCG. It is a high-quality business with strong market positions and a clear strategy, and I look forward to working with the Board and management team as the Group continues to grow and deliver long-term value for shareholders.\" There is no further information to be disclosed pursuant to UK Listing Rule 6.4.8R. Enquiries: Company Secretary: E-mail: cosec@balticclassifieds.com About Baltic Classifieds Group PLC Baltic Classifieds Group PLC is the leading online classifieds group in the Baltics, which owns and operates fourteen leading vertical and generalist online classifieds portals in Lithuania, Estonia and Latvia. BCG's online classifieds portfolio comprises four business lines - auto, real estate, jobs & services and generalist. The Group listed on the London Stock Exchange in July 2021 and is a member of the FTSE 250 Index. For more information, please visit https://balticclassifieds.com/ Baltic Classifieds Group PLC LEI: 213800I1RPHCFSSQS969 This information is provided by RNS, the news service of the London Stock Exchange. RNS is approved by the Financial Conduct Authority to act as a Primary Information Provider in the United Kingdom. Terms and conditions relating to the use and distribution of this information may apply. For further information, please contact rns@lseg.com or visit www.rns.com .RNS may use your IP address to confirm compliance with the terms and conditions, to analyse how you engage with the information contained in this communication, and to share such analysis on an anonymised basis with others as part of our commercial services. For further information about how RNS and the London Stock Exchange use the personal data you provide us, please see our Privacy Policy . END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor. We apologise for the inconvenience. To access our Live RNS you must confirm you are a private investor by using the button below. I am a Private Investor Follow the stocks that matter to you Create a free LSE account to: Track shares with a personal watchlist Join investor discussions See more trading activity Receive free RNS Alerts Already a member? Log in Create Free Account Create your free account Continue with Google Continue with Apple Or Continue with Email Email Address Password Sign me up for the FREE market reports I agree to the T&C's and Privacy Policy Marketing I am happy to receive emails from London South East I am happy to receive e",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": null,
+          "entities": [],
+          "event_id": "rns-4552d3d46e031e83fa068302",
+          "headline": "Directorate change",
+          "key_metrics": [
+            {
+              "label": "for Baltic Classifieds Group Plc Ord Gbp",
+              "unit": "",
+              "value": "0.01"
+            },
+            {
+              "label": "re Prices US Share Prices UK Indices FTSE",
+              "unit": "",
+              "value": "100"
+            },
+            {
+              "label": "FTSE",
+              "unit": "",
+              "value": "250"
+            },
+            {
+              "label": "FTSE All-Share FTSE Small Cap FTSE",
+              "unit": "",
+              "value": "350"
+            },
+            {
+              "label": "ips Share Chat Share Chat Share Chat FTSE",
+              "unit": "",
+              "value": "100"
+            },
+            {
+              "label": "Top Recommended Element",
+              "unit": "",
+              "value": "1"
+            },
+            {
+              "label": "HarChris",
+              "unit": "",
+              "value": "312"
+            },
+            {
+              "label": "Janiax",
+              "unit": "",
+              "value": "306"
+            },
+            {
+              "label": "Troajan",
+              "unit": "M",
+              "value": "277"
+            },
+            {
+              "label": "isterPositive",
+              "unit": "",
+              "value": "236"
+            },
+            {
+              "label": "News Risers and Fallers News RNS RNS FTSE",
+              "unit": "",
+              "value": "100"
+            },
+            {
+              "label": "RNS FTSE",
+              "unit": "",
+              "value": "250"
+            },
+            {
+              "label": "erts Premium Membership Live Prices Level",
+              "unit": "M",
+              "value": "2"
+            },
+            {
+              "label": "There are",
+              "unit": "",
+              "value": "0"
+            },
+            {
+              "label": "BCG Share Price BCG Share News",
+              "unit": "",
+              "value": "0"
+            },
+            {
+              "label": "BCG Share Chat",
+              "unit": "",
+              "value": "0"
+            },
+            {
+              "label": "BCG Share Trades",
+              "unit": "",
+              "value": "2"
+            },
+            {
+              "label": "BCG Live RNS",
+              "unit": "",
+              "value": "1"
+            },
+            {
+              "label": "BCG Share Charts BCG Level",
+              "unit": "",
+              "value": "2"
+            },
+            {
+              "label": "e BCG Live Share Price BCG Broker Ratings",
+              "unit": "",
+              "value": "0"
+            }
+          ],
+          "key_points": [
+            {
+              "category": "announcement_detail",
+              "text": "(TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 ."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "Contact Us About Us Advertise With Us focusIR Sitemap Terms & Conditions Cookies Privacy Manage Consent About this Website Design Desktop View Please enter at least 2 characters No results found Search results Trending BRES Blencowe Resources LSE -19.49% PANR Pantheon Resources plc LSE 14.31% SML Strategic Minerals LSE 3.00% EME Empyrean LSE 0.00% MDH Mendell Helium LSE 6.86% REMOVE ADS Login to your account Sign in with Google Sign in with Apple Or Continue with Email Email Address Forgotten your password?"
+            }
+          ],
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/BCG/directorate-change-qxxrk18caz7qe3l.html",
+          "time": "8:01 am"
         }
       ],
       "rns_initial": [
@@ -21757,10 +22139,152 @@
           "rns_number": null,
           "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-fes47hql1eyw7cv.html",
           "time": "10:18 am"
+        },
+        {
+          "category": "BEARISH",
+          "content": "Baltic Classifieds Group Regulatory News. Live BCG RNS. Regulatory News Articles for Baltic Classifieds Group Plc Ord Gbp0.01 Home Home About Us Advertise With Us Investor Relations What's New Share Prices Share Prices Financial Diary Commodities UK Industry Sectors Aquis Stock Exchange Share Prices Euronext Share Prices US Share Prices UK Indices FTSE 100 FTSE 250 FTSE All-Share FTSE Small Cap FTSE 350 FTSE AIM All-Share Share Risers Tribal Grp. (TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat. Set up virtual watchlists and portfolios See more trades and share info. Register for FREE Now Sign In Register for Free Join our 300,000+ users: Register for FREE Sign In Get Live Data Follow Kelso\u2019s Retail Offer via RetailBook here . Less Ads, More Data, More Tools Register for FREE REMOVE ADS REMOVE ADS Home Share Prices Financial Diary UK Indices UK Industry Sectors Commodities Company Lookup Share Risers Share Fallers Finance Glossary Euronext US Share Prices Share Research Share Chat FX News & RNS Media Trading Brokers Finance Tools Members Latest Share Chat TEXF.BR. &......cdl.....turning blue ... NTVO. Tick tock, I\u2019m guessing a nu... PANR. You\u2019d have to be somebody se... ECR. C1p2d...Stated this would be... TEXF.BR. &.......panr.......bzt.....s... BRES. I wouldn't be surprised if w... SML. Summary by AI BETAClose XStr... SML. Https://www.investormeetcomp... THG. 23p (22.90) is the all time ... FOXT. Let's compare Winkwoth' s R... REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles. Click here to refresh the page. BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 . Sean will join the Audit, Nomination and Remuneration Committees and will succeed Kristel Volver as Chair of the Audit Committee with effect from 1 January 2027. Kristel will continue to serve as a member of the Audit Committee. Sean is a highly experienced finance executive with extensive listed company and board-level experience. He has held senior finance roles at a number of UK-listed companies, serving as Chief Financial Officer of Auto Trader Group plc and Funding Circle Holdings plc, and as Interim Chief Financial Officer of ASOS plc. Sean is a qualified Chartered Accountant. Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair. Commenting on the appointment, Trevor Mather, Chair, said: \"We are delighted to welcome Sean to the Board. His extensive financial and listed company experience will further strengthen the Board and make him well suited to chair our Audit Committee. We very much look forward to working with him.\" Commenting on his appointment, Sean Glithero said: \"I am very pleased to be joining the Board of BCG. It is a high-quality business with strong market positions and a clear strategy, and I look forward to working with the Board and management team as the Group continues to grow and deliver long-term value for shareholders.\" There is no further information to be disclosed pursuant to UK Listing Rule 6.4.8R. Enquiries: Company Secretary: E-mail: cosec@balticclassifieds.com About Baltic Classifieds Group PLC Baltic Classifieds Group PLC is the leading online classifieds group in the Baltics, which owns and operates fourteen leading vertical and generalist online classifieds portals in Lithuania, Estonia and Latvia. BCG's online classifieds portfolio comprises four business lines - auto, real estate, jobs & services and generalist. The Group listed on the London Stock Exchange in July 2021 and is a member of the FTSE 250 Index. For more information, please visit https://balticclassifieds.com/ Baltic Classifieds Group PLC LEI: 213800I1RPHCFSSQS969 This information is provided by RNS, the news service of the London Stock Exchange. RNS is approved by the Financial Conduct Authority to act as a Primary Information Provider in the United Kingdom. Terms and conditions relating to the use and distribution of this information may apply. For further information, please contact rns@lseg.com or visit www.rns.com .RNS may use your IP address to confirm compliance with the terms and conditions, to analyse how you engage with the information contained in this communication, and to share such analysis on an anonymised basis with others as part of our commercial services. For further information about how RNS and the London Stock Exchange use the personal data you provide us, please see our Privacy Policy . END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor. We apologise for the inconvenience. To access our Live RNS you must confirm you are a private investor by using the button below. I am a Private Investor Follow the stocks that matter to you Create a free LSE account to: Track shares with a personal watchlist Join investor discussions See more trading activity Receive free RNS Alerts Already a member? Log in Create Free Account Create your free account Continue with Google Continue with Apple Or Continue with Email Email Address Password Sign me up for the FREE market reports I agree to the T&C's and Privacy Policy Marketing I am happy to receive emails from London South East I am happy to receive e",
+          "content_status": "CONTENT_AVAILABLE",
+          "date": null,
+          "entities": [],
+          "event_id": "rns-4552d3d46e031e83fa068302",
+          "headline": "Directorate change",
+          "key_metrics": [
+            {
+              "label": "for Baltic Classifieds Group Plc Ord Gbp",
+              "unit": "",
+              "value": "0.01"
+            },
+            {
+              "label": "re Prices US Share Prices UK Indices FTSE",
+              "unit": "",
+              "value": "100"
+            },
+            {
+              "label": "FTSE",
+              "unit": "",
+              "value": "250"
+            },
+            {
+              "label": "FTSE All-Share FTSE Small Cap FTSE",
+              "unit": "",
+              "value": "350"
+            },
+            {
+              "label": "ips Share Chat Share Chat Share Chat FTSE",
+              "unit": "",
+              "value": "100"
+            },
+            {
+              "label": "Top Recommended Element",
+              "unit": "",
+              "value": "1"
+            },
+            {
+              "label": "HarChris",
+              "unit": "",
+              "value": "312"
+            },
+            {
+              "label": "Janiax",
+              "unit": "",
+              "value": "306"
+            },
+            {
+              "label": "Troajan",
+              "unit": "M",
+              "value": "277"
+            },
+            {
+              "label": "isterPositive",
+              "unit": "",
+              "value": "236"
+            },
+            {
+              "label": "News Risers and Fallers News RNS RNS FTSE",
+              "unit": "",
+              "value": "100"
+            },
+            {
+              "label": "RNS FTSE",
+              "unit": "",
+              "value": "250"
+            },
+            {
+              "label": "erts Premium Membership Live Prices Level",
+              "unit": "M",
+              "value": "2"
+            },
+            {
+              "label": "There are",
+              "unit": "",
+              "value": "0"
+            },
+            {
+              "label": "BCG Share Price BCG Share News",
+              "unit": "",
+              "value": "0"
+            },
+            {
+              "label": "BCG Share Chat",
+              "unit": "",
+              "value": "0"
+            },
+            {
+              "label": "BCG Share Trades",
+              "unit": "",
+              "value": "2"
+            },
+            {
+              "label": "BCG Live RNS",
+              "unit": "",
+              "value": "1"
+            },
+            {
+              "label": "BCG Share Charts BCG Level",
+              "unit": "",
+              "value": "2"
+            },
+            {
+              "label": "e BCG Live Share Price BCG Broker Ratings",
+              "unit": "",
+              "value": "0"
+            }
+          ],
+          "key_points": [
+            {
+              "category": "announcement_detail",
+              "text": "(TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 ."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor."
+            },
+            {
+              "category": "announcement_detail",
+              "text": "Contact Us About Us Advertise With Us focusIR Sitemap Terms & Conditions Cookies Privacy Manage Consent About this Website Design Desktop View Please enter at least 2 characters No results found Search results Trending BRES Blencowe Resources LSE -19.49% PANR Pantheon Resources plc LSE 14.31% SML Strategic Minerals LSE 3.00% EME Empyrean LSE 0.00% MDH Mendell Helium LSE 6.86% REMOVE ADS Login to your account Sign in with Google Sign in with Apple Or Continue with Email Email Address Forgotten your password?"
+            }
+          ],
+          "published_at": null,
+          "rating": "BEARISH",
+          "rns_number": null,
+          "source_url": "https://www.lse.co.uk/rns/BCG/directorate-change-qxxrk18caz7qe3l.html",
+          "time": "8:01 am"
         }
       ],
-      "rns_records_emitted": 1,
-      "rns_total_available": 1,
+      "rns_records_emitted": 2,
+      "rns_total_available": 2,
       "sharechat_activity": {
         "observation": {
           "absolute_change": 1,
@@ -21818,7 +22342,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10236688.367481438,
+          "market_cap": 10020829.386777759,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -32298,20 +32822,44 @@
             "volume": 1827444
           },
           {
-            "close": 2.430000066757202,
+            "close": 2.399625062942505,
             "date": "2026-09-08",
-            "high": 2.5480000972747803,
-            "low": 2.3940000534057617,
-            "open": 2.5480000972747803,
+            "high": 2.516150092933894,
+            "low": 2.364075049802109,
+            "open": 2.516150092933894,
             "volume": 1744294
           },
           {
-            "close": 2.4660000801086426,
+            "close": 2.449000120162964,
             "date": "2026-09-09",
-            "high": 2.555999994277954,
-            "low": 2.4240000247955322,
-            "open": 2.555999994277954,
-            "volume": 287489
+            "high": 2.5240500987825847,
+            "low": 2.393700123525435,
+            "open": 2.5240500987825847,
+            "volume": 849251
+          },
+          {
+            "close": 2.4140000343322754,
+            "date": "2026-09-10",
+            "high": 2.4600000381469727,
+            "low": 2.3320000171661377,
+            "open": 2.3320000171661377,
+            "volume": 2015635
+          },
+          {
+            "close": 2.436000108718872,
+            "date": "2026-09-11",
+            "high": 2.5299999713897705,
+            "low": 2.3459999561309814,
+            "open": 2.5299999713897705,
+            "volume": 1462813
+          },
+          {
+            "close": 2.4140000343322754,
+            "date": "2026-09-14",
+            "high": 2.4779999256134033,
+            "low": 2.3499999046325684,
+            "open": 2.3499999046325684,
+            "volume": 986045
           }
         ],
         "provenance": {
@@ -32323,7 +32871,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 10236688.367481438,
+      "market_cap": 10020829.386777759,
       "price_at_signal": 2.43,
       "profile": {
         "corporate_actions": {
@@ -32337,7 +32885,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10236688.367481438,
+          "market_cap": 10020829.386777759,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -32351,29 +32899,54 @@
           "signal_id": "BCG.L:2026-09-08",
           "ticker": "BCG.L"
         },
-        "market_cap": 10236688.367481438,
+        "market_cap": 10020829.386777759,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Transaction in Own Shares",
+                "timing_basis": "rns-fd9c4846effaefe988e02604"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "UNKNOWN",
+                "event": "Directorate change",
+                "timing_basis": "rns-4552d3d46e031e83fa068302"
+              }
+            ],
             "expected": [],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "Activity is minimal with a single bullish comment, while the official RNS is bearish."
+              "explanation": "Community post is bullish, but official RNS announcements are bearish."
             },
             "market_tape": {
-              "bear_case": "BCG.L has announced a transaction in its own shares, which may reflect management\u2019s attempt to support the share price but also signals a lack of alternative capital deployment opportunities.",
-              "confidence": 0.0,
-              "divergence": "Bullish sentiment on ShareChat diverges from the bearish tone of the RNS announcement.",
-              "focus": "Own\u2011share transaction",
-              "interpretation": "The CrashDash signal shows a deep crash bottom, indicating the share price is in an unusually stressed state but does not imply further decline.",
+              "bear_case": "The company announced a transaction in its own shares and a directorate change, both classified as bearish, indicating potential management or financial adjustments that could weigh on the stock.",
+              "confidence": 0.5,
+              "focus": "Recent RNS announcements",
+              "interpretation": "Official announcements are negative; community sentiment is limited and bullish but not supported by corporate facts.",
               "linked_event": "Transaction in Own Shares",
-              "quality": "MIXED_SIGNAL"
+              "quality": "MEANINGFUL"
             },
-            "user_summary": "BCG.L\u2019s recent RNS disclosed a transaction in its own shares, a move the company labels as bearish. A single ShareChat post suggests the price is at a bottom and could climb to \u00a32 over ten weeks, but overall trading activity remains low. The CrashDash signal indicates a deep crash bottom, signalling extreme stress but no directional forecast. Investors should note the mixed signals and limited market activity.",
-            "watch_for": []
+            "user_summary": "BCG.L issued two bearish RNS items: a share buyback and a directorate change. Community sentiment is bullish but minimal. The deterministic signal indicates the share price is in a stressed state, but no future direction can be inferred. Investors should monitor the impact of the buyback and management changes.",
+            "watch_for": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Transaction in Own Shares",
+                "timing_basis": "rns-fd9c4846effaefe988e02604"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "UNKNOWN",
+                "event": "Directorate change",
+                "timing_basis": "rns-4552d3d46e031e83fa068302"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-13T12:26:24.494674+00:00",
+          "generated_at": "2026-09-14T21:11:31.470707+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -32518,10 +33091,152 @@
               "rns_number": null,
               "source_url": "https://www.lse.co.uk/rns/BCG/transaction-in-own-shares-fes47hql1eyw7cv.html",
               "time": "10:18 am"
+            },
+            {
+              "category": "BEARISH",
+              "content": "Baltic Classifieds Group Regulatory News. Live BCG RNS. Regulatory News Articles for Baltic Classifieds Group Plc Ord Gbp0.01 Home Home About Us Advertise With Us Investor Relations What's New Share Prices Share Prices Financial Diary Commodities UK Industry Sectors Aquis Stock Exchange Share Prices Euronext Share Prices US Share Prices UK Indices FTSE 100 FTSE 250 FTSE All-Share FTSE Small Cap FTSE 350 FTSE AIM All-Share Share Risers Tribal Grp. (TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat. Set up virtual watchlists and portfolios See more trades and share info. Register for FREE Now Sign In Register for Free Join our 300,000+ users: Register for FREE Sign In Get Live Data Follow Kelso\u2019s Retail Offer via RetailBook here . Less Ads, More Data, More Tools Register for FREE REMOVE ADS REMOVE ADS Home Share Prices Financial Diary UK Indices UK Industry Sectors Commodities Company Lookup Share Risers Share Fallers Finance Glossary Euronext US Share Prices Share Research Share Chat FX News & RNS Media Trading Brokers Finance Tools Members Latest Share Chat TEXF.BR. &......cdl.....turning blue ... NTVO. Tick tock, I\u2019m guessing a nu... PANR. You\u2019d have to be somebody se... ECR. C1p2d...Stated this would be... TEXF.BR. &.......panr.......bzt.....s... BRES. I wouldn't be surprised if w... SML. Summary by AI BETAClose XStr... SML. Https://www.investormeetcomp... THG. 23p (22.90) is the all time ... FOXT. Let's compare Winkwoth' s R... REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles. Click here to refresh the page. BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 . Sean will join the Audit, Nomination and Remuneration Committees and will succeed Kristel Volver as Chair of the Audit Committee with effect from 1 January 2027. Kristel will continue to serve as a member of the Audit Committee. Sean is a highly experienced finance executive with extensive listed company and board-level experience. He has held senior finance roles at a number of UK-listed companies, serving as Chief Financial Officer of Auto Trader Group plc and Funding Circle Holdings plc, and as Interim Chief Financial Officer of ASOS plc. Sean is a qualified Chartered Accountant. Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair. Commenting on the appointment, Trevor Mather, Chair, said: \"We are delighted to welcome Sean to the Board. His extensive financial and listed company experience will further strengthen the Board and make him well suited to chair our Audit Committee. We very much look forward to working with him.\" Commenting on his appointment, Sean Glithero said: \"I am very pleased to be joining the Board of BCG. It is a high-quality business with strong market positions and a clear strategy, and I look forward to working with the Board and management team as the Group continues to grow and deliver long-term value for shareholders.\" There is no further information to be disclosed pursuant to UK Listing Rule 6.4.8R. Enquiries: Company Secretary: E-mail: cosec@balticclassifieds.com About Baltic Classifieds Group PLC Baltic Classifieds Group PLC is the leading online classifieds group in the Baltics, which owns and operates fourteen leading vertical and generalist online classifieds portals in Lithuania, Estonia and Latvia. BCG's online classifieds portfolio comprises four business lines - auto, real estate, jobs & services and generalist. The Group listed on the London Stock Exchange in July 2021 and is a member of the FTSE 250 Index. For more information, please visit https://balticclassifieds.com/ Baltic Classifieds Group PLC LEI: 213800I1RPHCFSSQS969 This information is provided by RNS, the news service of the London Stock Exchange. RNS is approved by the Financial Conduct Authority to act as a Primary Information Provider in the United Kingdom. Terms and conditions relating to the use and distribution of this information may apply. For further information, please contact rns@lseg.com or visit www.rns.com .RNS may use your IP address to confirm compliance with the terms and conditions, to analyse how you engage with the information contained in this communication, and to share such analysis on an anonymised basis with others as part of our commercial services. For further information about how RNS and the London Stock Exchange use the personal data you provide us, please see our Privacy Policy . END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor. We apologise for the inconvenience. To access our Live RNS you must confirm you are a private investor by using the button below. I am a Private Investor Follow the stocks that matter to you Create a free LSE account to: Track shares with a personal watchlist Join investor discussions See more trading activity Receive free RNS Alerts Already a member? Log in Create Free Account Create your free account Continue with Google Continue with Apple Or Continue with Email Email Address Password Sign me up for the FREE market reports I agree to the T&C's and Privacy Policy Marketing I am happy to receive emails from London South East I am happy to receive e",
+              "content_status": "CONTENT_AVAILABLE",
+              "date": null,
+              "entities": [],
+              "event_id": "rns-4552d3d46e031e83fa068302",
+              "headline": "Directorate change",
+              "key_metrics": [
+                {
+                  "label": "for Baltic Classifieds Group Plc Ord Gbp",
+                  "unit": "",
+                  "value": "0.01"
+                },
+                {
+                  "label": "re Prices US Share Prices UK Indices FTSE",
+                  "unit": "",
+                  "value": "100"
+                },
+                {
+                  "label": "FTSE",
+                  "unit": "",
+                  "value": "250"
+                },
+                {
+                  "label": "FTSE All-Share FTSE Small Cap FTSE",
+                  "unit": "",
+                  "value": "350"
+                },
+                {
+                  "label": "ips Share Chat Share Chat Share Chat FTSE",
+                  "unit": "",
+                  "value": "100"
+                },
+                {
+                  "label": "Top Recommended Element",
+                  "unit": "",
+                  "value": "1"
+                },
+                {
+                  "label": "HarChris",
+                  "unit": "",
+                  "value": "312"
+                },
+                {
+                  "label": "Janiax",
+                  "unit": "",
+                  "value": "306"
+                },
+                {
+                  "label": "Troajan",
+                  "unit": "M",
+                  "value": "277"
+                },
+                {
+                  "label": "isterPositive",
+                  "unit": "",
+                  "value": "236"
+                },
+                {
+                  "label": "News Risers and Fallers News RNS RNS FTSE",
+                  "unit": "",
+                  "value": "100"
+                },
+                {
+                  "label": "RNS FTSE",
+                  "unit": "",
+                  "value": "250"
+                },
+                {
+                  "label": "erts Premium Membership Live Prices Level",
+                  "unit": "M",
+                  "value": "2"
+                },
+                {
+                  "label": "There are",
+                  "unit": "",
+                  "value": "0"
+                },
+                {
+                  "label": "BCG Share Price BCG Share News",
+                  "unit": "",
+                  "value": "0"
+                },
+                {
+                  "label": "BCG Share Chat",
+                  "unit": "",
+                  "value": "0"
+                },
+                {
+                  "label": "BCG Share Trades",
+                  "unit": "",
+                  "value": "2"
+                },
+                {
+                  "label": "BCG Live RNS",
+                  "unit": "",
+                  "value": "1"
+                },
+                {
+                  "label": "BCG Share Charts BCG Level",
+                  "unit": "",
+                  "value": "2"
+                },
+                {
+                  "label": "e BCG Live Share Price BCG Broker Ratings",
+                  "unit": "",
+                  "value": "0"
+                }
+              ],
+              "key_points": [
+                {
+                  "category": "announcement_detail",
+                  "text": "(TRB) +26.57% Sealand Cap (SCGL) +25.00% Keras Resources (KRS) +17.86% Pantheon Resources plc (PANR) +14.31% Jarvis Securities (JIM) +14.29% Share Fallers Asiamet Resources Limited (ARS) -88.15% Latour Investme (0RQP) -22.39% Blencowe Resources (BRES) -19.49% GlobalData (DATA) -16.76% Cerillion (CER) -12.43% Share Research Share Research Broker Ratings Directors Deals Research Screeners Short Positions Stock Picker Stock Tips Share Chat Share Chat Share Chat FTSE 100 Chat Bitcoin Chat General Chat General Commodities & Mining Forex & Indices Spread Betting Help & Feedback Today's Hot Chat Topics Blencowe Resources (BRES) 46 Pantheon Resources plc (PANR) 37 Strategic Minerals (SML) 29 Empyrean (EME) 27 Mendell Helium (MDH) 22 Top Recommended Element1 382 HarChris 312 Janiax 306 Troajan 277 MisterPositive 236 FX Crypto News News Broker Recommendations News Commodities News Economic News Forex News Market Reports News Risers and Fallers News RNS RNS FTSE 100 RNS FTSE 250 RNS AIM RNS Sector RNS RNS Alerts Media Media Share Views Investing Matters Podcast What's Hot Blogs Wealth Hub New Investments Investment Trusts Investment Trusts Investment Trust Articles Investment Trust News Private Markets JP Jenkins Asset Match Alternative Investments Alternative Investments Alternative Investment Articles Trading Brokers Share Trading Spread Betting FX Trading CFDs Crypto Members Free Membership Watchlists Portfolios Share Chat Stock Pickers Share Alerts Premium Membership Live Prices Level 2 My Terminal Premium Services Member Benefits Participate in Share Chat."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "REMOVE ADS Share Prices Baltic Classifieds Group Share Price Baltic Classifieds Group Share Regulatory News Directorate change Baltic Classifieds Group Regulatory News (BCG) There are 0 new RNS articles."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "BCG Share Price BCG Share News 0 BCG Share Chat 0 BCG Share Trades 2 BCG Live RNS 1 BCG Share Charts BCG Level 2 Console BCG Live Share Price BCG Broker Ratings 0 BCG Directors Deals 0 BCG Financial Diary BCG Fundamentals BCG Short Positions 4 BCG Media 0 BCG Company Research 0 BCG Company Timeline 5 Baltic Classifieds Group Information Add BCG to Timeline Add BCG to Watchlist Add BCG to Alert Buy BCG Shares Share Price Information for Baltic Classifieds Group (BCG) Share Price is delayed by 15 minutes Get Live Data 2.35 -0.086 ( -3.53 %) Bid: 2.376 Ask: 2.48 Spread: 0.104 (4.377%) Market Cap: \u20ac975.52m Last checked at - Intraday Baltic Classifieds Group Share Chart REMOVE ADS Directorate change Today 08:01 RNS Number : 6102U Baltic Classifieds Group PLC 14 September 2026 14 September 2026 Baltic Classifieds Group PLC (the \"Company\" and \"BCG\") Directorate Change The Company is pleased to announce the appointment of Sean Glithero as an Independent Non-Executive Director with effect from 14 September 2026 ."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "Following Sean's appointment, the Board will comprise six Independent Non-Executive Directors, three Executive Directors and a Non-Executive Chair."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "END BOAGLGDCCUBDGLS Filter by Category All Company Announcement - General Additional Listing AIM Admission AIM Notice Base Rate Change Block Listing Interim Review Capital Reorganisation Change of Name Conversion of Securities Drilling/Production Report Final Announcement Released Geographical Distribution Intention to Float Issue of Debt Issue of Equity Joint Venture Net Asset Value Portfolio Update Price Monitoring Extension Product Launch Publication of a Prospectus Publication of Final Terms Research Update Restoration Rights Issue Stabilisation Notice Statement Suspension Tender Offer Trading Statement Treasury Stock All Mergers, Acquisitions and Disposals Acquisition Merger Form 8 (DD) Form 8 (OPD) Form 8.3 Form 8.5 (EPT/NON-RI) Form 8.5 (EPT/RI) Form 8.6 Rule 2.9 Announcement Offer By Offer For Offer Update All Results and Trading Reports 1st Quarter Results 3rd Quarter Results AGM Statement Annual Report Final Results Half-year Report Notice of Results Result of AGM Result of EGM Result of Equity Issue Result of General Meeting Result of Tender Offer Syndicate Results All Dividends Dividend Declaration Dividend Currency Election All Executive Changes Directorate Change Change of Adviser Change of Registered Office All Directors' Dealings Director/PDMR Shareholding All Advance Notice of Results Notice of AGM Notice of GM Notice of EGM Notice of Results All Non-Regulatory News All Transaction in Own Shares All Holding(s) in Company Total Voting Rights Notification of Major Holdings 1 2 3 4 5 6 7 8 9 10 Date Source Headline 14th Sep 2026 8:01 am RNS Directorate change 10th Sep 2026 10:18 am RNS Transaction in Own Shares 1st Sep 2026 7:00 am RNS Total Voting Rights 28th Aug 2026 1:59 pm RNS Change in trading currency - clarification 27th Aug 2026 8:49 am RNS Transaction in Own Shares 26th Aug 2026 3:26 pm RNS Change in trading currency 20th Aug 2026 8:34 am RNS Transaction in Own Shares 13th Aug 2026 7:55 am RNS Transaction in Own Shares 12th Aug 2026 3:05 pm RNS Change in trading currency 6th Aug 2026 10:18 am RNS Transaction in Own Shares 4th Aug 2026 1:26 pm RNS Holding(s) in Company 4th Aug 2026 11:34 am RNS Director/PDMR Shareholding 3rd Aug 2026 7:00 am RNS Total Voting Rights 31st Jul 2026 1:35 pm RNS Director/PDMR Shareholding 30th Jul 2026 10:15 am RNS Transaction in Own Shares 23rd Jul 2026 12:32 pm RNS Annual Report and Accounts and Notice of AGM 23rd Jul 2026 11:08 am RNS Transaction in Own Shares 16th Jul 2026 7:00 am RNS Transaction in Own Shares 9th Jul 2026 10:55 am RNS Transaction in Own Shares 2nd Jul 2026 1:28 pm RNS Transaction in Own Shares 2nd Jul 2026 1:27 pm RNS Director role changes 2nd Jul 2026 7:00 am RNS Final Results 2nd Jul 2026 7:00 am RNS Total Voting Rights 25th Jun 2026 11:44 am RNS Transaction in Own Shares 18th Jun 2026 10:55 am RNS Transaction in Own Shares 15th Jun 2026 9:16 am RNS Holding(s) in Company 11th Jun 2026 11:49 am RNS Transaction in Own Shares 4th Jun 2026 9:40 am RNS Transaction in Own Shares 1st Jun 2026 6:02 pm RNS Share Buyback Programme 1st Jun 2026 8:07 am RNS Notice of Full Year Results 1st Jun 2026 7:05 am RNS Total Voting Rights 28th May 2026 1:25 pm RNS Transaction in Own Shares and Clarification 27th May 2026 12:51 pm RNS Result of General Meeting 21st May 2026 11:41 am RNS Director/PDMR Shareholding - Replacement 21st May 2026 10:15 am RNS Director/PDMR Shareholding 21st May 2026 9:16 am RNS Transaction in Own Shares 14th May 2026 8:49 am RNS Transaction in Own Shares 7th May 2026 10:03 am RNS Transaction in Own Shares 1st May 2026 7:00 am RNS Total Voting Rights 30th Apr 2026 7:00 am RNS Transaction in Own Shares 28th Apr 2026 11:21 am RNS Director/PDMR Shareholding 27th Apr 2026 2:43 pm RNS Notice of GM 24th Apr 2026 10:41 am RNS Share buyback programme 23rd Apr 2026 9:01 am RNS Transaction in Own Shares 22nd Apr 2026 4:20 pm RNS Directorate change 17th Apr 2026 3:32 pm RNS Holding(s) in Company 16th Apr 2026 8:54 am RNS Transaction in Own Shares 9th Apr 2026 8:46 am RNS Transaction in Own Shares 1st Apr 2026 7:00 am RNS Total Voting Rights 26th Mar 2026 8:18 am RNS Transaction in Own Shares 1 2 3 4 5 6 7 8 9 10 Due to London Stock Exchange licensing terms, we stipulate that you must be a private investor."
+                },
+                {
+                  "category": "announcement_detail",
+                  "text": "Contact Us About Us Advertise With Us focusIR Sitemap Terms & Conditions Cookies Privacy Manage Consent About this Website Design Desktop View Please enter at least 2 characters No results found Search results Trending BRES Blencowe Resources LSE -19.49% PANR Pantheon Resources plc LSE 14.31% SML Strategic Minerals LSE 3.00% EME Empyrean LSE 0.00% MDH Mendell Helium LSE 6.86% REMOVE ADS Login to your account Sign in with Google Sign in with Apple Or Continue with Email Email Address Forgotten your password?"
+                }
+              ],
+              "published_at": null,
+              "rating": "BEARISH",
+              "rns_number": null,
+              "source_url": "https://www.lse.co.uk/rns/BCG/directorate-change-qxxrk18caz7qe3l.html",
+              "time": "8:01 am"
             }
           ],
           "status": "AVAILABLE",
-          "total_available": 1
+          "total_available": 2
         },
         "sharechat_activity": {
           "observation": {

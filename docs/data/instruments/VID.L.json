@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 88647055.2,
+          "market_cap": 83408820.11999999,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -13536,12 +13536,36 @@
             "volume": 30
           },
           {
-            "close": 220,
+            "close": 217.5,
             "date": "2026-09-09",
             "high": 220,
             "low": 215,
             "open": 216.39999389648438,
-            "volume": 424
+            "volume": 431
+          },
+          {
+            "close": 212,
+            "date": "2026-09-10",
+            "high": 220,
+            "low": 212,
+            "open": 215,
+            "volume": 1101
+          },
+          {
+            "close": 206,
+            "date": "2026-09-11",
+            "high": 218,
+            "low": 199.5,
+            "open": 212,
+            "volume": 11518
+          },
+          {
+            "close": 207,
+            "date": "2026-09-14",
+            "high": 215,
+            "low": 200,
+            "open": 210,
+            "volume": 39635
           }
         ],
         "provenance": {
@@ -13553,7 +13577,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 88647055.2,
+      "market_cap": 83408820.11999999,
       "price_at_signal": 246.0,
       "profile": {
         "corporate_actions": {
@@ -13567,7 +13591,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 88647055.2,
+          "market_cap": 83408820.11999999,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -13581,10 +13605,36 @@
           "signal_id": "VID.L:2026-08-05",
           "ticker": "VID.L"
         },
-        "market_cap": 88647055.2,
+        "market_cap": 83408820.11999999,
         "market_tape": {
-          "analysis": null,
-          "status": "NOT_AVAILABLE"
+          "analysis": {
+            "catalysts": [],
+            "expected": [],
+            "investor_tone": {
+              "bias": "NO_CLEAR_TONE",
+              "explanation": "Only a single post discusses mixed half\u2011year results, while RNS filings present both bullish holdings announcements and a bearish results report, leaving no clear consensus."
+            },
+            "market_tape": {
+              "bear_case": "Mixed first\u2011half results with revenue down 4% year\u2011on\u2011year and flat constant\u2011currency performance could weigh on earnings expectations.",
+              "bull_case": "Recent bullish holdings announcements may signal fresh investor interest and potential capital infusion.",
+              "confidence": 0.5,
+              "divergence": "Bullish holdings announcements versus bearish results narrative.",
+              "focus": "2026 half\u2011year results and shareholder activity.",
+              "interpretation": "The share price is in a stressed state (deep crash bottom) but the green severity indicates no immediate further downside pressure is implied by the signal alone.",
+              "linked_event": "2026 Half Year Results (5 Aug RNS)",
+              "missed_angle": "The broader impact of March refinancing on profitability has not been explicitly discussed in the available posts.",
+              "quality": "MIXED_SIGNAL",
+              "shift": "No significant shift; discussion remains centered on the recent half\u2011year results."
+            },
+            "user_summary": "Videndum\u2019s share price is currently in a stressed state after reporting mixed first\u2011half results with a 4% revenue decline. Bullish holdings announcements suggest potential fresh investor interest, while bearish results may weigh on earnings expectations. Market sentiment remains unclear due to limited recent discussion.",
+            "watch_for": []
+          },
+          "analysis_as_of_date": null,
+          "generated_at": "2026-09-14T21:30:15.407913+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
+          "status": "SUCCESS",
+          "ticker": "VID.L"
         },
         "research": {
           "data": null,
@@ -15693,10 +15743,36 @@
         "sector": "Technology",
         "ticker": "VID.L"
       },
-      "market_cap": 88647055.2,
+      "market_cap": 83408820.11999999,
       "market_tape": {
-        "analysis": null,
-        "status": "NOT_AVAILABLE"
+        "analysis": {
+          "catalysts": [],
+          "expected": [],
+          "investor_tone": {
+            "bias": "NO_CLEAR_TONE",
+            "explanation": "Only a single post discusses mixed half\u2011year results, while RNS filings present both bullish holdings announcements and a bearish results report, leaving no clear consensus."
+          },
+          "market_tape": {
+            "bear_case": "Mixed first\u2011half results with revenue down 4% year\u2011on\u2011year and flat constant\u2011currency performance could weigh on earnings expectations.",
+            "bull_case": "Recent bullish holdings announcements may signal fresh investor interest and potential capital infusion.",
+            "confidence": 0.5,
+            "divergence": "Bullish holdings announcements versus bearish results narrative.",
+            "focus": "2026 half\u2011year results and shareholder activity.",
+            "interpretation": "The share price is in a stressed state (deep crash bottom) but the green severity indicates no immediate further downside pressure is implied by the signal alone.",
+            "linked_event": "2026 Half Year Results (5 Aug RNS)",
+            "missed_angle": "The broader impact of March refinancing on profitability has not been explicitly discussed in the available posts.",
+            "quality": "MIXED_SIGNAL",
+            "shift": "No significant shift; discussion remains centered on the recent half\u2011year results."
+          },
+          "user_summary": "Videndum\u2019s share price is currently in a stressed state after reporting mixed first\u2011half results with a 4% revenue decline. Bullish holdings announcements suggest potential fresh investor interest, while bearish results may weigh on earnings expectations. Market sentiment remains unclear due to limited recent discussion.",
+          "watch_for": []
+        },
+        "analysis_as_of_date": null,
+        "generated_at": "2026-09-14T21:30:15.407913+00:00",
+        "model": "openai/gpt-oss-20b",
+        "provider": "Groq",
+        "status": "SUCCESS",
+        "ticker": "VID.L"
       },
       "price_series": [
         {
@@ -29204,12 +29280,36 @@
           "volume": 30
         },
         {
-          "close": 220,
+          "close": 217.5,
           "date": "2026-09-09",
           "high": 220,
           "low": 215,
           "open": 216.39999389648438,
-          "volume": 424
+          "volume": 431
+        },
+        {
+          "close": 212,
+          "date": "2026-09-10",
+          "high": 220,
+          "low": 212,
+          "open": 215,
+          "volume": 1101
+        },
+        {
+          "close": 206,
+          "date": "2026-09-11",
+          "high": 218,
+          "low": 199.5,
+          "open": 212,
+          "volume": 11518
+        },
+        {
+          "close": 207,
+          "date": "2026-09-14",
+          "high": 215,
+          "low": 200,
+          "open": 210,
+          "volume": 39635
         }
       ],
       "provenance": {
@@ -30682,7 +30782,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 88647055.2,
+          "market_cap": 83408820.11999999,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -44194,12 +44294,36 @@
             "volume": 30
           },
           {
-            "close": 220,
+            "close": 217.5,
             "date": "2026-09-09",
             "high": 220,
             "low": 215,
             "open": 216.39999389648438,
-            "volume": 424
+            "volume": 431
+          },
+          {
+            "close": 212,
+            "date": "2026-09-10",
+            "high": 220,
+            "low": 212,
+            "open": 215,
+            "volume": 1101
+          },
+          {
+            "close": 206,
+            "date": "2026-09-11",
+            "high": 218,
+            "low": 199.5,
+            "open": 212,
+            "volume": 11518
+          },
+          {
+            "close": 207,
+            "date": "2026-09-14",
+            "high": 215,
+            "low": 200,
+            "open": 210,
+            "volume": 39635
           }
         ],
         "provenance": {
@@ -44211,7 +44335,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 88647055.2,
+      "market_cap": 83408820.11999999,
       "price_at_signal": 246.0,
       "profile": {
         "corporate_actions": {
@@ -44225,7 +44349,7 @@
           "exchange": "LSE",
           "industry": "Consumer Electronics",
           "market": "MAIN",
-          "market_cap": 88647055.2,
+          "market_cap": 83408820.11999999,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -44239,10 +44363,36 @@
           "signal_id": "VID.L:2026-08-05",
           "ticker": "VID.L"
         },
-        "market_cap": 88647055.2,
+        "market_cap": 83408820.11999999,
         "market_tape": {
-          "analysis": null,
-          "status": "NOT_AVAILABLE"
+          "analysis": {
+            "catalysts": [],
+            "expected": [],
+            "investor_tone": {
+              "bias": "NO_CLEAR_TONE",
+              "explanation": "Only a single post discusses mixed half\u2011year results, while RNS filings present both bullish holdings announcements and a bearish results report, leaving no clear consensus."
+            },
+            "market_tape": {
+              "bear_case": "Mixed first\u2011half results with revenue down 4% year\u2011on\u2011year and flat constant\u2011currency performance could weigh on earnings expectations.",
+              "bull_case": "Recent bullish holdings announcements may signal fresh investor interest and potential capital infusion.",
+              "confidence": 0.5,
+              "divergence": "Bullish holdings announcements versus bearish results narrative.",
+              "focus": "2026 half\u2011year results and shareholder activity.",
+              "interpretation": "The share price is in a stressed state (deep crash bottom) but the green severity indicates no immediate further downside pressure is implied by the signal alone.",
+              "linked_event": "2026 Half Year Results (5 Aug RNS)",
+              "missed_angle": "The broader impact of March refinancing on profitability has not been explicitly discussed in the available posts.",
+              "quality": "MIXED_SIGNAL",
+              "shift": "No significant shift; discussion remains centered on the recent half\u2011year results."
+            },
+            "user_summary": "Videndum\u2019s share price is currently in a stressed state after reporting mixed first\u2011half results with a 4% revenue decline. Bullish holdings announcements suggest potential fresh investor interest, while bearish results may weigh on earnings expectations. Market sentiment remains unclear due to limited recent discussion.",
+            "watch_for": []
+          },
+          "analysis_as_of_date": null,
+          "generated_at": "2026-09-14T21:30:15.407913+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
+          "status": "SUCCESS",
+          "ticker": "VID.L"
         },
         "research": {
           "data": null,

@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Specialty Business Services",
           "market": "AIM",
-          "market_cap": 642529.6392642903,
+          "market_cap": 676212.7408353472,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Industrials",
@@ -3944,12 +3944,36 @@
             "volume": 2000
           },
           {
-            "close": 2.5179998874664307,
+            "close": 2.6500000953674316,
             "date": "2026-09-09",
             "high": 2.5179998874664307,
             "low": 2.5179998874664307,
-            "open": 2.5179998874664307,
+            "open": 2.6500000953674316,
             "volume": 21
+          },
+          {
+            "close": 2.6500000953674316,
+            "date": "2026-09-10",
+            "high": 2.6500000953674316,
+            "low": 2.6500000953674316,
+            "open": 2.6500000953674316,
+            "volume": 0
+          },
+          {
+            "close": 2.6500000953674316,
+            "date": "2026-09-11",
+            "high": 2.691999912261963,
+            "low": 2.5,
+            "open": 2.6500000953674316,
+            "volume": 203
+          },
+          {
+            "close": 2.6500000953674316,
+            "date": "2026-09-14",
+            "high": 2.5179998874664307,
+            "low": 2.5,
+            "open": 2.5,
+            "volume": 3740
           }
         ],
         "provenance": {
@@ -3961,7 +3985,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 642529.6392642903,
+      "market_cap": 676212.7408353472,
       "price_at_signal": 2.5,
       "profile": {
         "corporate_actions": {
@@ -3975,7 +3999,7 @@
           "exchange": "LSE",
           "industry": "Specialty Business Services",
           "market": "AIM",
-          "market_cap": 642529.6392642903,
+          "market_cap": 676212.7408353472,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Industrials",
@@ -3989,30 +4013,43 @@
           "signal_id": "GNIP.L:2026-09-02",
           "ticker": "GNIP.L"
         },
-        "market_cap": 642529.6392642903,
+        "market_cap": 676212.7408353472,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-24",
+                "event": "Investor webinar hosted by CEO and CFO",
+                "timing_basis": "ShareChat post and RNS announcement"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "BEARISH",
-              "explanation": "The only RNS released on 9\u202fSept is tagged bearish and contains no substantive detail, and the sparse ShareChat post merely forwards the link without commentary."
+              "bias": "MIXED",
+              "explanation": "The RNS is tagged bearish but contains no specific details, while the limited ShareChat posts are neutral. Overall sentiment is inconclusive."
             },
             "market_tape": {
-              "bear_case": "RNS indicates operational concerns and the stock is at a deep bottom with a current price of 2.5.",
-              "bull_case": "The upcoming investor webinar could reveal positive operational information, but no specifics have been disclosed yet.",
-              "confidence": 0.3,
-              "focus": "Operational update & investor webinar",
-              "interpretation": "Investors are uncertain; the lack of detail and the deep\u2011bottom price point make sentiment ambiguous.",
-              "linked_event": "Operational update & investor webinar (RNS 9\u202fSept 2026)",
-              "quality": "MOSTLY_NOISE",
-              "shift": "Post\u2011volume fell sharply after a spike on 11\u202fAug, signalling a drop in engagement and a shift from discussion to silence."
+              "bear_case": "The RNS indicates a potentially negative operational update, but no concrete issues are disclosed.",
+              "bull_case": "The scheduled investor webinar could provide clarifications and potentially positive insights, though no specific improvements are announced yet.",
+              "confidence": 0.0,
+              "focus": "Operational update and upcoming investor webinar",
+              "interpretation": "Discussion is centered on the forthcoming webinar and the lack of detailed information from the operational update.",
+              "linked_event": "Operational update & investor webinar RNS (2026-09-09)",
+              "quality": "MIXED_SIGNAL"
             },
-            "user_summary": "GNIP released an operational update and webinar on 9\u202fSept, but the RNS was flagged bearish and contained no details. The share of posts is minimal, and the price sits at a deep bottom of 2.5. Without further information, market sentiment remains unclear.",
-            "watch_for": []
+            "user_summary": "GNIP.L\u2019s recent RNS flagged a bearish operational update but offered no specifics. Investors are awaiting the scheduled webinar on 24 September 2026 for further clarification. The market is currently in a neutral stance with limited actionable information.",
+            "watch_for": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-24",
+                "event": "Investor webinar hosted by CEO and CFO",
+                "timing_basis": "ShareChat post and RNS announcement"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:12:39.235369+00:00",
+          "generated_at": "2026-09-14T21:19:56.069401+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -4184,13 +4221,13 @@
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "54a3e93e9307bb8f2be104f9529fb39c51e2c2717e017bf33f8e03b4006edf26",
+          "sample_fingerprint": "75cc47a709251240bcc4967a19ba0fb963aeef70eebec3fbd6550878a87148eb",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-09T10:11:00+01:00",
+          "source_observed_at": "2026-09-14T14:11:00+01:00",
           "summary": null,
           "ticker": "GNIP.L",
-          "total_posts": 25
+          "total_posts": 26
         },
         "signal_statistics": {
           "by_signal_type": {
@@ -4857,30 +4894,43 @@
         "sector": "Industrials",
         "ticker": "GNIP.L"
       },
-      "market_cap": 642529.6392642903,
+      "market_cap": 676212.7408353472,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
+          "catalysts": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-24",
+              "event": "Investor webinar hosted by CEO and CFO",
+              "timing_basis": "ShareChat post and RNS announcement"
+            }
+          ],
           "expected": [],
           "investor_tone": {
-            "bias": "BEARISH",
-            "explanation": "The only RNS released on 9\u202fSept is tagged bearish and contains no substantive detail, and the sparse ShareChat post merely forwards the link without commentary."
+            "bias": "MIXED",
+            "explanation": "The RNS is tagged bearish but contains no specific details, while the limited ShareChat posts are neutral. Overall sentiment is inconclusive."
           },
           "market_tape": {
-            "bear_case": "RNS indicates operational concerns and the stock is at a deep bottom with a current price of 2.5.",
-            "bull_case": "The upcoming investor webinar could reveal positive operational information, but no specifics have been disclosed yet.",
-            "confidence": 0.3,
-            "focus": "Operational update & investor webinar",
-            "interpretation": "Investors are uncertain; the lack of detail and the deep\u2011bottom price point make sentiment ambiguous.",
-            "linked_event": "Operational update & investor webinar (RNS 9\u202fSept 2026)",
-            "quality": "MOSTLY_NOISE",
-            "shift": "Post\u2011volume fell sharply after a spike on 11\u202fAug, signalling a drop in engagement and a shift from discussion to silence."
+            "bear_case": "The RNS indicates a potentially negative operational update, but no concrete issues are disclosed.",
+            "bull_case": "The scheduled investor webinar could provide clarifications and potentially positive insights, though no specific improvements are announced yet.",
+            "confidence": 0.0,
+            "focus": "Operational update and upcoming investor webinar",
+            "interpretation": "Discussion is centered on the forthcoming webinar and the lack of detailed information from the operational update.",
+            "linked_event": "Operational update & investor webinar RNS (2026-09-09)",
+            "quality": "MIXED_SIGNAL"
           },
-          "user_summary": "GNIP released an operational update and webinar on 9\u202fSept, but the RNS was flagged bearish and contained no details. The share of posts is minimal, and the price sits at a deep bottom of 2.5. Without further information, market sentiment remains unclear.",
-          "watch_for": []
+          "user_summary": "GNIP.L\u2019s recent RNS flagged a bearish operational update but offered no specifics. Investors are awaiting the scheduled webinar on 24 September 2026 for further clarification. The market is currently in a neutral stance with limited actionable information.",
+          "watch_for": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-24",
+              "event": "Investor webinar hosted by CEO and CFO",
+              "timing_basis": "ShareChat post and RNS announcement"
+            }
+          ]
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:12:39.235369+00:00",
+        "generated_at": "2026-09-14T21:19:56.069401+00:00",
         "model": "openai/gpt-oss-20b",
         "provider": "Groq",
         "status": "SUCCESS",
@@ -8800,12 +8850,36 @@
           "volume": 2000
         },
         {
-          "close": 2.5179998874664307,
+          "close": 2.6500000953674316,
           "date": "2026-09-09",
           "high": 2.5179998874664307,
           "low": 2.5179998874664307,
-          "open": 2.5179998874664307,
+          "open": 2.6500000953674316,
           "volume": 21
+        },
+        {
+          "close": 2.6500000953674316,
+          "date": "2026-09-10",
+          "high": 2.6500000953674316,
+          "low": 2.6500000953674316,
+          "open": 2.6500000953674316,
+          "volume": 0
+        },
+        {
+          "close": 2.6500000953674316,
+          "date": "2026-09-11",
+          "high": 2.691999912261963,
+          "low": 2.5,
+          "open": 2.6500000953674316,
+          "volume": 203
+        },
+        {
+          "close": 2.6500000953674316,
+          "date": "2026-09-14",
+          "high": 2.5179998874664307,
+          "low": 2.5,
+          "open": 2.5,
+          "volume": 3740
         }
       ],
       "provenance": {
@@ -9126,13 +9200,13 @@
       "sharechat_snapshot": {
         "analysed_at": null,
         "analysis_status": "ANALYSIS_PENDING",
-        "sample_fingerprint": "54a3e93e9307bb8f2be104f9529fb39c51e2c2717e017bf33f8e03b4006edf26",
+        "sample_fingerprint": "75cc47a709251240bcc4967a19ba0fb963aeef70eebec3fbd6550878a87148eb",
         "sample_size": 12,
         "sentiment": null,
-        "source_observed_at": "2026-09-09T10:11:00+01:00",
+        "source_observed_at": "2026-09-14T14:11:00+01:00",
         "summary": null,
         "ticker": "GNIP.L",
-        "total_posts": 25
+        "total_posts": 26
       },
       "trends": {
         "records": [],
@@ -9169,7 +9243,7 @@
           "exchange": "LSE",
           "industry": "Specialty Business Services",
           "market": "AIM",
-          "market_cap": 642529.6392642903,
+          "market_cap": 676212.7408353472,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Industrials",
@@ -13089,12 +13163,36 @@
             "volume": 2000
           },
           {
-            "close": 2.5179998874664307,
+            "close": 2.6500000953674316,
             "date": "2026-09-09",
             "high": 2.5179998874664307,
             "low": 2.5179998874664307,
-            "open": 2.5179998874664307,
+            "open": 2.6500000953674316,
             "volume": 21
+          },
+          {
+            "close": 2.6500000953674316,
+            "date": "2026-09-10",
+            "high": 2.6500000953674316,
+            "low": 2.6500000953674316,
+            "open": 2.6500000953674316,
+            "volume": 0
+          },
+          {
+            "close": 2.6500000953674316,
+            "date": "2026-09-11",
+            "high": 2.691999912261963,
+            "low": 2.5,
+            "open": 2.6500000953674316,
+            "volume": 203
+          },
+          {
+            "close": 2.6500000953674316,
+            "date": "2026-09-14",
+            "high": 2.5179998874664307,
+            "low": 2.5,
+            "open": 2.5,
+            "volume": 3740
           }
         ],
         "provenance": {
@@ -13106,7 +13204,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 642529.6392642903,
+      "market_cap": 676212.7408353472,
       "price_at_signal": 2.5,
       "profile": {
         "corporate_actions": {
@@ -13120,7 +13218,7 @@
           "exchange": "LSE",
           "industry": "Specialty Business Services",
           "market": "AIM",
-          "market_cap": 642529.6392642903,
+          "market_cap": 676212.7408353472,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Industrials",
@@ -13134,30 +13232,43 @@
           "signal_id": "GNIP.L:2026-09-02",
           "ticker": "GNIP.L"
         },
-        "market_cap": 642529.6392642903,
+        "market_cap": 676212.7408353472,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-24",
+                "event": "Investor webinar hosted by CEO and CFO",
+                "timing_basis": "ShareChat post and RNS announcement"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "BEARISH",
-              "explanation": "The only RNS released on 9\u202fSept is tagged bearish and contains no substantive detail, and the sparse ShareChat post merely forwards the link without commentary."
+              "bias": "MIXED",
+              "explanation": "The RNS is tagged bearish but contains no specific details, while the limited ShareChat posts are neutral. Overall sentiment is inconclusive."
             },
             "market_tape": {
-              "bear_case": "RNS indicates operational concerns and the stock is at a deep bottom with a current price of 2.5.",
-              "bull_case": "The upcoming investor webinar could reveal positive operational information, but no specifics have been disclosed yet.",
-              "confidence": 0.3,
-              "focus": "Operational update & investor webinar",
-              "interpretation": "Investors are uncertain; the lack of detail and the deep\u2011bottom price point make sentiment ambiguous.",
-              "linked_event": "Operational update & investor webinar (RNS 9\u202fSept 2026)",
-              "quality": "MOSTLY_NOISE",
-              "shift": "Post\u2011volume fell sharply after a spike on 11\u202fAug, signalling a drop in engagement and a shift from discussion to silence."
+              "bear_case": "The RNS indicates a potentially negative operational update, but no concrete issues are disclosed.",
+              "bull_case": "The scheduled investor webinar could provide clarifications and potentially positive insights, though no specific improvements are announced yet.",
+              "confidence": 0.0,
+              "focus": "Operational update and upcoming investor webinar",
+              "interpretation": "Discussion is centered on the forthcoming webinar and the lack of detailed information from the operational update.",
+              "linked_event": "Operational update & investor webinar RNS (2026-09-09)",
+              "quality": "MIXED_SIGNAL"
             },
-            "user_summary": "GNIP released an operational update and webinar on 9\u202fSept, but the RNS was flagged bearish and contained no details. The share of posts is minimal, and the price sits at a deep bottom of 2.5. Without further information, market sentiment remains unclear.",
-            "watch_for": []
+            "user_summary": "GNIP.L\u2019s recent RNS flagged a bearish operational update but offered no specifics. Investors are awaiting the scheduled webinar on 24 September 2026 for further clarification. The market is currently in a neutral stance with limited actionable information.",
+            "watch_for": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-24",
+                "event": "Investor webinar hosted by CEO and CFO",
+                "timing_basis": "ShareChat post and RNS announcement"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:12:39.235369+00:00",
+          "generated_at": "2026-09-14T21:19:56.069401+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -13329,13 +13440,13 @@
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "54a3e93e9307bb8f2be104f9529fb39c51e2c2717e017bf33f8e03b4006edf26",
+          "sample_fingerprint": "75cc47a709251240bcc4967a19ba0fb963aeef70eebec3fbd6550878a87148eb",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-09T10:11:00+01:00",
+          "source_observed_at": "2026-09-14T14:11:00+01:00",
           "summary": null,
           "ticker": "GNIP.L",
-          "total_posts": 25
+          "total_posts": 26
         },
         "signal_statistics": {
           "by_signal_type": {

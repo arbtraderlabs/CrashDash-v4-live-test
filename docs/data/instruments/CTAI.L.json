@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Software - Infrastructure",
           "market": "AIM",
-          "market_cap": 1864018.3372282125,
+          "market_cap": 1720632.3359408693,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -13536,12 +13536,36 @@
             "volume": 2489706
           },
           {
-            "close": 0.12999999523162842,
+            "close": 0.125,
             "date": "2026-09-09",
             "high": 0.12999999523162842,
             "low": 0.11999999731779099,
-            "open": 0.11999999731779099,
-            "volume": 874504
+            "open": 0.125,
+            "volume": 874503
+          },
+          {
+            "close": 0.125,
+            "date": "2026-09-10",
+            "high": 0.125,
+            "low": 0.11999999731779099,
+            "open": 0.125,
+            "volume": 1380968
+          },
+          {
+            "close": 0.125,
+            "date": "2026-09-11",
+            "high": 0.12999999523162842,
+            "low": 0.11999999731779099,
+            "open": 0.125,
+            "volume": 1209985
+          },
+          {
+            "close": 0.11999999731779099,
+            "date": "2026-09-14",
+            "high": 0.12999999523162842,
+            "low": 0.11999999731779099,
+            "open": 0.12999999523162842,
+            "volume": 9441580
           }
         ],
         "provenance": {
@@ -13553,7 +13577,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 1864018.3372282125,
+      "market_cap": 1720632.3359408693,
       "price_at_signal": 0.125,
       "profile": {
         "corporate_actions": {
@@ -13577,7 +13601,7 @@
           "exchange": "LSE",
           "industry": "Software - Infrastructure",
           "market": "AIM",
-          "market_cap": 1864018.3372282125,
+          "market_cap": 1720632.3359408693,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -13591,28 +13615,42 @@
           "signal_id": "CTAI.L:2026-09-07",
           "ticker": "CTAI.L"
         },
-        "market_cap": 1864018.3372282125,
+        "market_cap": 1720632.3359408693,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-07-14",
+                "event": "Klarian CLN Update",
+                "timing_basis": "RNS announcement rns-7249aa18a99a2f6dbffe9f4f"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "2026-07-01",
+                "event": "Alludium Named Partner for AgenticInvestor",
+                "timing_basis": "RNS announcement rns-99dc47b9ba46003fdabf505d"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "BEARISH",
-              "explanation": "Posts on 11\u202fSep 2026 highlight product updates that are not resonating with the market and reference unmet sales figures, indicating a predominantly negative investor sentiment."
+              "bias": "MIXED",
+              "explanation": "High activity on 11 September 2026 but posts lack clear sentiment, so no consensus on direction."
             },
             "market_tape": {
-              "bear_case": "The company\u2019s recent product updates are not generating traction; investors cite a failure to meet previously promised figures and a lack of active sales support, suggesting a slowdown in revenue generation.",
-              "confidence": 0.6,
-              "focus": "Product update performance and sales shortfall",
-              "interpretation": "Investors appear to interpret the latest activity as evidence that the company is struggling to convert product enhancements into market uptake.",
-              "quality": "MIXED_SIGNAL",
-              "shift": "Discussion has shifted from neutral reporting on updates to a more critical tone focused on unmet sales targets."
+              "bear_case": "Limited product traction and low following raise concerns about revenue growth.",
+              "bull_case": "The recent Klarian CLN Update suggests potential capital infusion and partnership opportunities that could improve product adoption.",
+              "confidence": 0.4,
+              "focus": "Product adoption and partnership activity",
+              "interpretation": "Deterministic signal indicates the share price is in a stressed crash zone bottom state, while official RNS events provide mixed implications.",
+              "linked_event": "Klarian CLN Update",
+              "quality": "MEANINGFUL"
             },
-            "user_summary": "Investors are increasingly critical of the company\u2019s recent product updates, noting poor market traction and failure to hit promised sales figures. The conversation shows a shift toward a negative view, with no clear bullish narrative emerging. The overall sentiment suggests caution, as the company\u2019s performance appears below expectations.",
+            "user_summary": "CTAI.L recently received a bullish update from Klarian, potentially signalling new partnership or capital infusion. However, product adoption appears weak and investor discussions show uncertainty. The deterministic signal shows the share price in a stressed state, but official events provide mixed implications. Investors should monitor upcoming partnership developments and product traction.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:10:35.259084+00:00",
+          "generated_at": "2026-09-14T21:15:48.367951+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -14967,28 +15005,42 @@
         "sector": "Technology",
         "ticker": "CTAI.L"
       },
-      "market_cap": 1864018.3372282125,
+      "market_cap": 1720632.3359408693,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
+          "catalysts": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-07-14",
+              "event": "Klarian CLN Update",
+              "timing_basis": "RNS announcement rns-7249aa18a99a2f6dbffe9f4f"
+            },
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "2026-07-01",
+              "event": "Alludium Named Partner for AgenticInvestor",
+              "timing_basis": "RNS announcement rns-99dc47b9ba46003fdabf505d"
+            }
+          ],
           "expected": [],
           "investor_tone": {
-            "bias": "BEARISH",
-            "explanation": "Posts on 11\u202fSep 2026 highlight product updates that are not resonating with the market and reference unmet sales figures, indicating a predominantly negative investor sentiment."
+            "bias": "MIXED",
+            "explanation": "High activity on 11 September 2026 but posts lack clear sentiment, so no consensus on direction."
           },
           "market_tape": {
-            "bear_case": "The company\u2019s recent product updates are not generating traction; investors cite a failure to meet previously promised figures and a lack of active sales support, suggesting a slowdown in revenue generation.",
-            "confidence": 0.6,
-            "focus": "Product update performance and sales shortfall",
-            "interpretation": "Investors appear to interpret the latest activity as evidence that the company is struggling to convert product enhancements into market uptake.",
-            "quality": "MIXED_SIGNAL",
-            "shift": "Discussion has shifted from neutral reporting on updates to a more critical tone focused on unmet sales targets."
+            "bear_case": "Limited product traction and low following raise concerns about revenue growth.",
+            "bull_case": "The recent Klarian CLN Update suggests potential capital infusion and partnership opportunities that could improve product adoption.",
+            "confidence": 0.4,
+            "focus": "Product adoption and partnership activity",
+            "interpretation": "Deterministic signal indicates the share price is in a stressed crash zone bottom state, while official RNS events provide mixed implications.",
+            "linked_event": "Klarian CLN Update",
+            "quality": "MEANINGFUL"
           },
-          "user_summary": "Investors are increasingly critical of the company\u2019s recent product updates, noting poor market traction and failure to hit promised sales figures. The conversation shows a shift toward a negative view, with no clear bullish narrative emerging. The overall sentiment suggests caution, as the company\u2019s performance appears below expectations.",
+          "user_summary": "CTAI.L recently received a bullish update from Klarian, potentially signalling new partnership or capital infusion. However, product adoption appears weak and investor discussions show uncertainty. The deterministic signal shows the share price in a stressed state, but official events provide mixed implications. Investors should monitor upcoming partnership developments and product traction.",
           "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:10:35.259084+00:00",
+        "generated_at": "2026-09-14T21:15:48.367951+00:00",
         "model": "openai/gpt-oss-20b",
         "provider": "Groq",
         "status": "SUCCESS",
@@ -28500,12 +28552,36 @@
           "volume": 2489706
         },
         {
-          "close": 0.12999999523162842,
+          "close": 0.125,
           "date": "2026-09-09",
           "high": 0.12999999523162842,
           "low": 0.11999999731779099,
-          "open": 0.11999999731779099,
-          "volume": 874504
+          "open": 0.125,
+          "volume": 874503
+        },
+        {
+          "close": 0.125,
+          "date": "2026-09-10",
+          "high": 0.125,
+          "low": 0.11999999731779099,
+          "open": 0.125,
+          "volume": 1380968
+        },
+        {
+          "close": 0.125,
+          "date": "2026-09-11",
+          "high": 0.12999999523162842,
+          "low": 0.11999999731779099,
+          "open": 0.125,
+          "volume": 1209985
+        },
+        {
+          "close": 0.11999999731779099,
+          "date": "2026-09-14",
+          "high": 0.12999999523162842,
+          "low": 0.11999999731779099,
+          "open": 0.12999999523162842,
+          "volume": 9441580
         }
       ],
       "provenance": {
@@ -29430,7 +29506,7 @@
           "exchange": "LSE",
           "industry": "Software - Infrastructure",
           "market": "AIM",
-          "market_cap": 1864018.3372282125,
+          "market_cap": 1720632.3359408693,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -42942,12 +43018,36 @@
             "volume": 2489706
           },
           {
-            "close": 0.12999999523162842,
+            "close": 0.125,
             "date": "2026-09-09",
             "high": 0.12999999523162842,
             "low": 0.11999999731779099,
-            "open": 0.11999999731779099,
-            "volume": 874504
+            "open": 0.125,
+            "volume": 874503
+          },
+          {
+            "close": 0.125,
+            "date": "2026-09-10",
+            "high": 0.125,
+            "low": 0.11999999731779099,
+            "open": 0.125,
+            "volume": 1380968
+          },
+          {
+            "close": 0.125,
+            "date": "2026-09-11",
+            "high": 0.12999999523162842,
+            "low": 0.11999999731779099,
+            "open": 0.125,
+            "volume": 1209985
+          },
+          {
+            "close": 0.11999999731779099,
+            "date": "2026-09-14",
+            "high": 0.12999999523162842,
+            "low": 0.11999999731779099,
+            "open": 0.12999999523162842,
+            "volume": 9441580
           }
         ],
         "provenance": {
@@ -42959,7 +43059,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 1864018.3372282125,
+      "market_cap": 1720632.3359408693,
       "price_at_signal": 0.125,
       "profile": {
         "corporate_actions": {
@@ -42983,7 +43083,7 @@
           "exchange": "LSE",
           "industry": "Software - Infrastructure",
           "market": "AIM",
-          "market_cap": 1864018.3372282125,
+          "market_cap": 1720632.3359408693,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Technology",
@@ -42997,28 +43097,42 @@
           "signal_id": "CTAI.L:2026-09-07",
           "ticker": "CTAI.L"
         },
-        "market_cap": 1864018.3372282125,
+        "market_cap": 1720632.3359408693,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-07-14",
+                "event": "Klarian CLN Update",
+                "timing_basis": "RNS announcement rns-7249aa18a99a2f6dbffe9f4f"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "2026-07-01",
+                "event": "Alludium Named Partner for AgenticInvestor",
+                "timing_basis": "RNS announcement rns-99dc47b9ba46003fdabf505d"
+              }
+            ],
             "expected": [],
             "investor_tone": {
-              "bias": "BEARISH",
-              "explanation": "Posts on 11\u202fSep 2026 highlight product updates that are not resonating with the market and reference unmet sales figures, indicating a predominantly negative investor sentiment."
+              "bias": "MIXED",
+              "explanation": "High activity on 11 September 2026 but posts lack clear sentiment, so no consensus on direction."
             },
             "market_tape": {
-              "bear_case": "The company\u2019s recent product updates are not generating traction; investors cite a failure to meet previously promised figures and a lack of active sales support, suggesting a slowdown in revenue generation.",
-              "confidence": 0.6,
-              "focus": "Product update performance and sales shortfall",
-              "interpretation": "Investors appear to interpret the latest activity as evidence that the company is struggling to convert product enhancements into market uptake.",
-              "quality": "MIXED_SIGNAL",
-              "shift": "Discussion has shifted from neutral reporting on updates to a more critical tone focused on unmet sales targets."
+              "bear_case": "Limited product traction and low following raise concerns about revenue growth.",
+              "bull_case": "The recent Klarian CLN Update suggests potential capital infusion and partnership opportunities that could improve product adoption.",
+              "confidence": 0.4,
+              "focus": "Product adoption and partnership activity",
+              "interpretation": "Deterministic signal indicates the share price is in a stressed crash zone bottom state, while official RNS events provide mixed implications.",
+              "linked_event": "Klarian CLN Update",
+              "quality": "MEANINGFUL"
             },
-            "user_summary": "Investors are increasingly critical of the company\u2019s recent product updates, noting poor market traction and failure to hit promised sales figures. The conversation shows a shift toward a negative view, with no clear bullish narrative emerging. The overall sentiment suggests caution, as the company\u2019s performance appears below expectations.",
+            "user_summary": "CTAI.L recently received a bullish update from Klarian, potentially signalling new partnership or capital infusion. However, product adoption appears weak and investor discussions show uncertainty. The deterministic signal shows the share price in a stressed state, but official events provide mixed implications. Investors should monitor upcoming partnership developments and product traction.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:10:35.259084+00:00",
+          "generated_at": "2026-09-14T21:15:48.367951+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",

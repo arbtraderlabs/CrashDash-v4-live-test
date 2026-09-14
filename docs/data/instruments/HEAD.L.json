@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Furnishings Fixtures & Appliances",
           "market": "MAIN",
-          "market_cap": 84296.79561812915,
+          "market_cap": null,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Cyclical",
@@ -13534,6 +13534,30 @@
             "low": 0.10499999672174454,
             "open": 0.10499999672174454,
             "volume": 0
+          },
+          {
+            "close": 0.10499999672174454,
+            "date": "2026-09-09",
+            "high": 0.10499999672174454,
+            "low": 0.10499999672174454,
+            "open": 0.10499999672174454,
+            "volume": 0
+          },
+          {
+            "close": 0.10499999672174454,
+            "date": "2026-09-10",
+            "high": 0.10499999672174454,
+            "low": 0.10499999672174454,
+            "open": 0.10499999672174454,
+            "volume": 0
+          },
+          {
+            "close": 0.10499999672174454,
+            "date": "2026-09-11",
+            "high": 0.10499999672174454,
+            "low": 0.10499999672174454,
+            "open": 0.10499999672174454,
+            "volume": 0
           }
         ],
         "provenance": {
@@ -13545,7 +13569,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 84296.79561812915,
+      "market_cap": null,
       "price_at_signal": 5.24,
       "profile": {
         "corporate_actions": {
@@ -13559,7 +13583,6 @@
           "exchange": "LSE",
           "industry": "Furnishings Fixtures & Appliances",
           "market": "MAIN",
-          "market_cap": 84296.79561812915,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Cyclical",
@@ -13573,33 +13596,73 @@
           "signal_id": "HEAD.L:2026-07-28",
           "ticker": "HEAD.L"
         },
-        "market_cap": 84296.79561812915,
+        "market_cap": null,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
-            "expected": [],
+            "catalysts": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Sale and leaseback of Bristol distribution centre",
+                "timing_basis": "RNS-8th Sep 2026"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Administrator appointment, trading & board changes",
+                "timing_basis": "RNS-8th Sep 2026"
+              },
+              {
+                "confidence": "LOW",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Sale of Netherlands businesses",
+                "timing_basis": "RNS-27th Aug 2026"
+              }
+            ],
+            "expected": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Restructuring completion and trading restoration",
+                "timing_basis": "ShareChat-9th Sep 2026"
+              }
+            ],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "While the appointment of administrators is a significant bearish event, the company's stated intention to restore share trading post-restructuring and the sale and leaseback of an asset introduce elements that could be interpreted positively by investors."
+              "explanation": "Official announcements present both a potential liquidity\u2011boosting sale/leaseback and a sign of distress through an administrator appointment, leading to a mixed sentiment among investors."
             },
             "market_tape": {
-              "bear_case": "The primary bearish concern is the formal appointment of administrators for HEAD.L on September 8th, following the intention to appoint administrators and the suspension of share trading announced on September 1st. These events signal severe financial distress for the company.",
-              "bull_case": "Bullish posts centre on the company's stated intention to seek restoration of share trading on the London Main Market once the restructuring process is complete. Additionally, the sale and leaseback of the Bristol distribution centre, announced on the same day as the administrator appointment, could be viewed as a positive step towards financial stabilization. The board changes, with Wilf Walsh moving to non-executive chair, may also be interpreted as a move towards a new operational phase.",
-              "confidence": 0.8,
-              "divergence": "There is a clear divergence in investor sentiment, with some focusing on the severe implications of administration and trading suspension, while others highlight the company's stated path to recovery, including asset sales and the intention to restore share trading.",
-              "focus": "Discussion is focused on the company's administration, the ongoing restructuring efforts, the sale of assets, and the potential for the restoration of share trading on the London Main Market.",
-              "interpretation": "Investors appear to interpret the RNS announcements as a critical juncture for HEAD.L. The initial shock of administration is being tempered by the company's explicit plans for restructuring, asset sales (including the Netherlands businesses and the Bristol distribution centre), and the stated goal of restoring share trading. The board changes are also noted as part of this transition.",
-              "linked_event": "The key linked events are the RNS announcements from September 1st regarding the intention to appoint administrators and share suspension, followed by the September 8th RNS confirming the administrator appointment, board changes, and the sale and leaseback of the Bristol distribution centre. These follow the August 27th RNS about the sale of Netherlands businesses.",
-              "quality": "MEANINGFUL",
-              "shift": "The conversation has shifted from the initial announcement of the intention to appoint administrators and the suspension of trading towards the specifics of the restructuring process, including asset disposals and the company's stated intention to restore share trading post-restructuring."
+              "bear_case": "The appointment of administrators and the suspension of trading signal ongoing financial distress and potential governance issues that could undermine investor confidence and liquidity.",
+              "bull_case": "The sale and leaseback of the Bristol distribution centre could improve the balance sheet by raising cash and reducing debt, supporting a more stable financial outlook.",
+              "confidence": 0.5,
+              "divergence": "Bullish sale/leaseback announcement versus bearish administrator appointment and trading suspension.",
+              "focus": "Financial restructuring and governance changes.",
+              "interpretation": "The market is in a stressed state with conflicting signals from recent corporate announcements.",
+              "linked_event": "Sale and leaseback of Bristol distribution centre",
+              "missed_angle": "Potential impact of trading restoration on liquidity and share price.",
+              "quality": "MIXED_SIGNAL",
+              "shift": "Discussion has shifted from a focus on the sale/leaseback to concerns about the administrator appointment and trading suspension."
             },
-            "user_summary": "HEAD.L is undergoing significant restructuring following the appointment of administrators on September 8th, which led to a suspension of share trading. While this is a major bearish event, the company has also announced asset sales, including its Netherlands businesses and a Bristol distribution centre, and stated its intention to restore share trading after restructuring. Investors are now focused on the details of this recovery path and the potential for trading to resume.",
-            "watch_for": []
+            "user_summary": "HEAD.L has issued mixed corporate announcements: a sale/leaseback that may improve liquidity, but also an administrator appointment indicating distress. Investors are divided, with some optimistic about the sale and others concerned about the restructuring. The share price is currently in a stressed, deep crash bottom state but the signal does not predict further decline.",
+            "watch_for": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Administrator appointment and trading suspension",
+                "timing_basis": "RNS-8th Sep 2026"
+              },
+              {
+                "confidence": "LOW",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Restructuring completion and trading restoration",
+                "timing_basis": "ShareChat-9th Sep 2026"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:13:49.832663+00:00",
-          "model": "gemini-2.5-flash",
-          "provider": "Gemini fallback",
+          "generated_at": "2026-09-14T21:20:58.400237+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
           "status": "SUCCESS",
           "ticker": "HEAD.L"
         },
@@ -14608,33 +14671,73 @@
         "sector": "Consumer Cyclical",
         "ticker": "HEAD.L"
       },
-      "market_cap": 84296.79561812915,
+      "market_cap": null,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
-          "expected": [],
+          "catalysts": [
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Sale and leaseback of Bristol distribution centre",
+              "timing_basis": "RNS-8th Sep 2026"
+            },
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Administrator appointment, trading & board changes",
+              "timing_basis": "RNS-8th Sep 2026"
+            },
+            {
+              "confidence": "LOW",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Sale of Netherlands businesses",
+              "timing_basis": "RNS-27th Aug 2026"
+            }
+          ],
+          "expected": [
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Restructuring completion and trading restoration",
+              "timing_basis": "ShareChat-9th Sep 2026"
+            }
+          ],
           "investor_tone": {
             "bias": "MIXED",
-            "explanation": "While the appointment of administrators is a significant bearish event, the company's stated intention to restore share trading post-restructuring and the sale and leaseback of an asset introduce elements that could be interpreted positively by investors."
+            "explanation": "Official announcements present both a potential liquidity\u2011boosting sale/leaseback and a sign of distress through an administrator appointment, leading to a mixed sentiment among investors."
           },
           "market_tape": {
-            "bear_case": "The primary bearish concern is the formal appointment of administrators for HEAD.L on September 8th, following the intention to appoint administrators and the suspension of share trading announced on September 1st. These events signal severe financial distress for the company.",
-            "bull_case": "Bullish posts centre on the company's stated intention to seek restoration of share trading on the London Main Market once the restructuring process is complete. Additionally, the sale and leaseback of the Bristol distribution centre, announced on the same day as the administrator appointment, could be viewed as a positive step towards financial stabilization. The board changes, with Wilf Walsh moving to non-executive chair, may also be interpreted as a move towards a new operational phase.",
-            "confidence": 0.8,
-            "divergence": "There is a clear divergence in investor sentiment, with some focusing on the severe implications of administration and trading suspension, while others highlight the company's stated path to recovery, including asset sales and the intention to restore share trading.",
-            "focus": "Discussion is focused on the company's administration, the ongoing restructuring efforts, the sale of assets, and the potential for the restoration of share trading on the London Main Market.",
-            "interpretation": "Investors appear to interpret the RNS announcements as a critical juncture for HEAD.L. The initial shock of administration is being tempered by the company's explicit plans for restructuring, asset sales (including the Netherlands businesses and the Bristol distribution centre), and the stated goal of restoring share trading. The board changes are also noted as part of this transition.",
-            "linked_event": "The key linked events are the RNS announcements from September 1st regarding the intention to appoint administrators and share suspension, followed by the September 8th RNS confirming the administrator appointment, board changes, and the sale and leaseback of the Bristol distribution centre. These follow the August 27th RNS about the sale of Netherlands businesses.",
-            "quality": "MEANINGFUL",
-            "shift": "The conversation has shifted from the initial announcement of the intention to appoint administrators and the suspension of trading towards the specifics of the restructuring process, including asset disposals and the company's stated intention to restore share trading post-restructuring."
+            "bear_case": "The appointment of administrators and the suspension of trading signal ongoing financial distress and potential governance issues that could undermine investor confidence and liquidity.",
+            "bull_case": "The sale and leaseback of the Bristol distribution centre could improve the balance sheet by raising cash and reducing debt, supporting a more stable financial outlook.",
+            "confidence": 0.5,
+            "divergence": "Bullish sale/leaseback announcement versus bearish administrator appointment and trading suspension.",
+            "focus": "Financial restructuring and governance changes.",
+            "interpretation": "The market is in a stressed state with conflicting signals from recent corporate announcements.",
+            "linked_event": "Sale and leaseback of Bristol distribution centre",
+            "missed_angle": "Potential impact of trading restoration on liquidity and share price.",
+            "quality": "MIXED_SIGNAL",
+            "shift": "Discussion has shifted from a focus on the sale/leaseback to concerns about the administrator appointment and trading suspension."
           },
-          "user_summary": "HEAD.L is undergoing significant restructuring following the appointment of administrators on September 8th, which led to a suspension of share trading. While this is a major bearish event, the company has also announced asset sales, including its Netherlands businesses and a Bristol distribution centre, and stated its intention to restore share trading after restructuring. Investors are now focused on the details of this recovery path and the potential for trading to resume.",
-          "watch_for": []
+          "user_summary": "HEAD.L has issued mixed corporate announcements: a sale/leaseback that may improve liquidity, but also an administrator appointment indicating distress. Investors are divided, with some optimistic about the sale and others concerned about the restructuring. The share price is currently in a stressed, deep crash bottom state but the signal does not predict further decline.",
+          "watch_for": [
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Administrator appointment and trading suspension",
+              "timing_basis": "RNS-8th Sep 2026"
+            },
+            {
+              "confidence": "LOW",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Restructuring completion and trading restoration",
+              "timing_basis": "ShareChat-9th Sep 2026"
+            }
+          ]
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:13:49.832663+00:00",
-        "model": "gemini-2.5-flash",
-        "provider": "Gemini fallback",
+        "generated_at": "2026-09-14T21:20:58.400237+00:00",
+        "model": "openai/gpt-oss-20b",
+        "provider": "Groq",
         "status": "SUCCESS",
         "ticker": "HEAD.L"
       },
@@ -28142,6 +28245,30 @@
           "low": 0.10499999672174454,
           "open": 0.10499999672174454,
           "volume": 0
+        },
+        {
+          "close": 0.10499999672174454,
+          "date": "2026-09-09",
+          "high": 0.10499999672174454,
+          "low": 0.10499999672174454,
+          "open": 0.10499999672174454,
+          "volume": 0
+        },
+        {
+          "close": 0.10499999672174454,
+          "date": "2026-09-10",
+          "high": 0.10499999672174454,
+          "low": 0.10499999672174454,
+          "open": 0.10499999672174454,
+          "volume": 0
+        },
+        {
+          "close": 0.10499999672174454,
+          "date": "2026-09-11",
+          "high": 0.10499999672174454,
+          "low": 0.10499999672174454,
+          "open": 0.10499999672174454,
+          "volume": 0
         }
       ],
       "provenance": {
@@ -29063,7 +29190,7 @@
           "exchange": "LSE",
           "industry": "Furnishings Fixtures & Appliances",
           "market": "MAIN",
-          "market_cap": 84296.79561812915,
+          "market_cap": null,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Cyclical",
@@ -42573,6 +42700,30 @@
             "low": 0.10499999672174454,
             "open": 0.10499999672174454,
             "volume": 0
+          },
+          {
+            "close": 0.10499999672174454,
+            "date": "2026-09-09",
+            "high": 0.10499999672174454,
+            "low": 0.10499999672174454,
+            "open": 0.10499999672174454,
+            "volume": 0
+          },
+          {
+            "close": 0.10499999672174454,
+            "date": "2026-09-10",
+            "high": 0.10499999672174454,
+            "low": 0.10499999672174454,
+            "open": 0.10499999672174454,
+            "volume": 0
+          },
+          {
+            "close": 0.10499999672174454,
+            "date": "2026-09-11",
+            "high": 0.10499999672174454,
+            "low": 0.10499999672174454,
+            "open": 0.10499999672174454,
+            "volume": 0
           }
         ],
         "provenance": {
@@ -42584,7 +42735,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 84296.79561812915,
+      "market_cap": null,
       "price_at_signal": 5.24,
       "profile": {
         "corporate_actions": {
@@ -42598,7 +42749,6 @@
           "exchange": "LSE",
           "industry": "Furnishings Fixtures & Appliances",
           "market": "MAIN",
-          "market_cap": 84296.79561812915,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Cyclical",
@@ -42612,33 +42762,73 @@
           "signal_id": "HEAD.L:2026-07-28",
           "ticker": "HEAD.L"
         },
-        "market_cap": 84296.79561812915,
+        "market_cap": null,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
-            "expected": [],
+            "catalysts": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Sale and leaseback of Bristol distribution centre",
+                "timing_basis": "RNS-8th Sep 2026"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Administrator appointment, trading & board changes",
+                "timing_basis": "RNS-8th Sep 2026"
+              },
+              {
+                "confidence": "LOW",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Sale of Netherlands businesses",
+                "timing_basis": "RNS-27th Aug 2026"
+              }
+            ],
+            "expected": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Restructuring completion and trading restoration",
+                "timing_basis": "ShareChat-9th Sep 2026"
+              }
+            ],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "While the appointment of administrators is a significant bearish event, the company's stated intention to restore share trading post-restructuring and the sale and leaseback of an asset introduce elements that could be interpreted positively by investors."
+              "explanation": "Official announcements present both a potential liquidity\u2011boosting sale/leaseback and a sign of distress through an administrator appointment, leading to a mixed sentiment among investors."
             },
             "market_tape": {
-              "bear_case": "The primary bearish concern is the formal appointment of administrators for HEAD.L on September 8th, following the intention to appoint administrators and the suspension of share trading announced on September 1st. These events signal severe financial distress for the company.",
-              "bull_case": "Bullish posts centre on the company's stated intention to seek restoration of share trading on the London Main Market once the restructuring process is complete. Additionally, the sale and leaseback of the Bristol distribution centre, announced on the same day as the administrator appointment, could be viewed as a positive step towards financial stabilization. The board changes, with Wilf Walsh moving to non-executive chair, may also be interpreted as a move towards a new operational phase.",
-              "confidence": 0.8,
-              "divergence": "There is a clear divergence in investor sentiment, with some focusing on the severe implications of administration and trading suspension, while others highlight the company's stated path to recovery, including asset sales and the intention to restore share trading.",
-              "focus": "Discussion is focused on the company's administration, the ongoing restructuring efforts, the sale of assets, and the potential for the restoration of share trading on the London Main Market.",
-              "interpretation": "Investors appear to interpret the RNS announcements as a critical juncture for HEAD.L. The initial shock of administration is being tempered by the company's explicit plans for restructuring, asset sales (including the Netherlands businesses and the Bristol distribution centre), and the stated goal of restoring share trading. The board changes are also noted as part of this transition.",
-              "linked_event": "The key linked events are the RNS announcements from September 1st regarding the intention to appoint administrators and share suspension, followed by the September 8th RNS confirming the administrator appointment, board changes, and the sale and leaseback of the Bristol distribution centre. These follow the August 27th RNS about the sale of Netherlands businesses.",
-              "quality": "MEANINGFUL",
-              "shift": "The conversation has shifted from the initial announcement of the intention to appoint administrators and the suspension of trading towards the specifics of the restructuring process, including asset disposals and the company's stated intention to restore share trading post-restructuring."
+              "bear_case": "The appointment of administrators and the suspension of trading signal ongoing financial distress and potential governance issues that could undermine investor confidence and liquidity.",
+              "bull_case": "The sale and leaseback of the Bristol distribution centre could improve the balance sheet by raising cash and reducing debt, supporting a more stable financial outlook.",
+              "confidence": 0.5,
+              "divergence": "Bullish sale/leaseback announcement versus bearish administrator appointment and trading suspension.",
+              "focus": "Financial restructuring and governance changes.",
+              "interpretation": "The market is in a stressed state with conflicting signals from recent corporate announcements.",
+              "linked_event": "Sale and leaseback of Bristol distribution centre",
+              "missed_angle": "Potential impact of trading restoration on liquidity and share price.",
+              "quality": "MIXED_SIGNAL",
+              "shift": "Discussion has shifted from a focus on the sale/leaseback to concerns about the administrator appointment and trading suspension."
             },
-            "user_summary": "HEAD.L is undergoing significant restructuring following the appointment of administrators on September 8th, which led to a suspension of share trading. While this is a major bearish event, the company has also announced asset sales, including its Netherlands businesses and a Bristol distribution centre, and stated its intention to restore share trading after restructuring. Investors are now focused on the details of this recovery path and the potential for trading to resume.",
-            "watch_for": []
+            "user_summary": "HEAD.L has issued mixed corporate announcements: a sale/leaseback that may improve liquidity, but also an administrator appointment indicating distress. Investors are divided, with some optimistic about the sale and others concerned about the restructuring. The share price is currently in a stressed, deep crash bottom state but the signal does not predict further decline.",
+            "watch_for": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Administrator appointment and trading suspension",
+                "timing_basis": "RNS-8th Sep 2026"
+              },
+              {
+                "confidence": "LOW",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Restructuring completion and trading restoration",
+                "timing_basis": "ShareChat-9th Sep 2026"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:13:49.832663+00:00",
-          "model": "gemini-2.5-flash",
-          "provider": "Gemini fallback",
+          "generated_at": "2026-09-14T21:20:58.400237+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
           "status": "SUCCESS",
           "ticker": "HEAD.L"
         },

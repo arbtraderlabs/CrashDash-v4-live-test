@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 17820009.54,
+          "market_cap": 13860007.420000002,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -8424,12 +8424,36 @@
             "volume": 83883
           },
           {
-            "close": 4.5,
+            "close": 4,
             "date": "2026-09-09",
             "high": 4.5,
             "low": 3.5,
-            "open": 3.559999942779541,
-            "volume": 41387
+            "open": 4,
+            "volume": 41642
+          },
+          {
+            "close": 3.25,
+            "date": "2026-09-10",
+            "high": 4.5,
+            "low": 3,
+            "open": 4,
+            "volume": 426904
+          },
+          {
+            "close": 3.5,
+            "date": "2026-09-11",
+            "high": 4.5,
+            "low": 2.799999952316284,
+            "open": 2.75,
+            "volume": 1882167
+          },
+          {
+            "close": 3.5,
+            "date": "2026-09-14",
+            "high": 4,
+            "low": 3,
+            "open": 3.2221999168395996,
+            "volume": 147158
           }
         ],
         "provenance": {
@@ -8441,7 +8465,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 17820009.54,
+      "market_cap": 13860007.420000002,
       "price_at_signal": 3.15,
       "profile": {
         "corporate_actions": {
@@ -8455,7 +8479,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 17820009.54,
+          "market_cap": 13860007.420000002,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -8469,31 +8493,29 @@
           "signal_id": "BANK.L:2026-08-11",
           "ticker": "BANK.L"
         },
-        "market_cap": 17820009.54,
+        "market_cap": 13860007.420000002,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
-              "bias": "BEARISH",
-              "explanation": "Recent RNS announcements, including Half-Year results and the outcome of a Requisitioned General Meeting, were all classified as bearish. Investor discussion reflects concerns about the company's cash runway, outweighing minor speculative interest."
+              "bias": "MIXED",
+              "explanation": "Official RNS announcements regarding Half-Year results and the outcome of a Requisitioned General Meeting have been classified as bearish. However, recent investor discussion on ShareChat shows no clear directional consensus, with some general observations and internal forum commentary."
             },
             "market_tape": {
-              "bear_case": "The main bearish concern among investors is the company's \"cash runway\", with one investor stating it \"won't last long enough to see any worthwhile incoming revenue\". This concern is amplified by the bearish classification of all recent RNS items, including the Half-Year results and the outcome of the Requisitioned General Meeting.",
-              "bull_case": "A minor bullish perspective suggests the stock is \"tightly held\" and could offer \"quick\" gains with some volume, indicating a speculative interest in short-term price movements rather than fundamental strength.",
+              "bear_case": "The company faces credible risks highlighted by the bearish Half-Year results for the six months ended 30 June 2026, indicating operational or financial underperformance. Furthermore, the \"Requisitioned GM, Member Statement, Fiinu response\" and the subsequent \"Result of Requisitioned General Meeting\" (both classified as bearish) point to ongoing corporate governance challenges and shareholder dissatisfaction.",
               "confidence": 0.8,
-              "divergence": "There is a divergence between the fundamental bearish news and investor concerns about cash flow, and a minor, speculative view that the stock could offer quick gains due to its tightly held nature.",
-              "focus": "Discussion is focused on the implications of the recently announced Half-Year results and the outcome of the Requisitioned General Meeting, particularly regarding the company's financial sustainability.",
-              "interpretation": "Investors appear to interpret the series of RNS announcements, all classified as bearish, as a negative indicator for BANK.L's prospects, especially concerning its financial runway.",
-              "linked_event": "The key linked events are the \"Requisitioned GM, Member Statement, Fiinu response\" published on 2026-09-10, the subsequent \"Result of Requisitioned General Meeting\", and the \"Half-Year results; six months ended 30 June 2026\".",
+              "divergence": "There is a divergence between the consistently bearish official RNS announcements and the largely neutral or internally focused discussion observed in recent ShareChat posts, which do not explicitly detail the implications of the company's recent corporate events.",
+              "focus": "Discussion is primarily focused on the recent official announcements, specifically the Half-Year results and the outcome of the Requisitioned General Meeting.",
+              "interpretation": "Investors appear to interpret the recent RNS announcements as negative, given their bearish classification. The \"Result of Requisitioned General Meeting\" and the Half-Year results suggest challenges for the company.",
               "quality": "MEANINGFUL",
-              "shift": "The conversation has shifted from anticipation of the General Meeting and results towards an assessment of the company's financial health and future viability following the bearish RNS announcements."
+              "shift": "The conversation has shifted to focus on the implications of the Half-Year results and the outcome of the Requisitioned General Meeting, following the RNS announcements on these events."
             },
-            "user_summary": "Investors are reacting to a series of bearish RNS announcements, including the Half-Year results and the outcome of a Requisitioned General Meeting. Discussion is primarily focused on the company's cash runway, with concerns that it may not be sufficient to generate worthwhile revenue. While some investors see short-term speculative opportunities, the overall sentiment appears cautious and negative.",
+            "user_summary": "BANK.L's recent official announcements, including its Half-Year results and the outcome of a Requisitioned General Meeting, have been classified as bearish. These events highlight operational challenges and corporate governance concerns. The share price is currently in a \"CRASH ZONE BOTTOM\" state, indicating an unusually stressed condition. Investor discussion is present but lacks a strong directional consensus, with some posts making general observations.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T00:02:14.823269+00:00",
+          "generated_at": "2026-09-14T21:10:39.685816+00:00",
           "model": "gemini-2.5-flash",
           "provider": "Gemini fallback",
           "status": "SUCCESS",
@@ -9013,13 +9035,13 @@
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "fa140e2f12bbf1e3094b3ad463911e6fd2448fbec83d6b7e49490f55d9355888",
+          "sample_fingerprint": "7f75acf804c4e4908df8c9db0582f696284e8e13dc034a371d8183d64bffca8f",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-11T15:50:00+01:00",
+          "source_observed_at": "2026-09-14T08:16:00+01:00",
           "summary": null,
           "ticker": "BANK.L",
-          "total_posts": 50
+          "total_posts": 51
         },
         "signal_statistics": {
           "by_signal_type": {
@@ -9525,31 +9547,29 @@
         "sector": "Financial Services",
         "ticker": "BANK.L"
       },
-      "market_cap": 17820009.54,
+      "market_cap": 13860007.420000002,
       "market_tape": {
         "analysis": {
           "catalysts": [],
           "expected": [],
           "investor_tone": {
-            "bias": "BEARISH",
-            "explanation": "Recent RNS announcements, including Half-Year results and the outcome of a Requisitioned General Meeting, were all classified as bearish. Investor discussion reflects concerns about the company's cash runway, outweighing minor speculative interest."
+            "bias": "MIXED",
+            "explanation": "Official RNS announcements regarding Half-Year results and the outcome of a Requisitioned General Meeting have been classified as bearish. However, recent investor discussion on ShareChat shows no clear directional consensus, with some general observations and internal forum commentary."
           },
           "market_tape": {
-            "bear_case": "The main bearish concern among investors is the company's \"cash runway\", with one investor stating it \"won't last long enough to see any worthwhile incoming revenue\". This concern is amplified by the bearish classification of all recent RNS items, including the Half-Year results and the outcome of the Requisitioned General Meeting.",
-            "bull_case": "A minor bullish perspective suggests the stock is \"tightly held\" and could offer \"quick\" gains with some volume, indicating a speculative interest in short-term price movements rather than fundamental strength.",
+            "bear_case": "The company faces credible risks highlighted by the bearish Half-Year results for the six months ended 30 June 2026, indicating operational or financial underperformance. Furthermore, the \"Requisitioned GM, Member Statement, Fiinu response\" and the subsequent \"Result of Requisitioned General Meeting\" (both classified as bearish) point to ongoing corporate governance challenges and shareholder dissatisfaction.",
             "confidence": 0.8,
-            "divergence": "There is a divergence between the fundamental bearish news and investor concerns about cash flow, and a minor, speculative view that the stock could offer quick gains due to its tightly held nature.",
-            "focus": "Discussion is focused on the implications of the recently announced Half-Year results and the outcome of the Requisitioned General Meeting, particularly regarding the company's financial sustainability.",
-            "interpretation": "Investors appear to interpret the series of RNS announcements, all classified as bearish, as a negative indicator for BANK.L's prospects, especially concerning its financial runway.",
-            "linked_event": "The key linked events are the \"Requisitioned GM, Member Statement, Fiinu response\" published on 2026-09-10, the subsequent \"Result of Requisitioned General Meeting\", and the \"Half-Year results; six months ended 30 June 2026\".",
+            "divergence": "There is a divergence between the consistently bearish official RNS announcements and the largely neutral or internally focused discussion observed in recent ShareChat posts, which do not explicitly detail the implications of the company's recent corporate events.",
+            "focus": "Discussion is primarily focused on the recent official announcements, specifically the Half-Year results and the outcome of the Requisitioned General Meeting.",
+            "interpretation": "Investors appear to interpret the recent RNS announcements as negative, given their bearish classification. The \"Result of Requisitioned General Meeting\" and the Half-Year results suggest challenges for the company.",
             "quality": "MEANINGFUL",
-            "shift": "The conversation has shifted from anticipation of the General Meeting and results towards an assessment of the company's financial health and future viability following the bearish RNS announcements."
+            "shift": "The conversation has shifted to focus on the implications of the Half-Year results and the outcome of the Requisitioned General Meeting, following the RNS announcements on these events."
           },
-          "user_summary": "Investors are reacting to a series of bearish RNS announcements, including the Half-Year results and the outcome of a Requisitioned General Meeting. Discussion is primarily focused on the company's cash runway, with concerns that it may not be sufficient to generate worthwhile revenue. While some investors see short-term speculative opportunities, the overall sentiment appears cautious and negative.",
+          "user_summary": "BANK.L's recent official announcements, including its Half-Year results and the outcome of a Requisitioned General Meeting, have been classified as bearish. These events highlight operational challenges and corporate governance concerns. The share price is currently in a \"CRASH ZONE BOTTOM\" state, indicating an unusually stressed condition. Investor discussion is present but lacks a strong directional consensus, with some posts making general observations.",
           "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T00:02:14.823269+00:00",
+        "generated_at": "2026-09-14T21:10:39.685816+00:00",
         "model": "gemini-2.5-flash",
         "provider": "Gemini fallback",
         "status": "SUCCESS",
@@ -17949,12 +17969,36 @@
           "volume": 83883
         },
         {
-          "close": 4.5,
+          "close": 4,
           "date": "2026-09-09",
           "high": 4.5,
           "low": 3.5,
-          "open": 3.559999942779541,
-          "volume": 41387
+          "open": 4,
+          "volume": 41642
+        },
+        {
+          "close": 3.25,
+          "date": "2026-09-10",
+          "high": 4.5,
+          "low": 3,
+          "open": 4,
+          "volume": 426904
+        },
+        {
+          "close": 3.5,
+          "date": "2026-09-11",
+          "high": 4.5,
+          "low": 2.799999952316284,
+          "open": 2.75,
+          "volume": 1882167
+        },
+        {
+          "close": 3.5,
+          "date": "2026-09-14",
+          "high": 4,
+          "low": 3,
+          "open": 3.2221999168395996,
+          "volume": 147158
         }
       ],
       "provenance": {
@@ -18971,13 +19015,13 @@
       "sharechat_snapshot": {
         "analysed_at": null,
         "analysis_status": "ANALYSIS_PENDING",
-        "sample_fingerprint": "fa140e2f12bbf1e3094b3ad463911e6fd2448fbec83d6b7e49490f55d9355888",
+        "sample_fingerprint": "7f75acf804c4e4908df8c9db0582f696284e8e13dc034a371d8183d64bffca8f",
         "sample_size": 12,
         "sentiment": null,
-        "source_observed_at": "2026-09-11T15:50:00+01:00",
+        "source_observed_at": "2026-09-14T08:16:00+01:00",
         "summary": null,
         "ticker": "BANK.L",
-        "total_posts": 50
+        "total_posts": 51
       },
       "trends": {
         "records": [],
@@ -19014,7 +19058,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 17820009.54,
+          "market_cap": 13860007.420000002,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -27414,12 +27458,36 @@
             "volume": 83883
           },
           {
-            "close": 4.5,
+            "close": 4,
             "date": "2026-09-09",
             "high": 4.5,
             "low": 3.5,
-            "open": 3.559999942779541,
-            "volume": 41387
+            "open": 4,
+            "volume": 41642
+          },
+          {
+            "close": 3.25,
+            "date": "2026-09-10",
+            "high": 4.5,
+            "low": 3,
+            "open": 4,
+            "volume": 426904
+          },
+          {
+            "close": 3.5,
+            "date": "2026-09-11",
+            "high": 4.5,
+            "low": 2.799999952316284,
+            "open": 2.75,
+            "volume": 1882167
+          },
+          {
+            "close": 3.5,
+            "date": "2026-09-14",
+            "high": 4,
+            "low": 3,
+            "open": 3.2221999168395996,
+            "volume": 147158
           }
         ],
         "provenance": {
@@ -27431,7 +27499,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 17820009.54,
+      "market_cap": 13860007.420000002,
       "price_at_signal": 3.15,
       "profile": {
         "corporate_actions": {
@@ -27445,7 +27513,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 17820009.54,
+          "market_cap": 13860007.420000002,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -27459,31 +27527,29 @@
           "signal_id": "BANK.L:2026-08-11",
           "ticker": "BANK.L"
         },
-        "market_cap": 17820009.54,
+        "market_cap": 13860007.420000002,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
-              "bias": "BEARISH",
-              "explanation": "Recent RNS announcements, including Half-Year results and the outcome of a Requisitioned General Meeting, were all classified as bearish. Investor discussion reflects concerns about the company's cash runway, outweighing minor speculative interest."
+              "bias": "MIXED",
+              "explanation": "Official RNS announcements regarding Half-Year results and the outcome of a Requisitioned General Meeting have been classified as bearish. However, recent investor discussion on ShareChat shows no clear directional consensus, with some general observations and internal forum commentary."
             },
             "market_tape": {
-              "bear_case": "The main bearish concern among investors is the company's \"cash runway\", with one investor stating it \"won't last long enough to see any worthwhile incoming revenue\". This concern is amplified by the bearish classification of all recent RNS items, including the Half-Year results and the outcome of the Requisitioned General Meeting.",
-              "bull_case": "A minor bullish perspective suggests the stock is \"tightly held\" and could offer \"quick\" gains with some volume, indicating a speculative interest in short-term price movements rather than fundamental strength.",
+              "bear_case": "The company faces credible risks highlighted by the bearish Half-Year results for the six months ended 30 June 2026, indicating operational or financial underperformance. Furthermore, the \"Requisitioned GM, Member Statement, Fiinu response\" and the subsequent \"Result of Requisitioned General Meeting\" (both classified as bearish) point to ongoing corporate governance challenges and shareholder dissatisfaction.",
               "confidence": 0.8,
-              "divergence": "There is a divergence between the fundamental bearish news and investor concerns about cash flow, and a minor, speculative view that the stock could offer quick gains due to its tightly held nature.",
-              "focus": "Discussion is focused on the implications of the recently announced Half-Year results and the outcome of the Requisitioned General Meeting, particularly regarding the company's financial sustainability.",
-              "interpretation": "Investors appear to interpret the series of RNS announcements, all classified as bearish, as a negative indicator for BANK.L's prospects, especially concerning its financial runway.",
-              "linked_event": "The key linked events are the \"Requisitioned GM, Member Statement, Fiinu response\" published on 2026-09-10, the subsequent \"Result of Requisitioned General Meeting\", and the \"Half-Year results; six months ended 30 June 2026\".",
+              "divergence": "There is a divergence between the consistently bearish official RNS announcements and the largely neutral or internally focused discussion observed in recent ShareChat posts, which do not explicitly detail the implications of the company's recent corporate events.",
+              "focus": "Discussion is primarily focused on the recent official announcements, specifically the Half-Year results and the outcome of the Requisitioned General Meeting.",
+              "interpretation": "Investors appear to interpret the recent RNS announcements as negative, given their bearish classification. The \"Result of Requisitioned General Meeting\" and the Half-Year results suggest challenges for the company.",
               "quality": "MEANINGFUL",
-              "shift": "The conversation has shifted from anticipation of the General Meeting and results towards an assessment of the company's financial health and future viability following the bearish RNS announcements."
+              "shift": "The conversation has shifted to focus on the implications of the Half-Year results and the outcome of the Requisitioned General Meeting, following the RNS announcements on these events."
             },
-            "user_summary": "Investors are reacting to a series of bearish RNS announcements, including the Half-Year results and the outcome of a Requisitioned General Meeting. Discussion is primarily focused on the company's cash runway, with concerns that it may not be sufficient to generate worthwhile revenue. While some investors see short-term speculative opportunities, the overall sentiment appears cautious and negative.",
+            "user_summary": "BANK.L's recent official announcements, including its Half-Year results and the outcome of a Requisitioned General Meeting, have been classified as bearish. These events highlight operational challenges and corporate governance concerns. The share price is currently in a \"CRASH ZONE BOTTOM\" state, indicating an unusually stressed condition. Investor discussion is present but lacks a strong directional consensus, with some posts making general observations.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T00:02:14.823269+00:00",
+          "generated_at": "2026-09-14T21:10:39.685816+00:00",
           "model": "gemini-2.5-flash",
           "provider": "Gemini fallback",
           "status": "SUCCESS",
@@ -28003,13 +28069,13 @@
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "fa140e2f12bbf1e3094b3ad463911e6fd2448fbec83d6b7e49490f55d9355888",
+          "sample_fingerprint": "7f75acf804c4e4908df8c9db0582f696284e8e13dc034a371d8183d64bffca8f",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-11T15:50:00+01:00",
+          "source_observed_at": "2026-09-14T08:16:00+01:00",
           "summary": null,
           "ticker": "BANK.L",
-          "total_posts": 50
+          "total_posts": 51
         },
         "signal_statistics": {
           "by_signal_type": {

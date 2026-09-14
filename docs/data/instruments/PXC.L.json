@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 4983810.696038837,
+          "market_cap": 4360833.987711164,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -13536,12 +13536,36 @@
             "volume": 2465733
           },
           {
-            "close": 0.6000000238418579,
+            "close": 0.574999988079071,
             "date": "2026-09-09",
             "high": 0.6000000238418579,
             "low": 0.550000011920929,
-            "open": 0.550000011920929,
+            "open": 0.574999988079071,
             "volume": 1416067
+          },
+          {
+            "close": 0.574999988079071,
+            "date": "2026-09-10",
+            "high": 0.6000000238418579,
+            "low": 0.550000011920929,
+            "open": 0.574999988079071,
+            "volume": 921346
+          },
+          {
+            "close": 0.5249999761581421,
+            "date": "2026-09-11",
+            "high": 0.6000000238418579,
+            "low": 0.5,
+            "open": 0.574999988079071,
+            "volume": 5733405
+          },
+          {
+            "close": 0.5249999761581421,
+            "date": "2026-09-14",
+            "high": 0.550000011920929,
+            "low": 0.5,
+            "open": 0.5,
+            "volume": 4654704
           }
         ],
         "provenance": {
@@ -13553,7 +13577,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 4983810.696038837,
+      "market_cap": 4360833.987711164,
       "price_at_signal": 0.408,
       "profile": {
         "corporate_actions": {
@@ -13567,7 +13591,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 4983810.696038837,
+          "market_cap": 4360833.987711164,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -13581,10 +13605,11 @@
           "signal_id": "PXC.L:2026-08-04",
           "ticker": "PXC.L"
         },
-        "market_cap": 4983810.696038837,
+        "market_cap": 4360833.987711164,
         "market_tape": {
           "analysis": null,
-          "status": "NOT_AVAILABLE"
+          "reason": "Market Tape contains unsupported regulatory/factual claims",
+          "status": "REJECTED"
         },
         "research": {
           "data": null,
@@ -13796,25 +13821,25 @@
         },
         "sharechat_activity": {
           "observation": {
-            "absolute_change": 23,
-            "date": "2026-09-11",
-            "percentage_change": 2300.0,
-            "post_count": 24,
-            "previous_day_post_count": 1,
-            "unique_authors": 12
+            "absolute_change": -22,
+            "date": "2026-09-12",
+            "percentage_change": -91.67,
+            "post_count": 2,
+            "previous_day_post_count": 24,
+            "unique_authors": 2
           },
           "status": "AVAILABLE"
         },
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "f09e1910fab5251b16b328aff63398dd4e9ad636cd6bcb2077f2cda1c4ea257b",
+          "sample_fingerprint": "25084fddb28dd5c773688f0d1a37ca8f472402af9bfdd072012b1ebbbec18834",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-11T19:46:00+01:00",
+          "source_observed_at": "2026-09-14T10:30:00+01:00",
           "summary": null,
           "ticker": "PXC.L",
-          "total_posts": 49
+          "total_posts": 55
         },
         "signal_statistics": {
           "by_signal_type": {
@@ -14505,10 +14530,11 @@
         "sector": "Basic Materials",
         "ticker": "PXC.L"
       },
-      "market_cap": 4983810.696038837,
+      "market_cap": 4360833.987711164,
       "market_tape": {
         "analysis": null,
-        "status": "NOT_AVAILABLE"
+        "reason": "Market Tape contains unsupported regulatory/factual claims",
+        "status": "REJECTED"
       },
       "price_series": [
         {
@@ -28016,12 +28042,36 @@
           "volume": 2465733
         },
         {
-          "close": 0.6000000238418579,
+          "close": 0.574999988079071,
           "date": "2026-09-09",
           "high": 0.6000000238418579,
           "low": 0.550000011920929,
-          "open": 0.550000011920929,
+          "open": 0.574999988079071,
           "volume": 1416067
+        },
+        {
+          "close": 0.574999988079071,
+          "date": "2026-09-10",
+          "high": 0.6000000238418579,
+          "low": 0.550000011920929,
+          "open": 0.574999988079071,
+          "volume": 921346
+        },
+        {
+          "close": 0.5249999761581421,
+          "date": "2026-09-11",
+          "high": 0.6000000238418579,
+          "low": 0.5,
+          "open": 0.574999988079071,
+          "volume": 5733405
+        },
+        {
+          "close": 0.5249999761581421,
+          "date": "2026-09-14",
+          "high": 0.550000011920929,
+          "low": 0.5,
+          "open": 0.5,
+          "volume": 4654704
         }
       ],
       "provenance": {
@@ -28442,25 +28492,25 @@
       "rns_total_available": 1,
       "sharechat_activity": {
         "observation": {
-          "absolute_change": 23,
-          "date": "2026-09-11",
-          "percentage_change": 2300.0,
-          "post_count": 24,
-          "previous_day_post_count": 1,
-          "unique_authors": 12
+          "absolute_change": -22,
+          "date": "2026-09-12",
+          "percentage_change": -91.67,
+          "post_count": 2,
+          "previous_day_post_count": 24,
+          "unique_authors": 2
         },
         "status": "AVAILABLE"
       },
       "sharechat_snapshot": {
         "analysed_at": null,
         "analysis_status": "ANALYSIS_PENDING",
-        "sample_fingerprint": "f09e1910fab5251b16b328aff63398dd4e9ad636cd6bcb2077f2cda1c4ea257b",
+        "sample_fingerprint": "25084fddb28dd5c773688f0d1a37ca8f472402af9bfdd072012b1ebbbec18834",
         "sample_size": 12,
         "sentiment": null,
-        "source_observed_at": "2026-09-11T19:46:00+01:00",
+        "source_observed_at": "2026-09-14T10:30:00+01:00",
         "summary": null,
         "ticker": "PXC.L",
-        "total_posts": 49
+        "total_posts": 55
       },
       "trends": {
         "records": [],
@@ -28497,7 +28547,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 4983810.696038837,
+          "market_cap": 4360833.987711164,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -42009,12 +42059,36 @@
             "volume": 2465733
           },
           {
-            "close": 0.6000000238418579,
+            "close": 0.574999988079071,
             "date": "2026-09-09",
             "high": 0.6000000238418579,
             "low": 0.550000011920929,
-            "open": 0.550000011920929,
+            "open": 0.574999988079071,
             "volume": 1416067
+          },
+          {
+            "close": 0.574999988079071,
+            "date": "2026-09-10",
+            "high": 0.6000000238418579,
+            "low": 0.550000011920929,
+            "open": 0.574999988079071,
+            "volume": 921346
+          },
+          {
+            "close": 0.5249999761581421,
+            "date": "2026-09-11",
+            "high": 0.6000000238418579,
+            "low": 0.5,
+            "open": 0.574999988079071,
+            "volume": 5733405
+          },
+          {
+            "close": 0.5249999761581421,
+            "date": "2026-09-14",
+            "high": 0.550000011920929,
+            "low": 0.5,
+            "open": 0.5,
+            "volume": 4654704
           }
         ],
         "provenance": {
@@ -42026,7 +42100,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 4983810.696038837,
+      "market_cap": 4360833.987711164,
       "price_at_signal": 0.408,
       "profile": {
         "corporate_actions": {
@@ -42040,7 +42114,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 4983810.696038837,
+          "market_cap": 4360833.987711164,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -42054,10 +42128,11 @@
           "signal_id": "PXC.L:2026-08-04",
           "ticker": "PXC.L"
         },
-        "market_cap": 4983810.696038837,
+        "market_cap": 4360833.987711164,
         "market_tape": {
           "analysis": null,
-          "status": "NOT_AVAILABLE"
+          "reason": "Market Tape contains unsupported regulatory/factual claims",
+          "status": "REJECTED"
         },
         "research": {
           "data": null,
@@ -42269,25 +42344,25 @@
         },
         "sharechat_activity": {
           "observation": {
-            "absolute_change": 23,
-            "date": "2026-09-11",
-            "percentage_change": 2300.0,
-            "post_count": 24,
-            "previous_day_post_count": 1,
-            "unique_authors": 12
+            "absolute_change": -22,
+            "date": "2026-09-12",
+            "percentage_change": -91.67,
+            "post_count": 2,
+            "previous_day_post_count": 24,
+            "unique_authors": 2
           },
           "status": "AVAILABLE"
         },
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "f09e1910fab5251b16b328aff63398dd4e9ad636cd6bcb2077f2cda1c4ea257b",
+          "sample_fingerprint": "25084fddb28dd5c773688f0d1a37ca8f472402af9bfdd072012b1ebbbec18834",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-11T19:46:00+01:00",
+          "source_observed_at": "2026-09-14T10:30:00+01:00",
           "summary": null,
           "ticker": "PXC.L",
-          "total_posts": 49
+          "total_posts": 55
         },
         "signal_statistics": {
           "by_signal_type": {

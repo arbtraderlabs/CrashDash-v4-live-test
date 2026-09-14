@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Packaged Foods",
           "market": "AIM",
-          "market_cap": 7968705.056964093,
+          "market_cap": null,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -5296,12 +5296,28 @@
             "volume": 11833
           },
           {
-            "close": 14.199999809265137,
+            "close": 14.5,
             "date": "2026-09-09",
             "high": 15,
             "low": 14,
-            "open": 15,
-            "volume": 19672
+            "open": 14.5,
+            "volume": 20926
+          },
+          {
+            "close": 14.5,
+            "date": "2026-09-10",
+            "high": 14.5,
+            "low": 14.5,
+            "open": 14.5,
+            "volume": 0
+          },
+          {
+            "close": 14.5,
+            "date": "2026-09-11",
+            "high": 14.5,
+            "low": 14.5,
+            "open": 14.5,
+            "volume": 0
           }
         ],
         "provenance": {
@@ -5313,7 +5329,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 7968705.056964093,
+      "market_cap": null,
       "price_at_signal": 14.5,
       "profile": {
         "corporate_actions": {
@@ -5327,7 +5343,6 @@
           "exchange": "LSE",
           "industry": "Packaged Foods",
           "market": "AIM",
-          "market_cap": 7968705.056964093,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -5341,30 +5356,50 @@
           "signal_id": "SALT.L:2026-09-03",
           "ticker": "SALT.L"
         },
-        "market_cap": 7968705.056964093,
+        "market_cap": null,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Capital Access Window",
+                "timing_basis": "RNS announcement 2026-09-10"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Conversion of CLNs to equity",
+                "timing_basis": "RNS announcement 2026-09-10"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-08",
+                "event": "Conversion of $2.4m debt to equity",
+                "timing_basis": "RNS announcement 2026-09-08"
+              }
+            ],
             "expected": [],
             "investor_tone": {
               "bias": "BEARISH",
-              "explanation": "Company announcements regarding the conversion of debt to equity and the use of a Capital Access Window have been met with negative investor sentiment, as evidenced by a critical ShareChat post."
+              "explanation": "Official RNS announcements highlight negative developments such as debt conversion and a capital access window, indicating financial strain."
             },
             "market_tape": {
-              "bear_case": "The primary bearish concern stems from the dilutive impact of converting $2.4m of debt into equity and the implications of using a Capital Access Window. This sentiment is captured by an investor's post describing the situation as \"a shambles\".",
-              "confidence": 0.7,
-              "focus": "Discussion is focused on the recent RNS announcements regarding the conversion of $2.4m of debt to equity and the utilisation of a Capital Access Window.",
-              "interpretation": "Investors appear to interpret these announcements negatively, viewing the debt-to-equity conversion and capital access as dilutive events.",
-              "linked_event": "The RNS announcements on September 8th and 10th, 2026, detailing the conversion of $2.4m of debt to equity and the establishment of a Capital Access Window.",
-              "quality": "MEANINGFUL"
+              "bear_case": "Company has announced multiple negative events including conversion of CLNs to equity, a capital access window, and conversion of $2.4m debt to equity, signalling dilution and liquidity concerns.",
+              "confidence": 0.8,
+              "focus": "Capital structure and liquidity",
+              "interpretation": "Deterministic signal shows a stressed state but does not predict further decline.",
+              "linked_event": "RNS announcement 2026-09-10",
+              "quality": "MIXED_SIGNAL",
+              "shift": "No significant change; sentiment remains bearish."
             },
-            "user_summary": "SALT.L has announced the conversion of $2.4m of debt to equity and the use of a Capital Access Window, which investors appear to interpret negatively. Discussion is limited but reflects frustration, with one post calling the situation 'a shambles'. The company is currently in a 'CRASH ZONE BOTTOM' state.",
+            "user_summary": "MicroSalt Plc has announced several bearish developments: conversion of CLNs, a capital access window and conversion of debt to equity. These actions suggest financial pressure and potential dilution. The deterministic CrashDash signal indicates a stressed state but does not confirm a trend.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:16:41.642736+00:00",
-          "model": "gemini-2.5-flash",
-          "provider": "Gemini fallback",
+          "generated_at": "2026-09-14T21:27:10.330129+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
           "status": "SUCCESS",
           "ticker": "SALT.L"
         },
@@ -5928,30 +5963,50 @@
         "sector": "Consumer Defensive",
         "ticker": "SALT.L"
       },
-      "market_cap": 7968705.056964093,
+      "market_cap": null,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
+          "catalysts": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-10",
+              "event": "Capital Access Window",
+              "timing_basis": "RNS announcement 2026-09-10"
+            },
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-10",
+              "event": "Conversion of CLNs to equity",
+              "timing_basis": "RNS announcement 2026-09-10"
+            },
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "2026-09-08",
+              "event": "Conversion of $2.4m debt to equity",
+              "timing_basis": "RNS announcement 2026-09-08"
+            }
+          ],
           "expected": [],
           "investor_tone": {
             "bias": "BEARISH",
-            "explanation": "Company announcements regarding the conversion of debt to equity and the use of a Capital Access Window have been met with negative investor sentiment, as evidenced by a critical ShareChat post."
+            "explanation": "Official RNS announcements highlight negative developments such as debt conversion and a capital access window, indicating financial strain."
           },
           "market_tape": {
-            "bear_case": "The primary bearish concern stems from the dilutive impact of converting $2.4m of debt into equity and the implications of using a Capital Access Window. This sentiment is captured by an investor's post describing the situation as \"a shambles\".",
-            "confidence": 0.7,
-            "focus": "Discussion is focused on the recent RNS announcements regarding the conversion of $2.4m of debt to equity and the utilisation of a Capital Access Window.",
-            "interpretation": "Investors appear to interpret these announcements negatively, viewing the debt-to-equity conversion and capital access as dilutive events.",
-            "linked_event": "The RNS announcements on September 8th and 10th, 2026, detailing the conversion of $2.4m of debt to equity and the establishment of a Capital Access Window.",
-            "quality": "MEANINGFUL"
+            "bear_case": "Company has announced multiple negative events including conversion of CLNs to equity, a capital access window, and conversion of $2.4m debt to equity, signalling dilution and liquidity concerns.",
+            "confidence": 0.8,
+            "focus": "Capital structure and liquidity",
+            "interpretation": "Deterministic signal shows a stressed state but does not predict further decline.",
+            "linked_event": "RNS announcement 2026-09-10",
+            "quality": "MIXED_SIGNAL",
+            "shift": "No significant change; sentiment remains bearish."
           },
-          "user_summary": "SALT.L has announced the conversion of $2.4m of debt to equity and the use of a Capital Access Window, which investors appear to interpret negatively. Discussion is limited but reflects frustration, with one post calling the situation 'a shambles'. The company is currently in a 'CRASH ZONE BOTTOM' state.",
+          "user_summary": "MicroSalt Plc has announced several bearish developments: conversion of CLNs, a capital access window and conversion of debt to equity. These actions suggest financial pressure and potential dilution. The deterministic CrashDash signal indicates a stressed state but does not confirm a trend.",
           "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:16:41.642736+00:00",
-        "model": "gemini-2.5-flash",
-        "provider": "Gemini fallback",
+        "generated_at": "2026-09-14T21:27:10.330129+00:00",
+        "model": "openai/gpt-oss-20b",
+        "provider": "Groq",
         "status": "SUCCESS",
         "ticker": "SALT.L"
       },
@@ -11221,12 +11276,28 @@
           "volume": 11833
         },
         {
-          "close": 14.199999809265137,
+          "close": 14.5,
           "date": "2026-09-09",
           "high": 15,
           "low": 14,
-          "open": 15,
-          "volume": 19672
+          "open": 14.5,
+          "volume": 20926
+        },
+        {
+          "close": 14.5,
+          "date": "2026-09-10",
+          "high": 14.5,
+          "low": 14.5,
+          "open": 14.5,
+          "volume": 0
+        },
+        {
+          "close": 14.5,
+          "date": "2026-09-11",
+          "high": 14.5,
+          "low": 14.5,
+          "open": 14.5,
+          "volume": 0
         }
       ],
       "provenance": {
@@ -12190,7 +12261,7 @@
           "exchange": "LSE",
           "industry": "Packaged Foods",
           "market": "AIM",
-          "market_cap": 7968705.056964093,
+          "market_cap": null,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -17462,12 +17533,28 @@
             "volume": 11833
           },
           {
-            "close": 14.199999809265137,
+            "close": 14.5,
             "date": "2026-09-09",
             "high": 15,
             "low": 14,
-            "open": 15,
-            "volume": 19672
+            "open": 14.5,
+            "volume": 20926
+          },
+          {
+            "close": 14.5,
+            "date": "2026-09-10",
+            "high": 14.5,
+            "low": 14.5,
+            "open": 14.5,
+            "volume": 0
+          },
+          {
+            "close": 14.5,
+            "date": "2026-09-11",
+            "high": 14.5,
+            "low": 14.5,
+            "open": 14.5,
+            "volume": 0
           }
         ],
         "provenance": {
@@ -17479,7 +17566,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 7968705.056964093,
+      "market_cap": null,
       "price_at_signal": 14.5,
       "profile": {
         "corporate_actions": {
@@ -17493,7 +17580,6 @@
           "exchange": "LSE",
           "industry": "Packaged Foods",
           "market": "AIM",
-          "market_cap": 7968705.056964093,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Consumer Defensive",
@@ -17507,30 +17593,50 @@
           "signal_id": "SALT.L:2026-09-03",
           "ticker": "SALT.L"
         },
-        "market_cap": 7968705.056964093,
+        "market_cap": null,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
+            "catalysts": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Capital Access Window",
+                "timing_basis": "RNS announcement 2026-09-10"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-10",
+                "event": "Conversion of CLNs to equity",
+                "timing_basis": "RNS announcement 2026-09-10"
+              },
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "2026-09-08",
+                "event": "Conversion of $2.4m debt to equity",
+                "timing_basis": "RNS announcement 2026-09-08"
+              }
+            ],
             "expected": [],
             "investor_tone": {
               "bias": "BEARISH",
-              "explanation": "Company announcements regarding the conversion of debt to equity and the use of a Capital Access Window have been met with negative investor sentiment, as evidenced by a critical ShareChat post."
+              "explanation": "Official RNS announcements highlight negative developments such as debt conversion and a capital access window, indicating financial strain."
             },
             "market_tape": {
-              "bear_case": "The primary bearish concern stems from the dilutive impact of converting $2.4m of debt into equity and the implications of using a Capital Access Window. This sentiment is captured by an investor's post describing the situation as \"a shambles\".",
-              "confidence": 0.7,
-              "focus": "Discussion is focused on the recent RNS announcements regarding the conversion of $2.4m of debt to equity and the utilisation of a Capital Access Window.",
-              "interpretation": "Investors appear to interpret these announcements negatively, viewing the debt-to-equity conversion and capital access as dilutive events.",
-              "linked_event": "The RNS announcements on September 8th and 10th, 2026, detailing the conversion of $2.4m of debt to equity and the establishment of a Capital Access Window.",
-              "quality": "MEANINGFUL"
+              "bear_case": "Company has announced multiple negative events including conversion of CLNs to equity, a capital access window, and conversion of $2.4m debt to equity, signalling dilution and liquidity concerns.",
+              "confidence": 0.8,
+              "focus": "Capital structure and liquidity",
+              "interpretation": "Deterministic signal shows a stressed state but does not predict further decline.",
+              "linked_event": "RNS announcement 2026-09-10",
+              "quality": "MIXED_SIGNAL",
+              "shift": "No significant change; sentiment remains bearish."
             },
-            "user_summary": "SALT.L has announced the conversion of $2.4m of debt to equity and the use of a Capital Access Window, which investors appear to interpret negatively. Discussion is limited but reflects frustration, with one post calling the situation 'a shambles'. The company is currently in a 'CRASH ZONE BOTTOM' state.",
+            "user_summary": "MicroSalt Plc has announced several bearish developments: conversion of CLNs, a capital access window and conversion of debt to equity. These actions suggest financial pressure and potential dilution. The deterministic CrashDash signal indicates a stressed state but does not confirm a trend.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:16:41.642736+00:00",
-          "model": "gemini-2.5-flash",
-          "provider": "Gemini fallback",
+          "generated_at": "2026-09-14T21:27:10.330129+00:00",
+          "model": "openai/gpt-oss-20b",
+          "provider": "Groq",
           "status": "SUCCESS",
           "ticker": "SALT.L"
         },

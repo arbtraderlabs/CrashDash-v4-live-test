@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Entertainment",
           "market": "AIM",
-          "market_cap": 4857287.221679165,
+          "market_cap": 5070660.73125,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -13536,12 +13536,36 @@
             "volume": 7794695
           },
           {
-            "close": 0.5986999869346619,
+            "close": 0.574999988079071,
             "date": "2026-09-09",
             "high": 0.699999988079071,
             "low": 0.550000011920929,
-            "open": 0.699999988079071,
-            "volume": 10100111
+            "open": 0.6499999761581421,
+            "volume": 10080111
+          },
+          {
+            "close": 0.6499999761581421,
+            "date": "2026-09-10",
+            "high": 0.699999988079071,
+            "low": 0.550000011920929,
+            "open": 0.574999988079071,
+            "volume": 9602708
+          },
+          {
+            "close": 0.625,
+            "date": "2026-09-11",
+            "high": 0.699999988079071,
+            "low": 0.550000011920929,
+            "open": 0.6499999761581421,
+            "volume": 4850530
+          },
+          {
+            "close": 0.625,
+            "date": "2026-09-14",
+            "high": 0.699999988079071,
+            "low": 0.550000011920929,
+            "open": 0.6050000190734863,
+            "volume": 4055936
           }
         ],
         "provenance": {
@@ -13553,7 +13577,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 4857287.221679165,
+      "market_cap": 5070660.73125,
       "price_at_signal": 0.35,
       "profile": {
         "corporate_actions": {
@@ -13567,7 +13591,7 @@
           "exchange": "LSE",
           "industry": "Entertainment",
           "market": "AIM",
-          "market_cap": 4857287.221679165,
+          "market_cap": 5070660.73125,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -13581,30 +13605,38 @@
           "signal_id": "HUD.L:2026-08-04",
           "ticker": "HUD.L"
         },
-        "market_cap": 4857287.221679165,
+        "market_cap": 5070660.73125,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
-              "bias": "NEUTRAL",
-              "explanation": "ShareChat posts are neutral, noting stable price and buying interest, with no new corporate news."
+              "bias": "MIXED",
+              "explanation": "Investors are discussing recent bullish company announcements and anticipating further updates, but the share price is currently in a stressed state."
             },
             "market_tape": {
-              "bull_case": "Positive sentiment from Aug live commerce JV announcements still lingers, though no new corporate updates.",
-              "confidence": 0.4,
-              "focus": "Recent trading activity and price stability, with no fresh corporate announcements.",
-              "interpretation": "Investors appear to be discussing short\u2011term trading dynamics rather than company fundamentals.",
-              "quality": "MOSTLY_NOISE",
-              "shift": "Conversation has moved from corporate announcements to day\u2011to\u2011day trading observations."
+              "bear_case": "Despite recent positive announcements regarding the live commerce strategy and TikTok JV, the share price is currently in a 'CRASH ZONE BOTTOM' state. This deterministic observation indicates an unusually stressed price condition, suggesting that the market may not be fully reflecting the positive RNS or that other factors are contributing to the current valuation.",
+              "bull_case": "HUD.L has recently announced significant developments in its live commerce strategy, including the launch of proprietary software and a joint venture with TikTok (RNS, August 18 & 24, 2026). These official announcements indicate a proactive approach to expanding its market presence and capabilities. Investors are anticipating further news of progress or a trade update later this month, suggesting potential for positive operational updates.",
+              "confidence": 0.5,
+              "focus": "Discussion is focused on HUD.L's accelerated live commerce strategy, including the launch of proprietary software and a joint venture with TikTok. Investors are also anticipating further company updates.",
+              "interpretation": "Investors appear to interpret the recent RNS announcements as positive steps for the company's growth, with some noting the share price's stability. However, the CrashDash signal indicates the share price is in a stressed 'CRASH ZONE BOTTOM' state, suggesting a disconnect between recent official news and the observed market valuation.",
+              "linked_event": "Live Commerce Strategy Accelerated with TikTok JV (RNS, 24th Aug 2026)",
+              "quality": "MIXED_SIGNAL"
             },
-            "user_summary": "HUD.L is currently trading with limited activity and no new corporate updates. ShareChat users note price stability and buying interest. Recent bullish news from Aug live commerce JV remains in the background but is not driving current discussion.",
-            "watch_for": []
+            "user_summary": "HUD.L has recently announced a bullish acceleration of its live commerce strategy, including a TikTok joint venture and proprietary software launch. Investors are discussing the share price's stability and anticipating further updates this month. However, the CrashDash signal indicates the share price is currently in a 'CRASH ZONE BOTTOM' state, reflecting a stressed market condition despite the positive official news.",
+            "watch_for": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "2026-09",
+                "event": "News of progress or a trade update",
+                "timing_basis": "ShareChat discussion (September 10 & 12, 2026)"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:13:51.533356+00:00",
-          "model": "openai/gpt-oss-20b",
-          "provider": "Groq",
+          "generated_at": "2026-09-14T21:22:13.132583+00:00",
+          "model": "gemini-2.5-flash",
+          "provider": "Gemini fallback",
           "status": "SUCCESS",
           "ticker": "HUD.L"
         },
@@ -14643,11 +14675,11 @@
         },
         "sharechat_activity": {
           "observation": {
-            "absolute_change": -4,
-            "date": "2026-09-11",
-            "percentage_change": -80.0,
+            "absolute_change": 0,
+            "date": "2026-09-12",
+            "percentage_change": 0.0,
             "post_count": 1,
-            "previous_day_post_count": 5,
+            "previous_day_post_count": 1,
             "unique_authors": 1
           },
           "status": "AVAILABLE"
@@ -14655,13 +14687,13 @@
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "3e1befee4248065c5c226a6c6a9c03ff3a27e6291514edd972097dfdf2b67bfe",
+          "sample_fingerprint": "02c36a96b9b546a7a2eba3a71a7140838592c03ad248e1713d7943e41c56a6c9",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-11T20:10:00+01:00",
+          "source_observed_at": "2026-09-12T18:02:00+01:00",
           "summary": null,
           "ticker": "HUD.L",
-          "total_posts": 26
+          "total_posts": 27
         },
         "signal_statistics": {
           "by_signal_type": {
@@ -15028,30 +15060,38 @@
         "sector": "Communication Services",
         "ticker": "HUD.L"
       },
-      "market_cap": 4857287.221679165,
+      "market_cap": 5070660.73125,
       "market_tape": {
         "analysis": {
           "catalysts": [],
           "expected": [],
           "investor_tone": {
-            "bias": "NEUTRAL",
-            "explanation": "ShareChat posts are neutral, noting stable price and buying interest, with no new corporate news."
+            "bias": "MIXED",
+            "explanation": "Investors are discussing recent bullish company announcements and anticipating further updates, but the share price is currently in a stressed state."
           },
           "market_tape": {
-            "bull_case": "Positive sentiment from Aug live commerce JV announcements still lingers, though no new corporate updates.",
-            "confidence": 0.4,
-            "focus": "Recent trading activity and price stability, with no fresh corporate announcements.",
-            "interpretation": "Investors appear to be discussing short\u2011term trading dynamics rather than company fundamentals.",
-            "quality": "MOSTLY_NOISE",
-            "shift": "Conversation has moved from corporate announcements to day\u2011to\u2011day trading observations."
+            "bear_case": "Despite recent positive announcements regarding the live commerce strategy and TikTok JV, the share price is currently in a 'CRASH ZONE BOTTOM' state. This deterministic observation indicates an unusually stressed price condition, suggesting that the market may not be fully reflecting the positive RNS or that other factors are contributing to the current valuation.",
+            "bull_case": "HUD.L has recently announced significant developments in its live commerce strategy, including the launch of proprietary software and a joint venture with TikTok (RNS, August 18 & 24, 2026). These official announcements indicate a proactive approach to expanding its market presence and capabilities. Investors are anticipating further news of progress or a trade update later this month, suggesting potential for positive operational updates.",
+            "confidence": 0.5,
+            "focus": "Discussion is focused on HUD.L's accelerated live commerce strategy, including the launch of proprietary software and a joint venture with TikTok. Investors are also anticipating further company updates.",
+            "interpretation": "Investors appear to interpret the recent RNS announcements as positive steps for the company's growth, with some noting the share price's stability. However, the CrashDash signal indicates the share price is in a stressed 'CRASH ZONE BOTTOM' state, suggesting a disconnect between recent official news and the observed market valuation.",
+            "linked_event": "Live Commerce Strategy Accelerated with TikTok JV (RNS, 24th Aug 2026)",
+            "quality": "MIXED_SIGNAL"
           },
-          "user_summary": "HUD.L is currently trading with limited activity and no new corporate updates. ShareChat users note price stability and buying interest. Recent bullish news from Aug live commerce JV remains in the background but is not driving current discussion.",
-          "watch_for": []
+          "user_summary": "HUD.L has recently announced a bullish acceleration of its live commerce strategy, including a TikTok joint venture and proprietary software launch. Investors are discussing the share price's stability and anticipating further updates this month. However, the CrashDash signal indicates the share price is currently in a 'CRASH ZONE BOTTOM' state, reflecting a stressed market condition despite the positive official news.",
+          "watch_for": [
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "2026-09",
+              "event": "News of progress or a trade update",
+              "timing_basis": "ShareChat discussion (September 10 & 12, 2026)"
+            }
+          ]
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:13:51.533356+00:00",
-        "model": "openai/gpt-oss-20b",
-        "provider": "Groq",
+        "generated_at": "2026-09-14T21:22:13.132583+00:00",
+        "model": "gemini-2.5-flash",
+        "provider": "Gemini fallback",
         "status": "SUCCESS",
         "ticker": "HUD.L"
       },
@@ -28561,12 +28601,36 @@
           "volume": 7794695
         },
         {
-          "close": 0.5986999869346619,
+          "close": 0.574999988079071,
           "date": "2026-09-09",
           "high": 0.699999988079071,
           "low": 0.550000011920929,
-          "open": 0.699999988079071,
-          "volume": 10100111
+          "open": 0.6499999761581421,
+          "volume": 10080111
+        },
+        {
+          "close": 0.6499999761581421,
+          "date": "2026-09-10",
+          "high": 0.699999988079071,
+          "low": 0.550000011920929,
+          "open": 0.574999988079071,
+          "volume": 9602708
+        },
+        {
+          "close": 0.625,
+          "date": "2026-09-11",
+          "high": 0.699999988079071,
+          "low": 0.550000011920929,
+          "open": 0.6499999761581421,
+          "volume": 4850530
+        },
+        {
+          "close": 0.625,
+          "date": "2026-09-14",
+          "high": 0.699999988079071,
+          "low": 0.550000011920929,
+          "open": 0.6050000190734863,
+          "volume": 4055936
         }
       ],
       "provenance": {
@@ -29755,11 +29819,11 @@
       "rns_total_available": 69,
       "sharechat_activity": {
         "observation": {
-          "absolute_change": -4,
-          "date": "2026-09-11",
-          "percentage_change": -80.0,
+          "absolute_change": 0,
+          "date": "2026-09-12",
+          "percentage_change": 0.0,
           "post_count": 1,
-          "previous_day_post_count": 5,
+          "previous_day_post_count": 1,
           "unique_authors": 1
         },
         "status": "AVAILABLE"
@@ -29767,13 +29831,13 @@
       "sharechat_snapshot": {
         "analysed_at": null,
         "analysis_status": "ANALYSIS_PENDING",
-        "sample_fingerprint": "3e1befee4248065c5c226a6c6a9c03ff3a27e6291514edd972097dfdf2b67bfe",
+        "sample_fingerprint": "02c36a96b9b546a7a2eba3a71a7140838592c03ad248e1713d7943e41c56a6c9",
         "sample_size": 12,
         "sentiment": null,
-        "source_observed_at": "2026-09-11T20:10:00+01:00",
+        "source_observed_at": "2026-09-12T18:02:00+01:00",
         "summary": null,
         "ticker": "HUD.L",
-        "total_posts": 26
+        "total_posts": 27
       },
       "trends": {
         "records": [],
@@ -29810,7 +29874,7 @@
           "exchange": "LSE",
           "industry": "Entertainment",
           "market": "AIM",
-          "market_cap": 4857287.221679165,
+          "market_cap": 5070660.73125,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -43322,12 +43386,36 @@
             "volume": 7794695
           },
           {
-            "close": 0.5986999869346619,
+            "close": 0.574999988079071,
             "date": "2026-09-09",
             "high": 0.699999988079071,
             "low": 0.550000011920929,
-            "open": 0.699999988079071,
-            "volume": 10100111
+            "open": 0.6499999761581421,
+            "volume": 10080111
+          },
+          {
+            "close": 0.6499999761581421,
+            "date": "2026-09-10",
+            "high": 0.699999988079071,
+            "low": 0.550000011920929,
+            "open": 0.574999988079071,
+            "volume": 9602708
+          },
+          {
+            "close": 0.625,
+            "date": "2026-09-11",
+            "high": 0.699999988079071,
+            "low": 0.550000011920929,
+            "open": 0.6499999761581421,
+            "volume": 4850530
+          },
+          {
+            "close": 0.625,
+            "date": "2026-09-14",
+            "high": 0.699999988079071,
+            "low": 0.550000011920929,
+            "open": 0.6050000190734863,
+            "volume": 4055936
           }
         ],
         "provenance": {
@@ -43339,7 +43427,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 4857287.221679165,
+      "market_cap": 5070660.73125,
       "price_at_signal": 0.35,
       "profile": {
         "corporate_actions": {
@@ -43353,7 +43441,7 @@
           "exchange": "LSE",
           "industry": "Entertainment",
           "market": "AIM",
-          "market_cap": 4857287.221679165,
+          "market_cap": 5070660.73125,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -43367,30 +43455,38 @@
           "signal_id": "HUD.L:2026-08-04",
           "ticker": "HUD.L"
         },
-        "market_cap": 4857287.221679165,
+        "market_cap": 5070660.73125,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
-              "bias": "NEUTRAL",
-              "explanation": "ShareChat posts are neutral, noting stable price and buying interest, with no new corporate news."
+              "bias": "MIXED",
+              "explanation": "Investors are discussing recent bullish company announcements and anticipating further updates, but the share price is currently in a stressed state."
             },
             "market_tape": {
-              "bull_case": "Positive sentiment from Aug live commerce JV announcements still lingers, though no new corporate updates.",
-              "confidence": 0.4,
-              "focus": "Recent trading activity and price stability, with no fresh corporate announcements.",
-              "interpretation": "Investors appear to be discussing short\u2011term trading dynamics rather than company fundamentals.",
-              "quality": "MOSTLY_NOISE",
-              "shift": "Conversation has moved from corporate announcements to day\u2011to\u2011day trading observations."
+              "bear_case": "Despite recent positive announcements regarding the live commerce strategy and TikTok JV, the share price is currently in a 'CRASH ZONE BOTTOM' state. This deterministic observation indicates an unusually stressed price condition, suggesting that the market may not be fully reflecting the positive RNS or that other factors are contributing to the current valuation.",
+              "bull_case": "HUD.L has recently announced significant developments in its live commerce strategy, including the launch of proprietary software and a joint venture with TikTok (RNS, August 18 & 24, 2026). These official announcements indicate a proactive approach to expanding its market presence and capabilities. Investors are anticipating further news of progress or a trade update later this month, suggesting potential for positive operational updates.",
+              "confidence": 0.5,
+              "focus": "Discussion is focused on HUD.L's accelerated live commerce strategy, including the launch of proprietary software and a joint venture with TikTok. Investors are also anticipating further company updates.",
+              "interpretation": "Investors appear to interpret the recent RNS announcements as positive steps for the company's growth, with some noting the share price's stability. However, the CrashDash signal indicates the share price is in a stressed 'CRASH ZONE BOTTOM' state, suggesting a disconnect between recent official news and the observed market valuation.",
+              "linked_event": "Live Commerce Strategy Accelerated with TikTok JV (RNS, 24th Aug 2026)",
+              "quality": "MIXED_SIGNAL"
             },
-            "user_summary": "HUD.L is currently trading with limited activity and no new corporate updates. ShareChat users note price stability and buying interest. Recent bullish news from Aug live commerce JV remains in the background but is not driving current discussion.",
-            "watch_for": []
+            "user_summary": "HUD.L has recently announced a bullish acceleration of its live commerce strategy, including a TikTok joint venture and proprietary software launch. Investors are discussing the share price's stability and anticipating further updates this month. However, the CrashDash signal indicates the share price is currently in a 'CRASH ZONE BOTTOM' state, reflecting a stressed market condition despite the positive official news.",
+            "watch_for": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "2026-09",
+                "event": "News of progress or a trade update",
+                "timing_basis": "ShareChat discussion (September 10 & 12, 2026)"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:13:51.533356+00:00",
-          "model": "openai/gpt-oss-20b",
-          "provider": "Groq",
+          "generated_at": "2026-09-14T21:22:13.132583+00:00",
+          "model": "gemini-2.5-flash",
+          "provider": "Gemini fallback",
           "status": "SUCCESS",
           "ticker": "HUD.L"
         },
@@ -44429,11 +44525,11 @@
         },
         "sharechat_activity": {
           "observation": {
-            "absolute_change": -4,
-            "date": "2026-09-11",
-            "percentage_change": -80.0,
+            "absolute_change": 0,
+            "date": "2026-09-12",
+            "percentage_change": 0.0,
             "post_count": 1,
-            "previous_day_post_count": 5,
+            "previous_day_post_count": 1,
             "unique_authors": 1
           },
           "status": "AVAILABLE"
@@ -44441,13 +44537,13 @@
         "sharechat_snapshot": {
           "analysed_at": null,
           "analysis_status": "ANALYSIS_PENDING",
-          "sample_fingerprint": "3e1befee4248065c5c226a6c6a9c03ff3a27e6291514edd972097dfdf2b67bfe",
+          "sample_fingerprint": "02c36a96b9b546a7a2eba3a71a7140838592c03ad248e1713d7943e41c56a6c9",
           "sample_size": 12,
           "sentiment": null,
-          "source_observed_at": "2026-09-11T20:10:00+01:00",
+          "source_observed_at": "2026-09-12T18:02:00+01:00",
           "summary": null,
           "ticker": "HUD.L",
-          "total_posts": 26
+          "total_posts": 27
         },
         "signal_statistics": {
           "by_signal_type": {

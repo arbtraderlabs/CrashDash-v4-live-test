@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 2159675.901460028,
+          "market_cap": 1856454.7908207418,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -13536,12 +13536,36 @@
             "volume": 64559
           },
           {
-            "close": 2.0940001010894775,
+            "close": 1.8350000381469727,
             "date": "2026-09-09",
             "high": 2.0940001010894775,
             "low": 1.5,
-            "open": 1.5,
-            "volume": 344187
+            "open": 1.75,
+            "volume": 343919
+          },
+          {
+            "close": 1.7999999523162842,
+            "date": "2026-09-10",
+            "high": 2.0999999046325684,
+            "low": 1.7999999523162842,
+            "open": 1.8300000429153442,
+            "volume": 152288
+          },
+          {
+            "close": 1.8350000381469727,
+            "date": "2026-09-11",
+            "high": 1.8350000381469727,
+            "low": 1.8350000381469727,
+            "open": 1.8350000381469727,
+            "volume": 40
+          },
+          {
+            "close": 1.7999999523162842,
+            "date": "2026-09-14",
+            "high": 1.805799961090088,
+            "low": 1.7999999523162842,
+            "open": 1.805799961090088,
+            "volume": 14387
           }
         ],
         "provenance": {
@@ -13553,7 +13577,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 2159675.901460028,
+      "market_cap": 1856454.7908207418,
       "price_at_signal": 1.6,
       "profile": {
         "corporate_actions": {
@@ -13567,7 +13591,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 2159675.901460028,
+          "market_cap": 1856454.7908207418,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -13581,27 +13605,63 @@
           "signal_id": "LIT.L:2026-09-03",
           "ticker": "LIT.L"
         },
-        "market_cap": 2159675.901460028,
+        "market_cap": 1856454.7908207418,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
-            "expected": [],
+            "catalysts": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "ONGOING",
+                "event": "Outcome of Strategic Review",
+                "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+              }
+            ],
+            "expected": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Further updates on covenant waivers",
+                "timing_basis": "Multiple Covenant Waiver Extension RNS announcements (e.g., 1st Sep 2026)"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "ONGOING",
+                "event": "Updates regarding the Strategic Review",
+                "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+              }
+            ],
             "investor_tone": {
               "bias": "NO_CLEAR_TONE",
-              "explanation": "Investor discussion is minimal, with the only recent post seeking information about ongoing legal cases. Company RNS updates have been factual regarding covenant waivers and a legal appeal rejection, without explicit investor sentiment."
+              "explanation": "Limited investor discussion, with the sole post seeking clarification on ongoing legal cases. Official announcements indicate financial and legal challenges."
             },
             "market_tape": {
-              "confidence": 0.0,
-              "focus": "Discussion is focused on the company's ongoing legal cases, with one investor specifically asking about cases in the pipeline beyond a known one referred to as 'pat'.",
-              "interpretation": "Investors appear to interpret the company's repeated covenant waiver extensions as an indication of ongoing financial discussions or challenges. The rejection of permission to appeal a competition claim is seen as a legal setback for the company.",
-              "linked_event": "The company has recently announced multiple covenant waiver extensions (June, July, September 2026) and the rejection of permission to appeal a competition claim (July 2026). These follow an earlier update in June on covenant waivers, a case, and a strategic review.",
-              "quality": "MOSTLY_NOISE"
+              "bear_case": "The company has repeatedly announced covenant waiver extensions, most recently on September 1st, 2026, suggesting ongoing financial pressures or difficulties in meeting existing debt terms. Additionally, the rejection of permission to appeal a competition claim on July 3rd, 2026, represents a definitive negative legal outcome, potentially increasing liabilities or costs. The lack of clarity on other 'cases in the pipeline' as indicated by investor discussion adds to uncertainty regarding potential future legal or financial impacts.",
+              "bull_case": "Despite ongoing financial discussions evidenced by the covenant waiver extensions, the company is actively managing its financial obligations, potentially buying time. The RNS on June 1st, 2026, also mentioned an ongoing 'Strategic Review', which could lead to value-enhancing outcomes or a clearer path forward for the company, although specific details or timelines for this review's conclusion are not yet available.",
+              "confidence": 0.7,
+              "focus": "Investor attention, though minimal, is focused on understanding the company's ongoing legal challenges and the implications of repeated covenant waiver extensions. The official announcements highlight persistent financial negotiations and a recent setback in a competition claim.",
+              "interpretation": "LIT.L is navigating a period of financial and legal challenges. The repeated 'Covenant Waiver Extension' RNS announcements, including the most recent on September 1st, 2026, indicate ongoing discussions or difficulties related to its financial agreements. Concurrently, the company faced a legal setback with the rejection of its 'Permission to Appeal Competition Claim' on July 3rd, 2026. The share price is currently in a 'CRASH ZONE BOTTOM' state, reflecting an unusually stressed market condition. Investor discussion is very limited, with the single recent post seeking clarification on the scope of the company's legal cases, suggesting a desire for more information amidst these developments.",
+              "linked_event": "Covenant Waiver Extension (1st Sep 2026)",
+              "quality": "MEANINGFUL",
+              "shift": "The conversation has remained consistent, primarily revolving around the company's financial stability as indicated by the recurring covenant waiver extensions and the implications of its legal challenges. The latest RNS continues the trend of covenant waivers, while investor discussion seeks further clarity on legal matters."
             },
-            "user_summary": "Investor discussion for LIT.L is currently very low, with the most recent post inquiring about the company's legal cases. Recent RNS updates indicate the company has secured multiple covenant waiver extensions and faced a rejection of permission to appeal a competition claim. The CrashDash signal indicates the stock is in a 'CRASH ZONE BOTTOM' state.",
-            "watch_for": []
+            "user_summary": "LIT.L is experiencing financial and legal pressures, with repeated covenant waiver extensions and a recent rejection of a competition claim appeal. The share price is in a 'CRASH ZONE BOTTOM' state, reflecting market stress. Investor discussion is minimal, focusing on understanding the full scope of the company's legal cases. A strategic review is ongoing, which could offer a future path forward.",
+            "watch_for": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Further updates on covenant waivers",
+                "timing_basis": "Multiple Covenant Waiver Extension RNS announcements (e.g., 1st Sep 2026)"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "ONGOING",
+                "event": "Updates regarding the Strategic Review",
+                "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:15:04.660787+00:00",
+          "generated_at": "2026-09-14T21:23:14.540738+00:00",
           "model": "gemini-2.5-flash",
           "provider": "Gemini fallback",
           "status": "SUCCESS",
@@ -14978,27 +15038,63 @@
         "sector": "Financial Services",
         "ticker": "LIT.L"
       },
-      "market_cap": 2159675.901460028,
+      "market_cap": 1856454.7908207418,
       "market_tape": {
         "analysis": {
-          "catalysts": [],
-          "expected": [],
+          "catalysts": [
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "ONGOING",
+              "event": "Outcome of Strategic Review",
+              "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+            }
+          ],
+          "expected": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Further updates on covenant waivers",
+              "timing_basis": "Multiple Covenant Waiver Extension RNS announcements (e.g., 1st Sep 2026)"
+            },
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "ONGOING",
+              "event": "Updates regarding the Strategic Review",
+              "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+            }
+          ],
           "investor_tone": {
             "bias": "NO_CLEAR_TONE",
-            "explanation": "Investor discussion is minimal, with the only recent post seeking information about ongoing legal cases. Company RNS updates have been factual regarding covenant waivers and a legal appeal rejection, without explicit investor sentiment."
+            "explanation": "Limited investor discussion, with the sole post seeking clarification on ongoing legal cases. Official announcements indicate financial and legal challenges."
           },
           "market_tape": {
-            "confidence": 0.0,
-            "focus": "Discussion is focused on the company's ongoing legal cases, with one investor specifically asking about cases in the pipeline beyond a known one referred to as 'pat'.",
-            "interpretation": "Investors appear to interpret the company's repeated covenant waiver extensions as an indication of ongoing financial discussions or challenges. The rejection of permission to appeal a competition claim is seen as a legal setback for the company.",
-            "linked_event": "The company has recently announced multiple covenant waiver extensions (June, July, September 2026) and the rejection of permission to appeal a competition claim (July 2026). These follow an earlier update in June on covenant waivers, a case, and a strategic review.",
-            "quality": "MOSTLY_NOISE"
+            "bear_case": "The company has repeatedly announced covenant waiver extensions, most recently on September 1st, 2026, suggesting ongoing financial pressures or difficulties in meeting existing debt terms. Additionally, the rejection of permission to appeal a competition claim on July 3rd, 2026, represents a definitive negative legal outcome, potentially increasing liabilities or costs. The lack of clarity on other 'cases in the pipeline' as indicated by investor discussion adds to uncertainty regarding potential future legal or financial impacts.",
+            "bull_case": "Despite ongoing financial discussions evidenced by the covenant waiver extensions, the company is actively managing its financial obligations, potentially buying time. The RNS on June 1st, 2026, also mentioned an ongoing 'Strategic Review', which could lead to value-enhancing outcomes or a clearer path forward for the company, although specific details or timelines for this review's conclusion are not yet available.",
+            "confidence": 0.7,
+            "focus": "Investor attention, though minimal, is focused on understanding the company's ongoing legal challenges and the implications of repeated covenant waiver extensions. The official announcements highlight persistent financial negotiations and a recent setback in a competition claim.",
+            "interpretation": "LIT.L is navigating a period of financial and legal challenges. The repeated 'Covenant Waiver Extension' RNS announcements, including the most recent on September 1st, 2026, indicate ongoing discussions or difficulties related to its financial agreements. Concurrently, the company faced a legal setback with the rejection of its 'Permission to Appeal Competition Claim' on July 3rd, 2026. The share price is currently in a 'CRASH ZONE BOTTOM' state, reflecting an unusually stressed market condition. Investor discussion is very limited, with the single recent post seeking clarification on the scope of the company's legal cases, suggesting a desire for more information amidst these developments.",
+            "linked_event": "Covenant Waiver Extension (1st Sep 2026)",
+            "quality": "MEANINGFUL",
+            "shift": "The conversation has remained consistent, primarily revolving around the company's financial stability as indicated by the recurring covenant waiver extensions and the implications of its legal challenges. The latest RNS continues the trend of covenant waivers, while investor discussion seeks further clarity on legal matters."
           },
-          "user_summary": "Investor discussion for LIT.L is currently very low, with the most recent post inquiring about the company's legal cases. Recent RNS updates indicate the company has secured multiple covenant waiver extensions and faced a rejection of permission to appeal a competition claim. The CrashDash signal indicates the stock is in a 'CRASH ZONE BOTTOM' state.",
-          "watch_for": []
+          "user_summary": "LIT.L is experiencing financial and legal pressures, with repeated covenant waiver extensions and a recent rejection of a competition claim appeal. The share price is in a 'CRASH ZONE BOTTOM' state, reflecting market stress. Investor discussion is minimal, focusing on understanding the full scope of the company's legal cases. A strategic review is ongoing, which could offer a future path forward.",
+          "watch_for": [
+            {
+              "confidence": "HIGH",
+              "estimated_timing": "NEAR_TERM",
+              "event": "Further updates on covenant waivers",
+              "timing_basis": "Multiple Covenant Waiver Extension RNS announcements (e.g., 1st Sep 2026)"
+            },
+            {
+              "confidence": "MEDIUM",
+              "estimated_timing": "ONGOING",
+              "event": "Updates regarding the Strategic Review",
+              "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+            }
+          ]
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-12T06:15:04.660787+00:00",
+        "generated_at": "2026-09-14T21:23:14.540738+00:00",
         "model": "gemini-2.5-flash",
         "provider": "Gemini fallback",
         "status": "SUCCESS",
@@ -28510,12 +28606,36 @@
           "volume": 64559
         },
         {
-          "close": 2.0940001010894775,
+          "close": 1.8350000381469727,
           "date": "2026-09-09",
           "high": 2.0940001010894775,
           "low": 1.5,
-          "open": 1.5,
-          "volume": 344187
+          "open": 1.75,
+          "volume": 343919
+        },
+        {
+          "close": 1.7999999523162842,
+          "date": "2026-09-10",
+          "high": 2.0999999046325684,
+          "low": 1.7999999523162842,
+          "open": 1.8300000429153442,
+          "volume": 152288
+        },
+        {
+          "close": 1.8350000381469727,
+          "date": "2026-09-11",
+          "high": 1.8350000381469727,
+          "low": 1.8350000381469727,
+          "open": 1.8350000381469727,
+          "volume": 40
+        },
+        {
+          "close": 1.7999999523162842,
+          "date": "2026-09-14",
+          "high": 1.805799961090088,
+          "low": 1.7999999523162842,
+          "open": 1.805799961090088,
+          "volume": 14387
         }
       ],
       "provenance": {
@@ -29210,7 +29330,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 2159675.901460028,
+          "market_cap": 1856454.7908207418,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -42722,12 +42842,36 @@
             "volume": 64559
           },
           {
-            "close": 2.0940001010894775,
+            "close": 1.8350000381469727,
             "date": "2026-09-09",
             "high": 2.0940001010894775,
             "low": 1.5,
-            "open": 1.5,
-            "volume": 344187
+            "open": 1.75,
+            "volume": 343919
+          },
+          {
+            "close": 1.7999999523162842,
+            "date": "2026-09-10",
+            "high": 2.0999999046325684,
+            "low": 1.7999999523162842,
+            "open": 1.8300000429153442,
+            "volume": 152288
+          },
+          {
+            "close": 1.8350000381469727,
+            "date": "2026-09-11",
+            "high": 1.8350000381469727,
+            "low": 1.8350000381469727,
+            "open": 1.8350000381469727,
+            "volume": 40
+          },
+          {
+            "close": 1.7999999523162842,
+            "date": "2026-09-14",
+            "high": 1.805799961090088,
+            "low": 1.7999999523162842,
+            "open": 1.805799961090088,
+            "volume": 14387
           }
         ],
         "provenance": {
@@ -42739,7 +42883,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 2159675.901460028,
+      "market_cap": 1856454.7908207418,
       "price_at_signal": 1.6,
       "profile": {
         "corporate_actions": {
@@ -42753,7 +42897,7 @@
           "exchange": "LSE",
           "industry": "Credit Services",
           "market": "AIM",
-          "market_cap": 2159675.901460028,
+          "market_cap": 1856454.7908207418,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Financial Services",
@@ -42767,27 +42911,63 @@
           "signal_id": "LIT.L:2026-09-03",
           "ticker": "LIT.L"
         },
-        "market_cap": 2159675.901460028,
+        "market_cap": 1856454.7908207418,
         "market_tape": {
           "analysis": {
-            "catalysts": [],
-            "expected": [],
+            "catalysts": [
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "ONGOING",
+                "event": "Outcome of Strategic Review",
+                "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+              }
+            ],
+            "expected": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Further updates on covenant waivers",
+                "timing_basis": "Multiple Covenant Waiver Extension RNS announcements (e.g., 1st Sep 2026)"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "ONGOING",
+                "event": "Updates regarding the Strategic Review",
+                "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+              }
+            ],
             "investor_tone": {
               "bias": "NO_CLEAR_TONE",
-              "explanation": "Investor discussion is minimal, with the only recent post seeking information about ongoing legal cases. Company RNS updates have been factual regarding covenant waivers and a legal appeal rejection, without explicit investor sentiment."
+              "explanation": "Limited investor discussion, with the sole post seeking clarification on ongoing legal cases. Official announcements indicate financial and legal challenges."
             },
             "market_tape": {
-              "confidence": 0.0,
-              "focus": "Discussion is focused on the company's ongoing legal cases, with one investor specifically asking about cases in the pipeline beyond a known one referred to as 'pat'.",
-              "interpretation": "Investors appear to interpret the company's repeated covenant waiver extensions as an indication of ongoing financial discussions or challenges. The rejection of permission to appeal a competition claim is seen as a legal setback for the company.",
-              "linked_event": "The company has recently announced multiple covenant waiver extensions (June, July, September 2026) and the rejection of permission to appeal a competition claim (July 2026). These follow an earlier update in June on covenant waivers, a case, and a strategic review.",
-              "quality": "MOSTLY_NOISE"
+              "bear_case": "The company has repeatedly announced covenant waiver extensions, most recently on September 1st, 2026, suggesting ongoing financial pressures or difficulties in meeting existing debt terms. Additionally, the rejection of permission to appeal a competition claim on July 3rd, 2026, represents a definitive negative legal outcome, potentially increasing liabilities or costs. The lack of clarity on other 'cases in the pipeline' as indicated by investor discussion adds to uncertainty regarding potential future legal or financial impacts.",
+              "bull_case": "Despite ongoing financial discussions evidenced by the covenant waiver extensions, the company is actively managing its financial obligations, potentially buying time. The RNS on June 1st, 2026, also mentioned an ongoing 'Strategic Review', which could lead to value-enhancing outcomes or a clearer path forward for the company, although specific details or timelines for this review's conclusion are not yet available.",
+              "confidence": 0.7,
+              "focus": "Investor attention, though minimal, is focused on understanding the company's ongoing legal challenges and the implications of repeated covenant waiver extensions. The official announcements highlight persistent financial negotiations and a recent setback in a competition claim.",
+              "interpretation": "LIT.L is navigating a period of financial and legal challenges. The repeated 'Covenant Waiver Extension' RNS announcements, including the most recent on September 1st, 2026, indicate ongoing discussions or difficulties related to its financial agreements. Concurrently, the company faced a legal setback with the rejection of its 'Permission to Appeal Competition Claim' on July 3rd, 2026. The share price is currently in a 'CRASH ZONE BOTTOM' state, reflecting an unusually stressed market condition. Investor discussion is very limited, with the single recent post seeking clarification on the scope of the company's legal cases, suggesting a desire for more information amidst these developments.",
+              "linked_event": "Covenant Waiver Extension (1st Sep 2026)",
+              "quality": "MEANINGFUL",
+              "shift": "The conversation has remained consistent, primarily revolving around the company's financial stability as indicated by the recurring covenant waiver extensions and the implications of its legal challenges. The latest RNS continues the trend of covenant waivers, while investor discussion seeks further clarity on legal matters."
             },
-            "user_summary": "Investor discussion for LIT.L is currently very low, with the most recent post inquiring about the company's legal cases. Recent RNS updates indicate the company has secured multiple covenant waiver extensions and faced a rejection of permission to appeal a competition claim. The CrashDash signal indicates the stock is in a 'CRASH ZONE BOTTOM' state.",
-            "watch_for": []
+            "user_summary": "LIT.L is experiencing financial and legal pressures, with repeated covenant waiver extensions and a recent rejection of a competition claim appeal. The share price is in a 'CRASH ZONE BOTTOM' state, reflecting market stress. Investor discussion is minimal, focusing on understanding the full scope of the company's legal cases. A strategic review is ongoing, which could offer a future path forward.",
+            "watch_for": [
+              {
+                "confidence": "HIGH",
+                "estimated_timing": "NEAR_TERM",
+                "event": "Further updates on covenant waivers",
+                "timing_basis": "Multiple Covenant Waiver Extension RNS announcements (e.g., 1st Sep 2026)"
+              },
+              {
+                "confidence": "MEDIUM",
+                "estimated_timing": "ONGOING",
+                "event": "Updates regarding the Strategic Review",
+                "timing_basis": "Update on Covenant Waiver, Case & Strategic Review RNS (1st Jun 2026)"
+              }
+            ]
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-12T06:15:04.660787+00:00",
+          "generated_at": "2026-09-14T21:23:14.540738+00:00",
           "model": "gemini-2.5-flash",
           "provider": "Gemini fallback",
           "status": "SUCCESS",

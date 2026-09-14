@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Gold",
           "market": "MAIN",
-          "market_cap": 955631.3280052327,
+          "market_cap": 993150.4012642497,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -13536,12 +13536,36 @@
             "volume": 13047626
           },
           {
-            "close": 0.043299999088048935,
+            "close": 0.0430000014603138,
             "date": "2026-09-09",
             "high": 0.04500000178813934,
             "low": 0.03999999910593033,
+            "open": 0.0430000014603138,
+            "volume": 41896770
+          },
+          {
+            "close": 0.0430000014603138,
+            "date": "2026-09-10",
+            "high": 0.04600000008940697,
+            "low": 0.03999999910593033,
+            "open": 0.0430000014603138,
+            "volume": 7076790
+          },
+          {
+            "close": 0.0430000014603138,
+            "date": "2026-09-11",
+            "high": 0.04600000008940697,
+            "low": 0.03999999910593033,
+            "open": 0.0430000014603138,
+            "volume": 11571574
+          },
+          {
+            "close": 0.04500000178813934,
+            "date": "2026-09-14",
+            "high": 0.04500000178813934,
+            "low": 0.03999999910593033,
             "open": 0.04500000178813934,
-            "volume": 38435228
+            "volume": 2854214
           }
         ],
         "provenance": {
@@ -13553,7 +13577,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 955631.3280052327,
+      "market_cap": 993150.4012642497,
       "price_at_signal": 0.036,
       "profile": {
         "corporate_actions": {
@@ -13567,7 +13591,7 @@
           "exchange": "LSE",
           "industry": "Gold",
           "market": "MAIN",
-          "market_cap": 955631.3280052327,
+          "market_cap": 993150.4012642497,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -13581,34 +13605,32 @@
           "signal_id": "BMV.L:2026-08-12",
           "ticker": "BMV.L"
         },
-        "market_cap": 955631.3280052327,
+        "market_cap": 993150.4012642497,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "Investor posts show a split view; some highlight new holdings as a positive sign while others focus on low share price and management credibility concerns."
+              "explanation": "Investor sentiment is mixed, with some noting institutional buying by Peel Hunt as a positive, while others express frustration over the company's low share price and significant long-term losses."
             },
             "market_tape": {
-              "bear_case": "Low share price and persistent doubts about management credibility suggest continued downside risk.",
-              "bull_case": "New holdings by an investor group signal confidence that could support a rebound.",
-              "confidence": 0.35,
-              "divergence": "Bullish posts emphasize new holdings, bearish posts stress low price and credibility issues.",
-              "focus": "The RNS announcing new holdings and the contrasting investor sentiment around price and management.",
-              "interpretation": "The announcement of new holdings is being met with mixed reception; optimism is countered by skepticism over price levels and trust in leadership.",
-              "linked_event": "Holding(s) in Company",
-              "missed_angle": "Potential liquidity impact of the new holdings on the share price was not fully explored.",
-              "quality": "MIXED_SIGNAL",
-              "shift": "Conversation moved from a more balanced tone on 7th September to a predominantly bearish stance on 8th September."
+              "bear_case": "An official RNS classified as 'BEARISH' regarding 'Holding(s) in Company' indicates a negative development related to share ownership. This, coupled with the observed 'CRASH ZONE BOTTOM' signal state, suggests ongoing pressure on the share price and reflects a stressed market condition for BMV.L.",
+              "confidence": 0.8,
+              "divergence": "There is a divergence between the official 'BEARISH' classification of a recent RNS concerning company holdings and community discussion highlighting institutional buying by Peel Hunt, which some investors interpret as a positive sign.",
+              "focus": "Investor discussion is primarily focused on recent institutional share purchases by Peel Hunt and the company's current low share price, particularly in contrast to past ambitious statements about its potential valuation.",
+              "interpretation": "The market appears to be interpreting recent events with a degree of caution. While some investors are noting potential institutional interest, the overall sentiment is weighed down by the company's current valuation and an official bearish signal related to shareholdings.",
+              "linked_event": "An RNS concerning 'Holding(s) in Company' was published, classified as BEARISH.",
+              "quality": "MEANINGFUL",
+              "shift": "The conversation has shifted from general dissatisfaction with the share price to a more specific discussion about institutional activity (Peel Hunt adding shares) and its potential implications, alongside continued frustration over long-term performance."
             },
-            "user_summary": "Bluebird Mining Ventures\u2019 RNS announced new holdings, sparking a split in sentiment. Bullish investors view it as a confidence signal, while bearish voices cite the low share price and management credibility concerns. The overall tone is mixed with a slight bearish tilt.",
+            "user_summary": "BMV.L is experiencing a 'CRASH ZONE BOTTOM' signal state, indicating a stressed share price. An official RNS classified as 'BEARISH' regarding company holdings has been noted. Investor discussion is mixed, with some highlighting Peel Hunt's increased holdings as a positive, while others express frustration over the low share price and significant long-term losses.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-11T21:12:06.893205+00:00",
-          "model": "openai/gpt-oss-20b",
-          "provider": "Groq",
+          "generated_at": "2026-09-14T21:12:48.417032+00:00",
+          "model": "gemini-2.5-flash",
+          "provider": "Gemini fallback",
           "status": "SUCCESS",
           "ticker": "BMV.L"
         },
@@ -14514,34 +14536,32 @@
         "sector": "Basic Materials",
         "ticker": "BMV.L"
       },
-      "market_cap": 955631.3280052327,
+      "market_cap": 993150.4012642497,
       "market_tape": {
         "analysis": {
           "catalysts": [],
           "expected": [],
           "investor_tone": {
             "bias": "MIXED",
-            "explanation": "Investor posts show a split view; some highlight new holdings as a positive sign while others focus on low share price and management credibility concerns."
+            "explanation": "Investor sentiment is mixed, with some noting institutional buying by Peel Hunt as a positive, while others express frustration over the company's low share price and significant long-term losses."
           },
           "market_tape": {
-            "bear_case": "Low share price and persistent doubts about management credibility suggest continued downside risk.",
-            "bull_case": "New holdings by an investor group signal confidence that could support a rebound.",
-            "confidence": 0.35,
-            "divergence": "Bullish posts emphasize new holdings, bearish posts stress low price and credibility issues.",
-            "focus": "The RNS announcing new holdings and the contrasting investor sentiment around price and management.",
-            "interpretation": "The announcement of new holdings is being met with mixed reception; optimism is countered by skepticism over price levels and trust in leadership.",
-            "linked_event": "Holding(s) in Company",
-            "missed_angle": "Potential liquidity impact of the new holdings on the share price was not fully explored.",
-            "quality": "MIXED_SIGNAL",
-            "shift": "Conversation moved from a more balanced tone on 7th September to a predominantly bearish stance on 8th September."
+            "bear_case": "An official RNS classified as 'BEARISH' regarding 'Holding(s) in Company' indicates a negative development related to share ownership. This, coupled with the observed 'CRASH ZONE BOTTOM' signal state, suggests ongoing pressure on the share price and reflects a stressed market condition for BMV.L.",
+            "confidence": 0.8,
+            "divergence": "There is a divergence between the official 'BEARISH' classification of a recent RNS concerning company holdings and community discussion highlighting institutional buying by Peel Hunt, which some investors interpret as a positive sign.",
+            "focus": "Investor discussion is primarily focused on recent institutional share purchases by Peel Hunt and the company's current low share price, particularly in contrast to past ambitious statements about its potential valuation.",
+            "interpretation": "The market appears to be interpreting recent events with a degree of caution. While some investors are noting potential institutional interest, the overall sentiment is weighed down by the company's current valuation and an official bearish signal related to shareholdings.",
+            "linked_event": "An RNS concerning 'Holding(s) in Company' was published, classified as BEARISH.",
+            "quality": "MEANINGFUL",
+            "shift": "The conversation has shifted from general dissatisfaction with the share price to a more specific discussion about institutional activity (Peel Hunt adding shares) and its potential implications, alongside continued frustration over long-term performance."
           },
-          "user_summary": "Bluebird Mining Ventures\u2019 RNS announced new holdings, sparking a split in sentiment. Bullish investors view it as a confidence signal, while bearish voices cite the low share price and management credibility concerns. The overall tone is mixed with a slight bearish tilt.",
+          "user_summary": "BMV.L is experiencing a 'CRASH ZONE BOTTOM' signal state, indicating a stressed share price. An official RNS classified as 'BEARISH' regarding company holdings has been noted. Investor discussion is mixed, with some highlighting Peel Hunt's increased holdings as a positive, while others express frustration over the low share price and significant long-term losses.",
           "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-11T21:12:06.893205+00:00",
-        "model": "openai/gpt-oss-20b",
-        "provider": "Groq",
+        "generated_at": "2026-09-14T21:12:48.417032+00:00",
+        "model": "gemini-2.5-flash",
+        "provider": "Gemini fallback",
         "status": "SUCCESS",
         "ticker": "BMV.L"
       },
@@ -28051,12 +28071,36 @@
           "volume": 13047626
         },
         {
-          "close": 0.043299999088048935,
+          "close": 0.0430000014603138,
           "date": "2026-09-09",
           "high": 0.04500000178813934,
           "low": 0.03999999910593033,
+          "open": 0.0430000014603138,
+          "volume": 41896770
+        },
+        {
+          "close": 0.0430000014603138,
+          "date": "2026-09-10",
+          "high": 0.04600000008940697,
+          "low": 0.03999999910593033,
+          "open": 0.0430000014603138,
+          "volume": 7076790
+        },
+        {
+          "close": 0.0430000014603138,
+          "date": "2026-09-11",
+          "high": 0.04600000008940697,
+          "low": 0.03999999910593033,
+          "open": 0.0430000014603138,
+          "volume": 11571574
+        },
+        {
+          "close": 0.04500000178813934,
+          "date": "2026-09-14",
+          "high": 0.04500000178813934,
+          "low": 0.03999999910593033,
           "open": 0.04500000178813934,
-          "volume": 38435228
+          "volume": 2854214
         }
       ],
       "provenance": {
@@ -28404,7 +28448,7 @@
           "exchange": "LSE",
           "industry": "Gold",
           "market": "MAIN",
-          "market_cap": 955631.3280052327,
+          "market_cap": 993150.4012642497,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -41916,12 +41960,36 @@
             "volume": 13047626
           },
           {
-            "close": 0.043299999088048935,
+            "close": 0.0430000014603138,
             "date": "2026-09-09",
             "high": 0.04500000178813934,
             "low": 0.03999999910593033,
+            "open": 0.0430000014603138,
+            "volume": 41896770
+          },
+          {
+            "close": 0.0430000014603138,
+            "date": "2026-09-10",
+            "high": 0.04600000008940697,
+            "low": 0.03999999910593033,
+            "open": 0.0430000014603138,
+            "volume": 7076790
+          },
+          {
+            "close": 0.0430000014603138,
+            "date": "2026-09-11",
+            "high": 0.04600000008940697,
+            "low": 0.03999999910593033,
+            "open": 0.0430000014603138,
+            "volume": 11571574
+          },
+          {
+            "close": 0.04500000178813934,
+            "date": "2026-09-14",
+            "high": 0.04500000178813934,
+            "low": 0.03999999910593033,
             "open": 0.04500000178813934,
-            "volume": 38435228
+            "volume": 2854214
           }
         ],
         "provenance": {
@@ -41933,7 +42001,7 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 955631.3280052327,
+      "market_cap": 993150.4012642497,
       "price_at_signal": 0.036,
       "profile": {
         "corporate_actions": {
@@ -41947,7 +42015,7 @@
           "exchange": "LSE",
           "industry": "Gold",
           "market": "MAIN",
-          "market_cap": 955631.3280052327,
+          "market_cap": 993150.4012642497,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -41961,34 +42029,32 @@
           "signal_id": "BMV.L:2026-08-12",
           "ticker": "BMV.L"
         },
-        "market_cap": 955631.3280052327,
+        "market_cap": 993150.4012642497,
         "market_tape": {
           "analysis": {
             "catalysts": [],
             "expected": [],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "Investor posts show a split view; some highlight new holdings as a positive sign while others focus on low share price and management credibility concerns."
+              "explanation": "Investor sentiment is mixed, with some noting institutional buying by Peel Hunt as a positive, while others express frustration over the company's low share price and significant long-term losses."
             },
             "market_tape": {
-              "bear_case": "Low share price and persistent doubts about management credibility suggest continued downside risk.",
-              "bull_case": "New holdings by an investor group signal confidence that could support a rebound.",
-              "confidence": 0.35,
-              "divergence": "Bullish posts emphasize new holdings, bearish posts stress low price and credibility issues.",
-              "focus": "The RNS announcing new holdings and the contrasting investor sentiment around price and management.",
-              "interpretation": "The announcement of new holdings is being met with mixed reception; optimism is countered by skepticism over price levels and trust in leadership.",
-              "linked_event": "Holding(s) in Company",
-              "missed_angle": "Potential liquidity impact of the new holdings on the share price was not fully explored.",
-              "quality": "MIXED_SIGNAL",
-              "shift": "Conversation moved from a more balanced tone on 7th September to a predominantly bearish stance on 8th September."
+              "bear_case": "An official RNS classified as 'BEARISH' regarding 'Holding(s) in Company' indicates a negative development related to share ownership. This, coupled with the observed 'CRASH ZONE BOTTOM' signal state, suggests ongoing pressure on the share price and reflects a stressed market condition for BMV.L.",
+              "confidence": 0.8,
+              "divergence": "There is a divergence between the official 'BEARISH' classification of a recent RNS concerning company holdings and community discussion highlighting institutional buying by Peel Hunt, which some investors interpret as a positive sign.",
+              "focus": "Investor discussion is primarily focused on recent institutional share purchases by Peel Hunt and the company's current low share price, particularly in contrast to past ambitious statements about its potential valuation.",
+              "interpretation": "The market appears to be interpreting recent events with a degree of caution. While some investors are noting potential institutional interest, the overall sentiment is weighed down by the company's current valuation and an official bearish signal related to shareholdings.",
+              "linked_event": "An RNS concerning 'Holding(s) in Company' was published, classified as BEARISH.",
+              "quality": "MEANINGFUL",
+              "shift": "The conversation has shifted from general dissatisfaction with the share price to a more specific discussion about institutional activity (Peel Hunt adding shares) and its potential implications, alongside continued frustration over long-term performance."
             },
-            "user_summary": "Bluebird Mining Ventures\u2019 RNS announced new holdings, sparking a split in sentiment. Bullish investors view it as a confidence signal, while bearish voices cite the low share price and management credibility concerns. The overall tone is mixed with a slight bearish tilt.",
+            "user_summary": "BMV.L is experiencing a 'CRASH ZONE BOTTOM' signal state, indicating a stressed share price. An official RNS classified as 'BEARISH' regarding company holdings has been noted. Investor discussion is mixed, with some highlighting Peel Hunt's increased holdings as a positive, while others express frustration over the low share price and significant long-term losses.",
             "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-11T21:12:06.893205+00:00",
-          "model": "openai/gpt-oss-20b",
-          "provider": "Groq",
+          "generated_at": "2026-09-14T21:12:48.417032+00:00",
+          "model": "gemini-2.5-flash",
+          "provider": "Gemini fallback",
           "status": "SUCCESS",
           "ticker": "BMV.L"
         },
