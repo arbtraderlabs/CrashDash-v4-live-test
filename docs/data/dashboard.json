@@ -1,6 +1,6 @@
 {
   "data": {
-    "as_of": "2026-09-14",
+    "as_of": "2026-09-15",
     "details": {
       "80M.L": {
         "detail_path": "data/instruments/80M.L.json",
@@ -65,6 +65,10 @@
       "ARA.L": {
         "detail_path": "data/instruments/ARA.L.json",
         "ticker": "ARA.L"
+      },
+      "ARS.L": {
+        "detail_path": "data/instruments/ARS.L.json",
+        "ticker": "ARS.L"
       },
       "ASC.L": {
         "detail_path": "data/instruments/ASC.L.json",
@@ -1080,8 +1084,8 @@
         "data_quality": "READY",
         "instrument_id": "BCG.L",
         "market": "MAIN",
-        "relative_activity": 1.41,
-        "signal_date": "2026-09-08",
+        "relative_activity": 1.57,
+        "signal_date": "2026-09-10",
         "ticker": "BCG.L",
         "watch_severity": "ELEVATED"
       },
@@ -1113,10 +1117,10 @@
         "data_quality": "READY",
         "instrument_id": "NOG.L",
         "market": "MAIN",
-        "relative_activity": 2.85,
-        "signal_date": "2026-09-09",
+        "relative_activity": 3.81,
+        "signal_date": "2026-09-10",
         "ticker": "NOG.L",
-        "watch_severity": "CLOSE WATCH"
+        "watch_severity": "ELEVATED"
       },
       {
         "accumulation_state": "NOT_DETECTED",
@@ -1150,6 +1154,17 @@
         "signal_date": "2026-08-05",
         "ticker": "VID.L",
         "watch_severity": "ELEVATED"
+      },
+      {
+        "accumulation_state": "NOT_DETECTED",
+        "company_name": "Asiamet Resources Limited",
+        "data_quality": "READY",
+        "instrument_id": "ARS.L",
+        "market": "AIM",
+        "relative_activity": 5.33,
+        "signal_date": "2026-09-14",
+        "ticker": "ARS.L",
+        "watch_severity": "CLOSE WATCH"
       },
       {
         "accumulation_state": "NOT_DETECTED",
@@ -1190,8 +1205,8 @@
         "data_quality": "READY",
         "instrument_id": "CTAI.L",
         "market": "AIM",
-        "relative_activity": 2.1,
-        "signal_date": "2026-09-07",
+        "relative_activity": 1.33,
+        "signal_date": "2026-09-15",
         "ticker": "CTAI.L",
         "watch_severity": "CLOSE WATCH"
       },
@@ -1208,14 +1223,25 @@
       },
       {
         "accumulation_state": "NOT_DETECTED",
+        "company_name": "Faron Pharmaceuticals Oy",
+        "data_quality": "READY",
+        "instrument_id": "FARN.L",
+        "market": "AIM",
+        "relative_activity": 2.68,
+        "signal_date": "2026-09-11",
+        "ticker": "FARN.L",
+        "watch_severity": "CLOSE WATCH"
+      },
+      {
+        "accumulation_state": "NOT_DETECTED",
         "company_name": "Futura Medical plc",
         "data_quality": "READY",
         "instrument_id": "FUM.L",
         "market": "AIM",
-        "relative_activity": 2.13,
-        "signal_date": "2026-09-08",
+        "relative_activity": 1.95,
+        "signal_date": "2026-09-14",
         "ticker": "FUM.L",
-        "watch_severity": "ELEVATED"
+        "watch_severity": "CLOSE WATCH"
       },
       {
         "accumulation_state": "NOT_DETECTED",
@@ -1278,10 +1304,10 @@
         "data_quality": "READY",
         "instrument_id": "PREM.L",
         "market": "AIM",
-        "relative_activity": 3.15,
-        "signal_date": "2026-09-09",
+        "relative_activity": 3.95,
+        "signal_date": "2026-09-14",
         "ticker": "PREM.L",
-        "watch_severity": "EXTREME CAUTION"
+        "watch_severity": "HIGH"
       },
       {
         "accumulation_state": "DETECTED",

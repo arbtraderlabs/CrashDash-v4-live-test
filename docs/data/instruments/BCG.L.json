@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10020829.386777759,
+          "market_cap": 9929504.205009282,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -10541,7 +10541,15 @@
             "high": 2.4779999256134033,
             "low": 2.3499999046325684,
             "open": 2.3499999046325684,
-            "volume": 986045
+            "volume": 988627
+          },
+          {
+            "close": 2.3919999599456787,
+            "date": "2026-09-15",
+            "high": 2.4719998836517334,
+            "low": 2.3519999980926514,
+            "open": 2.378000020980835,
+            "volume": 396806
           }
         ],
         "provenance": {
@@ -10553,8 +10561,8 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 10020829.386777759,
-      "price_at_signal": 2.43,
+      "market_cap": 9929504.205009282,
+      "price_at_signal": 2.414,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -10567,7 +10575,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10020829.386777759,
+          "market_cap": 9929504.205009282,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -10575,60 +10583,45 @@
         },
         "latest_signal": {
           "accumulation_state": "NOT_DETECTED",
-          "relative_activity": 1.41,
+          "relative_activity": 1.57,
           "severity": "GREEN",
-          "signal_date": "2026-09-08",
-          "signal_id": "BCG.L:2026-09-08",
+          "signal_date": "2026-09-10",
+          "signal_id": "BCG.L:2026-09-10",
           "ticker": "BCG.L"
         },
-        "market_cap": 10020829.386777759,
+        "market_cap": 9929504.205009282,
         "market_tape": {
           "analysis": {
             "catalysts": [
               {
-                "confidence": "HIGH",
+                "confidence": "MEDIUM",
                 "estimated_timing": "2026-09-10",
                 "event": "Transaction in Own Shares",
-                "timing_basis": "rns-fd9c4846effaefe988e02604"
-              },
-              {
-                "confidence": "HIGH",
-                "estimated_timing": "UNKNOWN",
-                "event": "Directorate change",
-                "timing_basis": "rns-4552d3d46e031e83fa068302"
+                "timing_basis": "RNS announcement"
               }
             ],
             "expected": [],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "Community post is bullish, but official RNS announcements are bearish."
+              "explanation": "Community post shows bullish optimism, while two RNS filings are bearish, leading to no clear consensus."
             },
             "market_tape": {
-              "bear_case": "The company announced a transaction in its own shares and a directorate change, both classified as bearish, indicating potential management or financial adjustments that could weigh on the stock.",
-              "confidence": 0.5,
-              "focus": "Recent RNS announcements",
-              "interpretation": "Official announcements are negative; community sentiment is limited and bullish but not supported by corporate facts.",
-              "linked_event": "Transaction in Own Shares",
-              "quality": "MEANINGFUL"
+              "bear_case": "The 2026\u201109\u201110 RNS reporting a transaction in own shares may signal liquidity use or management over\u2011valuation concerns, and an undisclosed directorate change could introduce governance uncertainty.",
+              "bull_case": "A share buyback could be interpreted as management confidence that the shares are undervalued, potentially supporting the price, but no further positive developments are disclosed.",
+              "confidence": 0.0,
+              "divergence": "Community bullish sentiment contrasts with bearish RNS filings.",
+              "focus": "Own share transaction and directorate change.",
+              "interpretation": "Deterministic signal indicates the price is in a stressed state (DEEP CRASH BOTTOM), but no directional inference can be drawn.",
+              "linked_event": "Transaction in Own Shares RNS (2026\u201109\u201110)",
+              "missed_angle": "The purpose of the share buyback and the implications of the directorate change are not clarified.",
+              "quality": "MIXED_SIGNAL",
+              "shift": "No major shift; sentiment remains split between bullish community remarks and bearish official announcements."
             },
-            "user_summary": "BCG.L issued two bearish RNS items: a share buyback and a directorate change. Community sentiment is bullish but minimal. The deterministic signal indicates the share price is in a stressed state, but no future direction can be inferred. Investors should monitor the impact of the buyback and management changes.",
-            "watch_for": [
-              {
-                "confidence": "HIGH",
-                "estimated_timing": "2026-09-10",
-                "event": "Transaction in Own Shares",
-                "timing_basis": "rns-fd9c4846effaefe988e02604"
-              },
-              {
-                "confidence": "HIGH",
-                "estimated_timing": "UNKNOWN",
-                "event": "Directorate change",
-                "timing_basis": "rns-4552d3d46e031e83fa068302"
-              }
-            ]
+            "user_summary": "BCG.L\u2019s share price is in a stressed state per the deterministic signal, yet official announcements suggest potential liquidity and governance concerns. A share buyback could be viewed positively as a confidence sign, but the lack of clarity on its purpose tempers enthusiasm. Investor sentiment is mixed, with a single bullish community post against two bearish RNS filings.",
+            "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-14T21:11:31.470707+00:00",
+          "generated_at": "2026-09-15T15:49:53.964668+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -10944,12 +10937,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "DEEP CRASH BOTTOM": 3,
+            "DEEP CRASH BOTTOM": 4,
             "EXTREME CRASH BOTTOM": 2,
             "ULTRA CRASH BOTTOM": 1
           },
           "current_signal_count": 1,
-          "historical_signal_count": 6
+          "historical_signal_count": 7
         },
         "trends": {
           "records": [],
@@ -10961,7 +10954,7 @@
       "sector": "Communication Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-09-08",
+      "signal_date": "2026-09-10",
       "signal_state": "DEEP CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
@@ -10997,24 +10990,24 @@
         {
           "accumulation": "NOT_DETECTED",
           "current": true,
-          "date": "2026-09-08",
+          "date": "2026-09-10",
           "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
             "raw_signal_color": "GREEN",
-            "relative_activity": 1.41,
+            "relative_activity": 1.57,
             "severity": "ELEVATED",
             "signal_state": "DEEP CRASH BOTTOM"
           },
           "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
-            "close": 2.399625062942505,
-            "date": "2026-09-08",
+            "close": 2.4140000343322754,
+            "date": "2026-09-10",
             "status": "EXACT"
           },
-          "relative_activity": 1.41,
+          "relative_activity": 1.57,
           "severity": "ELEVATED",
-          "signal_id": "BCG.L:2026-09-08",
+          "signal_id": "BCG.L:2026-09-10",
           "signal_type": "DEEP CRASH BOTTOM"
         }
       ],
@@ -11133,6 +11126,29 @@
           "severity": "ELEVATED",
           "signal_id": "BCG.L:2026-09-04",
           "signal_type": "DEEP CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "current": false,
+          "date": "2026-09-08",
+          "event_type": "CRASHDASH_SIGNAL",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
+            "relative_activity": 1.41,
+            "severity": "ELEVATED",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "marker_type": "CRASHDASH_SIGNAL",
+          "price_context": {
+            "close": 2.399625062942505,
+            "date": "2026-09-08",
+            "status": "EXACT"
+          },
+          "relative_activity": 1.41,
+          "severity": "ELEVATED",
+          "signal_id": "BCG.L:2026-09-08",
+          "signal_type": "DEEP CRASH BOTTOM"
         }
       ],
       "identity": {
@@ -11146,54 +11162,39 @@
         "sector": "Communication Services",
         "ticker": "BCG.L"
       },
-      "market_cap": 10020829.386777759,
+      "market_cap": 9929504.205009282,
       "market_tape": {
         "analysis": {
           "catalysts": [
             {
-              "confidence": "HIGH",
+              "confidence": "MEDIUM",
               "estimated_timing": "2026-09-10",
               "event": "Transaction in Own Shares",
-              "timing_basis": "rns-fd9c4846effaefe988e02604"
-            },
-            {
-              "confidence": "HIGH",
-              "estimated_timing": "UNKNOWN",
-              "event": "Directorate change",
-              "timing_basis": "rns-4552d3d46e031e83fa068302"
+              "timing_basis": "RNS announcement"
             }
           ],
           "expected": [],
           "investor_tone": {
             "bias": "MIXED",
-            "explanation": "Community post is bullish, but official RNS announcements are bearish."
+            "explanation": "Community post shows bullish optimism, while two RNS filings are bearish, leading to no clear consensus."
           },
           "market_tape": {
-            "bear_case": "The company announced a transaction in its own shares and a directorate change, both classified as bearish, indicating potential management or financial adjustments that could weigh on the stock.",
-            "confidence": 0.5,
-            "focus": "Recent RNS announcements",
-            "interpretation": "Official announcements are negative; community sentiment is limited and bullish but not supported by corporate facts.",
-            "linked_event": "Transaction in Own Shares",
-            "quality": "MEANINGFUL"
+            "bear_case": "The 2026\u201109\u201110 RNS reporting a transaction in own shares may signal liquidity use or management over\u2011valuation concerns, and an undisclosed directorate change could introduce governance uncertainty.",
+            "bull_case": "A share buyback could be interpreted as management confidence that the shares are undervalued, potentially supporting the price, but no further positive developments are disclosed.",
+            "confidence": 0.0,
+            "divergence": "Community bullish sentiment contrasts with bearish RNS filings.",
+            "focus": "Own share transaction and directorate change.",
+            "interpretation": "Deterministic signal indicates the price is in a stressed state (DEEP CRASH BOTTOM), but no directional inference can be drawn.",
+            "linked_event": "Transaction in Own Shares RNS (2026\u201109\u201110)",
+            "missed_angle": "The purpose of the share buyback and the implications of the directorate change are not clarified.",
+            "quality": "MIXED_SIGNAL",
+            "shift": "No major shift; sentiment remains split between bullish community remarks and bearish official announcements."
           },
-          "user_summary": "BCG.L issued two bearish RNS items: a share buyback and a directorate change. Community sentiment is bullish but minimal. The deterministic signal indicates the share price is in a stressed state, but no future direction can be inferred. Investors should monitor the impact of the buyback and management changes.",
-          "watch_for": [
-            {
-              "confidence": "HIGH",
-              "estimated_timing": "2026-09-10",
-              "event": "Transaction in Own Shares",
-              "timing_basis": "rns-fd9c4846effaefe988e02604"
-            },
-            {
-              "confidence": "HIGH",
-              "estimated_timing": "UNKNOWN",
-              "event": "Directorate change",
-              "timing_basis": "rns-4552d3d46e031e83fa068302"
-            }
-          ]
+          "user_summary": "BCG.L\u2019s share price is in a stressed state per the deterministic signal, yet official announcements suggest potential liquidity and governance concerns. A share buyback could be viewed positively as a confidence sign, but the lack of clarity on its purpose tempers enthusiasm. Investor sentiment is mixed, with a single bullish community post against two bearish RNS filings.",
+          "watch_for": []
         },
         "analysis_as_of_date": null,
-        "generated_at": "2026-09-14T21:11:31.470707+00:00",
+        "generated_at": "2026-09-15T15:49:53.964668+00:00",
         "model": "openai/gpt-oss-20b",
         "provider": "Groq",
         "status": "SUCCESS",
@@ -21710,7 +21711,15 @@
           "high": 2.4779999256134033,
           "low": 2.3499999046325684,
           "open": 2.3499999046325684,
-          "volume": 986045
+          "volume": 988627
+        },
+        {
+          "close": 2.3919999599456787,
+          "date": "2026-09-15",
+          "high": 2.4719998836517334,
+          "low": 2.3519999980926514,
+          "open": 2.378000020980835,
+          "volume": 396806
         }
       ],
       "provenance": {
@@ -22322,7 +22331,7 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 1.41,
+        "activity_multiple": 1.57,
         "legacy_signal_color": "GREEN",
         "social_comparison_status": "NO_DATA",
         "social_records": []
@@ -22342,7 +22351,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10020829.386777759,
+          "market_cap": 9929504.205009282,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -32859,7 +32868,15 @@
             "high": 2.4779999256134033,
             "low": 2.3499999046325684,
             "open": 2.3499999046325684,
-            "volume": 986045
+            "volume": 988627
+          },
+          {
+            "close": 2.3919999599456787,
+            "date": "2026-09-15",
+            "high": 2.4719998836517334,
+            "low": 2.3519999980926514,
+            "open": 2.378000020980835,
+            "volume": 396806
           }
         ],
         "provenance": {
@@ -32871,8 +32888,8 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 10020829.386777759,
-      "price_at_signal": 2.43,
+      "market_cap": 9929504.205009282,
+      "price_at_signal": 2.414,
       "profile": {
         "corporate_actions": {
           "events": [],
@@ -32885,7 +32902,7 @@
           "exchange": "LSE",
           "industry": "Internet Content & Information",
           "market": "MAIN",
-          "market_cap": 10020829.386777759,
+          "market_cap": 9929504.205009282,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Communication Services",
@@ -32893,60 +32910,45 @@
         },
         "latest_signal": {
           "accumulation_state": "NOT_DETECTED",
-          "relative_activity": 1.41,
+          "relative_activity": 1.57,
           "severity": "GREEN",
-          "signal_date": "2026-09-08",
-          "signal_id": "BCG.L:2026-09-08",
+          "signal_date": "2026-09-10",
+          "signal_id": "BCG.L:2026-09-10",
           "ticker": "BCG.L"
         },
-        "market_cap": 10020829.386777759,
+        "market_cap": 9929504.205009282,
         "market_tape": {
           "analysis": {
             "catalysts": [
               {
-                "confidence": "HIGH",
+                "confidence": "MEDIUM",
                 "estimated_timing": "2026-09-10",
                 "event": "Transaction in Own Shares",
-                "timing_basis": "rns-fd9c4846effaefe988e02604"
-              },
-              {
-                "confidence": "HIGH",
-                "estimated_timing": "UNKNOWN",
-                "event": "Directorate change",
-                "timing_basis": "rns-4552d3d46e031e83fa068302"
+                "timing_basis": "RNS announcement"
               }
             ],
             "expected": [],
             "investor_tone": {
               "bias": "MIXED",
-              "explanation": "Community post is bullish, but official RNS announcements are bearish."
+              "explanation": "Community post shows bullish optimism, while two RNS filings are bearish, leading to no clear consensus."
             },
             "market_tape": {
-              "bear_case": "The company announced a transaction in its own shares and a directorate change, both classified as bearish, indicating potential management or financial adjustments that could weigh on the stock.",
-              "confidence": 0.5,
-              "focus": "Recent RNS announcements",
-              "interpretation": "Official announcements are negative; community sentiment is limited and bullish but not supported by corporate facts.",
-              "linked_event": "Transaction in Own Shares",
-              "quality": "MEANINGFUL"
+              "bear_case": "The 2026\u201109\u201110 RNS reporting a transaction in own shares may signal liquidity use or management over\u2011valuation concerns, and an undisclosed directorate change could introduce governance uncertainty.",
+              "bull_case": "A share buyback could be interpreted as management confidence that the shares are undervalued, potentially supporting the price, but no further positive developments are disclosed.",
+              "confidence": 0.0,
+              "divergence": "Community bullish sentiment contrasts with bearish RNS filings.",
+              "focus": "Own share transaction and directorate change.",
+              "interpretation": "Deterministic signal indicates the price is in a stressed state (DEEP CRASH BOTTOM), but no directional inference can be drawn.",
+              "linked_event": "Transaction in Own Shares RNS (2026\u201109\u201110)",
+              "missed_angle": "The purpose of the share buyback and the implications of the directorate change are not clarified.",
+              "quality": "MIXED_SIGNAL",
+              "shift": "No major shift; sentiment remains split between bullish community remarks and bearish official announcements."
             },
-            "user_summary": "BCG.L issued two bearish RNS items: a share buyback and a directorate change. Community sentiment is bullish but minimal. The deterministic signal indicates the share price is in a stressed state, but no future direction can be inferred. Investors should monitor the impact of the buyback and management changes.",
-            "watch_for": [
-              {
-                "confidence": "HIGH",
-                "estimated_timing": "2026-09-10",
-                "event": "Transaction in Own Shares",
-                "timing_basis": "rns-fd9c4846effaefe988e02604"
-              },
-              {
-                "confidence": "HIGH",
-                "estimated_timing": "UNKNOWN",
-                "event": "Directorate change",
-                "timing_basis": "rns-4552d3d46e031e83fa068302"
-              }
-            ]
+            "user_summary": "BCG.L\u2019s share price is in a stressed state per the deterministic signal, yet official announcements suggest potential liquidity and governance concerns. A share buyback could be viewed positively as a confidence sign, but the lack of clarity on its purpose tempers enthusiasm. Investor sentiment is mixed, with a single bullish community post against two bearish RNS filings.",
+            "watch_for": []
           },
           "analysis_as_of_date": null,
-          "generated_at": "2026-09-14T21:11:31.470707+00:00",
+          "generated_at": "2026-09-15T15:49:53.964668+00:00",
           "model": "openai/gpt-oss-20b",
           "provider": "Groq",
           "status": "SUCCESS",
@@ -33262,12 +33264,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "DEEP CRASH BOTTOM": 3,
+            "DEEP CRASH BOTTOM": 4,
             "EXTREME CRASH BOTTOM": 2,
             "ULTRA CRASH BOTTOM": 1
           },
           "current_signal_count": 1,
-          "historical_signal_count": 6
+          "historical_signal_count": 7
         },
         "trends": {
           "records": [],
@@ -33280,7 +33282,7 @@
       "sector": "Communication Services",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-09-08",
+      "signal_date": "2026-09-10",
       "signal_state": "DEEP CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",

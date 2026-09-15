@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Oil & Gas Integrated",
           "market": "MAIN",
-          "market_cap": 989700.8493271768,
+          "market_cap": 1138155.9275672825,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Energy",
@@ -13564,8 +13564,16 @@
             "date": "2026-09-14",
             "high": 0.6700000166893005,
             "low": 0.6700000166893005,
-            "open": 0.6700000166893005,
-            "volume": 190462
+            "open": 0.6000000238418579,
+            "volume": 117617
+          },
+          {
+            "close": 0.6899999976158142,
+            "date": "2026-09-15",
+            "high": 1,
+            "low": 0.6899999976158142,
+            "open": 1,
+            "volume": 50889
           }
         ],
         "provenance": {
@@ -13577,8 +13585,8 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 989700.8493271768,
-      "price_at_signal": 0.77,
+      "market_cap": 1138155.9275672825,
+      "price_at_signal": 0.6,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -13601,7 +13609,7 @@
           "exchange": "LSE",
           "industry": "Oil & Gas Integrated",
           "market": "MAIN",
-          "market_cap": 989700.8493271768,
+          "market_cap": 1138155.9275672825,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Energy",
@@ -13609,13 +13617,13 @@
         },
         "latest_signal": {
           "accumulation_state": "NOT_DETECTED",
-          "relative_activity": 2.85,
-          "severity": "YELLOW",
-          "signal_date": "2026-09-09",
-          "signal_id": "NOG.L:2026-09-09",
+          "relative_activity": 3.81,
+          "severity": "GREEN",
+          "signal_date": "2026-09-10",
+          "signal_id": "NOG.L:2026-09-10",
           "ticker": "NOG.L"
         },
-        "market_cap": 989700.8493271768,
+        "market_cap": 1138155.9275672825,
         "market_tape": {
           "analysis": {
             "catalysts": [
@@ -15110,12 +15118,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 14,
-            "DEEP CRASH BOTTOM": 7,
+            "CRASH ZONE BOTTOM": 13,
+            "DEEP CRASH BOTTOM": 9,
             "EXTREME CRASH BOTTOM": 3
           },
           "current_signal_count": 1,
-          "historical_signal_count": 24
+          "historical_signal_count": 25
         },
         "trends": {
           "records": [],
@@ -15127,14 +15135,14 @@
       "sector": "Energy",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-09-09",
-      "signal_state": "CRASH ZONE BOTTOM",
+      "signal_date": "2026-09-10",
+      "signal_state": "DEEP CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "ticker": "NOG.L",
-      "watch_severity": "CLOSE WATCH",
+      "watch_severity": "ELEVATED",
       "why_crashdash_noticed": [
-        "CRASH ZONE BOTTOM"
+        "DEEP CRASH BOTTOM"
       ]
     },
     "instrument_detail": {
@@ -15173,25 +15181,25 @@
         {
           "accumulation": "NOT_DETECTED",
           "current": true,
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
-            "raw_signal_color": "YELLOW",
-            "relative_activity": 2.85,
-            "severity": "CLOSE WATCH",
-            "signal_state": "CRASH ZONE BOTTOM"
+            "raw_signal_color": "GREEN",
+            "relative_activity": 3.81,
+            "severity": "ELEVATED",
+            "signal_state": "DEEP CRASH BOTTOM"
           },
           "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
-            "close": 0.6499999761581421,
-            "date": "2026-09-09",
+            "close": 0.6000000238418579,
+            "date": "2026-09-10",
             "status": "EXACT"
           },
-          "relative_activity": 2.85,
-          "severity": "CLOSE WATCH",
-          "signal_id": "NOG.L:2026-09-09",
-          "signal_type": "CRASH ZONE BOTTOM"
+          "relative_activity": 3.81,
+          "severity": "ELEVATED",
+          "signal_id": "NOG.L:2026-09-10",
+          "signal_type": "DEEP CRASH BOTTOM"
         }
       ],
       "historical_alerts": [
@@ -15723,6 +15731,29 @@
           "severity": "CLOSE WATCH",
           "signal_id": "NOG.L:2026-09-03",
           "signal_type": "CRASH ZONE BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "current": false,
+          "date": "2026-09-09",
+          "event_type": "CRASHDASH_SIGNAL",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "GREEN",
+            "relative_activity": 2.02,
+            "severity": "ELEVATED",
+            "signal_state": "DEEP CRASH BOTTOM"
+          },
+          "marker_type": "CRASHDASH_SIGNAL",
+          "price_context": {
+            "close": 0.6499999761581421,
+            "date": "2026-09-09",
+            "status": "EXACT"
+          },
+          "relative_activity": 2.02,
+          "severity": "ELEVATED",
+          "signal_id": "NOG.L:2026-09-09",
+          "signal_type": "DEEP CRASH BOTTOM"
         }
       ],
       "identity": {
@@ -15736,7 +15767,7 @@
         "sector": "Energy",
         "ticker": "NOG.L"
       },
-      "market_cap": 989700.8493271768,
+      "market_cap": 1138155.9275672825,
       "market_tape": {
         "analysis": {
           "catalysts": [
@@ -29319,8 +29350,16 @@
           "date": "2026-09-14",
           "high": 0.6700000166893005,
           "low": 0.6700000166893005,
-          "open": 0.6700000166893005,
-          "volume": 190462
+          "open": 0.6000000238418579,
+          "volume": 117617
+        },
+        {
+          "close": 0.6899999976158142,
+          "date": "2026-09-15",
+          "high": 1,
+          "low": 0.6899999976158142,
+          "open": 1,
+          "volume": 50889
         }
       ],
       "provenance": {
@@ -31100,8 +31139,8 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 2.85,
-        "legacy_signal_color": "YELLOW",
+        "activity_multiple": 3.81,
+        "legacy_signal_color": "GREEN",
         "social_comparison_status": "NO_DATA",
         "social_records": []
       },
@@ -31120,7 +31159,7 @@
           "exchange": "LSE",
           "industry": "Oil & Gas Integrated",
           "market": "MAIN",
-          "market_cap": 989700.8493271768,
+          "market_cap": 1138155.9275672825,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Energy",
@@ -44660,8 +44699,16 @@
             "date": "2026-09-14",
             "high": 0.6700000166893005,
             "low": 0.6700000166893005,
-            "open": 0.6700000166893005,
-            "volume": 190462
+            "open": 0.6000000238418579,
+            "volume": 117617
+          },
+          {
+            "close": 0.6899999976158142,
+            "date": "2026-09-15",
+            "high": 1,
+            "low": 0.6899999976158142,
+            "open": 1,
+            "volume": 50889
           }
         ],
         "provenance": {
@@ -44673,8 +44720,8 @@
         "source_status": "AVAILABLE"
       },
       "market": "MAIN",
-      "market_cap": 989700.8493271768,
-      "price_at_signal": 0.77,
+      "market_cap": 1138155.9275672825,
+      "price_at_signal": 0.6,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -44697,7 +44744,7 @@
           "exchange": "LSE",
           "industry": "Oil & Gas Integrated",
           "market": "MAIN",
-          "market_cap": 989700.8493271768,
+          "market_cap": 1138155.9275672825,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Energy",
@@ -44705,13 +44752,13 @@
         },
         "latest_signal": {
           "accumulation_state": "NOT_DETECTED",
-          "relative_activity": 2.85,
-          "severity": "YELLOW",
-          "signal_date": "2026-09-09",
-          "signal_id": "NOG.L:2026-09-09",
+          "relative_activity": 3.81,
+          "severity": "GREEN",
+          "signal_date": "2026-09-10",
+          "signal_id": "NOG.L:2026-09-10",
           "ticker": "NOG.L"
         },
-        "market_cap": 989700.8493271768,
+        "market_cap": 1138155.9275672825,
         "market_tape": {
           "analysis": {
             "catalysts": [
@@ -46206,12 +46253,12 @@
         },
         "signal_statistics": {
           "by_signal_type": {
-            "CRASH ZONE BOTTOM": 14,
-            "DEEP CRASH BOTTOM": 7,
+            "CRASH ZONE BOTTOM": 13,
+            "DEEP CRASH BOTTOM": 9,
             "EXTREME CRASH BOTTOM": 3
           },
           "current_signal_count": 1,
-          "historical_signal_count": 24
+          "historical_signal_count": 25
         },
         "trends": {
           "records": [],
@@ -46224,16 +46271,16 @@
       "sector": "Energy",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-09-09",
-      "signal_state": "CRASH ZONE BOTTOM",
+      "signal_date": "2026-09-10",
+      "signal_state": "DEEP CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "source_quality": "READY",
       "temporal_class": "SIGNAL_TIME",
       "ticker": "NOG.L",
-      "watch_severity": "CLOSE WATCH",
+      "watch_severity": "ELEVATED",
       "why_crashdash_noticed": [
-        "CRASH ZONE BOTTOM"
+        "DEEP CRASH BOTTOM"
       ]
     }
   },

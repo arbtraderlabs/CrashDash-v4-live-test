@@ -24,7 +24,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 3630384.3126319367,
+          "market_cap": 3505198.8557338873,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -13560,12 +13560,20 @@
             "volume": 177437566
           },
           {
-            "close": 0.007249999791383743,
+            "close": 0.007000000216066837,
             "date": "2026-09-14",
-            "high": 0.008500000461935997,
+            "high": 0.008999999612569809,
+            "low": 0.007000000216066837,
+            "open": 0.00800000037997961,
+            "volume": 1534253288
+          },
+          {
+            "close": 0.007000000216066837,
+            "date": "2026-09-15",
+            "high": 0.007499999832361937,
             "low": 0.006500000134110451,
-            "open": 0.007000000216066837,
-            "volume": 1534253291
+            "open": 0.007300000172108412,
+            "volume": 153078547
           }
         ],
         "provenance": {
@@ -13577,8 +13585,8 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 3630384.3126319367,
-      "price_at_signal": 0.0078,
+      "market_cap": 3505198.8557338873,
+      "price_at_signal": 0.007,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -13601,7 +13609,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 3630384.3126319367,
+          "market_cap": 3505198.8557338873,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -13609,13 +13617,13 @@
         },
         "latest_signal": {
           "accumulation_state": "NOT_DETECTED",
-          "relative_activity": 3.15,
-          "severity": "RED",
-          "signal_date": "2026-09-09",
-          "signal_id": "PREM.L:2026-09-09",
+          "relative_activity": 3.95,
+          "severity": "ORANGE",
+          "signal_date": "2026-09-14",
+          "signal_id": "PREM.L:2026-09-14",
           "ticker": "PREM.L"
         },
-        "market_cap": 3630384.3126319367,
+        "market_cap": 3505198.8557338873,
         "market_tape": {
           "analysis": {
             "catalysts": [],
@@ -14041,11 +14049,11 @@
             "CRASH ZONE BOTTOM": 27,
             "DEEP CRASH BOTTOM": 30,
             "ENHANCED CRASH CRASH-ACCUM COMBO": 2,
-            "EXTREME CRASH BOTTOM": 16,
-            "ULTRA CRASH BOTTOM": 3
+            "EXTREME CRASH BOTTOM": 18,
+            "ULTRA CRASH BOTTOM": 2
           },
           "current_signal_count": 1,
-          "historical_signal_count": 78
+          "historical_signal_count": 79
         },
         "trends": {
           "records": [],
@@ -14057,14 +14065,14 @@
       "sector": "Basic Materials",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-09-09",
-      "signal_state": "ULTRA CRASH BOTTOM",
+      "signal_date": "2026-09-14",
+      "signal_state": "EXTREME CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "ticker": "PREM.L",
-      "watch_severity": "EXTREME CAUTION",
+      "watch_severity": "HIGH",
       "why_crashdash_noticed": [
-        "ULTRA CRASH BOTTOM"
+        "EXTREME CRASH BOTTOM"
       ]
     },
     "instrument_detail": {
@@ -14103,25 +14111,25 @@
         {
           "accumulation": "NOT_DETECTED",
           "current": true,
-          "date": "2026-09-09",
+          "date": "2026-09-14",
           "event_type": "CRASHDASH_SIGNAL",
           "evidence": {
             "accumulation": "NOT_DETECTED",
-            "raw_signal_color": "RED",
-            "relative_activity": 3.15,
-            "severity": "EXTREME CAUTION",
-            "signal_state": "ULTRA CRASH BOTTOM"
+            "raw_signal_color": "ORANGE",
+            "relative_activity": 3.95,
+            "severity": "HIGH",
+            "signal_state": "EXTREME CRASH BOTTOM"
           },
           "marker_type": "CRASHDASH_SIGNAL",
           "price_context": {
-            "close": 0.00800000037997961,
-            "date": "2026-09-09",
+            "close": 0.007000000216066837,
+            "date": "2026-09-14",
             "status": "EXACT"
           },
-          "relative_activity": 3.15,
-          "severity": "EXTREME CAUTION",
-          "signal_id": "PREM.L:2026-09-09",
-          "signal_type": "ULTRA CRASH BOTTOM"
+          "relative_activity": 3.95,
+          "severity": "HIGH",
+          "signal_id": "PREM.L:2026-09-14",
+          "signal_type": "EXTREME CRASH BOTTOM"
         }
       ],
       "historical_alerts": [
@@ -15895,6 +15903,29 @@
           "severity": "HIGH",
           "signal_id": "PREM.L:2026-09-07",
           "signal_type": "EXTREME CRASH BOTTOM"
+        },
+        {
+          "accumulation": "NOT_DETECTED",
+          "current": false,
+          "date": "2026-09-09",
+          "event_type": "CRASHDASH_SIGNAL",
+          "evidence": {
+            "accumulation": "NOT_DETECTED",
+            "raw_signal_color": "ORANGE",
+            "relative_activity": 3.21,
+            "severity": "HIGH",
+            "signal_state": "EXTREME CRASH BOTTOM"
+          },
+          "marker_type": "CRASHDASH_SIGNAL",
+          "price_context": {
+            "close": 0.00800000037997961,
+            "date": "2026-09-09",
+            "status": "EXACT"
+          },
+          "relative_activity": 3.21,
+          "severity": "HIGH",
+          "signal_id": "PREM.L:2026-09-09",
+          "signal_type": "EXTREME CRASH BOTTOM"
         }
       ],
       "identity": {
@@ -15908,7 +15939,7 @@
         "sector": "Basic Materials",
         "ticker": "PREM.L"
       },
-      "market_cap": 3630384.3126319367,
+      "market_cap": 3505198.8557338873,
       "market_tape": {
         "analysis": {
           "catalysts": [],
@@ -29467,12 +29498,20 @@
           "volume": 177437566
         },
         {
-          "close": 0.007249999791383743,
+          "close": 0.007000000216066837,
           "date": "2026-09-14",
-          "high": 0.008500000461935997,
+          "high": 0.008999999612569809,
+          "low": 0.007000000216066837,
+          "open": 0.00800000037997961,
+          "volume": 1534253288
+        },
+        {
+          "close": 0.007000000216066837,
+          "date": "2026-09-15",
+          "high": 0.007499999832361937,
           "low": 0.006500000134110451,
-          "open": 0.007000000216066837,
-          "volume": 1534253291
+          "open": 0.007300000172108412,
+          "volume": 153078547
         }
       ],
       "provenance": {
@@ -30252,8 +30291,8 @@
       "data_quality": "READY",
       "evidence_refs": [],
       "exact_evidence": {
-        "activity_multiple": 3.15,
-        "legacy_signal_color": "RED",
+        "activity_multiple": 3.95,
+        "legacy_signal_color": "ORANGE",
         "social_comparison_status": "NO_DATA",
         "social_records": []
       },
@@ -30272,7 +30311,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 3630384.3126319367,
+          "market_cap": 3505198.8557338873,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -43808,12 +43847,20 @@
             "volume": 177437566
           },
           {
-            "close": 0.007249999791383743,
+            "close": 0.007000000216066837,
             "date": "2026-09-14",
-            "high": 0.008500000461935997,
+            "high": 0.008999999612569809,
+            "low": 0.007000000216066837,
+            "open": 0.00800000037997961,
+            "volume": 1534253288
+          },
+          {
+            "close": 0.007000000216066837,
+            "date": "2026-09-15",
+            "high": 0.007499999832361937,
             "low": 0.006500000134110451,
-            "open": 0.007000000216066837,
-            "volume": 1534253291
+            "open": 0.007300000172108412,
+            "volume": 153078547
           }
         ],
         "provenance": {
@@ -43825,8 +43872,8 @@
         "source_status": "AVAILABLE"
       },
       "market": "AIM",
-      "market_cap": 3630384.3126319367,
-      "price_at_signal": 0.0078,
+      "market_cap": 3505198.8557338873,
+      "price_at_signal": 0.007,
       "profile": {
         "corporate_actions": {
           "events": [
@@ -43849,7 +43896,7 @@
           "exchange": "LSE",
           "industry": "Other Industrial Metals & Mining",
           "market": "AIM",
-          "market_cap": 3630384.3126319367,
+          "market_cap": 3505198.8557338873,
           "quote_unit": "GBX",
           "quote_unit_status": "CERTIFIED_LOCAL_SOURCE",
           "sector": "Basic Materials",
@@ -43857,13 +43904,13 @@
         },
         "latest_signal": {
           "accumulation_state": "NOT_DETECTED",
-          "relative_activity": 3.15,
-          "severity": "RED",
-          "signal_date": "2026-09-09",
-          "signal_id": "PREM.L:2026-09-09",
+          "relative_activity": 3.95,
+          "severity": "ORANGE",
+          "signal_date": "2026-09-14",
+          "signal_id": "PREM.L:2026-09-14",
           "ticker": "PREM.L"
         },
-        "market_cap": 3630384.3126319367,
+        "market_cap": 3505198.8557338873,
         "market_tape": {
           "analysis": {
             "catalysts": [],
@@ -44289,11 +44336,11 @@
             "CRASH ZONE BOTTOM": 27,
             "DEEP CRASH BOTTOM": 30,
             "ENHANCED CRASH CRASH-ACCUM COMBO": 2,
-            "EXTREME CRASH BOTTOM": 16,
-            "ULTRA CRASH BOTTOM": 3
+            "EXTREME CRASH BOTTOM": 18,
+            "ULTRA CRASH BOTTOM": 2
           },
           "current_signal_count": 1,
-          "historical_signal_count": 78
+          "historical_signal_count": 79
         },
         "trends": {
           "records": [],
@@ -44306,16 +44353,16 @@
       "sector": "Basic Materials",
       "sharechat_records_emitted": 0,
       "sharechat_total_available": 0,
-      "signal_date": "2026-09-09",
-      "signal_state": "ULTRA CRASH BOTTOM",
+      "signal_date": "2026-09-14",
+      "signal_state": "EXTREME CRASH BOTTOM",
       "social_records": [],
       "social_status": "NO_DATA",
       "source_quality": "READY",
       "temporal_class": "SIGNAL_TIME",
       "ticker": "PREM.L",
-      "watch_severity": "EXTREME CAUTION",
+      "watch_severity": "HIGH",
       "why_crashdash_noticed": [
-        "ULTRA CRASH BOTTOM"
+        "EXTREME CRASH BOTTOM"
       ]
     }
   },
